@@ -617,29 +617,29 @@
 617:_:rem:::665:::g100:::Directed Studies:::rem665:::rem665g100:::rem 665 g100 directed studies
 618:_:rem:::665:::g200:::Directed Studies:::rem665:::rem665g200:::rem 665 g200 directed studies
 619:_:ensc:::220:::d100:::Electric Circuits I:::ensc220:::ensc220d100:::ensc 220 d100 electric circuits i
-620:_:ensc:::225:::d100:::Microelectronics I:::ensc225:::ensc225d100:::ensc 225 d100 microelectronics i
-621:_:ensc:::225:::la01:::Microelectronics I:::ensc225:::ensc225la01:::ensc 225 la01 microelectronics i
-622:_:educ:::482:::d100:::Designs for Learning: Information Technology:::educ482:::educ482d100:::educ 482 d100 designs for learning: information technology
-623:_:bpk:::898:::g100:::MSc Thesis:::bpk898:::bpk898g100:::bpk 898 g100 msc thesis
-624:_:sa:::203:::c100:::Violence in War and Peace (SA):::sa203:::sa203c100:::sa 203 c100 violence in war and peace (sa)
-625:_:educ:::330:::e100:::Movement Language Elements for Dance in Education:::educ330:::educ330e100:::educ 330 e100 movement language elements for dance in education
-626:_:sa:::218:::d100:::Illness, Culture and Society (A):::sa218:::sa218d100:::sa 218 d100 illness, culture and society (a)
-627:_:educ:::322:::d100:::The Social Lives of School Children:::educ322:::educ322d100:::educ 322 d100 the social lives of school children
-628:_:math:::880:::g100:::MSc Project:::math880:::math880g100:::math 880 g100 msc project
-629:_:math:::880:::g200:::MSc Project:::math880:::math880g200:::math 880 g200 msc project
-630:_:math:::880:::g300:::MSc Project:::math880:::math880g300:::math 880 g300 msc project
-631:_:educ:::323:::e100:::Introduction to Counselling Theories:::educ323:::educ323e100:::educ 323 e100 introduction to counselling theories
-632:_:ensc:::195:::d100:::Industrial Internship I:::ensc195:::ensc195d100:::ensc 195 d100 industrial internship i
-633:_:ensc:::195:::d200:::Industrial Internship I:::ensc195:::ensc195d200:::ensc 195 d200 industrial internship i
-634:_:ensc:::195:::i100:::Industrial Internship I:::ensc195:::ensc195i100:::ensc 195 i100 industrial internship i
-635:_:stat:::300w:::d100:::Statistics Communication:::stat300w:::stat300wd100:::stat 300w d100 statistics communication
-636:_:educ:::326:::c100:::Classroom Management and Discipline:::educ326:::educ326c100:::educ 326 c100 classroom management and discipline
-637:_:educ:::326:::c200:::Classroom Management and Discipline:::educ326:::educ326c200:::educ 326 c200 classroom management and discipline
-638:_:educ:::326:::d100:::Classroom Management and Discipline:::educ326:::educ326d100:::educ 326 d100 classroom management and discipline
-639:_:educ:::326:::d200:::Classroom Management and Discipline:::educ326:::educ326d200:::educ 326 d200 classroom management and discipline
-640:_:ensc:::194:::d100:::Optional Job Practicum:::ensc194:::ensc194d100:::ensc 194 d100 optional job practicum
-641:_:educ:::328:::e100:::Career Education and Career Counselling:::educ328:::educ328e100:::educ 328 e100 career education and career counselling
-642:_:geog:::162:::c100:::Canada:::geog162:::geog162c100:::geog 162 c100 canada
+620:_:geog:::221:::c100:::Economic Geography:::geog221:::geog221c100:::geog 221 c100 economic geography
+621:_:ensc:::225:::d100:::Microelectronics I:::ensc225:::ensc225d100:::ensc 225 d100 microelectronics i
+622:_:ensc:::225:::la01:::Microelectronics I:::ensc225:::ensc225la01:::ensc 225 la01 microelectronics i
+623:_:educ:::482:::d100:::Designs for Learning: Information Technology:::educ482:::educ482d100:::educ 482 d100 designs for learning: information technology
+624:_:bpk:::898:::g100:::MSc Thesis:::bpk898:::bpk898g100:::bpk 898 g100 msc thesis
+625:_:sa:::203:::c100:::Violence in War and Peace (SA):::sa203:::sa203c100:::sa 203 c100 violence in war and peace (sa)
+626:_:educ:::330:::e100:::Movement Language Elements for Dance in Education:::educ330:::educ330e100:::educ 330 e100 movement language elements for dance in education
+627:_:sa:::218:::d100:::Illness, Culture and Society (A):::sa218:::sa218d100:::sa 218 d100 illness, culture and society (a)
+628:_:educ:::322:::d100:::The Social Lives of School Children:::educ322:::educ322d100:::educ 322 d100 the social lives of school children
+629:_:math:::880:::g100:::MSc Project:::math880:::math880g100:::math 880 g100 msc project
+630:_:math:::880:::g200:::MSc Project:::math880:::math880g200:::math 880 g200 msc project
+631:_:math:::880:::g300:::MSc Project:::math880:::math880g300:::math 880 g300 msc project
+632:_:educ:::323:::e100:::Introduction to Counselling Theories:::educ323:::educ323e100:::educ 323 e100 introduction to counselling theories
+633:_:ensc:::195:::d100:::Industrial Internship I:::ensc195:::ensc195d100:::ensc 195 d100 industrial internship i
+634:_:ensc:::195:::d200:::Industrial Internship I:::ensc195:::ensc195d200:::ensc 195 d200 industrial internship i
+635:_:ensc:::195:::i100:::Industrial Internship I:::ensc195:::ensc195i100:::ensc 195 i100 industrial internship i
+636:_:stat:::300w:::d100:::Statistics Communication:::stat300w:::stat300wd100:::stat 300w d100 statistics communication
+637:_:educ:::326:::c100:::Classroom Management and Discipline:::educ326:::educ326c100:::educ 326 c100 classroom management and discipline
+638:_:educ:::326:::c200:::Classroom Management and Discipline:::educ326:::educ326c200:::educ 326 c200 classroom management and discipline
+639:_:educ:::326:::d100:::Classroom Management and Discipline:::educ326:::educ326d100:::educ 326 d100 classroom management and discipline
+640:_:educ:::326:::d200:::Classroom Management and Discipline:::educ326:::educ326d200:::educ 326 d200 classroom management and discipline
+641:_:ensc:::194:::d100:::Optional Job Practicum:::ensc194:::ensc194d100:::ensc 194 d100 optional job practicum
+642:_:educ:::328:::e100:::Career Education and Career Counselling:::educ328:::educ328e100:::educ 328 e100 career education and career counselling
 643:_:psyc:::882:::g100:::Neuropsychology Practicum:::psyc882:::psyc882g100:::psyc 882 g100 neuropsychology practicum
 644:_:ensc:::196:::d100:::Special Internship I:::ensc196:::ensc196d100:::ensc 196 d100 special internship i
 645:_:ensc:::196:::d200:::Special Internship I:::ensc196:::ensc196d200:::ensc 196 d200 special internship i
