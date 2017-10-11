@@ -3223,160 +3223,160 @@
 3223:_:chem:::459:::d201:::Special Topics in Organic Chemistry:::chem459:::chem459d201:::chem 459 d201 special topics in organic chemistry
 3224:_:bus:::321:::d100:::Financial Accounting: Equities:::bus321:::bus321d100:::bus 321 d100 financial accounting: equities
 3225:_:bus:::321:::e100:::Financial Accounting: Equities:::bus321:::bus321e100:::bus 321 e100 financial accounting: equities
-3226:_:bus:::320:::d100:::Financial Accounting:  Assets:::bus320:::bus320d100:::bus 320 d100 financial accounting:  assets
-3227:_:bus:::320:::e100:::Financial Accounting:  Assets:::bus320:::bus320e100:::bus 320 e100 financial accounting:  assets
-3228:_:gero:::411:::d100:::Special Topics in Gerontology II:::gero411:::gero411d100:::gero 411 d100 special topics in gerontology ii
-3229:_:bus:::316:::d100:::Derivative Securities:::bus316:::bus316d100:::bus 316 d100 derivative securities
-3230:_:bus:::316:::d200:::Derivative Securities:::bus316:::bus316d200:::bus 316 d200 derivative securities
-3231:_:bus:::316:::e100:::Derivative Securities:::bus316:::bus316e100:::bus 316 e100 derivative securities
-3232:_:asc:::401:::d100:::Directed Studies:::asc401:::asc401d100:::asc 401 d100 directed studies
-3233:_:math:::190:::c100:::Principles of Mathematics for Teachers:::math190:::math190c100:::math 190 c100 principles of mathematics for teachers
-3234:_:math:::190:::d100:::Principles of Mathematics for Teachers:::math190:::math190d100:::math 190 d100 principles of mathematics for teachers
-3235:_:math:::190:::op01:::Principles of Mathematics for Teachers:::math190:::math190op01:::math 190 op01 principles of mathematics for teachers
-3236:_:cmpt:::489:::d100:::Special Topics in Programming Language:::cmpt489:::cmpt489d100:::cmpt 489 d100 special topics in programming language
-3237:_:bus:::315:::d200:::Investments:::bus315:::bus315d200:::bus 315 d200 investments
-3238:_:bus:::315:::e100:::Investments:::bus315:::bus315e100:::bus 315 e100 investments
-3239:_:cmns:::240:::e100:::The Political Economy of Communication:::cmns240:::cmns240e100:::cmns 240 e100 the political economy of communication
-3240:_:cmns:::240:::e101:::The Political Economy of Communication:::cmns240:::cmns240e101:::cmns 240 e101 the political economy of communication
-3241:_:cmns:::240:::e102:::The Political Economy of Communication:::cmns240:::cmns240e102:::cmns 240 e102 the political economy of communication
-3242:_:cmns:::240:::e103:::The Political Economy of Communication:::cmns240:::cmns240e103:::cmns 240 e103 the political economy of communication
-3243:_:cmns:::240:::e104:::The Political Economy of Communication:::cmns240:::cmns240e104:::cmns 240 e104 the political economy of communication
-3244:_:cmns:::240:::e105:::The Political Economy of Communication:::cmns240:::cmns240e105:::cmns 240 e105 the political economy of communication
-3245:_:cmns:::240:::e106:::The Political Economy of Communication:::cmns240:::cmns240e106:::cmns 240 e106 the political economy of communication
-3246:_:mbb:::861:::g100:::Biomolecular Structure and Function Colloquium:::mbb861:::mbb861g100:::mbb 861 g100 biomolecular structure and function colloquium
-3247:_:educ:::339:::d100:::Practicum 1:::educ339:::educ339d100:::educ 339 d100 practicum 1
-3248:_:educ:::339:::d200:::Practicum 1:::educ339:::educ339d200:::educ 339 d200 practicum 1
-3249:_:educ:::339:::i100:::Practicum 1:::educ339:::educ339i100:::educ 339 i100 practicum 1
-3250:_:bus:::303:::d100:::Business, Society and Ethics:::bus303:::bus303d100:::bus 303 d100 business, society and ethics
-3251:_:bus:::303:::d200:::Business, Society and Ethics:::bus303:::bus303d200:::bus 303 d200 business, society and ethics
-3252:_:bus:::303:::d300:::Business, Society and Ethics:::bus303:::bus303d300:::bus 303 d300 business, society and ethics
-3253:_:bus:::303:::d400:::Business, Society and Ethics:::bus303:::bus303d400:::bus 303 d400 business, society and ethics
-3254:_:bus:::303:::d500:::Business, Society and Ethics:::bus303:::bus303d500:::bus 303 d500 business, society and ethics
-3255:_:bus:::303:::e100:::Business, Society and Ethics:::bus303:::bus303e100:::bus 303 e100 business, society and ethics
-3256:_:mbb:::741:::g100:::Bioinformatics:::mbb741:::mbb741g100:::mbb 741 g100 bioinformatics
-3257:_:ca:::289:::d100:::Selected Topics in the Fine and Performing Arts:::ca289:::ca289d100:::ca 289 d100 selected topics in the fine and performing arts
-3258:_:bus:::312:::d100:::Introduction to Finance:::bus312:::bus312d100:::bus 312 d100 introduction to finance
-3259:_:bus:::312:::e100:::Introduction to Finance:::bus312:::bus312e100:::bus 312 e100 introduction to finance
-3260:_:crim:::432:::c100:::Gender in the Courts and the Legal Profession:::crim432:::crim432c100:::crim 432 c100 gender in the courts and the legal profession
-3261:_:crim:::432:::d100:::Gender in the Courts and the Legal Profession:::crim432:::crim432d100:::crim 432 d100 gender in the courts and the legal profession
-3262:_:bus:::493:::d100:::Selected Topics in Business Administration:::bus493:::bus493d100:::bus 493 d100 selected topics in business administration
-3263:_:math:::252:::d100:::Vector Calculus:::math252:::math252d100:::math 252 d100 vector calculus
-3264:_:math:::252:::d101:::Vector Calculus:::math252:::math252d101:::math 252 d101 vector calculus
-3265:_:math:::252:::d102:::Vector Calculus:::math252:::math252d102:::math 252 d102 vector calculus
-3266:_:mbb:::738:::g100:::Human Molecular Genetics:::mbb738:::mbb738g100:::mbb 738 g100 human molecular genetics
-3267:_:bus:::272:::d100:::Behavior in Organizations:::bus272:::bus272d100:::bus 272 d100 behavior in organizations
-3268:_:bus:::272:::d101:::Behavior in Organizations:::bus272:::bus272d101:::bus 272 d101 behavior in organizations
-3269:_:bus:::272:::d102:::Behavior in Organizations:::bus272:::bus272d102:::bus 272 d102 behavior in organizations
-3270:_:bus:::272:::d103:::Behavior in Organizations:::bus272:::bus272d103:::bus 272 d103 behavior in organizations
-3271:_:bus:::272:::d104:::Behavior in Organizations:::bus272:::bus272d104:::bus 272 d104 behavior in organizations
-3272:_:bus:::272:::d105:::Behavior in Organizations:::bus272:::bus272d105:::bus 272 d105 behavior in organizations
-3273:_:bus:::272:::d200:::Behavior in Organizations:::bus272:::bus272d200:::bus 272 d200 behavior in organizations
-3274:_:bus:::272:::d201:::Behavior in Organizations:::bus272:::bus272d201:::bus 272 d201 behavior in organizations
-3275:_:bus:::272:::d202:::Behavior in Organizations:::bus272:::bus272d202:::bus 272 d202 behavior in organizations
-3276:_:bus:::272:::d203:::Behavior in Organizations:::bus272:::bus272d203:::bus 272 d203 behavior in organizations
-3277:_:bus:::272:::d204:::Behavior in Organizations:::bus272:::bus272d204:::bus 272 d204 behavior in organizations
-3278:_:bus:::272:::d300:::Behavior in Organizations:::bus272:::bus272d300:::bus 272 d300 behavior in organizations
-3279:_:bus:::272:::d301:::Behavior in Organizations:::bus272:::bus272d301:::bus 272 d301 behavior in organizations
-3280:_:bus:::272:::d302:::Behavior in Organizations:::bus272:::bus272d302:::bus 272 d302 behavior in organizations
-3281:_:bus:::272:::d303:::Behavior in Organizations:::bus272:::bus272d303:::bus 272 d303 behavior in organizations
-3282:_:bus:::272:::d304:::Behavior in Organizations:::bus272:::bus272d304:::bus 272 d304 behavior in organizations
-3283:_:bus:::272:::d305:::Behavior in Organizations:::bus272:::bus272d305:::bus 272 d305 behavior in organizations
-3284:_:bus:::272:::e100:::Behavior in Organizations:::bus272:::bus272e100:::bus 272 e100 behavior in organizations
-3285:_:bus:::272:::e101:::Behavior in Organizations:::bus272:::bus272e101:::bus 272 e101 behavior in organizations
-3286:_:bus:::272:::e102:::Behavior in Organizations:::bus272:::bus272e102:::bus 272 e102 behavior in organizations
-3287:_:bus:::272:::e103:::Behavior in Organizations:::bus272:::bus272e103:::bus 272 e103 behavior in organizations
-3288:_:bus:::272:::e104:::Behavior in Organizations:::bus272:::bus272e104:::bus 272 e104 behavior in organizations
-3289:_:bus:::272:::e105:::Behavior in Organizations:::bus272:::bus272e105:::bus 272 e105 behavior in organizations
-3290:_:cmns:::258:::d100:::History of Sound in Media:::cmns258:::cmns258d100:::cmns 258 d100 history of sound in media
-3291:_:cmns:::258:::d101:::History of Sound in Media:::cmns258:::cmns258d101:::cmns 258 d101 history of sound in media
-3292:_:cmns:::258:::d102:::History of Sound in Media:::cmns258:::cmns258d102:::cmns 258 d102 history of sound in media
-3293:_:chem:::869:::g100:::Special Topics in Physical Chemistry:::chem869:::chem869g100:::chem 869 g100 special topics in physical chemistry
-3294:_:chem:::869:::g101:::Special Topics in Physical Chemistry:::chem869:::chem869g101:::chem 869 g101 special topics in physical chemistry
-3295:_:bus:::237:::d100:::Introduction to Business Technology Management:::bus237:::bus237d100:::bus 237 d100 introduction to business technology management
-3296:_:bus:::237:::d101:::Introduction to Business Technology Management:::bus237:::bus237d101:::bus 237 d101 introduction to business technology management
-3297:_:bus:::237:::d102:::Introduction to Business Technology Management:::bus237:::bus237d102:::bus 237 d102 introduction to business technology management
-3298:_:bus:::237:::d103:::Introduction to Business Technology Management:::bus237:::bus237d103:::bus 237 d103 introduction to business technology management
-3299:_:bus:::237:::d104:::Introduction to Business Technology Management:::bus237:::bus237d104:::bus 237 d104 introduction to business technology management
-3300:_:bus:::237:::d105:::Introduction to Business Technology Management:::bus237:::bus237d105:::bus 237 d105 introduction to business technology management
-3301:_:bus:::237:::d106:::Introduction to Business Technology Management:::bus237:::bus237d106:::bus 237 d106 introduction to business technology management
-3302:_:bus:::237:::d107:::Introduction to Business Technology Management:::bus237:::bus237d107:::bus 237 d107 introduction to business technology management
-3303:_:bus:::237:::d108:::Introduction to Business Technology Management:::bus237:::bus237d108:::bus 237 d108 introduction to business technology management
-3304:_:bus:::237:::d200:::Introduction to Business Technology Management:::bus237:::bus237d200:::bus 237 d200 introduction to business technology management
-3305:_:bus:::237:::d201:::Introduction to Business Technology Management:::bus237:::bus237d201:::bus 237 d201 introduction to business technology management
-3306:_:bus:::237:::d202:::Introduction to Business Technology Management:::bus237:::bus237d202:::bus 237 d202 introduction to business technology management
-3307:_:bus:::237:::d203:::Introduction to Business Technology Management:::bus237:::bus237d203:::bus 237 d203 introduction to business technology management
-3308:_:bus:::237:::d204:::Introduction to Business Technology Management:::bus237:::bus237d204:::bus 237 d204 introduction to business technology management
-3309:_:bus:::237:::e100:::Introduction to Business Technology Management:::bus237:::bus237e100:::bus 237 e100 introduction to business technology management
-3310:_:bus:::237:::e101:::Introduction to Business Technology Management:::bus237:::bus237e101:::bus 237 e101 introduction to business technology management
-3311:_:bus:::237:::e102:::Introduction to Business Technology Management:::bus237:::bus237e102:::bus 237 e102 introduction to business technology management
-3312:_:bus:::237:::e103:::Introduction to Business Technology Management:::bus237:::bus237e103:::bus 237 e103 introduction to business technology management
-3313:_:bus:::237:::e104:::Introduction to Business Technology Management:::bus237:::bus237e104:::bus 237 e104 introduction to business technology management
-3314:_:bus:::237:::e105:::Introduction to Business Technology Management:::bus237:::bus237e105:::bus 237 e105 introduction to business technology management
-3315:_:bus:::237:::e106:::Introduction to Business Technology Management:::bus237:::bus237e106:::bus 237 e106 introduction to business technology management
-3316:_:sar:::893:::g100:::Directed Readings:::sar893:::sar893g100:::sar 893 g100 directed readings
-3317:_:sar:::893:::g200:::Directed Readings:::sar893:::sar893g200:::sar 893 g200 directed readings
-3318:_:bus:::225:::d100:::Co-op Practicum I:::bus225:::bus225d100:::bus 225 d100 co-op practicum i
-3319:_:bus:::225:::d200:::Co-op Practicum I:::bus225:::bus225d200:::bus 225 d200 co-op practicum i
-3320:_:bus:::225:::i100:::Co-op Practicum I:::bus225:::bus225i100:::bus 225 i100 co-op practicum i
-3321:_:sar:::892:::g100:::Directed Readings:::sar892:::sar892g100:::sar 892 g100 directed readings
-3322:_:sar:::892:::g200:::Directed Readings:::sar892:::sar892g200:::sar 892 g200 directed readings
-3323:_:sar:::892:::g300:::Directed Readings:::sar892:::sar892g300:::sar 892 g300 directed readings
-3324:_:bus:::254:::d100:::Managerial Accounting I:::bus254:::bus254d100:::bus 254 d100 managerial accounting i
-3325:_:bus:::254:::d101:::Managerial Accounting I:::bus254:::bus254d101:::bus 254 d101 managerial accounting i
-3326:_:bus:::254:::d102:::Managerial Accounting I:::bus254:::bus254d102:::bus 254 d102 managerial accounting i
-3327:_:bus:::254:::d103:::Managerial Accounting I:::bus254:::bus254d103:::bus 254 d103 managerial accounting i
-3328:_:bus:::254:::d104:::Managerial Accounting I:::bus254:::bus254d104:::bus 254 d104 managerial accounting i
-3329:_:bus:::254:::d105:::Managerial Accounting I:::bus254:::bus254d105:::bus 254 d105 managerial accounting i
-3330:_:bus:::254:::d106:::Managerial Accounting I:::bus254:::bus254d106:::bus 254 d106 managerial accounting i
-3331:_:bus:::254:::d107:::Managerial Accounting I:::bus254:::bus254d107:::bus 254 d107 managerial accounting i
-3332:_:bus:::254:::d200:::Managerial Accounting I:::bus254:::bus254d200:::bus 254 d200 managerial accounting i
-3333:_:bus:::254:::d201:::Managerial Accounting I:::bus254:::bus254d201:::bus 254 d201 managerial accounting i
-3334:_:bus:::254:::d202:::Managerial Accounting I:::bus254:::bus254d202:::bus 254 d202 managerial accounting i
-3335:_:bus:::254:::d203:::Managerial Accounting I:::bus254:::bus254d203:::bus 254 d203 managerial accounting i
-3336:_:bus:::254:::d204:::Managerial Accounting I:::bus254:::bus254d204:::bus 254 d204 managerial accounting i
-3337:_:bus:::254:::e100:::Managerial Accounting I:::bus254:::bus254e100:::bus 254 e100 managerial accounting i
-3338:_:bus:::254:::e101:::Managerial Accounting I:::bus254:::bus254e101:::bus 254 e101 managerial accounting i
-3339:_:bus:::254:::e102:::Managerial Accounting I:::bus254:::bus254e102:::bus 254 e102 managerial accounting i
-3340:_:bus:::254:::e103:::Managerial Accounting I:::bus254:::bus254e103:::bus 254 e103 managerial accounting i
-3341:_:bus:::254:::e104:::Managerial Accounting I:::bus254:::bus254e104:::bus 254 e104 managerial accounting i
-3342:_:bus:::254:::e105:::Managerial Accounting I:::bus254:::bus254e105:::bus 254 e105 managerial accounting i
-3343:_:bus:::254:::e106:::Managerial Accounting I:::bus254:::bus254e106:::bus 254 e106 managerial accounting i
-3344:_:sar:::894:::g100:::Directed Readings:::sar894:::sar894g100:::sar 894 g100 directed readings
-3345:_:sar:::894:::g200:::Directed Readings:::sar894:::sar894g200:::sar 894 g200 directed readings
-3346:_:sar:::894:::g300:::Directed Readings:::sar894:::sar894g300:::sar 894 g300 directed readings
-3347:_:bus:::251:::d100:::Financial Accounting I:::bus251:::bus251d100:::bus 251 d100 financial accounting i
-3348:_:bus:::251:::d101:::Financial Accounting I:::bus251:::bus251d101:::bus 251 d101 financial accounting i
-3349:_:bus:::251:::d102:::Financial Accounting I:::bus251:::bus251d102:::bus 251 d102 financial accounting i
-3350:_:bus:::251:::d103:::Financial Accounting I:::bus251:::bus251d103:::bus 251 d103 financial accounting i
-3351:_:bus:::251:::d104:::Financial Accounting I:::bus251:::bus251d104:::bus 251 d104 financial accounting i
-3352:_:bus:::251:::d105:::Financial Accounting I:::bus251:::bus251d105:::bus 251 d105 financial accounting i
-3353:_:bus:::251:::d106:::Financial Accounting I:::bus251:::bus251d106:::bus 251 d106 financial accounting i
-3354:_:bus:::251:::d107:::Financial Accounting I:::bus251:::bus251d107:::bus 251 d107 financial accounting i
-3355:_:bus:::251:::d200:::Financial Accounting I:::bus251:::bus251d200:::bus 251 d200 financial accounting i
-3356:_:bus:::251:::d201:::Financial Accounting I:::bus251:::bus251d201:::bus 251 d201 financial accounting i
-3357:_:bus:::251:::d202:::Financial Accounting I:::bus251:::bus251d202:::bus 251 d202 financial accounting i
-3358:_:bus:::251:::d203:::Financial Accounting I:::bus251:::bus251d203:::bus 251 d203 financial accounting i
-3359:_:bus:::251:::d204:::Financial Accounting I:::bus251:::bus251d204:::bus 251 d204 financial accounting i
-3360:_:bus:::251:::e100:::Financial Accounting I:::bus251:::bus251e100:::bus 251 e100 financial accounting i
-3361:_:bus:::251:::e101:::Financial Accounting I:::bus251:::bus251e101:::bus 251 e101 financial accounting i
-3362:_:bus:::251:::e102:::Financial Accounting I:::bus251:::bus251e102:::bus 251 e102 financial accounting i
-3363:_:bus:::251:::e103:::Financial Accounting I:::bus251:::bus251e103:::bus 251 e103 financial accounting i
-3364:_:bus:::251:::e104:::Financial Accounting I:::bus251:::bus251e104:::bus 251 e104 financial accounting i
-3365:_:bus:::251:::e105:::Financial Accounting I:::bus251:::bus251e105:::bus 251 e105 financial accounting i
-3366:_:bus:::251:::e106:::Financial Accounting I:::bus251:::bus251e106:::bus 251 e106 financial accounting i
-3367:_:sar:::891:::g100:::Directed Readings:::sar891:::sar891g100:::sar 891 g100 directed readings
-3368:_:sar:::891:::g200:::Directed Readings:::sar891:::sar891g200:::sar 891 g200 directed readings
-3369:_:math:::242:::d100:::Introduction to Analysis I:::math242:::math242d100:::math 242 d100 introduction to analysis i
-3370:_:math:::242:::d101:::Introduction to Analysis I:::math242:::math242d101:::math 242 d101 introduction to analysis i
-3371:_:math:::242:::d102:::Introduction to Analysis I:::math242:::math242d102:::math 242 d102 introduction to analysis i
-3372:_:math:::232:::d100:::Applied Linear Algebra:::math232:::math232d100:::math 232 d100 applied linear algebra
-3373:_:math:::232:::d200:::Applied Linear Algebra:::math232:::math232d200:::math 232 d200 applied linear algebra
-3374:_:math:::232:::op01:::Applied Linear Algebra:::math232:::math232op01:::math 232 op01 applied linear algebra
-3375:_:math:::232:::op02:::Applied Linear Algebra:::math232:::math232op02:::math 232 op02 applied linear algebra
-3376:_:hsci:::727:::g100:::Immune System II: Immune Responses in Health and Disease:::hsci727:::hsci727g100:::hsci 727 g100 immune system ii: immune responses in health and disease
-3377:_:math:::251:::e100:::Calculus III:::math251:::math251e100:::math 251 e100 calculus iii
-3378:_:math:::251:::op01:::Calculus III:::math251:::math251op01:::math 251 op01 calculus iii
-3379:_:ling:::894:::g100:::Qualifying Paper I:::ling894:::ling894g100:::ling 894 g100 qualifying paper i
+3226:_:gsws:::411:::d100:::Special Topics in Gender, Sexuality, and Women's Studies:::gsws411:::gsws411d100:::gsws 411 d100 special topics in gender, sexuality, and women's studies
+3227:_:bus:::320:::d100:::Financial Accounting:  Assets:::bus320:::bus320d100:::bus 320 d100 financial accounting:  assets
+3228:_:bus:::320:::e100:::Financial Accounting:  Assets:::bus320:::bus320e100:::bus 320 e100 financial accounting:  assets
+3229:_:gero:::411:::d100:::Special Topics in Gerontology II:::gero411:::gero411d100:::gero 411 d100 special topics in gerontology ii
+3230:_:bus:::316:::d100:::Derivative Securities:::bus316:::bus316d100:::bus 316 d100 derivative securities
+3231:_:bus:::316:::d200:::Derivative Securities:::bus316:::bus316d200:::bus 316 d200 derivative securities
+3232:_:bus:::316:::e100:::Derivative Securities:::bus316:::bus316e100:::bus 316 e100 derivative securities
+3233:_:asc:::401:::d100:::Directed Studies:::asc401:::asc401d100:::asc 401 d100 directed studies
+3234:_:math:::190:::c100:::Principles of Mathematics for Teachers:::math190:::math190c100:::math 190 c100 principles of mathematics for teachers
+3235:_:math:::190:::d100:::Principles of Mathematics for Teachers:::math190:::math190d100:::math 190 d100 principles of mathematics for teachers
+3236:_:math:::190:::op01:::Principles of Mathematics for Teachers:::math190:::math190op01:::math 190 op01 principles of mathematics for teachers
+3237:_:cmpt:::489:::d100:::Special Topics in Programming Language:::cmpt489:::cmpt489d100:::cmpt 489 d100 special topics in programming language
+3238:_:bus:::315:::d200:::Investments:::bus315:::bus315d200:::bus 315 d200 investments
+3239:_:bus:::315:::e100:::Investments:::bus315:::bus315e100:::bus 315 e100 investments
+3240:_:cmns:::240:::e100:::The Political Economy of Communication:::cmns240:::cmns240e100:::cmns 240 e100 the political economy of communication
+3241:_:cmns:::240:::e101:::The Political Economy of Communication:::cmns240:::cmns240e101:::cmns 240 e101 the political economy of communication
+3242:_:cmns:::240:::e102:::The Political Economy of Communication:::cmns240:::cmns240e102:::cmns 240 e102 the political economy of communication
+3243:_:cmns:::240:::e103:::The Political Economy of Communication:::cmns240:::cmns240e103:::cmns 240 e103 the political economy of communication
+3244:_:cmns:::240:::e104:::The Political Economy of Communication:::cmns240:::cmns240e104:::cmns 240 e104 the political economy of communication
+3245:_:cmns:::240:::e105:::The Political Economy of Communication:::cmns240:::cmns240e105:::cmns 240 e105 the political economy of communication
+3246:_:cmns:::240:::e106:::The Political Economy of Communication:::cmns240:::cmns240e106:::cmns 240 e106 the political economy of communication
+3247:_:mbb:::861:::g100:::Biomolecular Structure and Function Colloquium:::mbb861:::mbb861g100:::mbb 861 g100 biomolecular structure and function colloquium
+3248:_:educ:::339:::d100:::Practicum 1:::educ339:::educ339d100:::educ 339 d100 practicum 1
+3249:_:educ:::339:::d200:::Practicum 1:::educ339:::educ339d200:::educ 339 d200 practicum 1
+3250:_:educ:::339:::i100:::Practicum 1:::educ339:::educ339i100:::educ 339 i100 practicum 1
+3251:_:bus:::303:::d100:::Business, Society and Ethics:::bus303:::bus303d100:::bus 303 d100 business, society and ethics
+3252:_:bus:::303:::d200:::Business, Society and Ethics:::bus303:::bus303d200:::bus 303 d200 business, society and ethics
+3253:_:bus:::303:::d300:::Business, Society and Ethics:::bus303:::bus303d300:::bus 303 d300 business, society and ethics
+3254:_:bus:::303:::d400:::Business, Society and Ethics:::bus303:::bus303d400:::bus 303 d400 business, society and ethics
+3255:_:bus:::303:::d500:::Business, Society and Ethics:::bus303:::bus303d500:::bus 303 d500 business, society and ethics
+3256:_:bus:::303:::e100:::Business, Society and Ethics:::bus303:::bus303e100:::bus 303 e100 business, society and ethics
+3257:_:mbb:::741:::g100:::Bioinformatics:::mbb741:::mbb741g100:::mbb 741 g100 bioinformatics
+3258:_:ca:::289:::d100:::Selected Topics in the Fine and Performing Arts:::ca289:::ca289d100:::ca 289 d100 selected topics in the fine and performing arts
+3259:_:bus:::312:::d100:::Introduction to Finance:::bus312:::bus312d100:::bus 312 d100 introduction to finance
+3260:_:bus:::312:::e100:::Introduction to Finance:::bus312:::bus312e100:::bus 312 e100 introduction to finance
+3261:_:crim:::432:::c100:::Gender in the Courts and the Legal Profession:::crim432:::crim432c100:::crim 432 c100 gender in the courts and the legal profession
+3262:_:crim:::432:::d100:::Gender in the Courts and the Legal Profession:::crim432:::crim432d100:::crim 432 d100 gender in the courts and the legal profession
+3263:_:bus:::493:::d100:::Selected Topics in Business Administration:::bus493:::bus493d100:::bus 493 d100 selected topics in business administration
+3264:_:math:::252:::d100:::Vector Calculus:::math252:::math252d100:::math 252 d100 vector calculus
+3265:_:math:::252:::d101:::Vector Calculus:::math252:::math252d101:::math 252 d101 vector calculus
+3266:_:math:::252:::d102:::Vector Calculus:::math252:::math252d102:::math 252 d102 vector calculus
+3267:_:mbb:::738:::g100:::Human Molecular Genetics:::mbb738:::mbb738g100:::mbb 738 g100 human molecular genetics
+3268:_:bus:::272:::d100:::Behavior in Organizations:::bus272:::bus272d100:::bus 272 d100 behavior in organizations
+3269:_:bus:::272:::d101:::Behavior in Organizations:::bus272:::bus272d101:::bus 272 d101 behavior in organizations
+3270:_:bus:::272:::d102:::Behavior in Organizations:::bus272:::bus272d102:::bus 272 d102 behavior in organizations
+3271:_:bus:::272:::d103:::Behavior in Organizations:::bus272:::bus272d103:::bus 272 d103 behavior in organizations
+3272:_:bus:::272:::d104:::Behavior in Organizations:::bus272:::bus272d104:::bus 272 d104 behavior in organizations
+3273:_:bus:::272:::d105:::Behavior in Organizations:::bus272:::bus272d105:::bus 272 d105 behavior in organizations
+3274:_:bus:::272:::d200:::Behavior in Organizations:::bus272:::bus272d200:::bus 272 d200 behavior in organizations
+3275:_:bus:::272:::d201:::Behavior in Organizations:::bus272:::bus272d201:::bus 272 d201 behavior in organizations
+3276:_:bus:::272:::d202:::Behavior in Organizations:::bus272:::bus272d202:::bus 272 d202 behavior in organizations
+3277:_:bus:::272:::d203:::Behavior in Organizations:::bus272:::bus272d203:::bus 272 d203 behavior in organizations
+3278:_:bus:::272:::d204:::Behavior in Organizations:::bus272:::bus272d204:::bus 272 d204 behavior in organizations
+3279:_:bus:::272:::d300:::Behavior in Organizations:::bus272:::bus272d300:::bus 272 d300 behavior in organizations
+3280:_:bus:::272:::d301:::Behavior in Organizations:::bus272:::bus272d301:::bus 272 d301 behavior in organizations
+3281:_:bus:::272:::d302:::Behavior in Organizations:::bus272:::bus272d302:::bus 272 d302 behavior in organizations
+3282:_:bus:::272:::d303:::Behavior in Organizations:::bus272:::bus272d303:::bus 272 d303 behavior in organizations
+3283:_:bus:::272:::d304:::Behavior in Organizations:::bus272:::bus272d304:::bus 272 d304 behavior in organizations
+3284:_:bus:::272:::d305:::Behavior in Organizations:::bus272:::bus272d305:::bus 272 d305 behavior in organizations
+3285:_:bus:::272:::e100:::Behavior in Organizations:::bus272:::bus272e100:::bus 272 e100 behavior in organizations
+3286:_:bus:::272:::e101:::Behavior in Organizations:::bus272:::bus272e101:::bus 272 e101 behavior in organizations
+3287:_:bus:::272:::e102:::Behavior in Organizations:::bus272:::bus272e102:::bus 272 e102 behavior in organizations
+3288:_:bus:::272:::e103:::Behavior in Organizations:::bus272:::bus272e103:::bus 272 e103 behavior in organizations
+3289:_:bus:::272:::e104:::Behavior in Organizations:::bus272:::bus272e104:::bus 272 e104 behavior in organizations
+3290:_:bus:::272:::e105:::Behavior in Organizations:::bus272:::bus272e105:::bus 272 e105 behavior in organizations
+3291:_:cmns:::258:::d100:::History of Sound in Media:::cmns258:::cmns258d100:::cmns 258 d100 history of sound in media
+3292:_:cmns:::258:::d101:::History of Sound in Media:::cmns258:::cmns258d101:::cmns 258 d101 history of sound in media
+3293:_:cmns:::258:::d102:::History of Sound in Media:::cmns258:::cmns258d102:::cmns 258 d102 history of sound in media
+3294:_:chem:::869:::g100:::Special Topics in Physical Chemistry:::chem869:::chem869g100:::chem 869 g100 special topics in physical chemistry
+3295:_:chem:::869:::g101:::Special Topics in Physical Chemistry:::chem869:::chem869g101:::chem 869 g101 special topics in physical chemistry
+3296:_:bus:::237:::d100:::Introduction to Business Technology Management:::bus237:::bus237d100:::bus 237 d100 introduction to business technology management
+3297:_:bus:::237:::d101:::Introduction to Business Technology Management:::bus237:::bus237d101:::bus 237 d101 introduction to business technology management
+3298:_:bus:::237:::d102:::Introduction to Business Technology Management:::bus237:::bus237d102:::bus 237 d102 introduction to business technology management
+3299:_:bus:::237:::d103:::Introduction to Business Technology Management:::bus237:::bus237d103:::bus 237 d103 introduction to business technology management
+3300:_:bus:::237:::d104:::Introduction to Business Technology Management:::bus237:::bus237d104:::bus 237 d104 introduction to business technology management
+3301:_:bus:::237:::d105:::Introduction to Business Technology Management:::bus237:::bus237d105:::bus 237 d105 introduction to business technology management
+3302:_:bus:::237:::d106:::Introduction to Business Technology Management:::bus237:::bus237d106:::bus 237 d106 introduction to business technology management
+3303:_:bus:::237:::d107:::Introduction to Business Technology Management:::bus237:::bus237d107:::bus 237 d107 introduction to business technology management
+3304:_:bus:::237:::d108:::Introduction to Business Technology Management:::bus237:::bus237d108:::bus 237 d108 introduction to business technology management
+3305:_:bus:::237:::d200:::Introduction to Business Technology Management:::bus237:::bus237d200:::bus 237 d200 introduction to business technology management
+3306:_:bus:::237:::d201:::Introduction to Business Technology Management:::bus237:::bus237d201:::bus 237 d201 introduction to business technology management
+3307:_:bus:::237:::d202:::Introduction to Business Technology Management:::bus237:::bus237d202:::bus 237 d202 introduction to business technology management
+3308:_:bus:::237:::d203:::Introduction to Business Technology Management:::bus237:::bus237d203:::bus 237 d203 introduction to business technology management
+3309:_:bus:::237:::d204:::Introduction to Business Technology Management:::bus237:::bus237d204:::bus 237 d204 introduction to business technology management
+3310:_:bus:::237:::e100:::Introduction to Business Technology Management:::bus237:::bus237e100:::bus 237 e100 introduction to business technology management
+3311:_:bus:::237:::e101:::Introduction to Business Technology Management:::bus237:::bus237e101:::bus 237 e101 introduction to business technology management
+3312:_:bus:::237:::e102:::Introduction to Business Technology Management:::bus237:::bus237e102:::bus 237 e102 introduction to business technology management
+3313:_:bus:::237:::e103:::Introduction to Business Technology Management:::bus237:::bus237e103:::bus 237 e103 introduction to business technology management
+3314:_:bus:::237:::e104:::Introduction to Business Technology Management:::bus237:::bus237e104:::bus 237 e104 introduction to business technology management
+3315:_:bus:::237:::e105:::Introduction to Business Technology Management:::bus237:::bus237e105:::bus 237 e105 introduction to business technology management
+3316:_:bus:::237:::e106:::Introduction to Business Technology Management:::bus237:::bus237e106:::bus 237 e106 introduction to business technology management
+3317:_:sar:::893:::g100:::Directed Readings:::sar893:::sar893g100:::sar 893 g100 directed readings
+3318:_:sar:::893:::g200:::Directed Readings:::sar893:::sar893g200:::sar 893 g200 directed readings
+3319:_:bus:::225:::d100:::Co-op Practicum I:::bus225:::bus225d100:::bus 225 d100 co-op practicum i
+3320:_:bus:::225:::d200:::Co-op Practicum I:::bus225:::bus225d200:::bus 225 d200 co-op practicum i
+3321:_:bus:::225:::i100:::Co-op Practicum I:::bus225:::bus225i100:::bus 225 i100 co-op practicum i
+3322:_:sar:::892:::g100:::Directed Readings:::sar892:::sar892g100:::sar 892 g100 directed readings
+3323:_:sar:::892:::g200:::Directed Readings:::sar892:::sar892g200:::sar 892 g200 directed readings
+3324:_:sar:::892:::g300:::Directed Readings:::sar892:::sar892g300:::sar 892 g300 directed readings
+3325:_:bus:::254:::d100:::Managerial Accounting I:::bus254:::bus254d100:::bus 254 d100 managerial accounting i
+3326:_:bus:::254:::d101:::Managerial Accounting I:::bus254:::bus254d101:::bus 254 d101 managerial accounting i
+3327:_:bus:::254:::d102:::Managerial Accounting I:::bus254:::bus254d102:::bus 254 d102 managerial accounting i
+3328:_:bus:::254:::d103:::Managerial Accounting I:::bus254:::bus254d103:::bus 254 d103 managerial accounting i
+3329:_:bus:::254:::d104:::Managerial Accounting I:::bus254:::bus254d104:::bus 254 d104 managerial accounting i
+3330:_:bus:::254:::d105:::Managerial Accounting I:::bus254:::bus254d105:::bus 254 d105 managerial accounting i
+3331:_:bus:::254:::d106:::Managerial Accounting I:::bus254:::bus254d106:::bus 254 d106 managerial accounting i
+3332:_:bus:::254:::d107:::Managerial Accounting I:::bus254:::bus254d107:::bus 254 d107 managerial accounting i
+3333:_:bus:::254:::d200:::Managerial Accounting I:::bus254:::bus254d200:::bus 254 d200 managerial accounting i
+3334:_:bus:::254:::d201:::Managerial Accounting I:::bus254:::bus254d201:::bus 254 d201 managerial accounting i
+3335:_:bus:::254:::d202:::Managerial Accounting I:::bus254:::bus254d202:::bus 254 d202 managerial accounting i
+3336:_:bus:::254:::d203:::Managerial Accounting I:::bus254:::bus254d203:::bus 254 d203 managerial accounting i
+3337:_:bus:::254:::d204:::Managerial Accounting I:::bus254:::bus254d204:::bus 254 d204 managerial accounting i
+3338:_:bus:::254:::e100:::Managerial Accounting I:::bus254:::bus254e100:::bus 254 e100 managerial accounting i
+3339:_:bus:::254:::e101:::Managerial Accounting I:::bus254:::bus254e101:::bus 254 e101 managerial accounting i
+3340:_:bus:::254:::e102:::Managerial Accounting I:::bus254:::bus254e102:::bus 254 e102 managerial accounting i
+3341:_:bus:::254:::e103:::Managerial Accounting I:::bus254:::bus254e103:::bus 254 e103 managerial accounting i
+3342:_:bus:::254:::e104:::Managerial Accounting I:::bus254:::bus254e104:::bus 254 e104 managerial accounting i
+3343:_:bus:::254:::e105:::Managerial Accounting I:::bus254:::bus254e105:::bus 254 e105 managerial accounting i
+3344:_:bus:::254:::e106:::Managerial Accounting I:::bus254:::bus254e106:::bus 254 e106 managerial accounting i
+3345:_:sar:::894:::g100:::Directed Readings:::sar894:::sar894g100:::sar 894 g100 directed readings
+3346:_:sar:::894:::g200:::Directed Readings:::sar894:::sar894g200:::sar 894 g200 directed readings
+3347:_:sar:::894:::g300:::Directed Readings:::sar894:::sar894g300:::sar 894 g300 directed readings
+3348:_:bus:::251:::d100:::Financial Accounting I:::bus251:::bus251d100:::bus 251 d100 financial accounting i
+3349:_:bus:::251:::d101:::Financial Accounting I:::bus251:::bus251d101:::bus 251 d101 financial accounting i
+3350:_:bus:::251:::d102:::Financial Accounting I:::bus251:::bus251d102:::bus 251 d102 financial accounting i
+3351:_:bus:::251:::d103:::Financial Accounting I:::bus251:::bus251d103:::bus 251 d103 financial accounting i
+3352:_:bus:::251:::d104:::Financial Accounting I:::bus251:::bus251d104:::bus 251 d104 financial accounting i
+3353:_:bus:::251:::d105:::Financial Accounting I:::bus251:::bus251d105:::bus 251 d105 financial accounting i
+3354:_:bus:::251:::d106:::Financial Accounting I:::bus251:::bus251d106:::bus 251 d106 financial accounting i
+3355:_:bus:::251:::d107:::Financial Accounting I:::bus251:::bus251d107:::bus 251 d107 financial accounting i
+3356:_:bus:::251:::d200:::Financial Accounting I:::bus251:::bus251d200:::bus 251 d200 financial accounting i
+3357:_:bus:::251:::d201:::Financial Accounting I:::bus251:::bus251d201:::bus 251 d201 financial accounting i
+3358:_:bus:::251:::d202:::Financial Accounting I:::bus251:::bus251d202:::bus 251 d202 financial accounting i
+3359:_:bus:::251:::d203:::Financial Accounting I:::bus251:::bus251d203:::bus 251 d203 financial accounting i
+3360:_:bus:::251:::d204:::Financial Accounting I:::bus251:::bus251d204:::bus 251 d204 financial accounting i
+3361:_:bus:::251:::e100:::Financial Accounting I:::bus251:::bus251e100:::bus 251 e100 financial accounting i
+3362:_:bus:::251:::e101:::Financial Accounting I:::bus251:::bus251e101:::bus 251 e101 financial accounting i
+3363:_:bus:::251:::e102:::Financial Accounting I:::bus251:::bus251e102:::bus 251 e102 financial accounting i
+3364:_:bus:::251:::e103:::Financial Accounting I:::bus251:::bus251e103:::bus 251 e103 financial accounting i
+3365:_:bus:::251:::e104:::Financial Accounting I:::bus251:::bus251e104:::bus 251 e104 financial accounting i
+3366:_:bus:::251:::e105:::Financial Accounting I:::bus251:::bus251e105:::bus 251 e105 financial accounting i
+3367:_:bus:::251:::e106:::Financial Accounting I:::bus251:::bus251e106:::bus 251 e106 financial accounting i
+3368:_:sar:::891:::g100:::Directed Readings:::sar891:::sar891g100:::sar 891 g100 directed readings
+3369:_:sar:::891:::g200:::Directed Readings:::sar891:::sar891g200:::sar 891 g200 directed readings
+3370:_:math:::242:::d100:::Introduction to Analysis I:::math242:::math242d100:::math 242 d100 introduction to analysis i
+3371:_:math:::242:::d101:::Introduction to Analysis I:::math242:::math242d101:::math 242 d101 introduction to analysis i
+3372:_:math:::242:::d102:::Introduction to Analysis I:::math242:::math242d102:::math 242 d102 introduction to analysis i
+3373:_:math:::232:::d100:::Applied Linear Algebra:::math232:::math232d100:::math 232 d100 applied linear algebra
+3374:_:math:::232:::d200:::Applied Linear Algebra:::math232:::math232d200:::math 232 d200 applied linear algebra
+3375:_:math:::232:::op01:::Applied Linear Algebra:::math232:::math232op01:::math 232 op01 applied linear algebra
+3376:_:math:::232:::op02:::Applied Linear Algebra:::math232:::math232op02:::math 232 op02 applied linear algebra
+3377:_:hsci:::727:::g100:::Immune System II: Immune Responses in Health and Disease:::hsci727:::hsci727g100:::hsci 727 g100 immune system ii: immune responses in health and disease
+3378:_:math:::251:::e100:::Calculus III:::math251:::math251e100:::math 251 e100 calculus iii
+3379:_:math:::251:::op01:::Calculus III:::math251:::math251op01:::math 251 op01 calculus iii
 3380:_:cmns:::261:::c100:::Documentary Research in Communication:::cmns261:::cmns261c100:::cmns 261 c100 documentary research in communication
 3381:_:cmns:::259:::c100:::Sound Studies I: Listening, Culture and Society:::cmns259:::cmns259c100:::cmns 259 c100 sound studies i: listening, culture and society
 3382:_:bus:::724:::g100:::Organizational Analysis:::bus724:::bus724g100:::bus 724 g100 organizational analysis
@@ -5453,9 +5453,9 @@
 5453:_:bus:::420:::d100:::Advanced Accounting:::bus420:::bus420d100:::bus 420 d100 advanced accounting
 5454:_:bus:::420:::d200:::Advanced Accounting:::bus420:::bus420d200:::bus 420 d200 advanced accounting
 5455:_:bus:::420:::e100:::Advanced Accounting:::bus420:::bus420e100:::bus 420 e100 advanced accounting
-5456:_:gsws:::205:::d100:::Gender and Popular Culture:::gsws205:::gsws205d100:::gsws 205 d100 gender and popular culture
-5457:_:hsci:::416:::d100:::Health Services Research:::hsci416:::hsci416d100:::hsci 416 d100 health services research
-5458:_:hsci:::416:::d101:::Health Services Research:::hsci416:::hsci416d101:::hsci 416 d101 health services research
+5456:_:hsci:::416:::d100:::Health Services Research:::hsci416:::hsci416d100:::hsci 416 d100 health services research
+5457:_:hsci:::416:::d101:::Health Services Research:::hsci416:::hsci416d101:::hsci 416 d101 health services research
+5458:_:gsws:::205:::d100:::Gender and Popular Culture:::gsws205:::gsws205d100:::gsws 205 d100 gender and popular culture
 5459:_:sa:::386:::d100:::The Ethnography of Politics (SA):::sa386:::sa386d100:::sa 386 d100 the ethnography of politics (sa)
 5460:_:bpk:::352:::d100:::Practicum II:::bpk352:::bpk352d100:::bpk 352 d100 practicum ii
 5461:_:bpk:::352:::d200:::Practicum II:::bpk352:::bpk352d200:::bpk 352 d200 practicum ii
