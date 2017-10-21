@@ -1452,17 +1452,17 @@
 1452:_:educ:::899:::g033:::Doctoral Thesis:::educ899:::educ899g033:::educ 899 g033 doctoral thesis
 1453:_:educ:::901:::g001:::Seminar in the History of Educational Theory (Inactive):::educ901:::educ901g001:::educ 901 g001 seminar in the history of educational theory (inactive)
 1454:_:educ:::901:::g002:::Seminar in the History of Educational Theory (Inactive):::educ901:::educ901g002:::educ 901 g002 seminar in the history of educational theory (inactive)
-1455:_:mbb:::481:::d100:::Individual Study Semester - Honours Thesis:::mbb481:::mbb481d100:::mbb 481 d100 individual study semester - honours thesis
-1456:_:mbb:::481:::d200:::Individual Study Semester - Honours Thesis:::mbb481:::mbb481d200:::mbb 481 d200 individual study semester - honours thesis
-1457:_:mbb:::481:::d300:::Individual Study Semester - Honours Thesis:::mbb481:::mbb481d300:::mbb 481 d300 individual study semester - honours thesis
-1458:_:mbb:::481:::d400:::Individual Study Semester - Honours Thesis:::mbb481:::mbb481d400:::mbb 481 d400 individual study semester - honours thesis
-1459:_:mbb:::481:::d500:::Individual Study Semester - Honours Thesis:::mbb481:::mbb481d500:::mbb 481 d500 individual study semester - honours thesis
+1455:_:mbb:::481:::d001:::Individual Study Semester - Honours Thesis:::mbb481:::mbb481d001:::mbb 481 d001 individual study semester - honours thesis
+1456:_:mbb:::481:::d002:::Individual Study Semester - Honours Thesis:::mbb481:::mbb481d002:::mbb 481 d002 individual study semester - honours thesis
+1457:_:mbb:::481:::d003:::Individual Study Semester - Honours Thesis:::mbb481:::mbb481d003:::mbb 481 d003 individual study semester - honours thesis
+1458:_:mbb:::481:::d004:::Individual Study Semester - Honours Thesis:::mbb481:::mbb481d004:::mbb 481 d004 individual study semester - honours thesis
+1459:_:mbb:::481:::d005:::Individual Study Semester - Honours Thesis:::mbb481:::mbb481d005:::mbb 481 d005 individual study semester - honours thesis
 1460:_:educ:::945:::g001:::Doctoral Seminar in Arts Education:::educ945:::educ945g001:::educ 945 g001 doctoral seminar in arts education
-1461:_:mbb:::482:::d100:::Individual Study Semester - Honours Research Performance:::mbb482:::mbb482d100:::mbb 482 d100 individual study semester - honours research performance
-1462:_:mbb:::482:::d200:::Individual Study Semester - Honours Research Performance:::mbb482:::mbb482d200:::mbb 482 d200 individual study semester - honours research performance
-1463:_:mbb:::482:::d300:::Individual Study Semester - Honours Research Performance:::mbb482:::mbb482d300:::mbb 482 d300 individual study semester - honours research performance
-1464:_:mbb:::482:::d400:::Individual Study Semester - Honours Research Performance:::mbb482:::mbb482d400:::mbb 482 d400 individual study semester - honours research performance
-1465:_:mbb:::482:::d500:::Individual Study Semester - Honours Research Performance:::mbb482:::mbb482d500:::mbb 482 d500 individual study semester - honours research performance
+1461:_:mbb:::482:::d001:::Individual Study Semester - Honours Research Performance:::mbb482:::mbb482d001:::mbb 482 d001 individual study semester - honours research performance
+1462:_:mbb:::482:::d002:::Individual Study Semester - Honours Research Performance:::mbb482:::mbb482d002:::mbb 482 d002 individual study semester - honours research performance
+1463:_:mbb:::482:::d003:::Individual Study Semester - Honours Research Performance:::mbb482:::mbb482d003:::mbb 482 d003 individual study semester - honours research performance
+1464:_:mbb:::482:::d004:::Individual Study Semester - Honours Research Performance:::mbb482:::mbb482d004:::mbb 482 d004 individual study semester - honours research performance
+1465:_:mbb:::482:::d005:::Individual Study Semester - Honours Research Performance:::mbb482:::mbb482d005:::mbb 482 d005 individual study semester - honours research performance
 1466:_:educ:::911:::g001:::Colloquium in Curriculum Theory (I):::educ911:::educ911g001:::educ 911 g001 colloquium in curriculum theory (i)
 1467:_:educ:::911:::g031:::Colloquium in Curriculum Theory (I):::educ911:::educ911g031:::educ 911 g031 colloquium in curriculum theory (i)
 1468:_:ling:::160:::d100:::Language, Culture and Society:::ling160:::ling160d100:::ling 160 d100 language, culture and society
@@ -1489,11 +1489,11 @@
 1489:_:math:::877:::g100:::Supplementary Reading:::math877:::math877g100:::math 877 g100 supplementary reading
 1490:_:hum:::130:::c100:::Introduction to Religious Studies:::hum130:::hum130c100:::hum 130 c100 introduction to religious studies
 1491:_:bus:::321:::d100:::Financial Accounting: Equities:::bus321:::bus321d100:::bus 321 d100 financial accounting: equities
-1492:_:mbb:::483:::d100:::Individual Study Semester - Honours Thesis Defense:::mbb483:::mbb483d100:::mbb 483 d100 individual study semester - honours thesis defense
-1493:_:mbb:::483:::d200:::Individual Study Semester - Honours Thesis Defense:::mbb483:::mbb483d200:::mbb 483 d200 individual study semester - honours thesis defense
-1494:_:mbb:::483:::d300:::Individual Study Semester - Honours Thesis Defense:::mbb483:::mbb483d300:::mbb 483 d300 individual study semester - honours thesis defense
-1495:_:mbb:::483:::d400:::Individual Study Semester - Honours Thesis Defense:::mbb483:::mbb483d400:::mbb 483 d400 individual study semester - honours thesis defense
-1496:_:mbb:::483:::d500:::Individual Study Semester - Honours Thesis Defense:::mbb483:::mbb483d500:::mbb 483 d500 individual study semester - honours thesis defense
+1492:_:mbb:::483:::d001:::Individual Study Semester - Honours Thesis Defense:::mbb483:::mbb483d001:::mbb 483 d001 individual study semester - honours thesis defense
+1493:_:mbb:::483:::d002:::Individual Study Semester - Honours Thesis Defense:::mbb483:::mbb483d002:::mbb 483 d002 individual study semester - honours thesis defense
+1494:_:mbb:::483:::d003:::Individual Study Semester - Honours Thesis Defense:::mbb483:::mbb483d003:::mbb 483 d003 individual study semester - honours thesis defense
+1495:_:mbb:::483:::d004:::Individual Study Semester - Honours Thesis Defense:::mbb483:::mbb483d004:::mbb 483 d004 individual study semester - honours thesis defense
+1496:_:mbb:::483:::d005:::Individual Study Semester - Honours Thesis Defense:::mbb483:::mbb483d005:::mbb 483 d005 individual study semester - honours thesis defense
 1497:_:educ:::100w:::c100:::Selected Questions and Issues in Education:::educ100w:::educ100wc100:::educ 100w c100 selected questions and issues in education
 1498:_:educ:::100w:::c200:::Selected Questions and Issues in Education:::educ100w:::educ100wc200:::educ 100w c200 selected questions and issues in education
 1499:_:educ:::100w:::c300:::Selected Questions and Issues in Education:::educ100w:::educ100wc300:::educ 100w c300 selected questions and issues in education
