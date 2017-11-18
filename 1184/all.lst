@@ -371,7 +371,7 @@
 371:_:bus:::864:::g100:::Credit Risk Management:::bus864:::bus864g100:::bus 864 g100 credit risk management
 372:_:educ:::457:::e100:::Drama and Education:::educ457:::educ457e100:::educ 457 e100 drama and education
 373:_:bus:::468:::d100:::Managing Information Technology for Business Value:::bus468:::bus468d100:::bus 468 d100 managing information technology for business value
-374:_:bus:::468:::d200:::Managing Information Technology for Business Value:::bus468:::bus468d200:::bus 468 d200 managing information technology for business value
+374:_:bus:::468:::e100:::Managing Information Technology for Business Value:::bus468:::bus468e100:::bus 468 e100 managing information technology for business value
 375:_:math:::486:::d100:::Job Practicum V:::math486:::math486d100:::math 486 d100 job practicum v
 376:_:math:::486:::d200:::Job Practicum V:::math486:::math486d200:::math 486 d200 job practicum v
 377:_:bus:::466:::d100:::Web-Enabled Business:::bus466:::bus466d100:::bus 466 d100 web-enabled business
@@ -1712,8 +1712,8 @@
 1712:_:bus:::360w:::d100:::Business Communication:::bus360w:::bus360wd100:::bus 360w d100 business communication
 1713:_:bus:::360w:::d200:::Business Communication:::bus360w:::bus360wd200:::bus 360w d200 business communication
 1714:_:bus:::360w:::d300:::Business Communication:::bus360w:::bus360wd300:::bus 360w d300 business communication
-1715:_:bus:::360w:::d400:::Business Communication:::bus360w:::bus360wd400:::bus 360w d400 business communication
-1716:_:bus:::360w:::d500:::Business Communication:::bus360w:::bus360wd500:::bus 360w d500 business communication
+1715:_:bus:::360w:::d500:::Business Communication:::bus360w:::bus360wd500:::bus 360w d500 business communication
+1716:_:bus:::360w:::d600:::Business Communication:::bus360w:::bus360wd600:::bus 360w d600 business communication
 1717:_:bus:::360w:::d700:::Business Communication:::bus360w:::bus360wd700:::bus 360w d700 business communication
 1718:_:bus:::360w:::e100:::Business Communication:::bus360w:::bus360we100:::bus 360w e100 business communication
 1719:_:bus:::360w:::e200:::Business Communication:::bus360w:::bus360we200:::bus 360w e200 business communication
