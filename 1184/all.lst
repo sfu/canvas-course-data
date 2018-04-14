@@ -1353,764 +1353,764 @@
 1353:_:evsc:::100:::d100:::Introduction to Environmental Science:::evsc100:::evsc100d100:::evsc 100 d100 introduction to environmental science
 1354:_:evsc:::100:::d101:::Introduction to Environmental Science:::evsc100:::evsc100d101:::evsc 100 d101 introduction to environmental science
 1355:_:evsc:::100:::d102:::Introduction to Environmental Science:::evsc100:::evsc100d102:::evsc 100 d102 introduction to environmental science
-1356:_:evsc:::100:::d103:::Introduction to Environmental Science:::evsc100:::evsc100d103:::evsc 100 d103 introduction to environmental science
-1357:_:evsc:::100:::d104:::Introduction to Environmental Science:::evsc100:::evsc100d104:::evsc 100 d104 introduction to environmental science
-1358:_:evsc:::100:::d105:::Introduction to Environmental Science:::evsc100:::evsc100d105:::evsc 100 d105 introduction to environmental science
-1359:_:evsc:::100:::d106:::Introduction to Environmental Science:::evsc100:::evsc100d106:::evsc 100 d106 introduction to environmental science
-1360:_:evsc:::100:::d200:::Introduction to Environmental Science:::evsc100:::evsc100d200:::evsc 100 d200 introduction to environmental science
-1361:_:evsc:::100:::d201:::Introduction to Environmental Science:::evsc100:::evsc100d201:::evsc 100 d201 introduction to environmental science
-1362:_:evsc:::100:::d202:::Introduction to Environmental Science:::evsc100:::evsc100d202:::evsc 100 d202 introduction to environmental science
-1363:_:evsc:::100:::d203:::Introduction to Environmental Science:::evsc100:::evsc100d203:::evsc 100 d203 introduction to environmental science
-1364:_:evsc:::100:::d300:::Introduction to Environmental Science:::evsc100:::evsc100d300:::evsc 100 d300 introduction to environmental science
-1365:_:ls:::998:::g100:::MA Extended Essays:::ls998:::ls998g100:::ls 998 g100 ma extended essays
-1366:_:edpr:::583:::g100:::Advanced Field Studies in Collaborative Inquiry I:::edpr583:::edpr583g100:::edpr 583 g100 advanced field studies in collaborative inquiry i
-1367:_:bisc:::316:::d100:::Vertebrate Biology:::bisc316:::bisc316d100:::bisc 316 d100 vertebrate biology
-1368:_:bisc:::316:::lab1:::Vertebrate Biology:::bisc316:::bisc316lab1:::bisc 316 lab1 vertebrate biology
-1369:_:bisc:::316:::lab2:::Vertebrate Biology:::bisc316:::bisc316lab2:::bisc 316 lab2 vertebrate biology
-1370:_:bisc:::316:::lab3:::Vertebrate Biology:::bisc316:::bisc316lab3:::bisc 316 lab3 vertebrate biology
-1371:_:ls:::999:::g100:::MA Project:::ls999:::ls999g100:::ls 999 g100 ma project
-1372:_:ls:::999:::g200:::MA Project:::ls999:::ls999g200:::ls 999 g200 ma project
-1373:_:edpr:::585:::g100:::Advanced Field Studies in Collaborative Inquiry I:::edpr585:::edpr585g100:::edpr 585 g100 advanced field studies in collaborative inquiry i
-1374:_:bisc:::601:::g100:::Agriculture, Horticulture and Urban Pest Management:::bisc601:::bisc601g100:::bisc 601 g100 agriculture, horticulture and urban pest management
-1375:_:bisc:::499:::d100:::Undergraduate Research II:::bisc499:::bisc499d100:::bisc 499 d100 undergraduate research ii
-1376:_:bisc:::498:::d100:::Undergraduate Research I:::bisc498:::bisc498d100:::bisc 498 d100 undergraduate research i
-1377:_:acma:::438:::d100:::Job Practicum V:::acma438:::acma438d100:::acma 438 d100 job practicum v
-1378:_:acma:::438:::d200:::Job Practicum V:::acma438:::acma438d200:::acma 438 d200 job practicum v
-1379:_:acma:::438:::i100:::Job Practicum V:::acma438:::acma438i100:::acma 438 i100 job practicum v
-1380:_:japn:::100:::d100:::Introduction to Japanese I:::japn100:::japn100d100:::japn 100 d100 introduction to japanese i
-1381:_:japn:::100:::d200:::Introduction to Japanese I:::japn100:::japn100d200:::japn 100 d200 introduction to japanese i
-1382:_:japn:::100:::d300:::Introduction to Japanese I:::japn100:::japn100d300:::japn 100 d300 introduction to japanese i
-1383:_:japn:::100:::d400:::Introduction to Japanese I:::japn100:::japn100d400:::japn 100 d400 introduction to japanese i
-1384:_:japn:::100:::d500:::Introduction to Japanese I:::japn100:::japn100d500:::japn 100 d500 introduction to japanese i
-1385:_:acma:::436:::d100:::Job Practicum III:::acma436:::acma436d100:::acma 436 d100 job practicum iii
-1386:_:acma:::436:::d200:::Job Practicum III:::acma436:::acma436d200:::acma 436 d200 job practicum iii
-1387:_:acma:::436:::i100:::Job Practicum III:::acma436:::acma436i100:::acma 436 i100 job practicum iii
-1388:_:bisc:::491:::d100:::Research Technique:::bisc491:::bisc491d100:::bisc 491 d100 research technique
-1389:_:japn:::101:::d100:::Introduction to Japanese II:::japn101:::japn101d100:::japn 101 d100 introduction to japanese ii
-1390:_:japn:::101:::d200:::Introduction to Japanese II:::japn101:::japn101d200:::japn 101 d200 introduction to japanese ii
-1391:_:japn:::101:::e100:::Introduction to Japanese II:::japn101:::japn101e100:::japn 101 e100 introduction to japanese ii
-1392:_:acma:::336:::d100:::Job Practicum I:::acma336:::acma336d100:::acma 336 d100 job practicum i
-1393:_:acma:::336:::d200:::Job Practicum I:::acma336:::acma336d200:::acma 336 d200 job practicum i
-1394:_:acma:::336:::i100:::Job Practicum I:::acma336:::acma336i100:::acma 336 i100 job practicum i
-1395:_:pol:::291:::d100:::Political Science Practicum II:::pol291:::pol291d100:::pol 291 d100 political science practicum ii
-1396:_:pol:::291:::d200:::Political Science Practicum II:::pol291:::pol291d200:::pol 291 d200 political science practicum ii
-1397:_:pol:::291:::i100:::Political Science Practicum II:::pol291:::pol291i100:::pol 291 i100 political science practicum ii
-1398:_:pol:::301:::d100:::Political Science Practicum III:::pol301:::pol301d100:::pol 301 d100 political science practicum iii
-1399:_:pol:::301:::d200:::Political Science Practicum III:::pol301:::pol301d200:::pol 301 d200 political science practicum iii
-1400:_:pol:::301:::i100:::Political Science Practicum III:::pol301:::pol301i100:::pol 301 i100 political science practicum iii
-1401:_:arch:::351:::d100:::Practicum II:::arch351:::arch351d100:::arch 351 d100 practicum ii
-1402:_:arch:::351:::d200:::Practicum II:::arch351:::arch351d200:::arch 351 d200 practicum ii
-1403:_:bisc:::100:::d100:::Introduction to Biology:::bisc100:::bisc100d100:::bisc 100 d100 introduction to biology
-1404:_:bisc:::100:::d101:::Introduction to Biology:::bisc100:::bisc100d101:::bisc 100 d101 introduction to biology
-1405:_:bisc:::100:::d102:::Introduction to Biology:::bisc100:::bisc100d102:::bisc 100 d102 introduction to biology
-1406:_:bisc:::100:::d103:::Introduction to Biology:::bisc100:::bisc100d103:::bisc 100 d103 introduction to biology
-1407:_:bisc:::100:::d104:::Introduction to Biology:::bisc100:::bisc100d104:::bisc 100 d104 introduction to biology
-1408:_:mse:::353:::d100:::Power Electronics and Electric Machinery:::mse353:::mse353d100:::mse 353 d100 power electronics and electric machinery
-1409:_:mse:::353:::d101:::Power Electronics and Electric Machinery:::mse353:::mse353d101:::mse 353 d101 power electronics and electric machinery
-1410:_:mse:::353:::lab1:::Power Electronics and Electric Machinery:::mse353:::mse353lab1:::mse 353 lab1 power electronics and electric machinery
-1411:_:mse:::353:::lab2:::Power Electronics and Electric Machinery:::mse353:::mse353lab2:::mse 353 lab2 power electronics and electric machinery
-1412:_:mse:::353:::lab3:::Power Electronics and Electric Machinery:::mse353:::mse353lab3:::mse 353 lab3 power electronics and electric machinery
-1413:_:arch:::350:::d100:::Practicum I:::arch350:::arch350d100:::arch 350 d100 practicum i
-1414:_:arch:::350:::d200:::Practicum I:::arch350:::arch350d200:::arch 350 d200 practicum i
-1415:_:cmpt:::628:::g100:::Graduate Co-op Practicum III:::cmpt628:::cmpt628g100:::cmpt 628 g100 graduate co-op practicum iii
-1416:_:cmpt:::628:::g200:::Graduate Co-op Practicum III:::cmpt628:::cmpt628g200:::cmpt 628 g200 graduate co-op practicum iii
-1417:_:cmpt:::628:::g300:::Graduate Co-op Practicum III:::cmpt628:::cmpt628g300:::cmpt 628 g300 graduate co-op practicum iii
-1418:_:cmpt:::628:::g400:::Graduate Co-op Practicum III:::cmpt628:::cmpt628g400:::cmpt 628 g400 graduate co-op practicum iii
-1419:_:cmpt:::628:::i100:::Graduate Co-op Practicum III:::cmpt628:::cmpt628i100:::cmpt 628 i100 graduate co-op practicum iii
-1420:_:masc:::410:::d100:::Marine Invertebrate Zoology:::masc410:::masc410d100:::masc 410 d100 marine invertebrate zoology
-1421:_:cmpt:::627:::g100:::Graduate Co-op Practicum II:::cmpt627:::cmpt627g100:::cmpt 627 g100 graduate co-op practicum ii
-1422:_:cmpt:::627:::g200:::Graduate Co-op Practicum II:::cmpt627:::cmpt627g200:::cmpt 627 g200 graduate co-op practicum ii
-1423:_:cmpt:::627:::g300:::Graduate Co-op Practicum II:::cmpt627:::cmpt627g300:::cmpt 627 g300 graduate co-op practicum ii
-1424:_:cmpt:::627:::g400:::Graduate Co-op Practicum II:::cmpt627:::cmpt627g400:::cmpt 627 g400 graduate co-op practicum ii
-1425:_:cmpt:::627:::i100:::Graduate Co-op Practicum II:::cmpt627:::cmpt627i100:::cmpt 627 i100 graduate co-op practicum ii
-1426:_:bisc:::101:::d100:::General Biology:::bisc101:::bisc101d100:::bisc 101 d100 general biology
-1427:_:bisc:::101:::d101:::General Biology:::bisc101:::bisc101d101:::bisc 101 d101 general biology
-1428:_:bisc:::101:::d102:::General Biology:::bisc101:::bisc101d102:::bisc 101 d102 general biology
-1429:_:bisc:::101:::d103:::General Biology:::bisc101:::bisc101d103:::bisc 101 d103 general biology
-1430:_:bisc:::101:::d105:::General Biology:::bisc101:::bisc101d105:::bisc 101 d105 general biology
-1431:_:bisc:::101:::d106:::General Biology:::bisc101:::bisc101d106:::bisc 101 d106 general biology
-1432:_:bisc:::101:::d108:::General Biology:::bisc101:::bisc101d108:::bisc 101 d108 general biology
-1433:_:cmpt:::895:::g100:::Master Program Extended Essay:::cmpt895:::cmpt895g100:::cmpt 895 g100 master program extended essay
-1434:_:edpr:::581:::g100:::Advanced Field Studies in Collaborative Inquiry I:::edpr581:::edpr581g100:::edpr 581 g100 advanced field studies in collaborative inquiry i
-1435:_:chem:::484:::d100:::Two-Semester Undergraduate Research in Chemistry:::chem484:::chem484d100:::chem 484 d100 two-semester undergraduate research in chemistry
-1436:_:phys:::233:::d100:::Physics Laboratory IV:::phys233:::phys233d100:::phys 233 d100 physics laboratory iv
-1437:_:easc:::308:::d100:::Field Geology III:::easc308:::easc308d100:::easc 308 d100 field geology iii
-1438:_:bus:::202:::d100:::Foundations for Collaborative Work Environments:::bus202:::bus202d100:::bus 202 d100 foundations for collaborative work environments
-1439:_:bus:::202:::d101:::Foundations for Collaborative Work Environments:::bus202:::bus202d101:::bus 202 d101 foundations for collaborative work environments
-1440:_:bus:::202:::d102:::Foundations for Collaborative Work Environments:::bus202:::bus202d102:::bus 202 d102 foundations for collaborative work environments
-1441:_:bus:::202:::d103:::Foundations for Collaborative Work Environments:::bus202:::bus202d103:::bus 202 d103 foundations for collaborative work environments
-1442:_:bus:::202:::d200:::Foundations for Collaborative Work Environments:::bus202:::bus202d200:::bus 202 d200 foundations for collaborative work environments
-1443:_:bus:::202:::d201:::Foundations for Collaborative Work Environments:::bus202:::bus202d201:::bus 202 d201 foundations for collaborative work environments
-1444:_:bus:::202:::d202:::Foundations for Collaborative Work Environments:::bus202:::bus202d202:::bus 202 d202 foundations for collaborative work environments
-1445:_:bus:::202:::d203:::Foundations for Collaborative Work Environments:::bus202:::bus202d203:::bus 202 d203 foundations for collaborative work environments
-1446:_:bus:::238:::d100:::Introduction to Entrepreneurship and Innovation:::bus238:::bus238d100:::bus 238 d100 introduction to entrepreneurship and innovation
-1447:_:bus:::405:::d100:::Technology Entrepreneurship II:::bus405:::bus405d100:::bus 405 d100 technology entrepreneurship ii
-1448:_:arch:::100:::c100:::Ancient Peoples and Places:::arch100:::arch100c100:::arch 100 c100 ancient peoples and places
-1449:_:arch:::100:::d100:::Ancient Peoples and Places:::arch100:::arch100d100:::arch 100 d100 ancient peoples and places
-1450:_:edpr:::582:::g100:::Advanced Field Studies in Collaborative Inquiry I:::edpr582:::edpr582g100:::edpr 582 g100 advanced field studies in collaborative inquiry i
-1451:_:is:::497:::d100:::Field Practice:::is497:::is497d100:::is 497 d100 field practice
-1452:_:is:::497:::d200:::Field Practice:::is497:::is497d200:::is 497 d200 field practice
-1453:_:hist:::489:::d100:::Studies in History:::hist489:::hist489d100:::hist 489 d100 studies in history
-1454:_:bisc:::102:::d100:::General Biology:::bisc102:::bisc102d100:::bisc 102 d100 general biology
-1455:_:bisc:::102:::d101:::General Biology:::bisc102:::bisc102d101:::bisc 102 d101 general biology
-1456:_:bisc:::102:::d102:::General Biology:::bisc102:::bisc102d102:::bisc 102 d102 general biology
-1457:_:bisc:::102:::d103:::General Biology:::bisc102:::bisc102d103:::bisc 102 d103 general biology
-1458:_:bisc:::102:::d104:::General Biology:::bisc102:::bisc102d104:::bisc 102 d104 general biology
-1459:_:bisc:::102:::d105:::General Biology:::bisc102:::bisc102d105:::bisc 102 d105 general biology
-1460:_:bisc:::102:::d106:::General Biology:::bisc102:::bisc102d106:::bisc 102 d106 general biology
-1461:_:bisc:::102:::d107:::General Biology:::bisc102:::bisc102d107:::bisc 102 d107 general biology
-1462:_:bisc:::102:::d108:::General Biology:::bisc102:::bisc102d108:::bisc 102 d108 general biology
-1463:_:cmns:::202:::d100:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d100:::cmns 202 d100 design and method in qualitative communication research
-1464:_:cmns:::202:::d101:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d101:::cmns 202 d101 design and method in qualitative communication research
-1465:_:cmns:::202:::d102:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d102:::cmns 202 d102 design and method in qualitative communication research
-1466:_:cmns:::202:::d103:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d103:::cmns 202 d103 design and method in qualitative communication research
-1467:_:cmns:::202:::d104:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d104:::cmns 202 d104 design and method in qualitative communication research
-1468:_:cmns:::202:::d105:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d105:::cmns 202 d105 design and method in qualitative communication research
-1469:_:cmns:::202:::d106:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d106:::cmns 202 d106 design and method in qualitative communication research
-1470:_:ensc:::703:::g100:::Graduate Co-op Practicum III:::ensc703:::ensc703g100:::ensc 703 g100 graduate co-op practicum iii
-1471:_:ensc:::703:::g200:::Graduate Co-op Practicum III:::ensc703:::ensc703g200:::ensc 703 g200 graduate co-op practicum iii
-1472:_:ensc:::703:::i100:::Graduate Co-op Practicum III:::ensc703:::ensc703i100:::ensc 703 i100 graduate co-op practicum iii
-1473:_:apma:::995:::g100:::PhD Oral Candidacy Exam:::apma995:::apma995g100:::apma 995 g100 phd oral candidacy exam
-1474:_:stat:::897:::g100:::PhD Comprehensive Exam:::stat897:::stat897g100:::stat 897 g100 phd comprehensive exam
-1475:_:bisc:::202:::c100:::Genetics:::bisc202:::bisc202c100:::bisc 202 c100 genetics
-1476:_:bisc:::202:::d100:::Genetics:::bisc202:::bisc202d100:::bisc 202 d100 genetics
-1477:_:bisc:::202:::d101:::Genetics:::bisc202:::bisc202d101:::bisc 202 d101 genetics
-1478:_:bisc:::202:::d102:::Genetics:::bisc202:::bisc202d102:::bisc 202 d102 genetics
-1479:_:bisc:::202:::d103:::Genetics:::bisc202:::bisc202d103:::bisc 202 d103 genetics
-1480:_:bisc:::202:::d104:::Genetics:::bisc202:::bisc202d104:::bisc 202 d104 genetics
-1481:_:bisc:::202:::d105:::Genetics:::bisc202:::bisc202d105:::bisc 202 d105 genetics
-1482:_:bisc:::202:::d106:::Genetics:::bisc202:::bisc202d106:::bisc 202 d106 genetics
-1483:_:masc:::401:::d100:::Directed Studies in Marine Sciences:::masc401:::masc401d100:::masc 401 d100 directed studies in marine sciences
-1484:_:bus:::511:::g100:::Business Ethics:::bus511:::bus511g100:::bus 511 g100 business ethics
-1485:_:hist:::490:::d100:::Studies in History:::hist490:::hist490d100:::hist 490 d100 studies in history
-1486:_:masc:::400:::d100:::Directed Studies:::masc400:::masc400d100:::masc 400 d100 directed studies
-1487:_:fep:::203:::d100:::Exchange Study - Not included in GPA:::fep203:::fep203d100:::fep 203 d100 exchange study - not included in gpa
-1488:_:arch:::131:::c100:::Human Origins:::arch131:::arch131c100:::arch 131 c100 human origins
-1489:_:arch:::131:::d100:::Human Origins:::arch131:::arch131d100:::arch 131 d100 human origins
-1490:_:arch:::131:::d200:::Human Origins:::arch131:::arch131d200:::arch 131 d200 human origins
-1491:_:sd:::499:::e100:::Special Topics in Sustainable Development:::sd499:::sd499e100:::sd 499 e100 special topics in sustainable development
-1492:_:bus:::498:::d100:::Directed Studies:::bus498:::bus498d100:::bus 498 d100 directed studies
-1493:_:cmpt:::127:::d100:::Computing Laboratory:::cmpt127:::cmpt127d100:::cmpt 127 d100 computing laboratory
-1494:_:cmpt:::127:::d200:::Computing Laboratory:::cmpt127:::cmpt127d200:::cmpt 127 d200 computing laboratory
-1495:_:cmpt:::127:::d300:::Computing Laboratory:::cmpt127:::cmpt127d300:::cmpt 127 d300 computing laboratory
-1496:_:ling:::491:::d100:::Directed Research:::ling491:::ling491d100:::ling 491 d100 directed research
-1497:_:ling:::491:::d200:::Directed Research:::ling491:::ling491d200:::ling 491 d200 directed research
-1498:_:pol:::290:::d100:::Political Science Practicum I:::pol290:::pol290d100:::pol 290 d100 political science practicum i
-1499:_:pol:::290:::d200:::Political Science Practicum I:::pol290:::pol290d200:::pol 290 d200 political science practicum i
-1500:_:pol:::290:::i100:::Political Science Practicum I:::pol290:::pol290i100:::pol 290 i100 political science practicum i
-1501:_:bisc:::298:::d100:::Introduction to Undergraduate Research in Biological Sciences:::bisc298:::bisc298d100:::bisc 298 d100 introduction to undergraduate research in biological sciences
-1502:_:hs:::216:::d100:::STT - War and Society:::hs216:::hs216d100:::hs 216 d100 stt - war and society
-1503:_:cmns:::395:::d100:::Communication Practicum I:::cmns395:::cmns395d100:::cmns 395 d100 communication practicum i
-1504:_:cmns:::395:::d200:::Communication Practicum I:::cmns395:::cmns395d200:::cmns 395 d200 communication practicum i
-1505:_:cmns:::395:::i100:::Communication Practicum I:::cmns395:::cmns395i100:::cmns 395 i100 communication practicum i
-1506:_:math:::152:::d100:::Calculus II:::math152:::math152d100:::math 152 d100 calculus ii
-1507:_:math:::152:::op01:::Calculus II:::math152:::math152op01:::math 152 op01 calculus ii
-1508:_:cmns:::396:::d100:::Communication Practicum II:::cmns396:::cmns396d100:::cmns 396 d100 communication practicum ii
-1509:_:cmns:::396:::d200:::Communication Practicum II:::cmns396:::cmns396d200:::cmns 396 d200 communication practicum ii
-1510:_:cmns:::396:::i100:::Communication Practicum II:::cmns396:::cmns396i100:::cmns 396 i100 communication practicum ii
-1511:_:cmns:::895:::g100:::Comprehensive Examination:::cmns895:::cmns895g100:::cmns 895 g100 comprehensive examination
-1512:_:cmns:::895:::g200:::Comprehensive Examination:::cmns895:::cmns895g200:::cmns 895 g200 comprehensive examination
-1513:_:educ:::935:::g001:::Learning Design Demonstration of Mastery:::educ935:::educ935g001:::educ 935 g001 learning design demonstration of mastery
-1514:_:econ:::986:::g100:::Comprehensive Examination in Macroeconomic Theory:::econ986:::econ986g100:::econ 986 g100 comprehensive examination in macroeconomic theory
-1515:_:lbst:::311:::d100:::Labour and the Environment:::lbst311:::lbst311d100:::lbst 311 d100 labour and the environment
-1516:_:educ:::934:::g001:::Learning Design Development Workshop:::educ934:::educ934g001:::educ 934 g001 learning design development workshop
-1517:_:arch:::899:::g100:::PhD Thesis:::arch899:::arch899g100:::arch 899 g100 phd thesis
-1518:_:arch:::899:::g200:::PhD Thesis:::arch899:::arch899g200:::arch 899 g200 phd thesis
-1519:_:econ:::985:::g100:::Comprehensive Examination in Microeconomic Theory:::econ985:::econ985g100:::econ 985 g100 comprehensive examination in microeconomic theory
-1520:_:arch:::898:::g100:::MA Thesis:::arch898:::arch898g100:::arch 898 g100 ma thesis
-1521:_:arch:::898:::g200:::MA Thesis:::arch898:::arch898g200:::arch 898 g200 ma thesis
-1522:_:arch:::898:::g300:::MA Thesis:::arch898:::arch898g300:::arch 898 g300 ma thesis
-1523:_:cmns:::349:::d100:::Environment, Media and Communication:::cmns349:::cmns349d100:::cmns 349 d100 environment, media and communication
-1524:_:cmns:::349:::d101:::Environment, Media and Communication:::cmns349:::cmns349d101:::cmns 349 d101 environment, media and communication
-1525:_:cmns:::349:::d102:::Environment, Media and Communication:::cmns349:::cmns349d102:::cmns 349 d102 environment, media and communication
-1526:_:cmns:::349:::d103:::Environment, Media and Communication:::cmns349:::cmns349d103:::cmns 349 d103 environment, media and communication
-1527:_:cmns:::349:::d104:::Environment, Media and Communication:::cmns349:::cmns349d104:::cmns 349 d104 environment, media and communication
-1528:_:cmns:::349:::d105:::Environment, Media and Communication:::cmns349:::cmns349d105:::cmns 349 d105 environment, media and communication
-1529:_:pub:::480:::d100:::Special Topics in Publishing:::pub480:::pub480d100:::pub 480 d100 special topics in publishing
-1530:_:stat:::205:::c100:::Introduction to Statistics:::stat205:::stat205c100:::stat 205 c100 introduction to statistics
-1531:_:pub:::438:::d100:::Design Awareness in Publishing Processes and Products:::pub438:::pub438d100:::pub 438 d100 design awareness in publishing processes and products
-1532:_:pub:::438:::lab1:::Design Awareness in Publishing Processes and Products:::pub438:::pub438lab1:::pub 438 lab1 design awareness in publishing processes and products
-1533:_:pub:::438:::lab2:::Design Awareness in Publishing Processes and Products:::pub438:::pub438lab2:::pub 438 lab2 design awareness in publishing processes and products
-1534:_:pub:::484:::d100:::Directed Readings in Publishing:::pub484:::pub484d100:::pub 484 d100 directed readings in publishing
-1535:_:phys:::121:::d100:::Optics, Electricity and Magnetism:::phys121:::phys121d100:::phys 121 d100 optics, electricity and magnetism
-1536:_:phys:::121:::d101:::Optics, Electricity and Magnetism:::phys121:::phys121d101:::phys 121 d101 optics, electricity and magnetism
-1537:_:phys:::121:::d102:::Optics, Electricity and Magnetism:::phys121:::phys121d102:::phys 121 d102 optics, electricity and magnetism
-1538:_:phys:::121:::d103:::Optics, Electricity and Magnetism:::phys121:::phys121d103:::phys 121 d103 optics, electricity and magnetism
-1539:_:phys:::121:::d104:::Optics, Electricity and Magnetism:::phys121:::phys121d104:::phys 121 d104 optics, electricity and magnetism
-1540:_:phys:::121:::d105:::Optics, Electricity and Magnetism:::phys121:::phys121d105:::phys 121 d105 optics, electricity and magnetism
-1541:_:phys:::121:::d106:::Optics, Electricity and Magnetism:::phys121:::phys121d106:::phys 121 d106 optics, electricity and magnetism
-1542:_:phys:::121:::d107:::Optics, Electricity and Magnetism:::phys121:::phys121d107:::phys 121 d107 optics, electricity and magnetism
-1543:_:chem:::281:::d100:::Organic Chemistry I:::chem281:::chem281d100:::chem 281 d100 organic chemistry i
-1544:_:chem:::281:::d101:::Organic Chemistry I:::chem281:::chem281d101:::chem 281 d101 organic chemistry i
-1545:_:chem:::281:::d102:::Organic Chemistry I:::chem281:::chem281d102:::chem 281 d102 organic chemistry i
-1546:_:chem:::281:::d103:::Organic Chemistry I:::chem281:::chem281d103:::chem 281 d103 organic chemistry i
-1547:_:chem:::281:::d104:::Organic Chemistry I:::chem281:::chem281d104:::chem 281 d104 organic chemistry i
-1548:_:chem:::281:::d105:::Organic Chemistry I:::chem281:::chem281d105:::chem 281 d105 organic chemistry i
-1549:_:chem:::281:::d106:::Organic Chemistry I:::chem281:::chem281d106:::chem 281 d106 organic chemistry i
-1550:_:chem:::281:::d107:::Organic Chemistry I:::chem281:::chem281d107:::chem 281 d107 organic chemistry i
-1551:_:chem:::281:::la04:::Organic Chemistry I:::chem281:::chem281la04:::chem 281 la04 organic chemistry i
-1552:_:chem:::281:::la05:::Organic Chemistry I:::chem281:::chem281la05:::chem 281 la05 organic chemistry i
-1553:_:chem:::281:::lb04:::Organic Chemistry I:::chem281:::chem281lb04:::chem 281 lb04 organic chemistry i
-1554:_:chem:::281:::lb05:::Organic Chemistry I:::chem281:::chem281lb05:::chem 281 lb05 organic chemistry i
-1555:_:chem:::281:::le01:::Organic Chemistry I:::chem281:::chem281le01:::chem 281 le01 organic chemistry i
-1556:_:chem:::282:::d100:::Organic Chemistry II:::chem282:::chem282d100:::chem 282 d100 organic chemistry ii
-1557:_:chem:::282:::d101:::Organic Chemistry II:::chem282:::chem282d101:::chem 282 d101 organic chemistry ii
-1558:_:chem:::282:::d102:::Organic Chemistry II:::chem282:::chem282d102:::chem 282 d102 organic chemistry ii
-1559:_:chem:::282:::d103:::Organic Chemistry II:::chem282:::chem282d103:::chem 282 d103 organic chemistry ii
-1560:_:chem:::282:::d104:::Organic Chemistry II:::chem282:::chem282d104:::chem 282 d104 organic chemistry ii
-1561:_:chem:::282:::d105:::Organic Chemistry II:::chem282:::chem282d105:::chem 282 d105 organic chemistry ii
-1562:_:bus:::401:::d100:::Developing Organizational Opportunities:::bus401:::bus401d100:::bus 401 d100 developing organizational opportunities
-1563:_:ital:::100:::d100:::Introductory Italian I:::ital100:::ital100d100:::ital 100 d100 introductory italian i
-1564:_:ital:::101:::d100:::Introductory Italian II:::ital101:::ital101d100:::ital 101 d100 introductory italian ii
-1565:_:bus:::714:::g100:::Entrepreneurship:::bus714:::bus714g100:::bus 714 g100 entrepreneurship
-1566:_:cmns:::898:::g100:::MA Thesis:::cmns898:::cmns898g100:::cmns 898 g100 ma thesis
-1567:_:cmns:::898:::g200:::MA Thesis:::cmns898:::cmns898g200:::cmns 898 g200 ma thesis
-1568:_:cmns:::899:::g100:::PhD Thesis:::cmns899:::cmns899g100:::cmns 899 g100 phd thesis
-1569:_:cmns:::899:::g200:::PhD Thesis:::cmns899:::cmns899g200:::cmns 899 g200 phd thesis
-1570:_:ga:::102:::d100:::Introduction to Asia-Canada Studies II:::ga102:::ga102d100:::ga 102 d100 introduction to asia-canada studies ii
-1571:_:pol:::894:::g100:::Readings in Political Science II:::pol894:::pol894g100:::pol 894 g100 readings in political science ii
-1572:_:pol:::894:::g200:::Readings in Political Science II:::pol894:::pol894g200:::pol 894 g200 readings in political science ii
-1573:_:chem:::306:::d100:::Practicum I:::chem306:::chem306d100:::chem 306 d100 practicum i
-1574:_:chem:::306:::d200:::Practicum I:::chem306:::chem306d200:::chem 306 d200 practicum i
-1575:_:chem:::306:::i100:::Practicum I:::chem306:::chem306i100:::chem 306 i100 practicum i
-1576:_:chem:::286:::la04:::Organic Chemistry Laboratory II:::chem286:::chem286la04:::chem 286 la04 organic chemistry laboratory ii
-1577:_:chem:::286:::la07:::Organic Chemistry Laboratory II:::chem286:::chem286la07:::chem 286 la07 organic chemistry laboratory ii
-1578:_:pol:::892:::g100:::Research Project:::pol892:::pol892g100:::pol 892 g100 research project
-1579:_:pol:::892:::g200:::Research Project:::pol892:::pol892g200:::pol 892 g200 research project
-1580:_:pol:::893:::g100:::Readings in Political Sciences:::pol893:::pol893g100:::pol 893 g100 readings in political sciences
-1581:_:pol:::893:::g200:::Readings in Political Sciences:::pol893:::pol893g200:::pol 893 g200 readings in political sciences
-1582:_:pol:::891:::g100:::Master's Seminar:::pol891:::pol891g100:::pol 891 g100 master's seminar
-1583:_:pol:::891:::g200:::Master's Seminar:::pol891:::pol891g200:::pol 891 g200 master's seminar
-1584:_:pol:::890:::g100:::PhD Seminar:::pol890:::pol890g100:::pol 890 g100 phd seminar
-1585:_:pol:::898:::g100:::MA Thesis:::pol898:::pol898g100:::pol 898 g100 ma thesis
-1586:_:pol:::897:::g100:::Field Exam in Major Areas of MA Concentration:::pol897:::pol897g100:::pol 897 g100 field exam in major areas of ma concentration
-1587:_:pol:::896:::g100:::PhD Comprehensive Exam:::pol896:::pol896g100:::pol 896 g100 phd comprehensive exam
-1588:_:pol:::896:::g200:::PhD Comprehensive Exam:::pol896:::pol896g200:::pol 896 g200 phd comprehensive exam
-1589:_:phys:::102:::d100:::Physics for the Life Sciences II:::phys102:::phys102d100:::phys 102 d100 physics for the life sciences ii
-1590:_:phys:::102:::d101:::Physics for the Life Sciences II:::phys102:::phys102d101:::phys 102 d101 physics for the life sciences ii
-1591:_:phys:::102:::d102:::Physics for the Life Sciences II:::phys102:::phys102d102:::phys 102 d102 physics for the life sciences ii
-1592:_:phys:::102:::d103:::Physics for the Life Sciences II:::phys102:::phys102d103:::phys 102 d103 physics for the life sciences ii
-1593:_:phys:::102:::d104:::Physics for the Life Sciences II:::phys102:::phys102d104:::phys 102 d104 physics for the life sciences ii
-1594:_:phys:::102:::d105:::Physics for the Life Sciences II:::phys102:::phys102d105:::phys 102 d105 physics for the life sciences ii
-1595:_:phys:::102:::d106:::Physics for the Life Sciences II:::phys102:::phys102d106:::phys 102 d106 physics for the life sciences ii
-1596:_:phys:::102:::d107:::Physics for the Life Sciences II:::phys102:::phys102d107:::phys 102 d107 physics for the life sciences ii
-1597:_:phys:::102:::d108:::Physics for the Life Sciences II:::phys102:::phys102d108:::phys 102 d108 physics for the life sciences ii
-1598:_:phys:::102:::d109:::Physics for the Life Sciences II:::phys102:::phys102d109:::phys 102 d109 physics for the life sciences ii
-1599:_:phys:::102:::d110:::Physics for the Life Sciences II:::phys102:::phys102d110:::phys 102 d110 physics for the life sciences ii
-1600:_:phys:::102:::d111:::Physics for the Life Sciences II:::phys102:::phys102d111:::phys 102 d111 physics for the life sciences ii
-1601:_:phys:::102:::d112:::Physics for the Life Sciences II:::phys102:::phys102d112:::phys 102 d112 physics for the life sciences ii
-1602:_:phys:::102:::op01:::Physics for the Life Sciences II:::phys102:::phys102op01:::phys 102 op01 physics for the life sciences ii
-1603:_:pol:::895:::g100:::Extended Essays:::pol895:::pol895g100:::pol 895 g100 extended essays
-1604:_:cmns:::892:::g100:::Co-op Practicum II:::cmns892:::cmns892g100:::cmns 892 g100 co-op practicum ii
-1605:_:cmns:::892:::g200:::Co-op Practicum II:::cmns892:::cmns892g200:::cmns 892 g200 co-op practicum ii
-1606:_:cmns:::892:::i100:::Co-op Practicum II:::cmns892:::cmns892i100:::cmns 892 i100 co-op practicum ii
-1607:_:phys:::101:::d100:::Physics for the Life Sciences I:::phys101:::phys101d100:::phys 101 d100 physics for the life sciences i
-1608:_:phys:::101:::d101:::Physics for the Life Sciences I:::phys101:::phys101d101:::phys 101 d101 physics for the life sciences i
-1609:_:phys:::101:::d102:::Physics for the Life Sciences I:::phys101:::phys101d102:::phys 101 d102 physics for the life sciences i
-1610:_:phys:::101:::d103:::Physics for the Life Sciences I:::phys101:::phys101d103:::phys 101 d103 physics for the life sciences i
-1611:_:phys:::101:::d104:::Physics for the Life Sciences I:::phys101:::phys101d104:::phys 101 d104 physics for the life sciences i
-1612:_:phys:::101:::d105:::Physics for the Life Sciences I:::phys101:::phys101d105:::phys 101 d105 physics for the life sciences i
-1613:_:phys:::101:::d106:::Physics for the Life Sciences I:::phys101:::phys101d106:::phys 101 d106 physics for the life sciences i
-1614:_:phys:::101:::d107:::Physics for the Life Sciences I:::phys101:::phys101d107:::phys 101 d107 physics for the life sciences i
-1615:_:phys:::101:::d108:::Physics for the Life Sciences I:::phys101:::phys101d108:::phys 101 d108 physics for the life sciences i
-1616:_:phys:::101:::d109:::Physics for the Life Sciences I:::phys101:::phys101d109:::phys 101 d109 physics for the life sciences i
-1617:_:phys:::101:::d110:::Physics for the Life Sciences I:::phys101:::phys101d110:::phys 101 d110 physics for the life sciences i
-1618:_:arch:::301:::c100:::Ancient Visual Art:::arch301:::arch301c100:::arch 301 c100 ancient visual art
-1619:_:phys:::100:::d100:::Introduction to Physics:::phys100:::phys100d100:::phys 100 d100 introduction to physics
-1620:_:phys:::100:::d101:::Introduction to Physics:::phys100:::phys100d101:::phys 100 d101 introduction to physics
-1621:_:phys:::100:::d102:::Introduction to Physics:::phys100:::phys100d102:::phys 100 d102 introduction to physics
-1622:_:phys:::100:::d103:::Introduction to Physics:::phys100:::phys100d103:::phys 100 d103 introduction to physics
-1623:_:phys:::100:::d104:::Introduction to Physics:::phys100:::phys100d104:::phys 100 d104 introduction to physics
-1624:_:phys:::100:::d105:::Introduction to Physics:::phys100:::phys100d105:::phys 100 d105 introduction to physics
-1625:_:phys:::100:::d106:::Introduction to Physics:::phys100:::phys100d106:::phys 100 d106 introduction to physics
-1626:_:phys:::100:::d107:::Introduction to Physics:::phys100:::phys100d107:::phys 100 d107 introduction to physics
-1627:_:phys:::100:::d108:::Introduction to Physics:::phys100:::phys100d108:::phys 100 d108 introduction to physics
-1628:_:phys:::100:::d109:::Introduction to Physics:::phys100:::phys100d109:::phys 100 d109 introduction to physics
-1629:_:phys:::100:::op01:::Introduction to Physics:::phys100:::phys100op01:::phys 100 op01 introduction to physics
-1630:_:sa:::897:::g100:::PhD Qualifying Examinations:::sa897:::sa897g100:::sa 897 g100 phd qualifying examinations
-1631:_:math:::155:::d100:::Calculus II for the Biological Sciences:::math155:::math155d100:::math 155 d100 calculus ii for the biological sciences
-1632:_:math:::155:::opo1:::Calculus II for the Biological Sciences:::math155:::math155opo1:::math 155 opo1 calculus ii for the biological sciences
-1633:_:math:::157:::d100:::Calculus I for the Social Sciences:::math157:::math157d100:::math 157 d100 calculus i for the social sciences
-1634:_:math:::157:::op01:::Calculus I for the Social Sciences:::math157:::math157op01:::math 157 op01 calculus i for the social sciences
-1635:_:cmns:::881:::g100:::Research Internship:::cmns881:::cmns881g100:::cmns 881 g100 research internship
-1636:_:cmns:::881:::g200:::Research Internship:::cmns881:::cmns881g200:::cmns 881 g200 research internship
-1637:_:cmns:::881:::g300:::Research Internship:::cmns881:::cmns881g300:::cmns 881 g300 research internship
-1638:_:cmns:::881:::g400:::Research Internship:::cmns881:::cmns881g400:::cmns 881 g400 research internship
-1639:_:cmns:::881:::g500:::Research Internship:::cmns881:::cmns881g500:::cmns 881 g500 research internship
-1640:_:cmns:::880:::g100:::Directed Readings and Research:::cmns880:::cmns880g100:::cmns 880 g100 directed readings and research
-1641:_:cmns:::880:::g200:::Directed Readings and Research:::cmns880:::cmns880g200:::cmns 880 g200 directed readings and research
-1642:_:cmns:::880:::g300:::Directed Readings and Research:::cmns880:::cmns880g300:::cmns 880 g300 directed readings and research
-1643:_:cmns:::880:::g400:::Directed Readings and Research:::cmns880:::cmns880g400:::cmns 880 g400 directed readings and research
-1644:_:cmns:::880:::g500:::Directed Readings and Research:::cmns880:::cmns880g500:::cmns 880 g500 directed readings and research
-1645:_:cmns:::891:::g100:::Co-op Practicum I:::cmns891:::cmns891g100:::cmns 891 g100 co-op practicum i
-1646:_:cmns:::891:::g200:::Co-op Practicum I:::cmns891:::cmns891g200:::cmns 891 g200 co-op practicum i
-1647:_:cmns:::891:::i100:::Co-op Practicum I:::cmns891:::cmns891i100:::cmns 891 i100 co-op practicum i
-1648:_:hum:::240:::d100:::Studies in Modern European Culture:::hum240:::hum240d100:::hum 240 d100 studies in modern european culture
-1649:_:chem:::307:::d100:::Practicum II:::chem307:::chem307d100:::chem 307 d100 practicum ii
-1650:_:chem:::307:::d200:::Practicum II:::chem307:::chem307d200:::chem 307 d200 practicum ii
-1651:_:chem:::307:::i100:::Practicum II:::chem307:::chem307i100:::chem 307 i100 practicum ii
-1652:_:cmns:::882:::g100:::Research Field Work:::cmns882:::cmns882g100:::cmns 882 g100 research field work
-1653:_:cmns:::882:::g200:::Research Field Work:::cmns882:::cmns882g200:::cmns 882 g200 research field work
-1654:_:cmns:::882:::g300:::Research Field Work:::cmns882:::cmns882g300:::cmns 882 g300 research field work
-1655:_:cmns:::882:::g400:::Research Field Work:::cmns882:::cmns882g400:::cmns 882 g400 research field work
-1656:_:cmns:::882:::g500:::Research Field Work:::cmns882:::cmns882g500:::cmns 882 g500 research field work
-1657:_:bpk:::805:::g100:::Directed Studies:::bpk805:::bpk805g100:::bpk 805 g100 directed studies
-1658:_:mbb:::806:::g100:::PhD Graduate Research Candidacy Examination:::mbb806:::mbb806g100:::mbb 806 g100 phd graduate research candidacy examination
-1659:_:econ:::433:::d100:::Financial Econometrics & Trading:::econ433:::econ433d100:::econ 433 d100 financial econometrics & trading
-1660:_:bus:::330:::d100:::Income Taxation for Individuals:::bus330:::bus330d100:::bus 330 d100 income taxation for individuals
-1661:_:fren:::896:::g100:::Thesis Proposal:::fren896:::fren896g100:::fren 896 g100 thesis proposal
-1662:_:bpk:::499:::d100:::Undergraduate Honours Thesis Reporting:::bpk499:::bpk499d100:::bpk 499 d100 undergraduate honours thesis reporting
-1663:_:fren:::998:::g100:::Extended Essays:::fren998:::fren998g100:::fren 998 g100 extended essays
-1664:_:chin:::112:::d200:::STT - Introduction to Mandarin Chinese and Society II:::chin112:::chin112d200:::chin 112 d200 stt - introduction to mandarin chinese and society ii
-1665:_:chin:::112:::d201:::STT - Introduction to Mandarin Chinese and Society II:::chin112:::chin112d201:::chin 112 d201 stt - introduction to mandarin chinese and society ii
-1666:_:mse:::452:::d100:::Power Conversion in Alternative Energy Systems:::mse452:::mse452d100:::mse 452 d100 power conversion in alternative energy systems
-1667:_:mse:::452:::lab1:::Power Conversion in Alternative Energy Systems:::mse452:::mse452lab1:::mse 452 lab1 power conversion in alternative energy systems
-1668:_:mse:::452:::lab2:::Power Conversion in Alternative Energy Systems:::mse452:::mse452lab2:::mse 452 lab2 power conversion in alternative energy systems
-1669:_:mbb:::302:::d100:::Energy: From Cells to Society:::mbb302:::mbb302d100:::mbb 302 d100 energy: from cells to society
-1670:_:bpk:::498:::d100:::Directed Study Experiential:::bpk498:::bpk498d100:::bpk 498 d100 directed study experiential
-1671:_:cmpt:::777:::g100:::Formal Verification:::cmpt777:::cmpt777g100:::cmpt 777 g100 formal verification
-1672:_:phil:::899:::g100:::Non-Thesis Project Completion:::phil899:::phil899g100:::phil 899 g100 non-thesis project completion
-1673:_:bus:::755:::g100:::Topics in International Business:::bus755:::bus755g100:::bus 755 g100 topics in international business
-1674:_:phil:::898:::g100:::MA Thesis:::phil898:::phil898g100:::phil 898 g100 ma thesis
-1675:_:arch:::226:::c100:::The Prehistory of Religion: Shamans, Sorcerers and Saints:::arch226:::arch226c100:::arch 226 c100 the prehistory of religion: shamans, sorcerers and saints
-1676:_:arch:::226:::d100:::The Prehistory of Religion: Shamans, Sorcerers and Saints:::arch226:::arch226d100:::arch 226 d100 the prehistory of religion: shamans, sorcerers and saints
-1677:_:phil:::998:::g100:::PhD Thesis:::phil998:::phil998g100:::phil 998 g100 phd thesis
-1678:_:urb:::660:::g100:::Transportation and Urban Development:::urb660:::urb660g100:::urb 660 g100 transportation and urban development
-1679:_:cmns:::860:::g100:::Graduate Colloquium in Global Communication:::cmns860:::cmns860g100:::cmns 860 g100 graduate colloquium in global communication
-1680:_:cmns:::860:::g101:::Graduate Colloquium in Global Communication:::cmns860:::cmns860g101:::cmns 860 g101 graduate colloquium in global communication
-1681:_:cmns:::857:::g100:::Selected Topics in Communication Studies:::cmns857:::cmns857g100:::cmns 857 g100 selected topics in communication studies
-1682:_:cmns:::858:::g100:::Selected Topics in Communication Studies:::cmns858:::cmns858g100:::cmns 858 g100 selected topics in communication studies
-1683:_:math:::342:::d100:::Elementary Number Theory:::math342:::math342d100:::math 342 d100 elementary number theory
-1684:_:math:::342:::d101:::Elementary Number Theory:::math342:::math342d101:::math 342 d101 elementary number theory
-1685:_:math:::342:::d102:::Elementary Number Theory:::math342:::math342d102:::math 342 d102 elementary number theory
-1686:_:math:::342:::d103:::Elementary Number Theory:::math342:::math342d103:::math 342 d103 elementary number theory
-1687:_:ling:::899:::g100:::PhD Thesis:::ling899:::ling899g100:::ling 899 g100 phd thesis
-1688:_:ling:::899:::g200:::PhD Thesis:::ling899:::ling899g200:::ling 899 g200 phd thesis
-1689:_:ling:::899:::g300:::PhD Thesis:::ling899:::ling899g300:::ling 899 g300 phd thesis
-1690:_:ling:::899:::g400:::PhD Thesis:::ling899:::ling899g400:::ling 899 g400 phd thesis
-1691:_:ling:::899:::g500:::PhD Thesis:::ling899:::ling899g500:::ling 899 g500 phd thesis
-1692:_:ling:::899:::g600:::PhD Thesis:::ling899:::ling899g600:::ling 899 g600 phd thesis
-1693:_:ling:::899:::g700:::PhD Thesis:::ling899:::ling899g700:::ling 899 g700 phd thesis
-1694:_:ling:::899:::g800:::PhD Thesis:::ling899:::ling899g800:::ling 899 g800 phd thesis
-1695:_:ling:::898:::g100:::MA Thesis:::ling898:::ling898g100:::ling 898 g100 ma thesis
-1696:_:ling:::898:::g200:::MA Thesis:::ling898:::ling898g200:::ling 898 g200 ma thesis
-1697:_:ling:::898:::g300:::MA Thesis:::ling898:::ling898g300:::ling 898 g300 ma thesis
-1698:_:ling:::898:::g400:::MA Thesis:::ling898:::ling898g400:::ling 898 g400 ma thesis
-1699:_:ling:::898:::g500:::MA Thesis:::ling898:::ling898g500:::ling 898 g500 ma thesis
-1700:_:ling:::898:::g600:::MA Thesis:::ling898:::ling898g600:::ling 898 g600 ma thesis
-1701:_:ling:::898:::g700:::MA Thesis:::ling898:::ling898g700:::ling 898 g700 ma thesis
-1702:_:math:::337:::d100:::Job Practicum II:::math337:::math337d100:::math 337 d100 job practicum ii
-1703:_:math:::337:::d200:::Job Practicum II:::math337:::math337d200:::math 337 d200 job practicum ii
-1704:_:math:::337:::i100:::Job Practicum II:::math337:::math337i100:::math 337 i100 job practicum ii
-1705:_:math:::336:::d100:::Job Practicum I:::math336:::math336d100:::math 336 d100 job practicum i
-1706:_:math:::336:::d200:::Job Practicum I:::math336:::math336d200:::math 336 d200 job practicum i
-1707:_:math:::336:::i100:::Job Practicum I:::math336:::math336i100:::math 336 i100 job practicum i
-1708:_:mbb:::451:::d100:::Practicum IV:::mbb451:::mbb451d100:::mbb 451 d100 practicum iv
-1709:_:mbb:::451:::d200:::Practicum IV:::mbb451:::mbb451d200:::mbb 451 d200 practicum iv
-1710:_:mbb:::451:::i100:::Practicum IV:::mbb451:::mbb451i100:::mbb 451 i100 practicum iv
-1711:_:ling:::896:::g100:::Directed Research:::ling896:::ling896g100:::ling 896 g100 directed research
-1712:_:bus:::993:::g100:::Thesis Proposal:::bus993:::bus993g100:::bus 993 g100 thesis proposal
-1713:_:bpk:::496:::d100:::Directed Study Literature:::bpk496:::bpk496d100:::bpk 496 d100 directed study literature
-1714:_:bus:::638:::g100:::Marketing Strategy:::bus638:::bus638g100:::bus 638 g100 marketing strategy
-1715:_:bus:::640:::g100:::Managerial Accounting:::bus640:::bus640g100:::bus 640 g100 managerial accounting
-1716:_:ensc:::803:::g100:::Writing for Publication:::ensc803:::ensc803g100:::ensc 803 g100 writing for publication
-1717:_:bus:::510:::g100:::Financial and Managerial Accounting:::bus510:::bus510g100:::bus 510 g100 financial and managerial accounting
-1718:_:bus:::715:::g100:::Operations Management:::bus715:::bus715g100:::bus 715 g100 operations management
-1719:_:arch:::375:::d100:::From Soup to Nuts: The Archaeology of Food:::arch375:::arch375d100:::arch 375 d100 from soup to nuts: the archaeology of food
-1720:_:bus:::716:::g100:::Sustainability:::bus716:::bus716g100:::bus 716 g100 sustainability
-1721:_:bus:::311:::d100:::Introduction to Managerial Accounting and Financial Management:::bus311:::bus311d100:::bus 311 d100 introduction to managerial accounting and financial management
-1722:_:bus:::340:::d100:::International Business Strategy:::bus340:::bus340d100:::bus 340 d100 international business strategy
-1723:_:mbb:::492:::d100:::Individual Study Semester:::mbb492:::mbb492d100:::mbb 492 d100 individual study semester
-1724:_:mbb:::492:::d200:::Individual Study Semester:::mbb492:::mbb492d200:::mbb 492 d200 individual study semester
-1725:_:mbb:::492:::d300:::Individual Study Semester:::mbb492:::mbb492d300:::mbb 492 d300 individual study semester
-1726:_:mbb:::492:::d400:::Individual Study Semester:::mbb492:::mbb492d400:::mbb 492 d400 individual study semester
-1727:_:mbb:::492:::d500:::Individual Study Semester:::mbb492:::mbb492d500:::mbb 492 d500 individual study semester
-1728:_:mbb:::490:::d100:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d100:::mbb 490 d100 directed readings in molecular biology and biochemistry
-1729:_:mbb:::490:::d200:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d200:::mbb 490 d200 directed readings in molecular biology and biochemistry
-1730:_:mbb:::490:::d300:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d300:::mbb 490 d300 directed readings in molecular biology and biochemistry
-1731:_:mbb:::490:::d400:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d400:::mbb 490 d400 directed readings in molecular biology and biochemistry
-1732:_:mbb:::490:::d500:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d500:::mbb 490 d500 directed readings in molecular biology and biochemistry
-1733:_:mbb:::491:::d100:::Independent Study Semester:::mbb491:::mbb491d100:::mbb 491 d100 independent study semester
-1734:_:mbb:::491:::d200:::Independent Study Semester:::mbb491:::mbb491d200:::mbb 491 d200 independent study semester
-1735:_:mbb:::491:::d300:::Independent Study Semester:::mbb491:::mbb491d300:::mbb 491 d300 independent study semester
-1736:_:mbb:::491:::d400:::Independent Study Semester:::mbb491:::mbb491d400:::mbb 491 d400 independent study semester
-1737:_:mbb:::491:::d500:::Independent Study Semester:::mbb491:::mbb491d500:::mbb 491 d500 independent study semester
-1738:_:mbb:::452:::d100:::Practicum V:::mbb452:::mbb452d100:::mbb 452 d100 practicum v
-1739:_:mbb:::452:::d200:::Practicum V:::mbb452:::mbb452d200:::mbb 452 d200 practicum v
-1740:_:mbb:::452:::i100:::Practicum V:::mbb452:::mbb452i100:::mbb 452 i100 practicum v
-1741:_:hsci:::451:::d100:::Co-op Practicum IV:::hsci451:::hsci451d100:::hsci 451 d100 co-op practicum iv
-1742:_:hsci:::451:::d200:::Co-op Practicum IV:::hsci451:::hsci451d200:::hsci 451 d200 co-op practicum iv
-1743:_:hsci:::451:::i100:::Co-op Practicum IV:::hsci451:::hsci451i100:::hsci 451 i100 co-op practicum iv
-1744:_:bus:::393:::d100:::Commercial Law:::bus393:::bus393d100:::bus 393 d100 commercial law
-1745:_:bus:::393:::d101:::Commercial Law:::bus393:::bus393d101:::bus 393 d101 commercial law
-1746:_:bus:::393:::d102:::Commercial Law:::bus393:::bus393d102:::bus 393 d102 commercial law
-1747:_:bus:::393:::d103:::Commercial Law:::bus393:::bus393d103:::bus 393 d103 commercial law
-1748:_:bus:::393:::d104:::Commercial Law:::bus393:::bus393d104:::bus 393 d104 commercial law
-1749:_:bus:::393:::d200:::Commercial Law:::bus393:::bus393d200:::bus 393 d200 commercial law
-1750:_:bus:::393:::d201:::Commercial Law:::bus393:::bus393d201:::bus 393 d201 commercial law
-1751:_:bus:::393:::d202:::Commercial Law:::bus393:::bus393d202:::bus 393 d202 commercial law
-1752:_:bus:::393:::d203:::Commercial Law:::bus393:::bus393d203:::bus 393 d203 commercial law
-1753:_:bus:::393:::d204:::Commercial Law:::bus393:::bus393d204:::bus 393 d204 commercial law
-1754:_:bus:::393:::d300:::Commercial Law:::bus393:::bus393d300:::bus 393 d300 commercial law
-1755:_:bus:::393:::d301:::Commercial Law:::bus393:::bus393d301:::bus 393 d301 commercial law
-1756:_:bus:::393:::d302:::Commercial Law:::bus393:::bus393d302:::bus 393 d302 commercial law
-1757:_:bus:::393:::d303:::Commercial Law:::bus393:::bus393d303:::bus 393 d303 commercial law
-1758:_:bus:::393:::d304:::Commercial Law:::bus393:::bus393d304:::bus 393 d304 commercial law
-1759:_:bus:::393:::e100:::Commercial Law:::bus393:::bus393e100:::bus 393 e100 commercial law
-1760:_:bus:::393:::e101:::Commercial Law:::bus393:::bus393e101:::bus 393 e101 commercial law
-1761:_:bus:::393:::e102:::Commercial Law:::bus393:::bus393e102:::bus 393 e102 commercial law
-1762:_:bus:::393:::e103:::Commercial Law:::bus393:::bus393e103:::bus 393 e103 commercial law
-1763:_:bus:::393:::e104:::Commercial Law:::bus393:::bus393e104:::bus 393 e104 commercial law
-1764:_:hsci:::450:::d100:::Co-op Practicum III:::hsci450:::hsci450d100:::hsci 450 d100 co-op practicum iii
-1765:_:hsci:::450:::d200:::Co-op Practicum III:::hsci450:::hsci450d200:::hsci 450 d200 co-op practicum iii
-1766:_:hsci:::450:::i100:::Co-op Practicum III:::hsci450:::hsci450i100:::hsci 450 i100 co-op practicum iii
-1767:_:math:::251:::d100:::Calculus III:::math251:::math251d100:::math 251 d100 calculus iii
-1768:_:math:::251:::op01:::Calculus III:::math251:::math251op01:::math 251 op01 calculus iii
-1769:_:hsci:::351:::d100:::Co-op Practicum II:::hsci351:::hsci351d100:::hsci 351 d100 co-op practicum ii
-1770:_:hsci:::351:::d200:::Co-op Practicum II:::hsci351:::hsci351d200:::hsci 351 d200 co-op practicum ii
-1771:_:hsci:::351:::i100:::Co-op Practicum II:::hsci351:::hsci351i100:::hsci 351 i100 co-op practicum ii
-1772:_:ensc:::280:::e100:::Engineering Measurement and Data Analysis:::ensc280:::ensc280e100:::ensc 280 e100 engineering measurement and data analysis
-1773:_:ensc:::280:::e101:::Engineering Measurement and Data Analysis:::ensc280:::ensc280e101:::ensc 280 e101 engineering measurement and data analysis
-1774:_:ensc:::280:::la01:::Engineering Measurement and Data Analysis:::ensc280:::ensc280la01:::ensc 280 la01 engineering measurement and data analysis
-1775:_:mbb:::432:::d100:::Advanced Molecular Biology Techniques:::mbb432:::mbb432d100:::mbb 432 d100 advanced molecular biology techniques
-1776:_:hsci:::350:::d100:::Co-op Practicum I:::hsci350:::hsci350d100:::hsci 350 d100 co-op practicum i
-1777:_:hsci:::350:::d200:::Co-op Practicum I:::hsci350:::hsci350d200:::hsci 350 d200 co-op practicum i
-1778:_:hsci:::350:::i100:::Co-op Practicum I:::hsci350:::hsci350i100:::hsci 350 i100 co-op practicum i
-1779:_:bot:::150:::d100:::Back on Track Student Success:::bot150:::bot150d100:::bot 150 d100 back on track student success
-1780:_:chem:::407:::d100:::Practicum IV:::chem407:::chem407d100:::chem 407 d100 practicum iv
-1781:_:chem:::407:::d200:::Practicum IV:::chem407:::chem407d200:::chem 407 d200 practicum iv
-1782:_:chem:::407:::i100:::Practicum IV:::chem407:::chem407i100:::chem 407 i100 practicum iv
-1783:_:crim:::380:::c100:::Introduction to Cybercrime:::crim380:::crim380c100:::crim 380 c100 introduction to cybercrime
-1784:_:chem:::406:::d100:::Practicum III:::chem406:::chem406d100:::chem 406 d100 practicum iii
-1785:_:chem:::406:::d200:::Practicum III:::chem406:::chem406d200:::chem 406 d200 practicum iii
-1786:_:chem:::406:::i100:::Practicum III:::chem406:::chem406i100:::chem 406 i100 practicum iii
-1787:_:math:::240:::d100:::Algebra I: Linear Algebra:::math240:::math240d100:::math 240 d100 algebra i: linear algebra
-1788:_:math:::240:::opo1:::Algebra I: Linear Algebra:::math240:::math240opo1:::math 240 opo1 algebra i: linear algebra
-1789:_:hsci:::452:::d100:::Co-op Practicum V:::hsci452:::hsci452d100:::hsci 452 d100 co-op practicum v
-1790:_:hsci:::452:::d200:::Co-op Practicum V:::hsci452:::hsci452d200:::hsci 452 d200 co-op practicum v
-1791:_:hsci:::452:::i100:::Co-op Practicum V:::hsci452:::hsci452i100:::hsci 452 i100 co-op practicum v
-1792:_:chem:::380:::d100:::Chemical and Instrumental Methods of Identification of Organic Compounds:::chem380:::chem380d100:::chem 380 d100 chemical and instrumental methods of identification of organic compounds
-1793:_:chem:::380:::la01:::Chemical and Instrumental Methods of Identification of Organic Compounds:::chem380:::chem380la01:::chem 380 la01 chemical and instrumental methods of identification of organic compounds
-1794:_:crim:::458:::c100:::Community Policing:::crim458:::crim458c100:::crim 458 c100 community policing
-1795:_:hsci:::826:::g100:::Program Planning and Evaluation:::hsci826:::hsci826g100:::hsci 826 g100 program planning and evaluation
-1796:_:chem:::408:::d100:::Practicum V:::chem408:::chem408d100:::chem 408 d100 practicum v
-1797:_:chem:::408:::d200:::Practicum V:::chem408:::chem408d200:::chem 408 d200 practicum v
-1798:_:chem:::408:::i100:::Practicum V:::chem408:::chem408i100:::chem 408 i100 practicum v
-1799:_:educ:::856:::g001:::Sociocultural Perspectives on Education and Identity:::educ856:::educ856g001:::educ 856 g001 sociocultural perspectives on education and identity
-1800:_:educ:::856:::g021:::Sociocultural Perspectives on Education and Identity:::educ856:::educ856g021:::educ 856 g021 sociocultural perspectives on education and identity
-1801:_:hsci:::308:::d100:::Sickness and Wealth: Health in Global Perspective:::hsci308:::hsci308d100:::hsci 308 d100 sickness and wealth: health in global perspective
-1802:_:educ:::376:::d100:::Introduction to Educational Leadership:::educ376:::educ376d100:::educ 376 d100 introduction to educational leadership
-1803:_:cogs:::371:::d100:::Cognitive Science Practicum II:::cogs371:::cogs371d100:::cogs 371 d100 cognitive science practicum ii
-1804:_:cogs:::371:::d200:::Cognitive Science Practicum II:::cogs371:::cogs371d200:::cogs 371 d200 cognitive science practicum ii
-1805:_:cogs:::371:::i100:::Cognitive Science Practicum II:::cogs371:::cogs371i100:::cogs 371 i100 cognitive science practicum ii
-1806:_:math:::310:::d100:::Introduction to Ordinary Differential Equations:::math310:::math310d100:::math 310 d100 introduction to ordinary differential equations
-1807:_:math:::310:::d101:::Introduction to Ordinary Differential Equations:::math310:::math310d101:::math 310 d101 introduction to ordinary differential equations
-1808:_:math:::310:::d102:::Introduction to Ordinary Differential Equations:::math310:::math310d102:::math 310 d102 introduction to ordinary differential equations
-1809:_:math:::310:::d103:::Introduction to Ordinary Differential Equations:::math310:::math310d103:::math 310 d103 introduction to ordinary differential equations
-1810:_:math:::310:::d104:::Introduction to Ordinary Differential Equations:::math310:::math310d104:::math 310 d104 introduction to ordinary differential equations
-1811:_:math:::310:::d105:::Introduction to Ordinary Differential Equations:::math310:::math310d105:::math 310 d105 introduction to ordinary differential equations
-1812:_:math:::310:::d106:::Introduction to Ordinary Differential Equations:::math310:::math310d106:::math 310 d106 introduction to ordinary differential equations
-1813:_:math:::310:::d107:::Introduction to Ordinary Differential Equations:::math310:::math310d107:::math 310 d107 introduction to ordinary differential equations
-1814:_:math:::310:::d108:::Introduction to Ordinary Differential Equations:::math310:::math310d108:::math 310 d108 introduction to ordinary differential equations
-1815:_:math:::310:::d109:::Introduction to Ordinary Differential Equations:::math310:::math310d109:::math 310 d109 introduction to ordinary differential equations
-1816:_:cogs:::370:::d100:::Cognitive Science Practicum I:::cogs370:::cogs370d100:::cogs 370 d100 cognitive science practicum i
-1817:_:cogs:::370:::d200:::Cognitive Science Practicum I:::cogs370:::cogs370d200:::cogs 370 d200 cognitive science practicum i
-1818:_:cogs:::370:::i100:::Cognitive Science Practicum I:::cogs370:::cogs370i100:::cogs 370 i100 cognitive science practicum i
-1819:_:pol:::311:::d100:::Contemporary Perspectives on Ancient Political Thought:::pol311:::pol311d100:::pol 311 d100 contemporary perspectives on ancient political thought
-1820:_:bus:::374:::d200:::Organization Theory:::bus374:::bus374d200:::bus 374 d200 organization theory
-1821:_:psyc:::308:::d100:::History and Systems of Modern Psychology:::psyc308:::psyc308d100:::psyc 308 d100 history and systems of modern psychology
-1822:_:cmns:::428:::d100:::Media Analysis Project Group:::cmns428:::cmns428d100:::cmns 428 d100 media analysis project group
-1823:_:cmns:::428:::d200:::Media Analysis Project Group:::cmns428:::cmns428d200:::cmns 428 d200 media analysis project group
-1824:_:cmns:::428:::d300:::Media Analysis Project Group:::cmns428:::cmns428d300:::cmns 428 d300 media analysis project group
-1825:_:hum:::330:::j100:::Religion in Context:::hum330:::hum330j100:::hum 330 j100 religion in context
-1826:_:bus:::381:::d100:::Introduction to Human Resource Management:::bus381:::bus381d100:::bus 381 d100 introduction to human resource management
-1827:_:bus:::381:::e100:::Introduction to Human Resource Management:::bus381:::bus381e100:::bus 381 e100 introduction to human resource management
-1828:_:hsci:::216:::d100:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d100:::hsci 216 d100 ecological determinants of human growth, development and health
-1829:_:hsci:::216:::d101:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d101:::hsci 216 d101 ecological determinants of human growth, development and health
-1830:_:hsci:::216:::d102:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d102:::hsci 216 d102 ecological determinants of human growth, development and health
-1831:_:hsci:::216:::d103:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d103:::hsci 216 d103 ecological determinants of human growth, development and health
-1832:_:hsci:::216:::d104:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d104:::hsci 216 d104 ecological determinants of human growth, development and health
-1833:_:hsci:::216:::d105:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d105:::hsci 216 d105 ecological determinants of human growth, development and health
-1834:_:hsci:::216:::d106:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d106:::hsci 216 d106 ecological determinants of human growth, development and health
-1835:_:hsci:::216:::d107:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d107:::hsci 216 d107 ecological determinants of human growth, development and health
-1836:_:hsci:::216:::d108:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d108:::hsci 216 d108 ecological determinants of human growth, development and health
-1837:_:hum:::340:::d100:::Great Cities in Their Time:::hum340:::hum340d100:::hum 340 d100 great cities in their time
-1838:_:hum:::340:::d200:::Great Cities in Their Time:::hum340:::hum340d200:::hum 340 d200 great cities in their time
-1839:_:econ:::410:::d100:::Seminar in Monetary Theory:::econ410:::econ410d100:::econ 410 d100 seminar in monetary theory
-1840:_:engl:::357:::c100:::Studies in Canadian Literature since 1920:::engl357:::engl357c100:::engl 357 c100 studies in canadian literature since 1920
-1841:_:econ:::425:::d200:::Industrial Organization: Imperfect Competition:::econ425:::econ425d200:::econ 425 d200 industrial organization: imperfect competition
-1842:_:educ:::351:::c100:::Teaching the Older Adult:::educ351:::educ351c100:::educ 351 c100 teaching the older adult
-1843:_:educ:::351:::c200:::Teaching the Older Adult:::educ351:::educ351c200:::educ 351 c200 teaching the older adult
-1844:_:educ:::351:::d100:::Teaching the Older Adult:::educ351:::educ351d100:::educ 351 d100 teaching the older adult
-1845:_:pol:::222:::c100:::Introduction to Canadian Politics:::pol222:::pol222c100:::pol 222 c100 introduction to canadian politics
-1846:_:bpk:::446:::d100:::Neurological Disorders:::bpk446:::bpk446d100:::bpk 446 d100 neurological disorders
-1847:_:ca:::306:::d100:::Internship in Contemporary Arts I:::ca306:::ca306d100:::ca 306 d100 internship in contemporary arts i
-1848:_:ca:::306:::d200:::Internship in Contemporary Arts I:::ca306:::ca306d200:::ca 306 d200 internship in contemporary arts i
-1849:_:ca:::306:::d300:::Internship in Contemporary Arts I:::ca306:::ca306d300:::ca 306 d300 internship in contemporary arts i
-1850:_:chem:::898:::g100:::MSc Thesis:::chem898:::chem898g100:::chem 898 g100 msc thesis
-1851:_:chem:::898:::g200:::MSc Thesis:::chem898:::chem898g200:::chem 898 g200 msc thesis
-1852:_:educ:::861:::g031:::Study of Learning Environments:::educ861:::educ861g031:::educ 861 g031 study of learning environments
-1853:_:psyc:::379:::c100:::Clinical Forensic Psychology:::psyc379:::psyc379c100:::psyc 379 c100 clinical forensic psychology
-1854:_:chem:::899:::g100:::PhD Thesis:::chem899:::chem899g100:::chem 899 g100 phd thesis
-1855:_:chem:::899:::g200:::PhD Thesis:::chem899:::chem899g200:::chem 899 g200 phd thesis
-1856:_:hsci:::486:::d100:::Senior Seminar in Global Health:::hsci486:::hsci486d100:::hsci 486 d100 senior seminar in global health
-1857:_:hsci:::486:::d200:::Senior Seminar in Global Health:::hsci486:::hsci486d200:::hsci 486 d200 senior seminar in global health
-1858:_:pol:::232:::j100:::US Politics:::pol232:::pol232j100:::pol 232 j100 us politics
-1859:_:educ:::863:::g001:::Quantitative Methods in Educational Research:::educ863:::educ863g001:::educ 863 g001 quantitative methods in educational research
-1860:_:pol:::899:::g100:::PhD Thesis Research:::pol899:::pol899g100:::pol 899 g100 phd thesis research
-1861:_:bpk:::453:::d100:::Practicum V:::bpk453:::bpk453d100:::bpk 453 d100 practicum v
-1862:_:bpk:::453:::d200:::Practicum V:::bpk453:::bpk453d200:::bpk 453 d200 practicum v
-1863:_:bpk:::453:::i100:::Practicum V:::bpk453:::bpk453i100:::bpk 453 i100 practicum v
-1864:_:educ:::341:::c100:::Literacy, Education and Culture:::educ341:::educ341c100:::educ 341 c100 literacy, education and culture
-1865:_:educ:::341:::c200:::Literacy, Education and Culture:::educ341:::educ341c200:::educ 341 c200 literacy, education and culture
-1866:_:educ:::341:::d100:::Literacy, Education and Culture:::educ341:::educ341d100:::educ 341 d100 literacy, education and culture
-1867:_:bus:::362:::d100:::Business Process Analysis:::bus362:::bus362d100:::bus 362 d100 business process analysis
-1868:_:bus:::362:::d101:::Business Process Analysis:::bus362:::bus362d101:::bus 362 d101 business process analysis
-1869:_:bus:::362:::d102:::Business Process Analysis:::bus362:::bus362d102:::bus 362 d102 business process analysis
-1870:_:bus:::362:::d103:::Business Process Analysis:::bus362:::bus362d103:::bus 362 d103 business process analysis
-1871:_:bpk:::452:::d100:::Practicum IV:::bpk452:::bpk452d100:::bpk 452 d100 practicum iv
-1872:_:bpk:::452:::d200:::Practicum IV:::bpk452:::bpk452d200:::bpk 452 d200 practicum iv
-1873:_:bpk:::452:::i100:::Practicum IV:::bpk452:::bpk452i100:::bpk 452 i100 practicum iv
-1874:_:bpk:::451:::d100:::Practicum III:::bpk451:::bpk451d100:::bpk 451 d100 practicum iii
-1875:_:bpk:::451:::d200:::Practicum III:::bpk451:::bpk451d200:::bpk 451 d200 practicum iii
-1876:_:bpk:::451:::i100:::Practicum III:::bpk451:::bpk451i100:::bpk 451 i100 practicum iii
-1877:_:math:::190:::c100:::Principles of Mathematics for Teachers:::math190:::math190c100:::math 190 c100 principles of mathematics for teachers
-1878:_:educ:::864:::g001:::Research Designs in Education:::educ864:::educ864g001:::educ 864 g001 research designs in education
-1879:_:educ:::864:::g031:::Research Designs in Education:::educ864:::educ864g031:::educ 864 g031 research designs in education
-1880:_:cogs:::471:::d100:::Cognitive Science Practicum IV:::cogs471:::cogs471d100:::cogs 471 d100 cognitive science practicum iv
-1881:_:cogs:::471:::d200:::Cognitive Science Practicum IV:::cogs471:::cogs471d200:::cogs 471 d200 cognitive science practicum iv
-1882:_:cogs:::471:::i100:::Cognitive Science Practicum IV:::cogs471:::cogs471i100:::cogs 471 i100 cognitive science practicum iv
-1883:_:pol:::201:::d100:::Introductory Quantitative Methods in Political Science:::pol201:::pol201d100:::pol 201 d100 introductory quantitative methods in political science
-1884:_:pol:::201:::d101:::Introductory Quantitative Methods in Political Science:::pol201:::pol201d101:::pol 201 d101 introductory quantitative methods in political science
-1885:_:educ:::866:::g012:::Qualitative Methods in Educational Research:::educ866:::educ866g012:::educ 866 g012 qualitative methods in educational research
-1886:_:educ:::867:::g001:::Advanced Qualitative Research in Education:::educ867:::educ867g001:::educ 867 g001 advanced qualitative research in education
-1887:_:pol:::210:::d100:::Introduction to Political Philosophy:::pol210:::pol210d100:::pol 210 d100 introduction to political philosophy
-1888:_:educ:::869:::g001:::Music Education as Thinking in Sound:::educ869:::educ869g001:::educ 869 g001 music education as thinking in sound
-1889:_:math:::232:::d200:::Applied Linear Algebra:::math232:::math232d200:::math 232 d200 applied linear algebra
-1890:_:math:::232:::op01:::Applied Linear Algebra:::math232:::math232op01:::math 232 op01 applied linear algebra
-1891:_:bus:::346:::d100:::Global Business Environment:::bus346:::bus346d100:::bus 346 d100 global business environment
-1892:_:bus:::346:::d200:::Global Business Environment:::bus346:::bus346d200:::bus 346 d200 global business environment
-1893:_:chin:::100:::d100:::Mandarin Chinese I:::chin100:::chin100d100:::chin 100 d100 mandarin chinese i
-1894:_:chin:::100:::d101:::Mandarin Chinese I:::chin100:::chin100d101:::chin 100 d101 mandarin chinese i
-1895:_:chin:::100:::d102:::Mandarin Chinese I:::chin100:::chin100d102:::chin 100 d102 mandarin chinese i
-1896:_:cmns:::408:::d100:::Communication Network Project Group:::cmns408:::cmns408d100:::cmns 408 d100 communication network project group
-1897:_:cmns:::408:::d200:::Communication Network Project Group:::cmns408:::cmns408d200:::cmns 408 d200 communication network project group
-1898:_:bus:::347:::d100:::Consumer Behavior:::bus347:::bus347d100:::bus 347 d100 consumer behavior
-1899:_:bus:::347:::d101:::Consumer Behavior:::bus347:::bus347d101:::bus 347 d101 consumer behavior
-1900:_:bus:::347:::d102:::Consumer Behavior:::bus347:::bus347d102:::bus 347 d102 consumer behavior
-1901:_:bus:::347:::d103:::Consumer Behavior:::bus347:::bus347d103:::bus 347 d103 consumer behavior
-1902:_:chem:::284:::d100:::Organic Chemistry IIb:::chem284:::chem284d100:::chem 284 d100 organic chemistry iib
-1903:_:chem:::284:::d101:::Organic Chemistry IIb:::chem284:::chem284d101:::chem 284 d101 organic chemistry iib
-1904:_:hsci:::100:::d100:::Human Biology:::hsci100:::hsci100d100:::hsci 100 d100 human biology
-1905:_:hsci:::100:::d101:::Human Biology:::hsci100:::hsci100d101:::hsci 100 d101 human biology
-1906:_:hsci:::100:::d102:::Human Biology:::hsci100:::hsci100d102:::hsci 100 d102 human biology
-1907:_:hsci:::100:::d103:::Human Biology:::hsci100:::hsci100d103:::hsci 100 d103 human biology
-1908:_:hsci:::100:::d104:::Human Biology:::hsci100:::hsci100d104:::hsci 100 d104 human biology
-1909:_:hsci:::100:::d105:::Human Biology:::hsci100:::hsci100d105:::hsci 100 d105 human biology
-1910:_:hsci:::100:::d106:::Human Biology:::hsci100:::hsci100d106:::hsci 100 d106 human biology
-1911:_:bus:::343:::d100:::Introduction to Marketing:::bus343:::bus343d100:::bus 343 d100 introduction to marketing
-1912:_:bus:::343:::d101:::Introduction to Marketing:::bus343:::bus343d101:::bus 343 d101 introduction to marketing
-1913:_:bus:::343:::d102:::Introduction to Marketing:::bus343:::bus343d102:::bus 343 d102 introduction to marketing
-1914:_:bus:::343:::d103:::Introduction to Marketing:::bus343:::bus343d103:::bus 343 d103 introduction to marketing
-1915:_:bus:::343:::d104:::Introduction to Marketing:::bus343:::bus343d104:::bus 343 d104 introduction to marketing
-1916:_:bus:::343:::d105:::Introduction to Marketing:::bus343:::bus343d105:::bus 343 d105 introduction to marketing
-1917:_:bus:::343:::d106:::Introduction to Marketing:::bus343:::bus343d106:::bus 343 d106 introduction to marketing
-1918:_:bus:::343:::d107:::Introduction to Marketing:::bus343:::bus343d107:::bus 343 d107 introduction to marketing
-1919:_:bus:::343:::d108:::Introduction to Marketing:::bus343:::bus343d108:::bus 343 d108 introduction to marketing
-1920:_:bus:::343:::d109:::Introduction to Marketing:::bus343:::bus343d109:::bus 343 d109 introduction to marketing
-1921:_:bus:::343:::d200:::Introduction to Marketing:::bus343:::bus343d200:::bus 343 d200 introduction to marketing
-1922:_:bus:::343:::d201:::Introduction to Marketing:::bus343:::bus343d201:::bus 343 d201 introduction to marketing
-1923:_:bus:::343:::d202:::Introduction to Marketing:::bus343:::bus343d202:::bus 343 d202 introduction to marketing
-1924:_:bus:::343:::d203:::Introduction to Marketing:::bus343:::bus343d203:::bus 343 d203 introduction to marketing
-1925:_:bus:::343:::d204:::Introduction to Marketing:::bus343:::bus343d204:::bus 343 d204 introduction to marketing
-1926:_:bus:::343:::d205:::Introduction to Marketing:::bus343:::bus343d205:::bus 343 d205 introduction to marketing
-1927:_:bpk:::431:::d100:::Integrative Cancer Biology:::bpk431:::bpk431d100:::bpk 431 d100 integrative cancer biology
-1928:_:crim:::480:::c100:::Computer Forensics and Cybercrime:::crim480:::crim480c100:::crim 480 c100 computer forensics and cybercrime
-1929:_:plcy:::817:::g100:::Advanced Qualitative Analysis for Public Policy:::plcy817:::plcy817g100:::plcy 817 g100 advanced qualitative analysis for public policy
-1930:_:bus:::430:::d100:::Cross-Cultural Management:::bus430:::bus430d100:::bus 430 d100 cross-cultural management
-1931:_:phil:::110:::d100:::Introduction to Logic and Reasoning:::phil110:::phil110d100:::phil 110 d100 introduction to logic and reasoning
-1932:_:phil:::110:::d101:::Introduction to Logic and Reasoning:::phil110:::phil110d101:::phil 110 d101 introduction to logic and reasoning
-1933:_:phil:::110:::d102:::Introduction to Logic and Reasoning:::phil110:::phil110d102:::phil 110 d102 introduction to logic and reasoning
-1934:_:phil:::110:::d103:::Introduction to Logic and Reasoning:::phil110:::phil110d103:::phil 110 d103 introduction to logic and reasoning
-1935:_:phil:::110:::d104:::Introduction to Logic and Reasoning:::phil110:::phil110d104:::phil 110 d104 introduction to logic and reasoning
-1936:_:phil:::110:::d105:::Introduction to Logic and Reasoning:::phil110:::phil110d105:::phil 110 d105 introduction to logic and reasoning
-1937:_:phil:::110:::d106:::Introduction to Logic and Reasoning:::phil110:::phil110d106:::phil 110 d106 introduction to logic and reasoning
-1938:_:phil:::110:::d107:::Introduction to Logic and Reasoning:::phil110:::phil110d107:::phil 110 d107 introduction to logic and reasoning
-1939:_:phil:::110:::d108:::Introduction to Logic and Reasoning:::phil110:::phil110d108:::phil 110 d108 introduction to logic and reasoning
-1940:_:phil:::110:::d109:::Introduction to Logic and Reasoning:::phil110:::phil110d109:::phil 110 d109 introduction to logic and reasoning
-1941:_:phil:::110:::d111:::Introduction to Logic and Reasoning:::phil110:::phil110d111:::phil 110 d111 introduction to logic and reasoning
-1942:_:phil:::110:::d112:::Introduction to Logic and Reasoning:::phil110:::phil110d112:::phil 110 d112 introduction to logic and reasoning
-1943:_:phil:::110:::d113:::Introduction to Logic and Reasoning:::phil110:::phil110d113:::phil 110 d113 introduction to logic and reasoning
-1944:_:phil:::110:::d114:::Introduction to Logic and Reasoning:::phil110:::phil110d114:::phil 110 d114 introduction to logic and reasoning
-1945:_:phil:::110:::d115:::Introduction to Logic and Reasoning:::phil110:::phil110d115:::phil 110 d115 introduction to logic and reasoning
-1946:_:cmns:::851:::g100:::Directed Studies:::cmns851:::cmns851g100:::cmns 851 g100 directed studies
-1947:_:cmns:::851:::g200:::Directed Studies:::cmns851:::cmns851g200:::cmns 851 g200 directed studies
-1948:_:cmns:::851:::g300:::Directed Studies:::cmns851:::cmns851g300:::cmns 851 g300 directed studies
-1949:_:cmns:::851:::g400:::Directed Studies:::cmns851:::cmns851g400:::cmns 851 g400 directed studies
-1950:_:cmns:::851:::g500:::Directed Studies:::cmns851:::cmns851g500:::cmns 851 g500 directed studies
-1951:_:cmns:::850:::g100:::Directed Readings and Research:::cmns850:::cmns850g100:::cmns 850 g100 directed readings and research
-1952:_:cmns:::850:::g200:::Directed Readings and Research:::cmns850:::cmns850g200:::cmns 850 g200 directed readings and research
-1953:_:cmns:::850:::g300:::Directed Readings and Research:::cmns850:::cmns850g300:::cmns 850 g300 directed readings and research
-1954:_:cmns:::850:::g400:::Directed Readings and Research:::cmns850:::cmns850g400:::cmns 850 g400 directed readings and research
-1955:_:cmns:::850:::g500:::Directed Readings and Research:::cmns850:::cmns850g500:::cmns 850 g500 directed readings and research
-1956:_:educ:::871:::g002:::Family Counselling:::educ871:::educ871g002:::educ 871 g002 family counselling
-1957:_:cmpt:::433:::d100:::Embedded Systems:::cmpt433:::cmpt433d100:::cmpt 433 d100 embedded systems
-1958:_:educ:::898:::g001:::Master's Thesis:::educ898:::educ898g001:::educ 898 g001 master's thesis
-1959:_:educ:::898:::g002:::Master's Thesis:::educ898:::educ898g002:::educ 898 g002 master's thesis
-1960:_:educ:::883:::g001:::MEd Comprehensive Examination:::educ883:::educ883g001:::educ 883 g001 med comprehensive examination
-1961:_:educ:::883:::g011:::MEd Comprehensive Examination:::educ883:::educ883g011:::educ 883 g011 med comprehensive examination
-1962:_:educ:::883:::g012:::MEd Comprehensive Examination:::educ883:::educ883g012:::educ 883 g012 med comprehensive examination
-1963:_:educ:::883:::g031:::MEd Comprehensive Examination:::educ883:::educ883g031:::educ 883 g031 med comprehensive examination
-1964:_:educ:::883:::g032:::MEd Comprehensive Examination:::educ883:::educ883g032:::educ 883 g032 med comprehensive examination
-1965:_:educ:::883:::g033:::MEd Comprehensive Examination:::educ883:::educ883g033:::educ 883 g033 med comprehensive examination
-1966:_:educ:::883:::g034:::MEd Comprehensive Examination:::educ883:::educ883g034:::educ 883 g034 med comprehensive examination
-1967:_:educ:::883:::g035:::MEd Comprehensive Examination:::educ883:::educ883g035:::educ 883 g035 med comprehensive examination
-1968:_:educ:::881:::g001:::Project:::educ881:::educ881g001:::educ 881 g001 project
-1969:_:ca:::829:::g100:::Extended Essays in Comparative Media Arts:::ca829:::ca829g100:::ca 829 g100 extended essays in comparative media arts
-1970:_:educ:::878:::g001:::Group Counselling:::educ878:::educ878g001:::educ 878 g001 group counselling
-1971:_:ca:::827:::g100:::Practicum in Comparative Media Arts:::ca827:::ca827g100:::ca 827 g100 practicum in comparative media arts
-1972:_:bus:::795:::g100:::Financing the New Venture:::bus795:::bus795g100:::bus 795 g100 financing the new venture
-1973:_:mse:::411:::e100:::Capstone Design Technical Project II:::mse411:::mse411e100:::mse 411 e100 capstone design technical project ii
-1974:_:mse:::411:::opl1:::Capstone Design Technical Project II:::mse411:::mse411opl1:::mse 411 opl1 capstone design technical project ii
-1975:_:mse:::411:::opl2:::Capstone Design Technical Project II:::mse411:::mse411opl2:::mse 411 opl2 capstone design technical project ii
-1976:_:mse:::411:::opl3:::Capstone Design Technical Project II:::mse411:::mse411opl3:::mse 411 opl3 capstone design technical project ii
-1977:_:bus:::338:::d100:::Foundations of Innovation:::bus338:::bus338d100:::bus 338 d100 foundations of innovation
-1978:_:bus:::486:::d100:::Leadership:::bus486:::bus486d100:::bus 486 d100 leadership
-1979:_:fnlg:::133:::a320:::Introduction to First Nations Language I:::fnlg133:::fnlg133a320:::fnlg 133 a320 introduction to first nations language i
-1980:_:ddp:::310:::d100:::Dual Degree Program - ZU Computing Science:::ddp310:::ddp310d100:::ddp 310 d100 dual degree program - zu computing science
-1981:_:bpk:::495:::d100:::Undergraduate Honours Research Performance:::bpk495:::bpk495d100:::bpk 495 d100 undergraduate honours research performance
-1982:_:engl:::330:::c100:::Studies in Victorian Literature:::engl330:::engl330c100:::engl 330 c100 studies in victorian literature
-1983:_:math:::895:::g100:::Reading:::math895:::math895g100:::math 895 g100 reading
-1984:_:math:::895:::g200:::Reading:::math895:::math895g200:::math 895 g200 reading
-1985:_:math:::895:::g300:::Reading:::math895:::math895g300:::math 895 g300 reading
-1986:_:math:::895:::g400:::Reading:::math895:::math895g400:::math 895 g400 reading
-1987:_:bus:::336:::d100:::Data and Decisions II:::bus336:::bus336d100:::bus 336 d100 data and decisions ii
-1988:_:bus:::336:::d200:::Data and Decisions II:::bus336:::bus336d200:::bus 336 d200 data and decisions ii
-1989:_:bus:::336:::op01:::Data and Decisions II:::bus336:::bus336op01:::bus 336 op01 data and decisions ii
-1990:_:bus:::336:::op02:::Data and Decisions II:::bus336:::bus336op02:::bus 336 op02 data and decisions ii
-1991:_:bus:::336:::op03:::Data and Decisions II:::bus336:::bus336op03:::bus 336 op03 data and decisions ii
-1992:_:bus:::336:::op04:::Data and Decisions II:::bus336:::bus336op04:::bus 336 op04 data and decisions ii
-1993:_:bus:::336:::op05:::Data and Decisions II:::bus336:::bus336op05:::bus 336 op05 data and decisions ii
-1994:_:math:::894:::g100:::Reading:::math894:::math894g100:::math 894 g100 reading
-1995:_:math:::894:::g200:::Reading:::math894:::math894g200:::math 894 g200 reading
-1996:_:math:::894:::g300:::Reading:::math894:::math894g300:::math 894 g300 reading
-1997:_:math:::894:::g400:::Reading:::math894:::math894g400:::math 894 g400 reading
-1998:_:math:::894:::g500:::Reading:::math894:::math894g500:::math 894 g500 reading
-1999:_:math:::899:::g100:::PhD Thesis:::math899:::math899g100:::math 899 g100 phd thesis
-2000:_:math:::899:::g200:::PhD Thesis:::math899:::math899g200:::math 899 g200 phd thesis
-2001:_:bus:::341:::d100:::Fundamentals of Marketing:::bus341:::bus341d100:::bus 341 d100 fundamentals of marketing
-2002:_:math:::898:::g100:::MSc Thesis:::math898:::math898g100:::math 898 g100 msc thesis
-2003:_:math:::898:::g200:::MSc Thesis:::math898:::math898g200:::math 898 g200 msc thesis
-2004:_:math:::150:::c100:::Calculus I with Review:::math150:::math150c100:::math 150 c100 calculus i with review
-2005:_:math:::150:::d100:::Calculus I with Review:::math150:::math150d100:::math 150 d100 calculus i with review
-2006:_:math:::150:::op01:::Calculus I with Review:::math150:::math150op01:::math 150 op01 calculus i with review
-2007:_:fren:::491:::d100:::Readings in French Linguistics and/or Literary Criticism:::fren491:::fren491d100:::fren 491 d100 readings in french linguistics and/or literary criticism
-2008:_:cmpt:::376w:::d100:::Technical Writing and Group Dynamics:::cmpt376w:::cmpt376wd100:::cmpt 376w d100 technical writing and group dynamics
-2009:_:educ:::877:::g001:::Contemporary School Counselling:::educ877:::educ877g001:::educ 877 g001 contemporary school counselling
-2010:_:fren:::480:::d100:::Seminar I:::fren480:::fren480d100:::fren 480 d100 seminar i
-2011:_:ensc:::303:::d100:::Directed Studies in Engineering Science:::ensc303:::ensc303d100:::ensc 303 d100 directed studies in engineering science
-2012:_:ugrad:::400:::d100:::Visiting Undergraduate Research:::ugrad400:::ugrad400d100:::ugrad 400 d100 visiting undergraduate research
-2013:_:bpk:::491:::d100:::Undergraduate Honours Thesis Proposal:::bpk491:::bpk491d100:::bpk 491 d100 undergraduate honours thesis proposal
-2014:_:educ:::412w:::d100:::Designs for Learning: Secondary Language Arts:::educ412w:::educ412wd100:::educ 412w d100 designs for learning: secondary language arts
-2015:_:educ:::412w:::e100:::Designs for Learning: Secondary Language Arts:::educ412w:::educ412we100:::educ 412w e100 designs for learning: secondary language arts
-2016:_:iat:::309w:::d100:::Writing Methods for Research:::iat309w:::iat309wd100:::iat 309w d100 writing methods for research
-2017:_:ensc:::891:::g100:::Directed Studies I:::ensc891:::ensc891g100:::ensc 891 g100 directed studies i
-2018:_:ensc:::891:::g200:::Directed Studies I:::ensc891:::ensc891g200:::ensc 891 g200 directed studies i
-2019:_:ensc:::892:::g100:::Directed Studies II:::ensc892:::ensc892g100:::ensc 892 g100 directed studies ii
-2020:_:ensc:::892:::g200:::Directed Studies II:::ensc892:::ensc892g200:::ensc 892 g200 directed studies ii
-2021:_:educ:::904:::g031:::Fieldwork III:::educ904:::educ904g031:::educ 904 g031 fieldwork iii
-2022:_:educ:::904:::g032:::Fieldwork III:::educ904:::educ904g032:::educ 904 g032 fieldwork iii
-2023:_:educ:::904:::g033:::Fieldwork III:::educ904:::educ904g033:::educ 904 g033 fieldwork iii
-2024:_:educ:::904:::g034:::Fieldwork III:::educ904:::educ904g034:::educ 904 g034 fieldwork iii
-2025:_:stat:::899:::g100:::PhD Thesis:::stat899:::stat899g100:::stat 899 g100 phd thesis
-2026:_:stat:::899:::g200:::PhD Thesis:::stat899:::stat899g200:::stat 899 g200 phd thesis
-2027:_:stat:::898:::g100:::MSc Project:::stat898:::stat898g100:::stat 898 g100 msc project
-2028:_:stat:::898:::g200:::MSc Project:::stat898:::stat898g200:::stat 898 g200 msc project
-2029:_:econ:::860:::g100:::Environmental Economics:::econ860:::econ860g100:::econ 860 g100 environmental economics
-2030:_:econ:::860:::g101:::Environmental Economics:::econ860:::econ860g101:::econ 860 g101 environmental economics
-2031:_:stat:::895:::g100:::Reading:::stat895:::stat895g100:::stat 895 g100 reading
-2032:_:stat:::894:::g100:::Reading:::stat894:::stat894g100:::stat 894 g100 reading
-2033:_:econ:::913:::g100:::Selected Topics in Economics:::econ913:::econ913g100:::econ 913 g100 selected topics in economics
-2034:_:econ:::913:::g101:::Selected Topics in Economics:::econ913:::econ913g101:::econ 913 g101 selected topics in economics
-2035:_:cmns:::454:::d100:::Computer Supported Cooperative Work: Critical Perspectives:::cmns454:::cmns454d100:::cmns 454 d100 computer supported cooperative work: critical perspectives
-2036:_:econ:::409w:::d100:::Seminar in Economic Thought:::econ409w:::econ409wd100:::econ 409w d100 seminar in economic thought
-2037:_:econ:::455w:::d100:::Seminar in Economic Development:::econ455w:::econ455wd100:::econ 455w d100 seminar in economic development
-2038:_:bus:::325:::d100:::Co-op Practicum II:::bus325:::bus325d100:::bus 325 d100 co-op practicum ii
-2039:_:bus:::325:::d200:::Co-op Practicum II:::bus325:::bus325d200:::bus 325 d200 co-op practicum ii
-2040:_:bus:::325:::i100:::Co-op Practicum II:::bus325:::bus325i100:::bus 325 i100 co-op practicum ii
-2041:_:cmns:::458:::d100:::Information Technology Project Group:::cmns458:::cmns458d100:::cmns 458 d100 information technology project group
-2042:_:cmns:::458:::d200:::Information Technology Project Group:::cmns458:::cmns458d200:::cmns 458 d200 information technology project group
-2043:_:fal:::x99:::d001:::Foundations of Academic Literacy:::falx99:::falx99d001:::fal x99 d001 foundations of academic literacy
-2044:_:fal:::x99:::d002:::Foundations of Academic Literacy:::falx99:::falx99d002:::fal x99 d002 foundations of academic literacy
-2045:_:fal:::x99:::d003:::Foundations of Academic Literacy:::falx99:::falx99d003:::fal x99 d003 foundations of academic literacy
-2046:_:fal:::x99:::d004:::Foundations of Academic Literacy:::falx99:::falx99d004:::fal x99 d004 foundations of academic literacy
-2047:_:fal:::x99:::d005:::Foundations of Academic Literacy:::falx99:::falx99d005:::fal x99 d005 foundations of academic literacy
-2048:_:fal:::x99:::d006:::Foundations of Academic Literacy:::falx99:::falx99d006:::fal x99 d006 foundations of academic literacy
-2049:_:fal:::x99:::d007:::Foundations of Academic Literacy:::falx99:::falx99d007:::fal x99 d007 foundations of academic literacy
-2050:_:fal:::x99:::d008:::Foundations of Academic Literacy:::falx99:::falx99d008:::fal x99 d008 foundations of academic literacy
-2051:_:fal:::x99:::d009:::Foundations of Academic Literacy:::falx99:::falx99d009:::fal x99 d009 foundations of academic literacy
-2052:_:fal:::x99:::d010:::Foundations of Academic Literacy:::falx99:::falx99d010:::fal x99 d010 foundations of academic literacy
-2053:_:fal:::x99:::d011:::Foundations of Academic Literacy:::falx99:::falx99d011:::fal x99 d011 foundations of academic literacy
-2054:_:fal:::x99:::d012:::Foundations of Academic Literacy:::falx99:::falx99d012:::fal x99 d012 foundations of academic literacy
-2055:_:fal:::x99:::d013:::Foundations of Academic Literacy:::falx99:::falx99d013:::fal x99 d013 foundations of academic literacy
-2056:_:fal:::x99:::d014:::Foundations of Academic Literacy:::falx99:::falx99d014:::fal x99 d014 foundations of academic literacy
-2057:_:fal:::x99:::e100:::Foundations of Academic Literacy:::falx99:::falx99e100:::fal x99 e100 foundations of academic literacy
-2058:_:fal:::x99:::e200:::Foundations of Academic Literacy:::falx99:::falx99e200:::fal x99 e200 foundations of academic literacy
-2059:_:bus:::474:::d100:::Supply Chain Management:::bus474:::bus474d100:::bus 474 d100 supply chain management
-2060:_:bus:::474:::d200:::Supply Chain Management:::bus474:::bus474d200:::bus 474 d200 supply chain management
-2061:_:bus:::327:::d100:::Co-op Practicum IV:::bus327:::bus327d100:::bus 327 d100 co-op practicum iv
-2062:_:bus:::327:::d200:::Co-op Practicum IV:::bus327:::bus327d200:::bus 327 d200 co-op practicum iv
-2063:_:bus:::327:::i100:::Co-op Practicum IV:::bus327:::bus327i100:::bus 327 i100 co-op practicum iv
-2064:_:math:::890:::g100:::Practicum I:::math890:::math890g100:::math 890 g100 practicum i
-2065:_:math:::890:::g200:::Practicum I:::math890:::math890g200:::math 890 g200 practicum i
-2066:_:fan:::x99:::d100:::Foundations of Analytical and Quantitative Reasoning:::fanx99:::fanx99d100:::fan x99 d100 foundations of analytical and quantitative reasoning
-2067:_:fan:::x99:::d200:::Foundations of Analytical and Quantitative Reasoning:::fanx99:::fanx99d200:::fan x99 d200 foundations of analytical and quantitative reasoning
-2068:_:fan:::x99:::op01:::Foundations of Analytical and Quantitative Reasoning:::fanx99:::fanx99op01:::fan x99 op01 foundations of analytical and quantitative reasoning
-2069:_:fan:::x99:::opo2:::Foundations of Analytical and Quantitative Reasoning:::fanx99:::fanx99opo2:::fan x99 opo2 foundations of analytical and quantitative reasoning
-2070:_:bus:::361:::d100:::Project Management:::bus361:::bus361d100:::bus 361 d100 project management
-2071:_:bus:::326:::d100:::Co-op Practicum III:::bus326:::bus326d100:::bus 326 d100 co-op practicum iii
-2072:_:bus:::326:::d200:::Co-op Practicum III:::bus326:::bus326d200:::bus 326 d200 co-op practicum iii
-2073:_:bus:::326:::i100:::Co-op Practicum III:::bus326:::bus326i100:::bus 326 i100 co-op practicum iii
-2074:_:math:::891:::g100:::Practicum II:::math891:::math891g100:::math 891 g100 practicum ii
-2075:_:math:::891:::g200:::Practicum II:::math891:::math891g200:::math 891 g200 practicum ii
-2076:_:cmns:::452:::j100:::Race and the Media:::cmns452:::cmns452j100:::cmns 452 j100 race and the media
-2077:_:educ:::899:::g001:::Doctoral Thesis:::educ899:::educ899g001:::educ 899 g001 doctoral thesis
-2078:_:educ:::899:::g002:::Doctoral Thesis:::educ899:::educ899g002:::educ 899 g002 doctoral thesis
-2079:_:educ:::899:::g031:::Doctoral Thesis:::educ899:::educ899g031:::educ 899 g031 doctoral thesis
-2080:_:educ:::899:::g032:::Doctoral Thesis:::educ899:::educ899g032:::educ 899 g032 doctoral thesis
-2081:_:educ:::899:::g033:::Doctoral Thesis:::educ899:::educ899g033:::educ 899 g033 doctoral thesis
-2082:_:ensc:::861:::g100:::Advanced Multimedia Compression:::ensc861:::ensc861g100:::ensc 861 g100 advanced multimedia compression
-2083:_:ca:::421:::d100:::Contemporary Dance VIII:::ca421:::ca421d100:::ca 421 d100 contemporary dance viii
-2084:_:mbb:::481:::d001:::Individual Study Semester - Honours Thesis:::mbb481:::mbb481d001:::mbb 481 d001 individual study semester - honours thesis
-2085:_:mbb:::481:::d002:::Individual Study Semester - Honours Thesis:::mbb481:::mbb481d002:::mbb 481 d002 individual study semester - honours thesis
-2086:_:mbb:::481:::d003:::Individual Study Semester - Honours Thesis:::mbb481:::mbb481d003:::mbb 481 d003 individual study semester - honours thesis
-2087:_:mbb:::481:::d004:::Individual Study Semester - Honours Thesis:::mbb481:::mbb481d004:::mbb 481 d004 individual study semester - honours thesis
-2088:_:mbb:::481:::d005:::Individual Study Semester - Honours Thesis:::mbb481:::mbb481d005:::mbb 481 d005 individual study semester - honours thesis
-2089:_:mbb:::482:::d001:::Individual Study Semester - Honours Research Performance:::mbb482:::mbb482d001:::mbb 482 d001 individual study semester - honours research performance
-2090:_:mbb:::482:::d002:::Individual Study Semester - Honours Research Performance:::mbb482:::mbb482d002:::mbb 482 d002 individual study semester - honours research performance
-2091:_:mbb:::482:::d003:::Individual Study Semester - Honours Research Performance:::mbb482:::mbb482d003:::mbb 482 d003 individual study semester - honours research performance
-2092:_:mbb:::482:::d004:::Individual Study Semester - Honours Research Performance:::mbb482:::mbb482d004:::mbb 482 d004 individual study semester - honours research performance
-2093:_:mbb:::482:::d005:::Individual Study Semester - Honours Research Performance:::mbb482:::mbb482d005:::mbb 482 d005 individual study semester - honours research performance
-2094:_:ling:::160:::a320:::Language, Culture and Society:::ling160:::ling160a320:::ling 160 a320 language, culture and society
-2095:_:ling:::160:::d100:::Language, Culture and Society:::ling160:::ling160d100:::ling 160 d100 language, culture and society
-2096:_:educ:::910:::g001:::Directed Readings:::educ910:::educ910g001:::educ 910 g001 directed readings
-2097:_:educ:::910:::g002:::Directed Readings:::educ910:::educ910g002:::educ 910 g002 directed readings
-2098:_:educ:::910:::g003:::Directed Readings:::educ910:::educ910g003:::educ 910 g003 directed readings
-2099:_:educ:::910:::g004:::Directed Readings:::educ910:::educ910g004:::educ 910 g004 directed readings
-2100:_:educ:::910:::g005:::Directed Readings:::educ910:::educ910g005:::educ 910 g005 directed readings
-2101:_:educ:::910:::g006:::Directed Readings:::educ910:::educ910g006:::educ 910 g006 directed readings
-2102:_:educ:::910:::g007:::Directed Readings:::educ910:::educ910g007:::educ 910 g007 directed readings
-2103:_:educ:::910:::g008:::Directed Readings:::educ910:::educ910g008:::educ 910 g008 directed readings
-2104:_:educ:::910:::g009:::Directed Readings:::educ910:::educ910g009:::educ 910 g009 directed readings
-2105:_:educ:::910:::g031:::Directed Readings:::educ910:::educ910g031:::educ 910 g031 directed readings
-2106:_:educ:::910:::g032:::Directed Readings:::educ910:::educ910g032:::educ 910 g032 directed readings
-2107:_:econ:::899:::g100:::MA Research Paper:::econ899:::econ899g100:::econ 899 g100 ma research paper
-2108:_:sa:::100w:::c100:::Perspectives on Canadian Society (SA):::sa100w:::sa100wc100:::sa 100w c100 perspectives on canadian society (sa)
-2109:_:cmns:::447:::d100:::Negotiation and Dialogue as Communication:::cmns447:::cmns447d100:::cmns 447 d100 negotiation and dialogue as communication
-2110:_:bus:::485:::d100:::Negotiations and Conflict Management:::bus485:::bus485d100:::bus 485 d100 negotiations and conflict management
-2111:_:bus:::320:::d100:::Financial Accounting:  Assets:::bus320:::bus320d100:::bus 320 d100 financial accounting:  assets
-2112:_:bus:::320:::e100:::Financial Accounting:  Assets:::bus320:::bus320e100:::bus 320 e100 financial accounting:  assets
-2113:_:cmns:::453:::c100:::Issues in the Information Society:::cmns453:::cmns453c100:::cmns 453 c100 issues in the information society
+1356:_:evsc:::100:::d104:::Introduction to Environmental Science:::evsc100:::evsc100d104:::evsc 100 d104 introduction to environmental science
+1357:_:evsc:::100:::d105:::Introduction to Environmental Science:::evsc100:::evsc100d105:::evsc 100 d105 introduction to environmental science
+1358:_:evsc:::100:::d106:::Introduction to Environmental Science:::evsc100:::evsc100d106:::evsc 100 d106 introduction to environmental science
+1359:_:evsc:::100:::d200:::Introduction to Environmental Science:::evsc100:::evsc100d200:::evsc 100 d200 introduction to environmental science
+1360:_:evsc:::100:::d201:::Introduction to Environmental Science:::evsc100:::evsc100d201:::evsc 100 d201 introduction to environmental science
+1361:_:evsc:::100:::d202:::Introduction to Environmental Science:::evsc100:::evsc100d202:::evsc 100 d202 introduction to environmental science
+1362:_:evsc:::100:::d203:::Introduction to Environmental Science:::evsc100:::evsc100d203:::evsc 100 d203 introduction to environmental science
+1363:_:evsc:::100:::d300:::Introduction to Environmental Science:::evsc100:::evsc100d300:::evsc 100 d300 introduction to environmental science
+1364:_:ls:::998:::g100:::MA Extended Essays:::ls998:::ls998g100:::ls 998 g100 ma extended essays
+1365:_:edpr:::583:::g100:::Advanced Field Studies in Collaborative Inquiry I:::edpr583:::edpr583g100:::edpr 583 g100 advanced field studies in collaborative inquiry i
+1366:_:bisc:::316:::d100:::Vertebrate Biology:::bisc316:::bisc316d100:::bisc 316 d100 vertebrate biology
+1367:_:bisc:::316:::lab1:::Vertebrate Biology:::bisc316:::bisc316lab1:::bisc 316 lab1 vertebrate biology
+1368:_:bisc:::316:::lab2:::Vertebrate Biology:::bisc316:::bisc316lab2:::bisc 316 lab2 vertebrate biology
+1369:_:bisc:::316:::lab3:::Vertebrate Biology:::bisc316:::bisc316lab3:::bisc 316 lab3 vertebrate biology
+1370:_:ls:::999:::g100:::MA Project:::ls999:::ls999g100:::ls 999 g100 ma project
+1371:_:ls:::999:::g200:::MA Project:::ls999:::ls999g200:::ls 999 g200 ma project
+1372:_:edpr:::585:::g100:::Advanced Field Studies in Collaborative Inquiry I:::edpr585:::edpr585g100:::edpr 585 g100 advanced field studies in collaborative inquiry i
+1373:_:bisc:::601:::g100:::Agriculture, Horticulture and Urban Pest Management:::bisc601:::bisc601g100:::bisc 601 g100 agriculture, horticulture and urban pest management
+1374:_:bisc:::499:::d100:::Undergraduate Research II:::bisc499:::bisc499d100:::bisc 499 d100 undergraduate research ii
+1375:_:bisc:::498:::d100:::Undergraduate Research I:::bisc498:::bisc498d100:::bisc 498 d100 undergraduate research i
+1376:_:acma:::438:::d100:::Job Practicum V:::acma438:::acma438d100:::acma 438 d100 job practicum v
+1377:_:acma:::438:::d200:::Job Practicum V:::acma438:::acma438d200:::acma 438 d200 job practicum v
+1378:_:acma:::438:::i100:::Job Practicum V:::acma438:::acma438i100:::acma 438 i100 job practicum v
+1379:_:japn:::100:::d100:::Introduction to Japanese I:::japn100:::japn100d100:::japn 100 d100 introduction to japanese i
+1380:_:japn:::100:::d200:::Introduction to Japanese I:::japn100:::japn100d200:::japn 100 d200 introduction to japanese i
+1381:_:japn:::100:::d300:::Introduction to Japanese I:::japn100:::japn100d300:::japn 100 d300 introduction to japanese i
+1382:_:japn:::100:::d400:::Introduction to Japanese I:::japn100:::japn100d400:::japn 100 d400 introduction to japanese i
+1383:_:japn:::100:::d500:::Introduction to Japanese I:::japn100:::japn100d500:::japn 100 d500 introduction to japanese i
+1384:_:acma:::436:::d100:::Job Practicum III:::acma436:::acma436d100:::acma 436 d100 job practicum iii
+1385:_:acma:::436:::d200:::Job Practicum III:::acma436:::acma436d200:::acma 436 d200 job practicum iii
+1386:_:acma:::436:::i100:::Job Practicum III:::acma436:::acma436i100:::acma 436 i100 job practicum iii
+1387:_:bisc:::491:::d100:::Research Technique:::bisc491:::bisc491d100:::bisc 491 d100 research technique
+1388:_:japn:::101:::d100:::Introduction to Japanese II:::japn101:::japn101d100:::japn 101 d100 introduction to japanese ii
+1389:_:japn:::101:::d200:::Introduction to Japanese II:::japn101:::japn101d200:::japn 101 d200 introduction to japanese ii
+1390:_:japn:::101:::e100:::Introduction to Japanese II:::japn101:::japn101e100:::japn 101 e100 introduction to japanese ii
+1391:_:acma:::336:::d100:::Job Practicum I:::acma336:::acma336d100:::acma 336 d100 job practicum i
+1392:_:acma:::336:::d200:::Job Practicum I:::acma336:::acma336d200:::acma 336 d200 job practicum i
+1393:_:acma:::336:::i100:::Job Practicum I:::acma336:::acma336i100:::acma 336 i100 job practicum i
+1394:_:pol:::291:::d100:::Political Science Practicum II:::pol291:::pol291d100:::pol 291 d100 political science practicum ii
+1395:_:pol:::291:::d200:::Political Science Practicum II:::pol291:::pol291d200:::pol 291 d200 political science practicum ii
+1396:_:pol:::291:::i100:::Political Science Practicum II:::pol291:::pol291i100:::pol 291 i100 political science practicum ii
+1397:_:pol:::301:::d100:::Political Science Practicum III:::pol301:::pol301d100:::pol 301 d100 political science practicum iii
+1398:_:pol:::301:::d200:::Political Science Practicum III:::pol301:::pol301d200:::pol 301 d200 political science practicum iii
+1399:_:pol:::301:::i100:::Political Science Practicum III:::pol301:::pol301i100:::pol 301 i100 political science practicum iii
+1400:_:arch:::351:::d100:::Practicum II:::arch351:::arch351d100:::arch 351 d100 practicum ii
+1401:_:arch:::351:::d200:::Practicum II:::arch351:::arch351d200:::arch 351 d200 practicum ii
+1402:_:bisc:::100:::d100:::Introduction to Biology:::bisc100:::bisc100d100:::bisc 100 d100 introduction to biology
+1403:_:bisc:::100:::d101:::Introduction to Biology:::bisc100:::bisc100d101:::bisc 100 d101 introduction to biology
+1404:_:bisc:::100:::d102:::Introduction to Biology:::bisc100:::bisc100d102:::bisc 100 d102 introduction to biology
+1405:_:bisc:::100:::d103:::Introduction to Biology:::bisc100:::bisc100d103:::bisc 100 d103 introduction to biology
+1406:_:bisc:::100:::d104:::Introduction to Biology:::bisc100:::bisc100d104:::bisc 100 d104 introduction to biology
+1407:_:mse:::353:::d100:::Power Electronics and Electric Machinery:::mse353:::mse353d100:::mse 353 d100 power electronics and electric machinery
+1408:_:mse:::353:::d101:::Power Electronics and Electric Machinery:::mse353:::mse353d101:::mse 353 d101 power electronics and electric machinery
+1409:_:mse:::353:::lab1:::Power Electronics and Electric Machinery:::mse353:::mse353lab1:::mse 353 lab1 power electronics and electric machinery
+1410:_:mse:::353:::lab2:::Power Electronics and Electric Machinery:::mse353:::mse353lab2:::mse 353 lab2 power electronics and electric machinery
+1411:_:mse:::353:::lab3:::Power Electronics and Electric Machinery:::mse353:::mse353lab3:::mse 353 lab3 power electronics and electric machinery
+1412:_:arch:::350:::d100:::Practicum I:::arch350:::arch350d100:::arch 350 d100 practicum i
+1413:_:arch:::350:::d200:::Practicum I:::arch350:::arch350d200:::arch 350 d200 practicum i
+1414:_:cmpt:::628:::g100:::Graduate Co-op Practicum III:::cmpt628:::cmpt628g100:::cmpt 628 g100 graduate co-op practicum iii
+1415:_:cmpt:::628:::g200:::Graduate Co-op Practicum III:::cmpt628:::cmpt628g200:::cmpt 628 g200 graduate co-op practicum iii
+1416:_:cmpt:::628:::g300:::Graduate Co-op Practicum III:::cmpt628:::cmpt628g300:::cmpt 628 g300 graduate co-op practicum iii
+1417:_:cmpt:::628:::g400:::Graduate Co-op Practicum III:::cmpt628:::cmpt628g400:::cmpt 628 g400 graduate co-op practicum iii
+1418:_:cmpt:::628:::i100:::Graduate Co-op Practicum III:::cmpt628:::cmpt628i100:::cmpt 628 i100 graduate co-op practicum iii
+1419:_:masc:::410:::d100:::Marine Invertebrate Zoology:::masc410:::masc410d100:::masc 410 d100 marine invertebrate zoology
+1420:_:cmpt:::627:::g100:::Graduate Co-op Practicum II:::cmpt627:::cmpt627g100:::cmpt 627 g100 graduate co-op practicum ii
+1421:_:cmpt:::627:::g200:::Graduate Co-op Practicum II:::cmpt627:::cmpt627g200:::cmpt 627 g200 graduate co-op practicum ii
+1422:_:cmpt:::627:::g300:::Graduate Co-op Practicum II:::cmpt627:::cmpt627g300:::cmpt 627 g300 graduate co-op practicum ii
+1423:_:cmpt:::627:::g400:::Graduate Co-op Practicum II:::cmpt627:::cmpt627g400:::cmpt 627 g400 graduate co-op practicum ii
+1424:_:cmpt:::627:::i100:::Graduate Co-op Practicum II:::cmpt627:::cmpt627i100:::cmpt 627 i100 graduate co-op practicum ii
+1425:_:bisc:::101:::d100:::General Biology:::bisc101:::bisc101d100:::bisc 101 d100 general biology
+1426:_:bisc:::101:::d101:::General Biology:::bisc101:::bisc101d101:::bisc 101 d101 general biology
+1427:_:bisc:::101:::d102:::General Biology:::bisc101:::bisc101d102:::bisc 101 d102 general biology
+1428:_:bisc:::101:::d103:::General Biology:::bisc101:::bisc101d103:::bisc 101 d103 general biology
+1429:_:bisc:::101:::d105:::General Biology:::bisc101:::bisc101d105:::bisc 101 d105 general biology
+1430:_:bisc:::101:::d106:::General Biology:::bisc101:::bisc101d106:::bisc 101 d106 general biology
+1431:_:bisc:::101:::d108:::General Biology:::bisc101:::bisc101d108:::bisc 101 d108 general biology
+1432:_:cmpt:::895:::g100:::Master Program Extended Essay:::cmpt895:::cmpt895g100:::cmpt 895 g100 master program extended essay
+1433:_:edpr:::581:::g100:::Advanced Field Studies in Collaborative Inquiry I:::edpr581:::edpr581g100:::edpr 581 g100 advanced field studies in collaborative inquiry i
+1434:_:chem:::484:::d100:::Two-Semester Undergraduate Research in Chemistry:::chem484:::chem484d100:::chem 484 d100 two-semester undergraduate research in chemistry
+1435:_:phys:::233:::d100:::Physics Laboratory IV:::phys233:::phys233d100:::phys 233 d100 physics laboratory iv
+1436:_:easc:::308:::d100:::Field Geology III:::easc308:::easc308d100:::easc 308 d100 field geology iii
+1437:_:bus:::202:::d100:::Foundations for Collaborative Work Environments:::bus202:::bus202d100:::bus 202 d100 foundations for collaborative work environments
+1438:_:bus:::202:::d101:::Foundations for Collaborative Work Environments:::bus202:::bus202d101:::bus 202 d101 foundations for collaborative work environments
+1439:_:bus:::202:::d102:::Foundations for Collaborative Work Environments:::bus202:::bus202d102:::bus 202 d102 foundations for collaborative work environments
+1440:_:bus:::202:::d103:::Foundations for Collaborative Work Environments:::bus202:::bus202d103:::bus 202 d103 foundations for collaborative work environments
+1441:_:bus:::202:::d200:::Foundations for Collaborative Work Environments:::bus202:::bus202d200:::bus 202 d200 foundations for collaborative work environments
+1442:_:bus:::202:::d201:::Foundations for Collaborative Work Environments:::bus202:::bus202d201:::bus 202 d201 foundations for collaborative work environments
+1443:_:bus:::202:::d202:::Foundations for Collaborative Work Environments:::bus202:::bus202d202:::bus 202 d202 foundations for collaborative work environments
+1444:_:bus:::202:::d203:::Foundations for Collaborative Work Environments:::bus202:::bus202d203:::bus 202 d203 foundations for collaborative work environments
+1445:_:bus:::238:::d100:::Introduction to Entrepreneurship and Innovation:::bus238:::bus238d100:::bus 238 d100 introduction to entrepreneurship and innovation
+1446:_:bus:::405:::d100:::Technology Entrepreneurship II:::bus405:::bus405d100:::bus 405 d100 technology entrepreneurship ii
+1447:_:arch:::100:::c100:::Ancient Peoples and Places:::arch100:::arch100c100:::arch 100 c100 ancient peoples and places
+1448:_:arch:::100:::d100:::Ancient Peoples and Places:::arch100:::arch100d100:::arch 100 d100 ancient peoples and places
+1449:_:edpr:::582:::g100:::Advanced Field Studies in Collaborative Inquiry I:::edpr582:::edpr582g100:::edpr 582 g100 advanced field studies in collaborative inquiry i
+1450:_:is:::497:::d100:::Field Practice:::is497:::is497d100:::is 497 d100 field practice
+1451:_:is:::497:::d200:::Field Practice:::is497:::is497d200:::is 497 d200 field practice
+1452:_:hist:::489:::d100:::Studies in History:::hist489:::hist489d100:::hist 489 d100 studies in history
+1453:_:bisc:::102:::d100:::General Biology:::bisc102:::bisc102d100:::bisc 102 d100 general biology
+1454:_:bisc:::102:::d101:::General Biology:::bisc102:::bisc102d101:::bisc 102 d101 general biology
+1455:_:bisc:::102:::d102:::General Biology:::bisc102:::bisc102d102:::bisc 102 d102 general biology
+1456:_:bisc:::102:::d103:::General Biology:::bisc102:::bisc102d103:::bisc 102 d103 general biology
+1457:_:bisc:::102:::d104:::General Biology:::bisc102:::bisc102d104:::bisc 102 d104 general biology
+1458:_:bisc:::102:::d105:::General Biology:::bisc102:::bisc102d105:::bisc 102 d105 general biology
+1459:_:bisc:::102:::d106:::General Biology:::bisc102:::bisc102d106:::bisc 102 d106 general biology
+1460:_:bisc:::102:::d107:::General Biology:::bisc102:::bisc102d107:::bisc 102 d107 general biology
+1461:_:bisc:::102:::d108:::General Biology:::bisc102:::bisc102d108:::bisc 102 d108 general biology
+1462:_:cmns:::202:::d100:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d100:::cmns 202 d100 design and method in qualitative communication research
+1463:_:cmns:::202:::d101:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d101:::cmns 202 d101 design and method in qualitative communication research
+1464:_:cmns:::202:::d102:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d102:::cmns 202 d102 design and method in qualitative communication research
+1465:_:cmns:::202:::d103:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d103:::cmns 202 d103 design and method in qualitative communication research
+1466:_:cmns:::202:::d104:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d104:::cmns 202 d104 design and method in qualitative communication research
+1467:_:cmns:::202:::d105:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d105:::cmns 202 d105 design and method in qualitative communication research
+1468:_:cmns:::202:::d106:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d106:::cmns 202 d106 design and method in qualitative communication research
+1469:_:ensc:::703:::g100:::Graduate Co-op Practicum III:::ensc703:::ensc703g100:::ensc 703 g100 graduate co-op practicum iii
+1470:_:ensc:::703:::g200:::Graduate Co-op Practicum III:::ensc703:::ensc703g200:::ensc 703 g200 graduate co-op practicum iii
+1471:_:ensc:::703:::i100:::Graduate Co-op Practicum III:::ensc703:::ensc703i100:::ensc 703 i100 graduate co-op practicum iii
+1472:_:apma:::995:::g100:::PhD Oral Candidacy Exam:::apma995:::apma995g100:::apma 995 g100 phd oral candidacy exam
+1473:_:stat:::897:::g100:::PhD Comprehensive Exam:::stat897:::stat897g100:::stat 897 g100 phd comprehensive exam
+1474:_:bisc:::202:::c100:::Genetics:::bisc202:::bisc202c100:::bisc 202 c100 genetics
+1475:_:bisc:::202:::d100:::Genetics:::bisc202:::bisc202d100:::bisc 202 d100 genetics
+1476:_:bisc:::202:::d101:::Genetics:::bisc202:::bisc202d101:::bisc 202 d101 genetics
+1477:_:bisc:::202:::d102:::Genetics:::bisc202:::bisc202d102:::bisc 202 d102 genetics
+1478:_:bisc:::202:::d103:::Genetics:::bisc202:::bisc202d103:::bisc 202 d103 genetics
+1479:_:bisc:::202:::d104:::Genetics:::bisc202:::bisc202d104:::bisc 202 d104 genetics
+1480:_:bisc:::202:::d105:::Genetics:::bisc202:::bisc202d105:::bisc 202 d105 genetics
+1481:_:bisc:::202:::d106:::Genetics:::bisc202:::bisc202d106:::bisc 202 d106 genetics
+1482:_:masc:::401:::d100:::Directed Studies in Marine Sciences:::masc401:::masc401d100:::masc 401 d100 directed studies in marine sciences
+1483:_:bus:::511:::g100:::Business Ethics:::bus511:::bus511g100:::bus 511 g100 business ethics
+1484:_:hist:::490:::d100:::Studies in History:::hist490:::hist490d100:::hist 490 d100 studies in history
+1485:_:masc:::400:::d100:::Directed Studies:::masc400:::masc400d100:::masc 400 d100 directed studies
+1486:_:fep:::203:::d100:::Exchange Study - Not included in GPA:::fep203:::fep203d100:::fep 203 d100 exchange study - not included in gpa
+1487:_:arch:::131:::c100:::Human Origins:::arch131:::arch131c100:::arch 131 c100 human origins
+1488:_:arch:::131:::d100:::Human Origins:::arch131:::arch131d100:::arch 131 d100 human origins
+1489:_:arch:::131:::d200:::Human Origins:::arch131:::arch131d200:::arch 131 d200 human origins
+1490:_:sd:::499:::e100:::Special Topics in Sustainable Development:::sd499:::sd499e100:::sd 499 e100 special topics in sustainable development
+1491:_:bus:::498:::d100:::Directed Studies:::bus498:::bus498d100:::bus 498 d100 directed studies
+1492:_:cmpt:::127:::d100:::Computing Laboratory:::cmpt127:::cmpt127d100:::cmpt 127 d100 computing laboratory
+1493:_:cmpt:::127:::d200:::Computing Laboratory:::cmpt127:::cmpt127d200:::cmpt 127 d200 computing laboratory
+1494:_:cmpt:::127:::d300:::Computing Laboratory:::cmpt127:::cmpt127d300:::cmpt 127 d300 computing laboratory
+1495:_:ling:::491:::d100:::Directed Research:::ling491:::ling491d100:::ling 491 d100 directed research
+1496:_:ling:::491:::d200:::Directed Research:::ling491:::ling491d200:::ling 491 d200 directed research
+1497:_:pol:::290:::d100:::Political Science Practicum I:::pol290:::pol290d100:::pol 290 d100 political science practicum i
+1498:_:pol:::290:::d200:::Political Science Practicum I:::pol290:::pol290d200:::pol 290 d200 political science practicum i
+1499:_:pol:::290:::i100:::Political Science Practicum I:::pol290:::pol290i100:::pol 290 i100 political science practicum i
+1500:_:bisc:::298:::d100:::Introduction to Undergraduate Research in Biological Sciences:::bisc298:::bisc298d100:::bisc 298 d100 introduction to undergraduate research in biological sciences
+1501:_:hs:::216:::d100:::STT - War and Society:::hs216:::hs216d100:::hs 216 d100 stt - war and society
+1502:_:cmns:::395:::d100:::Communication Practicum I:::cmns395:::cmns395d100:::cmns 395 d100 communication practicum i
+1503:_:cmns:::395:::d200:::Communication Practicum I:::cmns395:::cmns395d200:::cmns 395 d200 communication practicum i
+1504:_:cmns:::395:::i100:::Communication Practicum I:::cmns395:::cmns395i100:::cmns 395 i100 communication practicum i
+1505:_:math:::152:::d100:::Calculus II:::math152:::math152d100:::math 152 d100 calculus ii
+1506:_:math:::152:::op01:::Calculus II:::math152:::math152op01:::math 152 op01 calculus ii
+1507:_:cmns:::396:::d100:::Communication Practicum II:::cmns396:::cmns396d100:::cmns 396 d100 communication practicum ii
+1508:_:cmns:::396:::d200:::Communication Practicum II:::cmns396:::cmns396d200:::cmns 396 d200 communication practicum ii
+1509:_:cmns:::396:::i100:::Communication Practicum II:::cmns396:::cmns396i100:::cmns 396 i100 communication practicum ii
+1510:_:cmns:::895:::g100:::Comprehensive Examination:::cmns895:::cmns895g100:::cmns 895 g100 comprehensive examination
+1511:_:cmns:::895:::g200:::Comprehensive Examination:::cmns895:::cmns895g200:::cmns 895 g200 comprehensive examination
+1512:_:educ:::935:::g001:::Learning Design Demonstration of Mastery:::educ935:::educ935g001:::educ 935 g001 learning design demonstration of mastery
+1513:_:econ:::986:::g100:::Comprehensive Examination in Macroeconomic Theory:::econ986:::econ986g100:::econ 986 g100 comprehensive examination in macroeconomic theory
+1514:_:lbst:::311:::d100:::Labour and the Environment:::lbst311:::lbst311d100:::lbst 311 d100 labour and the environment
+1515:_:educ:::934:::g001:::Learning Design Development Workshop:::educ934:::educ934g001:::educ 934 g001 learning design development workshop
+1516:_:arch:::899:::g100:::PhD Thesis:::arch899:::arch899g100:::arch 899 g100 phd thesis
+1517:_:arch:::899:::g200:::PhD Thesis:::arch899:::arch899g200:::arch 899 g200 phd thesis
+1518:_:econ:::985:::g100:::Comprehensive Examination in Microeconomic Theory:::econ985:::econ985g100:::econ 985 g100 comprehensive examination in microeconomic theory
+1519:_:arch:::898:::g100:::MA Thesis:::arch898:::arch898g100:::arch 898 g100 ma thesis
+1520:_:arch:::898:::g200:::MA Thesis:::arch898:::arch898g200:::arch 898 g200 ma thesis
+1521:_:arch:::898:::g300:::MA Thesis:::arch898:::arch898g300:::arch 898 g300 ma thesis
+1522:_:cmns:::349:::d100:::Environment, Media and Communication:::cmns349:::cmns349d100:::cmns 349 d100 environment, media and communication
+1523:_:cmns:::349:::d101:::Environment, Media and Communication:::cmns349:::cmns349d101:::cmns 349 d101 environment, media and communication
+1524:_:cmns:::349:::d102:::Environment, Media and Communication:::cmns349:::cmns349d102:::cmns 349 d102 environment, media and communication
+1525:_:cmns:::349:::d103:::Environment, Media and Communication:::cmns349:::cmns349d103:::cmns 349 d103 environment, media and communication
+1526:_:cmns:::349:::d104:::Environment, Media and Communication:::cmns349:::cmns349d104:::cmns 349 d104 environment, media and communication
+1527:_:cmns:::349:::d105:::Environment, Media and Communication:::cmns349:::cmns349d105:::cmns 349 d105 environment, media and communication
+1528:_:pub:::480:::d100:::Special Topics in Publishing:::pub480:::pub480d100:::pub 480 d100 special topics in publishing
+1529:_:stat:::205:::c100:::Introduction to Statistics:::stat205:::stat205c100:::stat 205 c100 introduction to statistics
+1530:_:pub:::438:::d100:::Design Awareness in Publishing Processes and Products:::pub438:::pub438d100:::pub 438 d100 design awareness in publishing processes and products
+1531:_:pub:::438:::lab1:::Design Awareness in Publishing Processes and Products:::pub438:::pub438lab1:::pub 438 lab1 design awareness in publishing processes and products
+1532:_:pub:::438:::lab2:::Design Awareness in Publishing Processes and Products:::pub438:::pub438lab2:::pub 438 lab2 design awareness in publishing processes and products
+1533:_:pub:::484:::d100:::Directed Readings in Publishing:::pub484:::pub484d100:::pub 484 d100 directed readings in publishing
+1534:_:phys:::121:::d100:::Optics, Electricity and Magnetism:::phys121:::phys121d100:::phys 121 d100 optics, electricity and magnetism
+1535:_:phys:::121:::d101:::Optics, Electricity and Magnetism:::phys121:::phys121d101:::phys 121 d101 optics, electricity and magnetism
+1536:_:phys:::121:::d102:::Optics, Electricity and Magnetism:::phys121:::phys121d102:::phys 121 d102 optics, electricity and magnetism
+1537:_:phys:::121:::d103:::Optics, Electricity and Magnetism:::phys121:::phys121d103:::phys 121 d103 optics, electricity and magnetism
+1538:_:phys:::121:::d104:::Optics, Electricity and Magnetism:::phys121:::phys121d104:::phys 121 d104 optics, electricity and magnetism
+1539:_:phys:::121:::d105:::Optics, Electricity and Magnetism:::phys121:::phys121d105:::phys 121 d105 optics, electricity and magnetism
+1540:_:phys:::121:::d106:::Optics, Electricity and Magnetism:::phys121:::phys121d106:::phys 121 d106 optics, electricity and magnetism
+1541:_:phys:::121:::d107:::Optics, Electricity and Magnetism:::phys121:::phys121d107:::phys 121 d107 optics, electricity and magnetism
+1542:_:chem:::281:::d100:::Organic Chemistry I:::chem281:::chem281d100:::chem 281 d100 organic chemistry i
+1543:_:chem:::281:::d101:::Organic Chemistry I:::chem281:::chem281d101:::chem 281 d101 organic chemistry i
+1544:_:chem:::281:::d102:::Organic Chemistry I:::chem281:::chem281d102:::chem 281 d102 organic chemistry i
+1545:_:chem:::281:::d103:::Organic Chemistry I:::chem281:::chem281d103:::chem 281 d103 organic chemistry i
+1546:_:chem:::281:::d104:::Organic Chemistry I:::chem281:::chem281d104:::chem 281 d104 organic chemistry i
+1547:_:chem:::281:::d105:::Organic Chemistry I:::chem281:::chem281d105:::chem 281 d105 organic chemistry i
+1548:_:chem:::281:::d106:::Organic Chemistry I:::chem281:::chem281d106:::chem 281 d106 organic chemistry i
+1549:_:chem:::281:::d107:::Organic Chemistry I:::chem281:::chem281d107:::chem 281 d107 organic chemistry i
+1550:_:chem:::281:::la04:::Organic Chemistry I:::chem281:::chem281la04:::chem 281 la04 organic chemistry i
+1551:_:chem:::281:::la05:::Organic Chemistry I:::chem281:::chem281la05:::chem 281 la05 organic chemistry i
+1552:_:chem:::281:::lb04:::Organic Chemistry I:::chem281:::chem281lb04:::chem 281 lb04 organic chemistry i
+1553:_:chem:::281:::lb05:::Organic Chemistry I:::chem281:::chem281lb05:::chem 281 lb05 organic chemistry i
+1554:_:chem:::281:::le01:::Organic Chemistry I:::chem281:::chem281le01:::chem 281 le01 organic chemistry i
+1555:_:chem:::282:::d100:::Organic Chemistry II:::chem282:::chem282d100:::chem 282 d100 organic chemistry ii
+1556:_:chem:::282:::d101:::Organic Chemistry II:::chem282:::chem282d101:::chem 282 d101 organic chemistry ii
+1557:_:chem:::282:::d102:::Organic Chemistry II:::chem282:::chem282d102:::chem 282 d102 organic chemistry ii
+1558:_:chem:::282:::d103:::Organic Chemistry II:::chem282:::chem282d103:::chem 282 d103 organic chemistry ii
+1559:_:chem:::282:::d104:::Organic Chemistry II:::chem282:::chem282d104:::chem 282 d104 organic chemistry ii
+1560:_:chem:::282:::d105:::Organic Chemistry II:::chem282:::chem282d105:::chem 282 d105 organic chemistry ii
+1561:_:bus:::401:::d100:::Developing Organizational Opportunities:::bus401:::bus401d100:::bus 401 d100 developing organizational opportunities
+1562:_:ital:::100:::d100:::Introductory Italian I:::ital100:::ital100d100:::ital 100 d100 introductory italian i
+1563:_:ital:::101:::d100:::Introductory Italian II:::ital101:::ital101d100:::ital 101 d100 introductory italian ii
+1564:_:bus:::714:::g100:::Entrepreneurship:::bus714:::bus714g100:::bus 714 g100 entrepreneurship
+1565:_:cmns:::898:::g100:::MA Thesis:::cmns898:::cmns898g100:::cmns 898 g100 ma thesis
+1566:_:cmns:::898:::g200:::MA Thesis:::cmns898:::cmns898g200:::cmns 898 g200 ma thesis
+1567:_:cmns:::899:::g100:::PhD Thesis:::cmns899:::cmns899g100:::cmns 899 g100 phd thesis
+1568:_:cmns:::899:::g200:::PhD Thesis:::cmns899:::cmns899g200:::cmns 899 g200 phd thesis
+1569:_:ga:::102:::d100:::Introduction to Asia-Canada Studies II:::ga102:::ga102d100:::ga 102 d100 introduction to asia-canada studies ii
+1570:_:pol:::894:::g100:::Readings in Political Science II:::pol894:::pol894g100:::pol 894 g100 readings in political science ii
+1571:_:pol:::894:::g200:::Readings in Political Science II:::pol894:::pol894g200:::pol 894 g200 readings in political science ii
+1572:_:chem:::306:::d100:::Practicum I:::chem306:::chem306d100:::chem 306 d100 practicum i
+1573:_:chem:::306:::d200:::Practicum I:::chem306:::chem306d200:::chem 306 d200 practicum i
+1574:_:chem:::306:::i100:::Practicum I:::chem306:::chem306i100:::chem 306 i100 practicum i
+1575:_:chem:::286:::la04:::Organic Chemistry Laboratory II:::chem286:::chem286la04:::chem 286 la04 organic chemistry laboratory ii
+1576:_:chem:::286:::la07:::Organic Chemistry Laboratory II:::chem286:::chem286la07:::chem 286 la07 organic chemistry laboratory ii
+1577:_:pol:::892:::g100:::Research Project:::pol892:::pol892g100:::pol 892 g100 research project
+1578:_:pol:::892:::g200:::Research Project:::pol892:::pol892g200:::pol 892 g200 research project
+1579:_:pol:::893:::g100:::Readings in Political Sciences:::pol893:::pol893g100:::pol 893 g100 readings in political sciences
+1580:_:pol:::893:::g200:::Readings in Political Sciences:::pol893:::pol893g200:::pol 893 g200 readings in political sciences
+1581:_:pol:::891:::g100:::Master's Seminar:::pol891:::pol891g100:::pol 891 g100 master's seminar
+1582:_:pol:::891:::g200:::Master's Seminar:::pol891:::pol891g200:::pol 891 g200 master's seminar
+1583:_:pol:::890:::g100:::PhD Seminar:::pol890:::pol890g100:::pol 890 g100 phd seminar
+1584:_:pol:::898:::g100:::MA Thesis:::pol898:::pol898g100:::pol 898 g100 ma thesis
+1585:_:pol:::897:::g100:::Field Exam in Major Areas of MA Concentration:::pol897:::pol897g100:::pol 897 g100 field exam in major areas of ma concentration
+1586:_:pol:::896:::g100:::PhD Comprehensive Exam:::pol896:::pol896g100:::pol 896 g100 phd comprehensive exam
+1587:_:pol:::896:::g200:::PhD Comprehensive Exam:::pol896:::pol896g200:::pol 896 g200 phd comprehensive exam
+1588:_:phys:::102:::d100:::Physics for the Life Sciences II:::phys102:::phys102d100:::phys 102 d100 physics for the life sciences ii
+1589:_:phys:::102:::d101:::Physics for the Life Sciences II:::phys102:::phys102d101:::phys 102 d101 physics for the life sciences ii
+1590:_:phys:::102:::d102:::Physics for the Life Sciences II:::phys102:::phys102d102:::phys 102 d102 physics for the life sciences ii
+1591:_:phys:::102:::d103:::Physics for the Life Sciences II:::phys102:::phys102d103:::phys 102 d103 physics for the life sciences ii
+1592:_:phys:::102:::d104:::Physics for the Life Sciences II:::phys102:::phys102d104:::phys 102 d104 physics for the life sciences ii
+1593:_:phys:::102:::d105:::Physics for the Life Sciences II:::phys102:::phys102d105:::phys 102 d105 physics for the life sciences ii
+1594:_:phys:::102:::d106:::Physics for the Life Sciences II:::phys102:::phys102d106:::phys 102 d106 physics for the life sciences ii
+1595:_:phys:::102:::d107:::Physics for the Life Sciences II:::phys102:::phys102d107:::phys 102 d107 physics for the life sciences ii
+1596:_:phys:::102:::d108:::Physics for the Life Sciences II:::phys102:::phys102d108:::phys 102 d108 physics for the life sciences ii
+1597:_:phys:::102:::d109:::Physics for the Life Sciences II:::phys102:::phys102d109:::phys 102 d109 physics for the life sciences ii
+1598:_:phys:::102:::d110:::Physics for the Life Sciences II:::phys102:::phys102d110:::phys 102 d110 physics for the life sciences ii
+1599:_:phys:::102:::d111:::Physics for the Life Sciences II:::phys102:::phys102d111:::phys 102 d111 physics for the life sciences ii
+1600:_:phys:::102:::d112:::Physics for the Life Sciences II:::phys102:::phys102d112:::phys 102 d112 physics for the life sciences ii
+1601:_:phys:::102:::op01:::Physics for the Life Sciences II:::phys102:::phys102op01:::phys 102 op01 physics for the life sciences ii
+1602:_:pol:::895:::g100:::Extended Essays:::pol895:::pol895g100:::pol 895 g100 extended essays
+1603:_:cmns:::892:::g100:::Co-op Practicum II:::cmns892:::cmns892g100:::cmns 892 g100 co-op practicum ii
+1604:_:cmns:::892:::g200:::Co-op Practicum II:::cmns892:::cmns892g200:::cmns 892 g200 co-op practicum ii
+1605:_:cmns:::892:::i100:::Co-op Practicum II:::cmns892:::cmns892i100:::cmns 892 i100 co-op practicum ii
+1606:_:phys:::101:::d100:::Physics for the Life Sciences I:::phys101:::phys101d100:::phys 101 d100 physics for the life sciences i
+1607:_:phys:::101:::d101:::Physics for the Life Sciences I:::phys101:::phys101d101:::phys 101 d101 physics for the life sciences i
+1608:_:phys:::101:::d102:::Physics for the Life Sciences I:::phys101:::phys101d102:::phys 101 d102 physics for the life sciences i
+1609:_:phys:::101:::d103:::Physics for the Life Sciences I:::phys101:::phys101d103:::phys 101 d103 physics for the life sciences i
+1610:_:phys:::101:::d104:::Physics for the Life Sciences I:::phys101:::phys101d104:::phys 101 d104 physics for the life sciences i
+1611:_:phys:::101:::d105:::Physics for the Life Sciences I:::phys101:::phys101d105:::phys 101 d105 physics for the life sciences i
+1612:_:phys:::101:::d106:::Physics for the Life Sciences I:::phys101:::phys101d106:::phys 101 d106 physics for the life sciences i
+1613:_:phys:::101:::d107:::Physics for the Life Sciences I:::phys101:::phys101d107:::phys 101 d107 physics for the life sciences i
+1614:_:phys:::101:::d108:::Physics for the Life Sciences I:::phys101:::phys101d108:::phys 101 d108 physics for the life sciences i
+1615:_:phys:::101:::d109:::Physics for the Life Sciences I:::phys101:::phys101d109:::phys 101 d109 physics for the life sciences i
+1616:_:phys:::101:::d110:::Physics for the Life Sciences I:::phys101:::phys101d110:::phys 101 d110 physics for the life sciences i
+1617:_:arch:::301:::c100:::Ancient Visual Art:::arch301:::arch301c100:::arch 301 c100 ancient visual art
+1618:_:phys:::100:::d100:::Introduction to Physics:::phys100:::phys100d100:::phys 100 d100 introduction to physics
+1619:_:phys:::100:::d101:::Introduction to Physics:::phys100:::phys100d101:::phys 100 d101 introduction to physics
+1620:_:phys:::100:::d102:::Introduction to Physics:::phys100:::phys100d102:::phys 100 d102 introduction to physics
+1621:_:phys:::100:::d103:::Introduction to Physics:::phys100:::phys100d103:::phys 100 d103 introduction to physics
+1622:_:phys:::100:::d104:::Introduction to Physics:::phys100:::phys100d104:::phys 100 d104 introduction to physics
+1623:_:phys:::100:::d105:::Introduction to Physics:::phys100:::phys100d105:::phys 100 d105 introduction to physics
+1624:_:phys:::100:::d106:::Introduction to Physics:::phys100:::phys100d106:::phys 100 d106 introduction to physics
+1625:_:phys:::100:::d107:::Introduction to Physics:::phys100:::phys100d107:::phys 100 d107 introduction to physics
+1626:_:phys:::100:::d108:::Introduction to Physics:::phys100:::phys100d108:::phys 100 d108 introduction to physics
+1627:_:phys:::100:::d109:::Introduction to Physics:::phys100:::phys100d109:::phys 100 d109 introduction to physics
+1628:_:phys:::100:::op01:::Introduction to Physics:::phys100:::phys100op01:::phys 100 op01 introduction to physics
+1629:_:sa:::897:::g100:::PhD Qualifying Examinations:::sa897:::sa897g100:::sa 897 g100 phd qualifying examinations
+1630:_:math:::155:::d100:::Calculus II for the Biological Sciences:::math155:::math155d100:::math 155 d100 calculus ii for the biological sciences
+1631:_:math:::155:::opo1:::Calculus II for the Biological Sciences:::math155:::math155opo1:::math 155 opo1 calculus ii for the biological sciences
+1632:_:math:::157:::d100:::Calculus I for the Social Sciences:::math157:::math157d100:::math 157 d100 calculus i for the social sciences
+1633:_:math:::157:::op01:::Calculus I for the Social Sciences:::math157:::math157op01:::math 157 op01 calculus i for the social sciences
+1634:_:cmns:::881:::g100:::Research Internship:::cmns881:::cmns881g100:::cmns 881 g100 research internship
+1635:_:cmns:::881:::g200:::Research Internship:::cmns881:::cmns881g200:::cmns 881 g200 research internship
+1636:_:cmns:::881:::g300:::Research Internship:::cmns881:::cmns881g300:::cmns 881 g300 research internship
+1637:_:cmns:::881:::g400:::Research Internship:::cmns881:::cmns881g400:::cmns 881 g400 research internship
+1638:_:cmns:::881:::g500:::Research Internship:::cmns881:::cmns881g500:::cmns 881 g500 research internship
+1639:_:cmns:::880:::g100:::Directed Readings and Research:::cmns880:::cmns880g100:::cmns 880 g100 directed readings and research
+1640:_:cmns:::880:::g200:::Directed Readings and Research:::cmns880:::cmns880g200:::cmns 880 g200 directed readings and research
+1641:_:cmns:::880:::g300:::Directed Readings and Research:::cmns880:::cmns880g300:::cmns 880 g300 directed readings and research
+1642:_:cmns:::880:::g400:::Directed Readings and Research:::cmns880:::cmns880g400:::cmns 880 g400 directed readings and research
+1643:_:cmns:::880:::g500:::Directed Readings and Research:::cmns880:::cmns880g500:::cmns 880 g500 directed readings and research
+1644:_:cmns:::891:::g100:::Co-op Practicum I:::cmns891:::cmns891g100:::cmns 891 g100 co-op practicum i
+1645:_:cmns:::891:::g200:::Co-op Practicum I:::cmns891:::cmns891g200:::cmns 891 g200 co-op practicum i
+1646:_:cmns:::891:::i100:::Co-op Practicum I:::cmns891:::cmns891i100:::cmns 891 i100 co-op practicum i
+1647:_:hum:::240:::d100:::Studies in Modern European Culture:::hum240:::hum240d100:::hum 240 d100 studies in modern european culture
+1648:_:chem:::307:::d100:::Practicum II:::chem307:::chem307d100:::chem 307 d100 practicum ii
+1649:_:chem:::307:::d200:::Practicum II:::chem307:::chem307d200:::chem 307 d200 practicum ii
+1650:_:chem:::307:::i100:::Practicum II:::chem307:::chem307i100:::chem 307 i100 practicum ii
+1651:_:cmns:::882:::g100:::Research Field Work:::cmns882:::cmns882g100:::cmns 882 g100 research field work
+1652:_:cmns:::882:::g200:::Research Field Work:::cmns882:::cmns882g200:::cmns 882 g200 research field work
+1653:_:cmns:::882:::g300:::Research Field Work:::cmns882:::cmns882g300:::cmns 882 g300 research field work
+1654:_:cmns:::882:::g400:::Research Field Work:::cmns882:::cmns882g400:::cmns 882 g400 research field work
+1655:_:cmns:::882:::g500:::Research Field Work:::cmns882:::cmns882g500:::cmns 882 g500 research field work
+1656:_:bpk:::805:::g100:::Directed Studies:::bpk805:::bpk805g100:::bpk 805 g100 directed studies
+1657:_:mbb:::806:::g100:::PhD Graduate Research Candidacy Examination:::mbb806:::mbb806g100:::mbb 806 g100 phd graduate research candidacy examination
+1658:_:econ:::433:::d100:::Financial Econometrics & Trading:::econ433:::econ433d100:::econ 433 d100 financial econometrics & trading
+1659:_:bus:::330:::d100:::Income Taxation for Individuals:::bus330:::bus330d100:::bus 330 d100 income taxation for individuals
+1660:_:fren:::896:::g100:::Thesis Proposal:::fren896:::fren896g100:::fren 896 g100 thesis proposal
+1661:_:bpk:::499:::d100:::Undergraduate Honours Thesis Reporting:::bpk499:::bpk499d100:::bpk 499 d100 undergraduate honours thesis reporting
+1662:_:fren:::998:::g100:::Extended Essays:::fren998:::fren998g100:::fren 998 g100 extended essays
+1663:_:chin:::112:::d200:::STT - Introduction to Mandarin Chinese and Society II:::chin112:::chin112d200:::chin 112 d200 stt - introduction to mandarin chinese and society ii
+1664:_:chin:::112:::d201:::STT - Introduction to Mandarin Chinese and Society II:::chin112:::chin112d201:::chin 112 d201 stt - introduction to mandarin chinese and society ii
+1665:_:mse:::452:::d100:::Power Conversion in Alternative Energy Systems:::mse452:::mse452d100:::mse 452 d100 power conversion in alternative energy systems
+1666:_:mse:::452:::lab1:::Power Conversion in Alternative Energy Systems:::mse452:::mse452lab1:::mse 452 lab1 power conversion in alternative energy systems
+1667:_:mse:::452:::lab2:::Power Conversion in Alternative Energy Systems:::mse452:::mse452lab2:::mse 452 lab2 power conversion in alternative energy systems
+1668:_:mbb:::302:::d100:::Energy: From Cells to Society:::mbb302:::mbb302d100:::mbb 302 d100 energy: from cells to society
+1669:_:bpk:::498:::d100:::Directed Study Experiential:::bpk498:::bpk498d100:::bpk 498 d100 directed study experiential
+1670:_:cmpt:::777:::g100:::Formal Verification:::cmpt777:::cmpt777g100:::cmpt 777 g100 formal verification
+1671:_:phil:::899:::g100:::Non-Thesis Project Completion:::phil899:::phil899g100:::phil 899 g100 non-thesis project completion
+1672:_:bus:::755:::g100:::Topics in International Business:::bus755:::bus755g100:::bus 755 g100 topics in international business
+1673:_:phil:::898:::g100:::MA Thesis:::phil898:::phil898g100:::phil 898 g100 ma thesis
+1674:_:arch:::226:::c100:::The Prehistory of Religion: Shamans, Sorcerers and Saints:::arch226:::arch226c100:::arch 226 c100 the prehistory of religion: shamans, sorcerers and saints
+1675:_:arch:::226:::d100:::The Prehistory of Religion: Shamans, Sorcerers and Saints:::arch226:::arch226d100:::arch 226 d100 the prehistory of religion: shamans, sorcerers and saints
+1676:_:phil:::998:::g100:::PhD Thesis:::phil998:::phil998g100:::phil 998 g100 phd thesis
+1677:_:urb:::660:::g100:::Transportation and Urban Development:::urb660:::urb660g100:::urb 660 g100 transportation and urban development
+1678:_:cmns:::860:::g100:::Graduate Colloquium in Global Communication:::cmns860:::cmns860g100:::cmns 860 g100 graduate colloquium in global communication
+1679:_:cmns:::860:::g101:::Graduate Colloquium in Global Communication:::cmns860:::cmns860g101:::cmns 860 g101 graduate colloquium in global communication
+1680:_:cmns:::857:::g100:::Selected Topics in Communication Studies:::cmns857:::cmns857g100:::cmns 857 g100 selected topics in communication studies
+1681:_:cmns:::858:::g100:::Selected Topics in Communication Studies:::cmns858:::cmns858g100:::cmns 858 g100 selected topics in communication studies
+1682:_:math:::342:::d100:::Elementary Number Theory:::math342:::math342d100:::math 342 d100 elementary number theory
+1683:_:math:::342:::d101:::Elementary Number Theory:::math342:::math342d101:::math 342 d101 elementary number theory
+1684:_:math:::342:::d102:::Elementary Number Theory:::math342:::math342d102:::math 342 d102 elementary number theory
+1685:_:math:::342:::d103:::Elementary Number Theory:::math342:::math342d103:::math 342 d103 elementary number theory
+1686:_:ling:::899:::g100:::PhD Thesis:::ling899:::ling899g100:::ling 899 g100 phd thesis
+1687:_:ling:::899:::g200:::PhD Thesis:::ling899:::ling899g200:::ling 899 g200 phd thesis
+1688:_:ling:::899:::g300:::PhD Thesis:::ling899:::ling899g300:::ling 899 g300 phd thesis
+1689:_:ling:::899:::g400:::PhD Thesis:::ling899:::ling899g400:::ling 899 g400 phd thesis
+1690:_:ling:::899:::g500:::PhD Thesis:::ling899:::ling899g500:::ling 899 g500 phd thesis
+1691:_:ling:::899:::g600:::PhD Thesis:::ling899:::ling899g600:::ling 899 g600 phd thesis
+1692:_:ling:::899:::g700:::PhD Thesis:::ling899:::ling899g700:::ling 899 g700 phd thesis
+1693:_:ling:::899:::g800:::PhD Thesis:::ling899:::ling899g800:::ling 899 g800 phd thesis
+1694:_:ling:::898:::g100:::MA Thesis:::ling898:::ling898g100:::ling 898 g100 ma thesis
+1695:_:ling:::898:::g200:::MA Thesis:::ling898:::ling898g200:::ling 898 g200 ma thesis
+1696:_:ling:::898:::g300:::MA Thesis:::ling898:::ling898g300:::ling 898 g300 ma thesis
+1697:_:ling:::898:::g400:::MA Thesis:::ling898:::ling898g400:::ling 898 g400 ma thesis
+1698:_:ling:::898:::g500:::MA Thesis:::ling898:::ling898g500:::ling 898 g500 ma thesis
+1699:_:ling:::898:::g600:::MA Thesis:::ling898:::ling898g600:::ling 898 g600 ma thesis
+1700:_:ling:::898:::g700:::MA Thesis:::ling898:::ling898g700:::ling 898 g700 ma thesis
+1701:_:math:::337:::d100:::Job Practicum II:::math337:::math337d100:::math 337 d100 job practicum ii
+1702:_:math:::337:::d200:::Job Practicum II:::math337:::math337d200:::math 337 d200 job practicum ii
+1703:_:math:::337:::i100:::Job Practicum II:::math337:::math337i100:::math 337 i100 job practicum ii
+1704:_:math:::336:::d100:::Job Practicum I:::math336:::math336d100:::math 336 d100 job practicum i
+1705:_:math:::336:::d200:::Job Practicum I:::math336:::math336d200:::math 336 d200 job practicum i
+1706:_:math:::336:::i100:::Job Practicum I:::math336:::math336i100:::math 336 i100 job practicum i
+1707:_:mbb:::451:::d100:::Practicum IV:::mbb451:::mbb451d100:::mbb 451 d100 practicum iv
+1708:_:mbb:::451:::d200:::Practicum IV:::mbb451:::mbb451d200:::mbb 451 d200 practicum iv
+1709:_:mbb:::451:::i100:::Practicum IV:::mbb451:::mbb451i100:::mbb 451 i100 practicum iv
+1710:_:ling:::896:::g100:::Directed Research:::ling896:::ling896g100:::ling 896 g100 directed research
+1711:_:bus:::993:::g100:::Thesis Proposal:::bus993:::bus993g100:::bus 993 g100 thesis proposal
+1712:_:bpk:::496:::d100:::Directed Study Literature:::bpk496:::bpk496d100:::bpk 496 d100 directed study literature
+1713:_:bus:::638:::g100:::Marketing Strategy:::bus638:::bus638g100:::bus 638 g100 marketing strategy
+1714:_:bus:::640:::g100:::Managerial Accounting:::bus640:::bus640g100:::bus 640 g100 managerial accounting
+1715:_:ensc:::803:::g100:::Writing for Publication:::ensc803:::ensc803g100:::ensc 803 g100 writing for publication
+1716:_:bus:::510:::g100:::Financial and Managerial Accounting:::bus510:::bus510g100:::bus 510 g100 financial and managerial accounting
+1717:_:bus:::715:::g100:::Operations Management:::bus715:::bus715g100:::bus 715 g100 operations management
+1718:_:arch:::375:::d100:::From Soup to Nuts: The Archaeology of Food:::arch375:::arch375d100:::arch 375 d100 from soup to nuts: the archaeology of food
+1719:_:bus:::716:::g100:::Sustainability:::bus716:::bus716g100:::bus 716 g100 sustainability
+1720:_:bus:::311:::d100:::Introduction to Managerial Accounting and Financial Management:::bus311:::bus311d100:::bus 311 d100 introduction to managerial accounting and financial management
+1721:_:bus:::340:::d100:::International Business Strategy:::bus340:::bus340d100:::bus 340 d100 international business strategy
+1722:_:mbb:::492:::d100:::Individual Study Semester:::mbb492:::mbb492d100:::mbb 492 d100 individual study semester
+1723:_:mbb:::492:::d200:::Individual Study Semester:::mbb492:::mbb492d200:::mbb 492 d200 individual study semester
+1724:_:mbb:::492:::d300:::Individual Study Semester:::mbb492:::mbb492d300:::mbb 492 d300 individual study semester
+1725:_:mbb:::492:::d400:::Individual Study Semester:::mbb492:::mbb492d400:::mbb 492 d400 individual study semester
+1726:_:mbb:::492:::d500:::Individual Study Semester:::mbb492:::mbb492d500:::mbb 492 d500 individual study semester
+1727:_:mbb:::490:::d100:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d100:::mbb 490 d100 directed readings in molecular biology and biochemistry
+1728:_:mbb:::490:::d200:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d200:::mbb 490 d200 directed readings in molecular biology and biochemistry
+1729:_:mbb:::490:::d300:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d300:::mbb 490 d300 directed readings in molecular biology and biochemistry
+1730:_:mbb:::490:::d400:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d400:::mbb 490 d400 directed readings in molecular biology and biochemistry
+1731:_:mbb:::490:::d500:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d500:::mbb 490 d500 directed readings in molecular biology and biochemistry
+1732:_:mbb:::491:::d100:::Independent Study Semester:::mbb491:::mbb491d100:::mbb 491 d100 independent study semester
+1733:_:mbb:::491:::d200:::Independent Study Semester:::mbb491:::mbb491d200:::mbb 491 d200 independent study semester
+1734:_:mbb:::491:::d300:::Independent Study Semester:::mbb491:::mbb491d300:::mbb 491 d300 independent study semester
+1735:_:mbb:::491:::d400:::Independent Study Semester:::mbb491:::mbb491d400:::mbb 491 d400 independent study semester
+1736:_:mbb:::491:::d500:::Independent Study Semester:::mbb491:::mbb491d500:::mbb 491 d500 independent study semester
+1737:_:mbb:::452:::d100:::Practicum V:::mbb452:::mbb452d100:::mbb 452 d100 practicum v
+1738:_:mbb:::452:::d200:::Practicum V:::mbb452:::mbb452d200:::mbb 452 d200 practicum v
+1739:_:mbb:::452:::i100:::Practicum V:::mbb452:::mbb452i100:::mbb 452 i100 practicum v
+1740:_:hsci:::451:::d100:::Co-op Practicum IV:::hsci451:::hsci451d100:::hsci 451 d100 co-op practicum iv
+1741:_:hsci:::451:::d200:::Co-op Practicum IV:::hsci451:::hsci451d200:::hsci 451 d200 co-op practicum iv
+1742:_:hsci:::451:::i100:::Co-op Practicum IV:::hsci451:::hsci451i100:::hsci 451 i100 co-op practicum iv
+1743:_:bus:::393:::d100:::Commercial Law:::bus393:::bus393d100:::bus 393 d100 commercial law
+1744:_:bus:::393:::d101:::Commercial Law:::bus393:::bus393d101:::bus 393 d101 commercial law
+1745:_:bus:::393:::d102:::Commercial Law:::bus393:::bus393d102:::bus 393 d102 commercial law
+1746:_:bus:::393:::d103:::Commercial Law:::bus393:::bus393d103:::bus 393 d103 commercial law
+1747:_:bus:::393:::d104:::Commercial Law:::bus393:::bus393d104:::bus 393 d104 commercial law
+1748:_:bus:::393:::d200:::Commercial Law:::bus393:::bus393d200:::bus 393 d200 commercial law
+1749:_:bus:::393:::d201:::Commercial Law:::bus393:::bus393d201:::bus 393 d201 commercial law
+1750:_:bus:::393:::d202:::Commercial Law:::bus393:::bus393d202:::bus 393 d202 commercial law
+1751:_:bus:::393:::d203:::Commercial Law:::bus393:::bus393d203:::bus 393 d203 commercial law
+1752:_:bus:::393:::d204:::Commercial Law:::bus393:::bus393d204:::bus 393 d204 commercial law
+1753:_:bus:::393:::d300:::Commercial Law:::bus393:::bus393d300:::bus 393 d300 commercial law
+1754:_:bus:::393:::d301:::Commercial Law:::bus393:::bus393d301:::bus 393 d301 commercial law
+1755:_:bus:::393:::d302:::Commercial Law:::bus393:::bus393d302:::bus 393 d302 commercial law
+1756:_:bus:::393:::d303:::Commercial Law:::bus393:::bus393d303:::bus 393 d303 commercial law
+1757:_:bus:::393:::d304:::Commercial Law:::bus393:::bus393d304:::bus 393 d304 commercial law
+1758:_:bus:::393:::e100:::Commercial Law:::bus393:::bus393e100:::bus 393 e100 commercial law
+1759:_:bus:::393:::e101:::Commercial Law:::bus393:::bus393e101:::bus 393 e101 commercial law
+1760:_:bus:::393:::e102:::Commercial Law:::bus393:::bus393e102:::bus 393 e102 commercial law
+1761:_:bus:::393:::e103:::Commercial Law:::bus393:::bus393e103:::bus 393 e103 commercial law
+1762:_:bus:::393:::e104:::Commercial Law:::bus393:::bus393e104:::bus 393 e104 commercial law
+1763:_:hsci:::450:::d100:::Co-op Practicum III:::hsci450:::hsci450d100:::hsci 450 d100 co-op practicum iii
+1764:_:hsci:::450:::d200:::Co-op Practicum III:::hsci450:::hsci450d200:::hsci 450 d200 co-op practicum iii
+1765:_:hsci:::450:::i100:::Co-op Practicum III:::hsci450:::hsci450i100:::hsci 450 i100 co-op practicum iii
+1766:_:math:::251:::d100:::Calculus III:::math251:::math251d100:::math 251 d100 calculus iii
+1767:_:math:::251:::op01:::Calculus III:::math251:::math251op01:::math 251 op01 calculus iii
+1768:_:hsci:::351:::d100:::Co-op Practicum II:::hsci351:::hsci351d100:::hsci 351 d100 co-op practicum ii
+1769:_:hsci:::351:::d200:::Co-op Practicum II:::hsci351:::hsci351d200:::hsci 351 d200 co-op practicum ii
+1770:_:hsci:::351:::i100:::Co-op Practicum II:::hsci351:::hsci351i100:::hsci 351 i100 co-op practicum ii
+1771:_:ensc:::280:::e100:::Engineering Measurement and Data Analysis:::ensc280:::ensc280e100:::ensc 280 e100 engineering measurement and data analysis
+1772:_:ensc:::280:::e101:::Engineering Measurement and Data Analysis:::ensc280:::ensc280e101:::ensc 280 e101 engineering measurement and data analysis
+1773:_:ensc:::280:::la01:::Engineering Measurement and Data Analysis:::ensc280:::ensc280la01:::ensc 280 la01 engineering measurement and data analysis
+1774:_:mbb:::432:::d100:::Advanced Molecular Biology Techniques:::mbb432:::mbb432d100:::mbb 432 d100 advanced molecular biology techniques
+1775:_:hsci:::350:::d100:::Co-op Practicum I:::hsci350:::hsci350d100:::hsci 350 d100 co-op practicum i
+1776:_:hsci:::350:::d200:::Co-op Practicum I:::hsci350:::hsci350d200:::hsci 350 d200 co-op practicum i
+1777:_:hsci:::350:::i100:::Co-op Practicum I:::hsci350:::hsci350i100:::hsci 350 i100 co-op practicum i
+1778:_:bot:::150:::d100:::Back on Track Student Success:::bot150:::bot150d100:::bot 150 d100 back on track student success
+1779:_:chem:::407:::d100:::Practicum IV:::chem407:::chem407d100:::chem 407 d100 practicum iv
+1780:_:chem:::407:::d200:::Practicum IV:::chem407:::chem407d200:::chem 407 d200 practicum iv
+1781:_:chem:::407:::i100:::Practicum IV:::chem407:::chem407i100:::chem 407 i100 practicum iv
+1782:_:crim:::380:::c100:::Introduction to Cybercrime:::crim380:::crim380c100:::crim 380 c100 introduction to cybercrime
+1783:_:chem:::406:::d100:::Practicum III:::chem406:::chem406d100:::chem 406 d100 practicum iii
+1784:_:chem:::406:::d200:::Practicum III:::chem406:::chem406d200:::chem 406 d200 practicum iii
+1785:_:chem:::406:::i100:::Practicum III:::chem406:::chem406i100:::chem 406 i100 practicum iii
+1786:_:math:::240:::d100:::Algebra I: Linear Algebra:::math240:::math240d100:::math 240 d100 algebra i: linear algebra
+1787:_:math:::240:::opo1:::Algebra I: Linear Algebra:::math240:::math240opo1:::math 240 opo1 algebra i: linear algebra
+1788:_:hsci:::452:::d100:::Co-op Practicum V:::hsci452:::hsci452d100:::hsci 452 d100 co-op practicum v
+1789:_:hsci:::452:::d200:::Co-op Practicum V:::hsci452:::hsci452d200:::hsci 452 d200 co-op practicum v
+1790:_:hsci:::452:::i100:::Co-op Practicum V:::hsci452:::hsci452i100:::hsci 452 i100 co-op practicum v
+1791:_:chem:::380:::d100:::Chemical and Instrumental Methods of Identification of Organic Compounds:::chem380:::chem380d100:::chem 380 d100 chemical and instrumental methods of identification of organic compounds
+1792:_:chem:::380:::la01:::Chemical and Instrumental Methods of Identification of Organic Compounds:::chem380:::chem380la01:::chem 380 la01 chemical and instrumental methods of identification of organic compounds
+1793:_:crim:::458:::c100:::Community Policing:::crim458:::crim458c100:::crim 458 c100 community policing
+1794:_:hsci:::826:::g100:::Program Planning and Evaluation:::hsci826:::hsci826g100:::hsci 826 g100 program planning and evaluation
+1795:_:chem:::408:::d100:::Practicum V:::chem408:::chem408d100:::chem 408 d100 practicum v
+1796:_:chem:::408:::d200:::Practicum V:::chem408:::chem408d200:::chem 408 d200 practicum v
+1797:_:chem:::408:::i100:::Practicum V:::chem408:::chem408i100:::chem 408 i100 practicum v
+1798:_:educ:::856:::g001:::Sociocultural Perspectives on Education and Identity:::educ856:::educ856g001:::educ 856 g001 sociocultural perspectives on education and identity
+1799:_:educ:::856:::g021:::Sociocultural Perspectives on Education and Identity:::educ856:::educ856g021:::educ 856 g021 sociocultural perspectives on education and identity
+1800:_:hsci:::308:::d100:::Sickness and Wealth: Health in Global Perspective:::hsci308:::hsci308d100:::hsci 308 d100 sickness and wealth: health in global perspective
+1801:_:educ:::376:::d100:::Introduction to Educational Leadership:::educ376:::educ376d100:::educ 376 d100 introduction to educational leadership
+1802:_:cogs:::371:::d100:::Cognitive Science Practicum II:::cogs371:::cogs371d100:::cogs 371 d100 cognitive science practicum ii
+1803:_:cogs:::371:::d200:::Cognitive Science Practicum II:::cogs371:::cogs371d200:::cogs 371 d200 cognitive science practicum ii
+1804:_:cogs:::371:::i100:::Cognitive Science Practicum II:::cogs371:::cogs371i100:::cogs 371 i100 cognitive science practicum ii
+1805:_:math:::310:::d100:::Introduction to Ordinary Differential Equations:::math310:::math310d100:::math 310 d100 introduction to ordinary differential equations
+1806:_:math:::310:::d101:::Introduction to Ordinary Differential Equations:::math310:::math310d101:::math 310 d101 introduction to ordinary differential equations
+1807:_:math:::310:::d102:::Introduction to Ordinary Differential Equations:::math310:::math310d102:::math 310 d102 introduction to ordinary differential equations
+1808:_:math:::310:::d103:::Introduction to Ordinary Differential Equations:::math310:::math310d103:::math 310 d103 introduction to ordinary differential equations
+1809:_:math:::310:::d104:::Introduction to Ordinary Differential Equations:::math310:::math310d104:::math 310 d104 introduction to ordinary differential equations
+1810:_:math:::310:::d105:::Introduction to Ordinary Differential Equations:::math310:::math310d105:::math 310 d105 introduction to ordinary differential equations
+1811:_:math:::310:::d106:::Introduction to Ordinary Differential Equations:::math310:::math310d106:::math 310 d106 introduction to ordinary differential equations
+1812:_:math:::310:::d107:::Introduction to Ordinary Differential Equations:::math310:::math310d107:::math 310 d107 introduction to ordinary differential equations
+1813:_:math:::310:::d108:::Introduction to Ordinary Differential Equations:::math310:::math310d108:::math 310 d108 introduction to ordinary differential equations
+1814:_:math:::310:::d109:::Introduction to Ordinary Differential Equations:::math310:::math310d109:::math 310 d109 introduction to ordinary differential equations
+1815:_:cogs:::370:::d100:::Cognitive Science Practicum I:::cogs370:::cogs370d100:::cogs 370 d100 cognitive science practicum i
+1816:_:cogs:::370:::d200:::Cognitive Science Practicum I:::cogs370:::cogs370d200:::cogs 370 d200 cognitive science practicum i
+1817:_:cogs:::370:::i100:::Cognitive Science Practicum I:::cogs370:::cogs370i100:::cogs 370 i100 cognitive science practicum i
+1818:_:pol:::311:::d100:::Contemporary Perspectives on Ancient Political Thought:::pol311:::pol311d100:::pol 311 d100 contemporary perspectives on ancient political thought
+1819:_:bus:::374:::d200:::Organization Theory:::bus374:::bus374d200:::bus 374 d200 organization theory
+1820:_:psyc:::308:::d100:::History and Systems of Modern Psychology:::psyc308:::psyc308d100:::psyc 308 d100 history and systems of modern psychology
+1821:_:cmns:::428:::d100:::Media Analysis Project Group:::cmns428:::cmns428d100:::cmns 428 d100 media analysis project group
+1822:_:cmns:::428:::d200:::Media Analysis Project Group:::cmns428:::cmns428d200:::cmns 428 d200 media analysis project group
+1823:_:cmns:::428:::d300:::Media Analysis Project Group:::cmns428:::cmns428d300:::cmns 428 d300 media analysis project group
+1824:_:hum:::330:::j100:::Religion in Context:::hum330:::hum330j100:::hum 330 j100 religion in context
+1825:_:bus:::381:::d100:::Introduction to Human Resource Management:::bus381:::bus381d100:::bus 381 d100 introduction to human resource management
+1826:_:bus:::381:::e100:::Introduction to Human Resource Management:::bus381:::bus381e100:::bus 381 e100 introduction to human resource management
+1827:_:hsci:::216:::d100:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d100:::hsci 216 d100 ecological determinants of human growth, development and health
+1828:_:hsci:::216:::d101:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d101:::hsci 216 d101 ecological determinants of human growth, development and health
+1829:_:hsci:::216:::d102:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d102:::hsci 216 d102 ecological determinants of human growth, development and health
+1830:_:hsci:::216:::d103:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d103:::hsci 216 d103 ecological determinants of human growth, development and health
+1831:_:hsci:::216:::d104:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d104:::hsci 216 d104 ecological determinants of human growth, development and health
+1832:_:hsci:::216:::d105:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d105:::hsci 216 d105 ecological determinants of human growth, development and health
+1833:_:hsci:::216:::d106:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d106:::hsci 216 d106 ecological determinants of human growth, development and health
+1834:_:hsci:::216:::d107:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d107:::hsci 216 d107 ecological determinants of human growth, development and health
+1835:_:hsci:::216:::d108:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d108:::hsci 216 d108 ecological determinants of human growth, development and health
+1836:_:hum:::340:::d100:::Great Cities in Their Time:::hum340:::hum340d100:::hum 340 d100 great cities in their time
+1837:_:hum:::340:::d200:::Great Cities in Their Time:::hum340:::hum340d200:::hum 340 d200 great cities in their time
+1838:_:econ:::410:::d100:::Seminar in Monetary Theory:::econ410:::econ410d100:::econ 410 d100 seminar in monetary theory
+1839:_:engl:::357:::c100:::Studies in Canadian Literature since 1920:::engl357:::engl357c100:::engl 357 c100 studies in canadian literature since 1920
+1840:_:econ:::425:::d200:::Industrial Organization: Imperfect Competition:::econ425:::econ425d200:::econ 425 d200 industrial organization: imperfect competition
+1841:_:educ:::351:::c100:::Teaching the Older Adult:::educ351:::educ351c100:::educ 351 c100 teaching the older adult
+1842:_:educ:::351:::c200:::Teaching the Older Adult:::educ351:::educ351c200:::educ 351 c200 teaching the older adult
+1843:_:educ:::351:::d100:::Teaching the Older Adult:::educ351:::educ351d100:::educ 351 d100 teaching the older adult
+1844:_:pol:::222:::c100:::Introduction to Canadian Politics:::pol222:::pol222c100:::pol 222 c100 introduction to canadian politics
+1845:_:bpk:::446:::d100:::Neurological Disorders:::bpk446:::bpk446d100:::bpk 446 d100 neurological disorders
+1846:_:ca:::306:::d100:::Internship in Contemporary Arts I:::ca306:::ca306d100:::ca 306 d100 internship in contemporary arts i
+1847:_:ca:::306:::d200:::Internship in Contemporary Arts I:::ca306:::ca306d200:::ca 306 d200 internship in contemporary arts i
+1848:_:ca:::306:::d300:::Internship in Contemporary Arts I:::ca306:::ca306d300:::ca 306 d300 internship in contemporary arts i
+1849:_:chem:::898:::g100:::MSc Thesis:::chem898:::chem898g100:::chem 898 g100 msc thesis
+1850:_:chem:::898:::g200:::MSc Thesis:::chem898:::chem898g200:::chem 898 g200 msc thesis
+1851:_:educ:::861:::g031:::Study of Learning Environments:::educ861:::educ861g031:::educ 861 g031 study of learning environments
+1852:_:psyc:::379:::c100:::Clinical Forensic Psychology:::psyc379:::psyc379c100:::psyc 379 c100 clinical forensic psychology
+1853:_:chem:::899:::g100:::PhD Thesis:::chem899:::chem899g100:::chem 899 g100 phd thesis
+1854:_:chem:::899:::g200:::PhD Thesis:::chem899:::chem899g200:::chem 899 g200 phd thesis
+1855:_:hsci:::486:::d100:::Senior Seminar in Global Health:::hsci486:::hsci486d100:::hsci 486 d100 senior seminar in global health
+1856:_:hsci:::486:::d200:::Senior Seminar in Global Health:::hsci486:::hsci486d200:::hsci 486 d200 senior seminar in global health
+1857:_:pol:::232:::j100:::US Politics:::pol232:::pol232j100:::pol 232 j100 us politics
+1858:_:educ:::863:::g001:::Quantitative Methods in Educational Research:::educ863:::educ863g001:::educ 863 g001 quantitative methods in educational research
+1859:_:pol:::899:::g100:::PhD Thesis Research:::pol899:::pol899g100:::pol 899 g100 phd thesis research
+1860:_:bpk:::453:::d100:::Practicum V:::bpk453:::bpk453d100:::bpk 453 d100 practicum v
+1861:_:bpk:::453:::d200:::Practicum V:::bpk453:::bpk453d200:::bpk 453 d200 practicum v
+1862:_:bpk:::453:::i100:::Practicum V:::bpk453:::bpk453i100:::bpk 453 i100 practicum v
+1863:_:educ:::341:::c100:::Literacy, Education and Culture:::educ341:::educ341c100:::educ 341 c100 literacy, education and culture
+1864:_:educ:::341:::c200:::Literacy, Education and Culture:::educ341:::educ341c200:::educ 341 c200 literacy, education and culture
+1865:_:educ:::341:::d100:::Literacy, Education and Culture:::educ341:::educ341d100:::educ 341 d100 literacy, education and culture
+1866:_:bus:::362:::d100:::Business Process Analysis:::bus362:::bus362d100:::bus 362 d100 business process analysis
+1867:_:bus:::362:::d101:::Business Process Analysis:::bus362:::bus362d101:::bus 362 d101 business process analysis
+1868:_:bus:::362:::d102:::Business Process Analysis:::bus362:::bus362d102:::bus 362 d102 business process analysis
+1869:_:bus:::362:::d103:::Business Process Analysis:::bus362:::bus362d103:::bus 362 d103 business process analysis
+1870:_:bpk:::452:::d100:::Practicum IV:::bpk452:::bpk452d100:::bpk 452 d100 practicum iv
+1871:_:bpk:::452:::d200:::Practicum IV:::bpk452:::bpk452d200:::bpk 452 d200 practicum iv
+1872:_:bpk:::452:::i100:::Practicum IV:::bpk452:::bpk452i100:::bpk 452 i100 practicum iv
+1873:_:bpk:::451:::d100:::Practicum III:::bpk451:::bpk451d100:::bpk 451 d100 practicum iii
+1874:_:bpk:::451:::d200:::Practicum III:::bpk451:::bpk451d200:::bpk 451 d200 practicum iii
+1875:_:bpk:::451:::i100:::Practicum III:::bpk451:::bpk451i100:::bpk 451 i100 practicum iii
+1876:_:math:::190:::c100:::Principles of Mathematics for Teachers:::math190:::math190c100:::math 190 c100 principles of mathematics for teachers
+1877:_:educ:::864:::g001:::Research Designs in Education:::educ864:::educ864g001:::educ 864 g001 research designs in education
+1878:_:educ:::864:::g031:::Research Designs in Education:::educ864:::educ864g031:::educ 864 g031 research designs in education
+1879:_:cogs:::471:::d100:::Cognitive Science Practicum IV:::cogs471:::cogs471d100:::cogs 471 d100 cognitive science practicum iv
+1880:_:cogs:::471:::d200:::Cognitive Science Practicum IV:::cogs471:::cogs471d200:::cogs 471 d200 cognitive science practicum iv
+1881:_:cogs:::471:::i100:::Cognitive Science Practicum IV:::cogs471:::cogs471i100:::cogs 471 i100 cognitive science practicum iv
+1882:_:pol:::201:::d100:::Introductory Quantitative Methods in Political Science:::pol201:::pol201d100:::pol 201 d100 introductory quantitative methods in political science
+1883:_:pol:::201:::d101:::Introductory Quantitative Methods in Political Science:::pol201:::pol201d101:::pol 201 d101 introductory quantitative methods in political science
+1884:_:educ:::866:::g012:::Qualitative Methods in Educational Research:::educ866:::educ866g012:::educ 866 g012 qualitative methods in educational research
+1885:_:educ:::867:::g001:::Advanced Qualitative Research in Education:::educ867:::educ867g001:::educ 867 g001 advanced qualitative research in education
+1886:_:pol:::210:::d100:::Introduction to Political Philosophy:::pol210:::pol210d100:::pol 210 d100 introduction to political philosophy
+1887:_:educ:::869:::g001:::Music Education as Thinking in Sound:::educ869:::educ869g001:::educ 869 g001 music education as thinking in sound
+1888:_:math:::232:::d200:::Applied Linear Algebra:::math232:::math232d200:::math 232 d200 applied linear algebra
+1889:_:math:::232:::op01:::Applied Linear Algebra:::math232:::math232op01:::math 232 op01 applied linear algebra
+1890:_:bus:::346:::d100:::Global Business Environment:::bus346:::bus346d100:::bus 346 d100 global business environment
+1891:_:bus:::346:::d200:::Global Business Environment:::bus346:::bus346d200:::bus 346 d200 global business environment
+1892:_:chin:::100:::d100:::Mandarin Chinese I:::chin100:::chin100d100:::chin 100 d100 mandarin chinese i
+1893:_:chin:::100:::d101:::Mandarin Chinese I:::chin100:::chin100d101:::chin 100 d101 mandarin chinese i
+1894:_:chin:::100:::d102:::Mandarin Chinese I:::chin100:::chin100d102:::chin 100 d102 mandarin chinese i
+1895:_:cmns:::408:::d100:::Communication Network Project Group:::cmns408:::cmns408d100:::cmns 408 d100 communication network project group
+1896:_:cmns:::408:::d200:::Communication Network Project Group:::cmns408:::cmns408d200:::cmns 408 d200 communication network project group
+1897:_:bus:::347:::d100:::Consumer Behavior:::bus347:::bus347d100:::bus 347 d100 consumer behavior
+1898:_:bus:::347:::d101:::Consumer Behavior:::bus347:::bus347d101:::bus 347 d101 consumer behavior
+1899:_:bus:::347:::d102:::Consumer Behavior:::bus347:::bus347d102:::bus 347 d102 consumer behavior
+1900:_:bus:::347:::d103:::Consumer Behavior:::bus347:::bus347d103:::bus 347 d103 consumer behavior
+1901:_:chem:::284:::d100:::Organic Chemistry IIb:::chem284:::chem284d100:::chem 284 d100 organic chemistry iib
+1902:_:chem:::284:::d101:::Organic Chemistry IIb:::chem284:::chem284d101:::chem 284 d101 organic chemistry iib
+1903:_:hsci:::100:::d100:::Human Biology:::hsci100:::hsci100d100:::hsci 100 d100 human biology
+1904:_:hsci:::100:::d101:::Human Biology:::hsci100:::hsci100d101:::hsci 100 d101 human biology
+1905:_:hsci:::100:::d102:::Human Biology:::hsci100:::hsci100d102:::hsci 100 d102 human biology
+1906:_:hsci:::100:::d103:::Human Biology:::hsci100:::hsci100d103:::hsci 100 d103 human biology
+1907:_:hsci:::100:::d104:::Human Biology:::hsci100:::hsci100d104:::hsci 100 d104 human biology
+1908:_:hsci:::100:::d105:::Human Biology:::hsci100:::hsci100d105:::hsci 100 d105 human biology
+1909:_:hsci:::100:::d106:::Human Biology:::hsci100:::hsci100d106:::hsci 100 d106 human biology
+1910:_:bus:::343:::d100:::Introduction to Marketing:::bus343:::bus343d100:::bus 343 d100 introduction to marketing
+1911:_:bus:::343:::d101:::Introduction to Marketing:::bus343:::bus343d101:::bus 343 d101 introduction to marketing
+1912:_:bus:::343:::d102:::Introduction to Marketing:::bus343:::bus343d102:::bus 343 d102 introduction to marketing
+1913:_:bus:::343:::d103:::Introduction to Marketing:::bus343:::bus343d103:::bus 343 d103 introduction to marketing
+1914:_:bus:::343:::d104:::Introduction to Marketing:::bus343:::bus343d104:::bus 343 d104 introduction to marketing
+1915:_:bus:::343:::d105:::Introduction to Marketing:::bus343:::bus343d105:::bus 343 d105 introduction to marketing
+1916:_:bus:::343:::d106:::Introduction to Marketing:::bus343:::bus343d106:::bus 343 d106 introduction to marketing
+1917:_:bus:::343:::d107:::Introduction to Marketing:::bus343:::bus343d107:::bus 343 d107 introduction to marketing
+1918:_:bus:::343:::d108:::Introduction to Marketing:::bus343:::bus343d108:::bus 343 d108 introduction to marketing
+1919:_:bus:::343:::d109:::Introduction to Marketing:::bus343:::bus343d109:::bus 343 d109 introduction to marketing
+1920:_:bus:::343:::d200:::Introduction to Marketing:::bus343:::bus343d200:::bus 343 d200 introduction to marketing
+1921:_:bus:::343:::d201:::Introduction to Marketing:::bus343:::bus343d201:::bus 343 d201 introduction to marketing
+1922:_:bus:::343:::d202:::Introduction to Marketing:::bus343:::bus343d202:::bus 343 d202 introduction to marketing
+1923:_:bus:::343:::d203:::Introduction to Marketing:::bus343:::bus343d203:::bus 343 d203 introduction to marketing
+1924:_:bus:::343:::d204:::Introduction to Marketing:::bus343:::bus343d204:::bus 343 d204 introduction to marketing
+1925:_:bus:::343:::d205:::Introduction to Marketing:::bus343:::bus343d205:::bus 343 d205 introduction to marketing
+1926:_:bpk:::431:::d100:::Integrative Cancer Biology:::bpk431:::bpk431d100:::bpk 431 d100 integrative cancer biology
+1927:_:crim:::480:::c100:::Computer Forensics and Cybercrime:::crim480:::crim480c100:::crim 480 c100 computer forensics and cybercrime
+1928:_:plcy:::817:::g100:::Advanced Qualitative Analysis for Public Policy:::plcy817:::plcy817g100:::plcy 817 g100 advanced qualitative analysis for public policy
+1929:_:bus:::430:::d100:::Cross-Cultural Management:::bus430:::bus430d100:::bus 430 d100 cross-cultural management
+1930:_:phil:::110:::d100:::Introduction to Logic and Reasoning:::phil110:::phil110d100:::phil 110 d100 introduction to logic and reasoning
+1931:_:phil:::110:::d101:::Introduction to Logic and Reasoning:::phil110:::phil110d101:::phil 110 d101 introduction to logic and reasoning
+1932:_:phil:::110:::d102:::Introduction to Logic and Reasoning:::phil110:::phil110d102:::phil 110 d102 introduction to logic and reasoning
+1933:_:phil:::110:::d103:::Introduction to Logic and Reasoning:::phil110:::phil110d103:::phil 110 d103 introduction to logic and reasoning
+1934:_:phil:::110:::d104:::Introduction to Logic and Reasoning:::phil110:::phil110d104:::phil 110 d104 introduction to logic and reasoning
+1935:_:phil:::110:::d105:::Introduction to Logic and Reasoning:::phil110:::phil110d105:::phil 110 d105 introduction to logic and reasoning
+1936:_:phil:::110:::d106:::Introduction to Logic and Reasoning:::phil110:::phil110d106:::phil 110 d106 introduction to logic and reasoning
+1937:_:phil:::110:::d107:::Introduction to Logic and Reasoning:::phil110:::phil110d107:::phil 110 d107 introduction to logic and reasoning
+1938:_:phil:::110:::d108:::Introduction to Logic and Reasoning:::phil110:::phil110d108:::phil 110 d108 introduction to logic and reasoning
+1939:_:phil:::110:::d109:::Introduction to Logic and Reasoning:::phil110:::phil110d109:::phil 110 d109 introduction to logic and reasoning
+1940:_:phil:::110:::d111:::Introduction to Logic and Reasoning:::phil110:::phil110d111:::phil 110 d111 introduction to logic and reasoning
+1941:_:phil:::110:::d112:::Introduction to Logic and Reasoning:::phil110:::phil110d112:::phil 110 d112 introduction to logic and reasoning
+1942:_:phil:::110:::d113:::Introduction to Logic and Reasoning:::phil110:::phil110d113:::phil 110 d113 introduction to logic and reasoning
+1943:_:phil:::110:::d114:::Introduction to Logic and Reasoning:::phil110:::phil110d114:::phil 110 d114 introduction to logic and reasoning
+1944:_:phil:::110:::d115:::Introduction to Logic and Reasoning:::phil110:::phil110d115:::phil 110 d115 introduction to logic and reasoning
+1945:_:cmns:::851:::g100:::Directed Studies:::cmns851:::cmns851g100:::cmns 851 g100 directed studies
+1946:_:cmns:::851:::g200:::Directed Studies:::cmns851:::cmns851g200:::cmns 851 g200 directed studies
+1947:_:cmns:::851:::g300:::Directed Studies:::cmns851:::cmns851g300:::cmns 851 g300 directed studies
+1948:_:cmns:::851:::g400:::Directed Studies:::cmns851:::cmns851g400:::cmns 851 g400 directed studies
+1949:_:cmns:::851:::g500:::Directed Studies:::cmns851:::cmns851g500:::cmns 851 g500 directed studies
+1950:_:cmns:::850:::g100:::Directed Readings and Research:::cmns850:::cmns850g100:::cmns 850 g100 directed readings and research
+1951:_:cmns:::850:::g200:::Directed Readings and Research:::cmns850:::cmns850g200:::cmns 850 g200 directed readings and research
+1952:_:cmns:::850:::g300:::Directed Readings and Research:::cmns850:::cmns850g300:::cmns 850 g300 directed readings and research
+1953:_:cmns:::850:::g400:::Directed Readings and Research:::cmns850:::cmns850g400:::cmns 850 g400 directed readings and research
+1954:_:cmns:::850:::g500:::Directed Readings and Research:::cmns850:::cmns850g500:::cmns 850 g500 directed readings and research
+1955:_:educ:::871:::g002:::Family Counselling:::educ871:::educ871g002:::educ 871 g002 family counselling
+1956:_:cmpt:::433:::d100:::Embedded Systems:::cmpt433:::cmpt433d100:::cmpt 433 d100 embedded systems
+1957:_:educ:::898:::g001:::Master's Thesis:::educ898:::educ898g001:::educ 898 g001 master's thesis
+1958:_:educ:::898:::g002:::Master's Thesis:::educ898:::educ898g002:::educ 898 g002 master's thesis
+1959:_:educ:::883:::g001:::MEd Comprehensive Examination:::educ883:::educ883g001:::educ 883 g001 med comprehensive examination
+1960:_:educ:::883:::g011:::MEd Comprehensive Examination:::educ883:::educ883g011:::educ 883 g011 med comprehensive examination
+1961:_:educ:::883:::g012:::MEd Comprehensive Examination:::educ883:::educ883g012:::educ 883 g012 med comprehensive examination
+1962:_:educ:::883:::g031:::MEd Comprehensive Examination:::educ883:::educ883g031:::educ 883 g031 med comprehensive examination
+1963:_:educ:::883:::g032:::MEd Comprehensive Examination:::educ883:::educ883g032:::educ 883 g032 med comprehensive examination
+1964:_:educ:::883:::g033:::MEd Comprehensive Examination:::educ883:::educ883g033:::educ 883 g033 med comprehensive examination
+1965:_:educ:::883:::g034:::MEd Comprehensive Examination:::educ883:::educ883g034:::educ 883 g034 med comprehensive examination
+1966:_:educ:::883:::g035:::MEd Comprehensive Examination:::educ883:::educ883g035:::educ 883 g035 med comprehensive examination
+1967:_:educ:::881:::g001:::Project:::educ881:::educ881g001:::educ 881 g001 project
+1968:_:ca:::829:::g100:::Extended Essays in Comparative Media Arts:::ca829:::ca829g100:::ca 829 g100 extended essays in comparative media arts
+1969:_:educ:::878:::g001:::Group Counselling:::educ878:::educ878g001:::educ 878 g001 group counselling
+1970:_:ca:::827:::g100:::Practicum in Comparative Media Arts:::ca827:::ca827g100:::ca 827 g100 practicum in comparative media arts
+1971:_:bus:::795:::g100:::Financing the New Venture:::bus795:::bus795g100:::bus 795 g100 financing the new venture
+1972:_:mse:::411:::e100:::Capstone Design Technical Project II:::mse411:::mse411e100:::mse 411 e100 capstone design technical project ii
+1973:_:mse:::411:::opl1:::Capstone Design Technical Project II:::mse411:::mse411opl1:::mse 411 opl1 capstone design technical project ii
+1974:_:mse:::411:::opl2:::Capstone Design Technical Project II:::mse411:::mse411opl2:::mse 411 opl2 capstone design technical project ii
+1975:_:mse:::411:::opl3:::Capstone Design Technical Project II:::mse411:::mse411opl3:::mse 411 opl3 capstone design technical project ii
+1976:_:bus:::338:::d100:::Foundations of Innovation:::bus338:::bus338d100:::bus 338 d100 foundations of innovation
+1977:_:bus:::486:::d100:::Leadership:::bus486:::bus486d100:::bus 486 d100 leadership
+1978:_:fnlg:::133:::a320:::Introduction to First Nations Language I:::fnlg133:::fnlg133a320:::fnlg 133 a320 introduction to first nations language i
+1979:_:ddp:::310:::d100:::Dual Degree Program - ZU Computing Science:::ddp310:::ddp310d100:::ddp 310 d100 dual degree program - zu computing science
+1980:_:bpk:::495:::d100:::Undergraduate Honours Research Performance:::bpk495:::bpk495d100:::bpk 495 d100 undergraduate honours research performance
+1981:_:engl:::330:::c100:::Studies in Victorian Literature:::engl330:::engl330c100:::engl 330 c100 studies in victorian literature
+1982:_:math:::895:::g100:::Reading:::math895:::math895g100:::math 895 g100 reading
+1983:_:math:::895:::g200:::Reading:::math895:::math895g200:::math 895 g200 reading
+1984:_:math:::895:::g300:::Reading:::math895:::math895g300:::math 895 g300 reading
+1985:_:math:::895:::g400:::Reading:::math895:::math895g400:::math 895 g400 reading
+1986:_:bus:::336:::d100:::Data and Decisions II:::bus336:::bus336d100:::bus 336 d100 data and decisions ii
+1987:_:bus:::336:::d200:::Data and Decisions II:::bus336:::bus336d200:::bus 336 d200 data and decisions ii
+1988:_:bus:::336:::op01:::Data and Decisions II:::bus336:::bus336op01:::bus 336 op01 data and decisions ii
+1989:_:bus:::336:::op02:::Data and Decisions II:::bus336:::bus336op02:::bus 336 op02 data and decisions ii
+1990:_:bus:::336:::op03:::Data and Decisions II:::bus336:::bus336op03:::bus 336 op03 data and decisions ii
+1991:_:bus:::336:::op04:::Data and Decisions II:::bus336:::bus336op04:::bus 336 op04 data and decisions ii
+1992:_:bus:::336:::op05:::Data and Decisions II:::bus336:::bus336op05:::bus 336 op05 data and decisions ii
+1993:_:math:::894:::g100:::Reading:::math894:::math894g100:::math 894 g100 reading
+1994:_:math:::894:::g200:::Reading:::math894:::math894g200:::math 894 g200 reading
+1995:_:math:::894:::g300:::Reading:::math894:::math894g300:::math 894 g300 reading
+1996:_:math:::894:::g400:::Reading:::math894:::math894g400:::math 894 g400 reading
+1997:_:math:::894:::g500:::Reading:::math894:::math894g500:::math 894 g500 reading
+1998:_:math:::899:::g100:::PhD Thesis:::math899:::math899g100:::math 899 g100 phd thesis
+1999:_:math:::899:::g200:::PhD Thesis:::math899:::math899g200:::math 899 g200 phd thesis
+2000:_:bus:::341:::d100:::Fundamentals of Marketing:::bus341:::bus341d100:::bus 341 d100 fundamentals of marketing
+2001:_:math:::898:::g100:::MSc Thesis:::math898:::math898g100:::math 898 g100 msc thesis
+2002:_:math:::898:::g200:::MSc Thesis:::math898:::math898g200:::math 898 g200 msc thesis
+2003:_:math:::150:::c100:::Calculus I with Review:::math150:::math150c100:::math 150 c100 calculus i with review
+2004:_:math:::150:::d100:::Calculus I with Review:::math150:::math150d100:::math 150 d100 calculus i with review
+2005:_:math:::150:::op01:::Calculus I with Review:::math150:::math150op01:::math 150 op01 calculus i with review
+2006:_:fren:::491:::d100:::Readings in French Linguistics and/or Literary Criticism:::fren491:::fren491d100:::fren 491 d100 readings in french linguistics and/or literary criticism
+2007:_:cmpt:::376w:::d100:::Technical Writing and Group Dynamics:::cmpt376w:::cmpt376wd100:::cmpt 376w d100 technical writing and group dynamics
+2008:_:educ:::877:::g001:::Contemporary School Counselling:::educ877:::educ877g001:::educ 877 g001 contemporary school counselling
+2009:_:fren:::480:::d100:::Seminar I:::fren480:::fren480d100:::fren 480 d100 seminar i
+2010:_:ensc:::303:::d100:::Directed Studies in Engineering Science:::ensc303:::ensc303d100:::ensc 303 d100 directed studies in engineering science
+2011:_:ugrad:::400:::d100:::Visiting Undergraduate Research:::ugrad400:::ugrad400d100:::ugrad 400 d100 visiting undergraduate research
+2012:_:bpk:::491:::d100:::Undergraduate Honours Thesis Proposal:::bpk491:::bpk491d100:::bpk 491 d100 undergraduate honours thesis proposal
+2013:_:educ:::412w:::d100:::Designs for Learning: Secondary Language Arts:::educ412w:::educ412wd100:::educ 412w d100 designs for learning: secondary language arts
+2014:_:educ:::412w:::e100:::Designs for Learning: Secondary Language Arts:::educ412w:::educ412we100:::educ 412w e100 designs for learning: secondary language arts
+2015:_:iat:::309w:::d100:::Writing Methods for Research:::iat309w:::iat309wd100:::iat 309w d100 writing methods for research
+2016:_:ensc:::891:::g100:::Directed Studies I:::ensc891:::ensc891g100:::ensc 891 g100 directed studies i
+2017:_:ensc:::891:::g200:::Directed Studies I:::ensc891:::ensc891g200:::ensc 891 g200 directed studies i
+2018:_:ensc:::892:::g100:::Directed Studies II:::ensc892:::ensc892g100:::ensc 892 g100 directed studies ii
+2019:_:ensc:::892:::g200:::Directed Studies II:::ensc892:::ensc892g200:::ensc 892 g200 directed studies ii
+2020:_:educ:::904:::g031:::Fieldwork III:::educ904:::educ904g031:::educ 904 g031 fieldwork iii
+2021:_:educ:::904:::g032:::Fieldwork III:::educ904:::educ904g032:::educ 904 g032 fieldwork iii
+2022:_:educ:::904:::g033:::Fieldwork III:::educ904:::educ904g033:::educ 904 g033 fieldwork iii
+2023:_:educ:::904:::g034:::Fieldwork III:::educ904:::educ904g034:::educ 904 g034 fieldwork iii
+2024:_:stat:::899:::g100:::PhD Thesis:::stat899:::stat899g100:::stat 899 g100 phd thesis
+2025:_:stat:::899:::g200:::PhD Thesis:::stat899:::stat899g200:::stat 899 g200 phd thesis
+2026:_:stat:::898:::g100:::MSc Project:::stat898:::stat898g100:::stat 898 g100 msc project
+2027:_:stat:::898:::g200:::MSc Project:::stat898:::stat898g200:::stat 898 g200 msc project
+2028:_:econ:::860:::g100:::Environmental Economics:::econ860:::econ860g100:::econ 860 g100 environmental economics
+2029:_:econ:::860:::g101:::Environmental Economics:::econ860:::econ860g101:::econ 860 g101 environmental economics
+2030:_:stat:::895:::g100:::Reading:::stat895:::stat895g100:::stat 895 g100 reading
+2031:_:stat:::894:::g100:::Reading:::stat894:::stat894g100:::stat 894 g100 reading
+2032:_:econ:::913:::g100:::Selected Topics in Economics:::econ913:::econ913g100:::econ 913 g100 selected topics in economics
+2033:_:econ:::913:::g101:::Selected Topics in Economics:::econ913:::econ913g101:::econ 913 g101 selected topics in economics
+2034:_:cmns:::454:::d100:::Computer Supported Cooperative Work: Critical Perspectives:::cmns454:::cmns454d100:::cmns 454 d100 computer supported cooperative work: critical perspectives
+2035:_:econ:::409w:::d100:::Seminar in Economic Thought:::econ409w:::econ409wd100:::econ 409w d100 seminar in economic thought
+2036:_:econ:::455w:::d100:::Seminar in Economic Development:::econ455w:::econ455wd100:::econ 455w d100 seminar in economic development
+2037:_:bus:::325:::d100:::Co-op Practicum II:::bus325:::bus325d100:::bus 325 d100 co-op practicum ii
+2038:_:bus:::325:::d200:::Co-op Practicum II:::bus325:::bus325d200:::bus 325 d200 co-op practicum ii
+2039:_:bus:::325:::i100:::Co-op Practicum II:::bus325:::bus325i100:::bus 325 i100 co-op practicum ii
+2040:_:cmns:::458:::d100:::Information Technology Project Group:::cmns458:::cmns458d100:::cmns 458 d100 information technology project group
+2041:_:cmns:::458:::d200:::Information Technology Project Group:::cmns458:::cmns458d200:::cmns 458 d200 information technology project group
+2042:_:fal:::x99:::d001:::Foundations of Academic Literacy:::falx99:::falx99d001:::fal x99 d001 foundations of academic literacy
+2043:_:fal:::x99:::d002:::Foundations of Academic Literacy:::falx99:::falx99d002:::fal x99 d002 foundations of academic literacy
+2044:_:fal:::x99:::d003:::Foundations of Academic Literacy:::falx99:::falx99d003:::fal x99 d003 foundations of academic literacy
+2045:_:fal:::x99:::d004:::Foundations of Academic Literacy:::falx99:::falx99d004:::fal x99 d004 foundations of academic literacy
+2046:_:fal:::x99:::d005:::Foundations of Academic Literacy:::falx99:::falx99d005:::fal x99 d005 foundations of academic literacy
+2047:_:fal:::x99:::d006:::Foundations of Academic Literacy:::falx99:::falx99d006:::fal x99 d006 foundations of academic literacy
+2048:_:fal:::x99:::d007:::Foundations of Academic Literacy:::falx99:::falx99d007:::fal x99 d007 foundations of academic literacy
+2049:_:fal:::x99:::d008:::Foundations of Academic Literacy:::falx99:::falx99d008:::fal x99 d008 foundations of academic literacy
+2050:_:fal:::x99:::d009:::Foundations of Academic Literacy:::falx99:::falx99d009:::fal x99 d009 foundations of academic literacy
+2051:_:fal:::x99:::d010:::Foundations of Academic Literacy:::falx99:::falx99d010:::fal x99 d010 foundations of academic literacy
+2052:_:fal:::x99:::d011:::Foundations of Academic Literacy:::falx99:::falx99d011:::fal x99 d011 foundations of academic literacy
+2053:_:fal:::x99:::d012:::Foundations of Academic Literacy:::falx99:::falx99d012:::fal x99 d012 foundations of academic literacy
+2054:_:fal:::x99:::d013:::Foundations of Academic Literacy:::falx99:::falx99d013:::fal x99 d013 foundations of academic literacy
+2055:_:fal:::x99:::d014:::Foundations of Academic Literacy:::falx99:::falx99d014:::fal x99 d014 foundations of academic literacy
+2056:_:fal:::x99:::e100:::Foundations of Academic Literacy:::falx99:::falx99e100:::fal x99 e100 foundations of academic literacy
+2057:_:fal:::x99:::e200:::Foundations of Academic Literacy:::falx99:::falx99e200:::fal x99 e200 foundations of academic literacy
+2058:_:bus:::474:::d100:::Supply Chain Management:::bus474:::bus474d100:::bus 474 d100 supply chain management
+2059:_:bus:::474:::d200:::Supply Chain Management:::bus474:::bus474d200:::bus 474 d200 supply chain management
+2060:_:bus:::327:::d100:::Co-op Practicum IV:::bus327:::bus327d100:::bus 327 d100 co-op practicum iv
+2061:_:bus:::327:::d200:::Co-op Practicum IV:::bus327:::bus327d200:::bus 327 d200 co-op practicum iv
+2062:_:bus:::327:::i100:::Co-op Practicum IV:::bus327:::bus327i100:::bus 327 i100 co-op practicum iv
+2063:_:math:::890:::g100:::Practicum I:::math890:::math890g100:::math 890 g100 practicum i
+2064:_:math:::890:::g200:::Practicum I:::math890:::math890g200:::math 890 g200 practicum i
+2065:_:fan:::x99:::d100:::Foundations of Analytical and Quantitative Reasoning:::fanx99:::fanx99d100:::fan x99 d100 foundations of analytical and quantitative reasoning
+2066:_:fan:::x99:::d200:::Foundations of Analytical and Quantitative Reasoning:::fanx99:::fanx99d200:::fan x99 d200 foundations of analytical and quantitative reasoning
+2067:_:fan:::x99:::op01:::Foundations of Analytical and Quantitative Reasoning:::fanx99:::fanx99op01:::fan x99 op01 foundations of analytical and quantitative reasoning
+2068:_:fan:::x99:::opo2:::Foundations of Analytical and Quantitative Reasoning:::fanx99:::fanx99opo2:::fan x99 opo2 foundations of analytical and quantitative reasoning
+2069:_:bus:::361:::d100:::Project Management:::bus361:::bus361d100:::bus 361 d100 project management
+2070:_:bus:::326:::d100:::Co-op Practicum III:::bus326:::bus326d100:::bus 326 d100 co-op practicum iii
+2071:_:bus:::326:::d200:::Co-op Practicum III:::bus326:::bus326d200:::bus 326 d200 co-op practicum iii
+2072:_:bus:::326:::i100:::Co-op Practicum III:::bus326:::bus326i100:::bus 326 i100 co-op practicum iii
+2073:_:math:::891:::g100:::Practicum II:::math891:::math891g100:::math 891 g100 practicum ii
+2074:_:math:::891:::g200:::Practicum II:::math891:::math891g200:::math 891 g200 practicum ii
+2075:_:cmns:::452:::j100:::Race and the Media:::cmns452:::cmns452j100:::cmns 452 j100 race and the media
+2076:_:educ:::899:::g001:::Doctoral Thesis:::educ899:::educ899g001:::educ 899 g001 doctoral thesis
+2077:_:educ:::899:::g002:::Doctoral Thesis:::educ899:::educ899g002:::educ 899 g002 doctoral thesis
+2078:_:educ:::899:::g031:::Doctoral Thesis:::educ899:::educ899g031:::educ 899 g031 doctoral thesis
+2079:_:educ:::899:::g032:::Doctoral Thesis:::educ899:::educ899g032:::educ 899 g032 doctoral thesis
+2080:_:educ:::899:::g033:::Doctoral Thesis:::educ899:::educ899g033:::educ 899 g033 doctoral thesis
+2081:_:ensc:::861:::g100:::Advanced Multimedia Compression:::ensc861:::ensc861g100:::ensc 861 g100 advanced multimedia compression
+2082:_:ca:::421:::d100:::Contemporary Dance VIII:::ca421:::ca421d100:::ca 421 d100 contemporary dance viii
+2083:_:mbb:::481:::d001:::Individual Study Semester - Honours Thesis:::mbb481:::mbb481d001:::mbb 481 d001 individual study semester - honours thesis
+2084:_:mbb:::481:::d002:::Individual Study Semester - Honours Thesis:::mbb481:::mbb481d002:::mbb 481 d002 individual study semester - honours thesis
+2085:_:mbb:::481:::d003:::Individual Study Semester - Honours Thesis:::mbb481:::mbb481d003:::mbb 481 d003 individual study semester - honours thesis
+2086:_:mbb:::481:::d004:::Individual Study Semester - Honours Thesis:::mbb481:::mbb481d004:::mbb 481 d004 individual study semester - honours thesis
+2087:_:mbb:::481:::d005:::Individual Study Semester - Honours Thesis:::mbb481:::mbb481d005:::mbb 481 d005 individual study semester - honours thesis
+2088:_:mbb:::482:::d001:::Individual Study Semester - Honours Research Performance:::mbb482:::mbb482d001:::mbb 482 d001 individual study semester - honours research performance
+2089:_:mbb:::482:::d002:::Individual Study Semester - Honours Research Performance:::mbb482:::mbb482d002:::mbb 482 d002 individual study semester - honours research performance
+2090:_:mbb:::482:::d003:::Individual Study Semester - Honours Research Performance:::mbb482:::mbb482d003:::mbb 482 d003 individual study semester - honours research performance
+2091:_:mbb:::482:::d004:::Individual Study Semester - Honours Research Performance:::mbb482:::mbb482d004:::mbb 482 d004 individual study semester - honours research performance
+2092:_:mbb:::482:::d005:::Individual Study Semester - Honours Research Performance:::mbb482:::mbb482d005:::mbb 482 d005 individual study semester - honours research performance
+2093:_:ling:::160:::a320:::Language, Culture and Society:::ling160:::ling160a320:::ling 160 a320 language, culture and society
+2094:_:ling:::160:::d100:::Language, Culture and Society:::ling160:::ling160d100:::ling 160 d100 language, culture and society
+2095:_:educ:::910:::g001:::Directed Readings:::educ910:::educ910g001:::educ 910 g001 directed readings
+2096:_:educ:::910:::g002:::Directed Readings:::educ910:::educ910g002:::educ 910 g002 directed readings
+2097:_:educ:::910:::g003:::Directed Readings:::educ910:::educ910g003:::educ 910 g003 directed readings
+2098:_:educ:::910:::g004:::Directed Readings:::educ910:::educ910g004:::educ 910 g004 directed readings
+2099:_:educ:::910:::g005:::Directed Readings:::educ910:::educ910g005:::educ 910 g005 directed readings
+2100:_:educ:::910:::g006:::Directed Readings:::educ910:::educ910g006:::educ 910 g006 directed readings
+2101:_:educ:::910:::g007:::Directed Readings:::educ910:::educ910g007:::educ 910 g007 directed readings
+2102:_:educ:::910:::g008:::Directed Readings:::educ910:::educ910g008:::educ 910 g008 directed readings
+2103:_:educ:::910:::g009:::Directed Readings:::educ910:::educ910g009:::educ 910 g009 directed readings
+2104:_:educ:::910:::g031:::Directed Readings:::educ910:::educ910g031:::educ 910 g031 directed readings
+2105:_:educ:::910:::g032:::Directed Readings:::educ910:::educ910g032:::educ 910 g032 directed readings
+2106:_:econ:::899:::g100:::MA Research Paper:::econ899:::econ899g100:::econ 899 g100 ma research paper
+2107:_:sa:::100w:::c100:::Perspectives on Canadian Society (SA):::sa100w:::sa100wc100:::sa 100w c100 perspectives on canadian society (sa)
+2108:_:cmns:::447:::d100:::Negotiation and Dialogue as Communication:::cmns447:::cmns447d100:::cmns 447 d100 negotiation and dialogue as communication
+2109:_:bus:::485:::d100:::Negotiations and Conflict Management:::bus485:::bus485d100:::bus 485 d100 negotiations and conflict management
+2110:_:bus:::320:::d100:::Financial Accounting:  Assets:::bus320:::bus320d100:::bus 320 d100 financial accounting:  assets
+2111:_:bus:::320:::e100:::Financial Accounting:  Assets:::bus320:::bus320e100:::bus 320 e100 financial accounting:  assets
+2112:_:cmns:::453:::c100:::Issues in the Information Society:::cmns453:::cmns453c100:::cmns 453 c100 issues in the information society
+2113:_:cmns:::453:::c200:::Issues in the Information Society:::cmns453:::cmns453c200:::cmns 453 c200 issues in the information society
 2114:_:bus:::738:::g100:::Operations Management:::bus738:::bus738g100:::bus 738 g100 operations management
 2115:_:bus:::316:::d100:::Derivative Securities:::bus316:::bus316d100:::bus 316 d100 derivative securities
 2116:_:bus:::316:::e100:::Derivative Securities:::bus316:::bus316e100:::bus 316 e100 derivative securities
