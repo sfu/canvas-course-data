@@ -5147,620 +5147,619 @@
 5147:_:chem:::408:::d100:::Practicum V:::chem408:::chem408d100:::chem 408 d100 practicum v
 5148:_:chem:::408:::d200:::Practicum V:::chem408:::chem408d200:::chem 408 d200 practicum v
 5149:_:chem:::408:::i100:::Practicum V:::chem408:::chem408i100:::chem 408 i100 practicum v
-5150:_:cmns:::437:::d100:::Media Democratization: From Critique to Transformation:::cmns437:::cmns437d100:::cmns 437 d100 media democratization: from critique to transformation
-5151:_:chem:::407:::d100:::Practicum IV:::chem407:::chem407d100:::chem 407 d100 practicum iv
-5152:_:chem:::407:::d200:::Practicum IV:::chem407:::chem407d200:::chem 407 d200 practicum iv
-5153:_:chem:::407:::i100:::Practicum IV:::chem407:::chem407i100:::chem 407 i100 practicum iv
-5154:_:educ:::250:::d100:::Studies in the History of Education in the Western World:::educ250:::educ250d100:::educ 250 d100 studies in the history of education in the western world
-5155:_:mse:::250:::d100:::Electric Circuits I:::mse250:::mse250d100:::mse 250 d100 electric circuits i
-5156:_:mse:::250:::d101:::Electric Circuits I:::mse250:::mse250d101:::mse 250 d101 electric circuits i
-5157:_:mse:::250:::lab1:::Electric Circuits I:::mse250:::mse250lab1:::mse 250 lab1 electric circuits i
-5158:_:mse:::250:::lab2:::Electric Circuits I:::mse250:::mse250lab2:::mse 250 lab2 electric circuits i
-5159:_:mse:::250:::lab3:::Electric Circuits I:::mse250:::mse250lab3:::mse 250 lab3 electric circuits i
-5160:_:chem:::406:::d100:::Practicum III:::chem406:::chem406d100:::chem 406 d100 practicum iii
-5161:_:chem:::406:::d200:::Practicum III:::chem406:::chem406d200:::chem 406 d200 practicum iii
-5162:_:chem:::406:::i100:::Practicum III:::chem406:::chem406i100:::chem 406 i100 practicum iii
-5163:_:educ:::252:::c100:::Introduction to Reflective Practice:::educ252:::educ252c100:::educ 252 c100 introduction to reflective practice
-5164:_:educ:::252:::c200:::Introduction to Reflective Practice:::educ252:::educ252c200:::educ 252 c200 introduction to reflective practice
-5165:_:mse:::310:::d100:::Introduction to Electro-Mechanical Sensors and Actuators:::mse310:::mse310d100:::mse 310 d100 introduction to electro-mechanical sensors and actuators
-5166:_:mse:::310:::d101:::Introduction to Electro-Mechanical Sensors and Actuators:::mse310:::mse310d101:::mse 310 d101 introduction to electro-mechanical sensors and actuators
-5167:_:mse:::310:::lab1:::Introduction to Electro-Mechanical Sensors and Actuators:::mse310:::mse310lab1:::mse 310 lab1 introduction to electro-mechanical sensors and actuators
-5168:_:mse:::310:::lab2:::Introduction to Electro-Mechanical Sensors and Actuators:::mse310:::mse310lab2:::mse 310 lab2 introduction to electro-mechanical sensors and actuators
-5169:_:educ:::230:::c100:::Introduction to Philosophy of Education:::educ230:::educ230c100:::educ 230 c100 introduction to philosophy of education
-5170:_:educ:::230:::d100:::Introduction to Philosophy of Education:::educ230:::educ230d100:::educ 230 d100 introduction to philosophy of education
-5171:_:educ:::230:::d101:::Introduction to Philosophy of Education:::educ230:::educ230d101:::educ 230 d101 introduction to philosophy of education
-5172:_:educ:::230:::d102:::Introduction to Philosophy of Education:::educ230:::educ230d102:::educ 230 d102 introduction to philosophy of education
-5173:_:educ:::230:::d103:::Introduction to Philosophy of Education:::educ230:::educ230d103:::educ 230 d103 introduction to philosophy of education
-5174:_:educ:::230:::d104:::Introduction to Philosophy of Education:::educ230:::educ230d104:::educ 230 d104 introduction to philosophy of education
-5175:_:educ:::230:::d105:::Introduction to Philosophy of Education:::educ230:::educ230d105:::educ 230 d105 introduction to philosophy of education
-5176:_:educ:::230:::d106:::Introduction to Philosophy of Education:::educ230:::educ230d106:::educ 230 d106 introduction to philosophy of education
-5177:_:educ:::240:::d100:::Social Issues in Education:::educ240:::educ240d100:::educ 240 d100 social issues in education
-5178:_:educ:::240:::d101:::Social Issues in Education:::educ240:::educ240d101:::educ 240 d101 social issues in education
-5179:_:educ:::240:::d102:::Social Issues in Education:::educ240:::educ240d102:::educ 240 d102 social issues in education
-5180:_:educ:::240:::d103:::Social Issues in Education:::educ240:::educ240d103:::educ 240 d103 social issues in education
-5181:_:educ:::240:::d104:::Social Issues in Education:::educ240:::educ240d104:::educ 240 d104 social issues in education
-5182:_:educ:::240:::d105:::Social Issues in Education:::educ240:::educ240d105:::educ 240 d105 social issues in education
-5183:_:educ:::240:::d106:::Social Issues in Education:::educ240:::educ240d106:::educ 240 d106 social issues in education
-5184:_:educ:::240:::d107:::Social Issues in Education:::educ240:::educ240d107:::educ 240 d107 social issues in education
-5185:_:educ:::240:::d108:::Social Issues in Education:::educ240:::educ240d108:::educ 240 d108 social issues in education
-5186:_:phil:::998:::g100:::PhD Thesis:::phil998:::phil998g100:::phil 998 g100 phd thesis
-5187:_:psyc:::280:::c100:::Introduction to Biological Psychology:::psyc280:::psyc280c100:::psyc 280 c100 introduction to biological psychology
-5188:_:phil:::899:::g100:::Non-Thesis Project Completion:::phil899:::phil899g100:::phil 899 g100 non-thesis project completion
-5189:_:chem:::380:::d100:::Chemical and Instrumental Methods of Identification of Organic Compounds:::chem380:::chem380d100:::chem 380 d100 chemical and instrumental methods of identification of organic compounds
-5190:_:chem:::380:::la01:::Chemical and Instrumental Methods of Identification of Organic Compounds:::chem380:::chem380la01:::chem 380 la01 chemical and instrumental methods of identification of organic compounds
-5191:_:chem:::380:::la02:::Chemical and Instrumental Methods of Identification of Organic Compounds:::chem380:::chem380la02:::chem 380 la02 chemical and instrumental methods of identification of organic compounds
-5192:_:psyc:::260:::d100:::Introduction to Social Psychology:::psyc260:::psyc260d100:::psyc 260 d100 introduction to social psychology
-5193:_:phil:::898:::g100:::MA Thesis:::phil898:::phil898g100:::phil 898 g100 ma thesis
-5194:_:psyc:::250:::d100:::Introduction to Developmental Psychology:::psyc250:::psyc250d100:::psyc 250 d100 introduction to developmental psychology
-5195:_:hist:::130:::d100:::Fundamentals of World History:::hist130:::hist130d100:::hist 130 d100 fundamentals of world history
-5196:_:hist:::130:::d101:::Fundamentals of World History:::hist130:::hist130d101:::hist 130 d101 fundamentals of world history
-5197:_:hist:::130:::d102:::Fundamentals of World History:::hist130:::hist130d102:::hist 130 d102 fundamentals of world history
-5198:_:hist:::130:::d103:::Fundamentals of World History:::hist130:::hist130d103:::hist 130 d103 fundamentals of world history
-5199:_:hist:::130:::d104:::Fundamentals of World History:::hist130:::hist130d104:::hist 130 d104 fundamentals of world history
-5200:_:hist:::130:::d105:::Fundamentals of World History:::hist130:::hist130d105:::hist 130 d105 fundamentals of world history
-5201:_:hist:::130:::d106:::Fundamentals of World History:::hist130:::hist130d106:::hist 130 d106 fundamentals of world history
-5202:_:hist:::130:::d900:::Fundamentals of World History:::hist130:::hist130d900:::hist 130 d900 fundamentals of world history
-5203:_:hist:::130:::d901:::Fundamentals of World History:::hist130:::hist130d901:::hist 130 d901 fundamentals of world history
-5204:_:hist:::130:::d902:::Fundamentals of World History:::hist130:::hist130d902:::hist 130 d902 fundamentals of world history
-5205:_:psyc:::241:::d100:::Introduction to Abnormal Psychology:::psyc241:::psyc241d100:::psyc 241 d100 introduction to abnormal psychology
-5206:_:engl:::330:::c100:::Studies in Victorian Literature:::engl330:::engl330c100:::engl 330 c100 studies in victorian literature
-5207:_:psyc:::388:::d100:::Biological Rhythms and Sleep:::psyc388:::psyc388d100:::psyc 388 d100 biological rhythms and sleep
-5208:_:mse:::101w:::d100:::Process, Form, and Convention in Professional Genres:::mse101w:::mse101wd100:::mse 101w d100 process, form, and convention in professional genres
-5209:_:mse:::101w:::d101:::Process, Form, and Convention in Professional Genres:::mse101w:::mse101wd101:::mse 101w d101 process, form, and convention in professional genres
-5210:_:chem:::372:::d100:::Chemistry of the Atmospheric Environment:::chem372:::chem372d100:::chem 372 d100 chemistry of the atmospheric environment
-5211:_:chem:::372:::d101:::Chemistry of the Atmospheric Environment:::chem372:::chem372d101:::chem 372 d101 chemistry of the atmospheric environment
-5212:_:psyc:::386:::d100:::Laboratory in Behavioral Neuroscience:::psyc386:::psyc386d100:::psyc 386 d100 laboratory in behavioral neuroscience
-5213:_:psyc:::386:::d101:::Laboratory in Behavioral Neuroscience:::psyc386:::psyc386d101:::psyc 386 d101 laboratory in behavioral neuroscience
-5214:_:psyc:::386:::d102:::Laboratory in Behavioral Neuroscience:::psyc386:::psyc386d102:::psyc 386 d102 laboratory in behavioral neuroscience
-5215:_:chem:::316:::d100:::Introductory Instrumental Analysis:::chem316:::chem316d100:::chem 316 d100 introductory instrumental analysis
-5216:_:chem:::316:::d101:::Introductory Instrumental Analysis:::chem316:::chem316d101:::chem 316 d101 introductory instrumental analysis
-5217:_:chem:::316:::la01:::Introductory Instrumental Analysis:::chem316:::chem316la01:::chem 316 la01 introductory instrumental analysis
-5218:_:chem:::316:::la02:::Introductory Instrumental Analysis:::chem316:::chem316la02:::chem 316 la02 introductory instrumental analysis
-5219:_:phys:::190:::d100:::Introduction to Astronomy:::phys190:::phys190d100:::phys 190 d100 introduction to astronomy
-5220:_:phys:::190:::la01:::Introduction to Astronomy:::phys190:::phys190la01:::phys 190 la01 introduction to astronomy
-5221:_:phys:::190:::la02:::Introduction to Astronomy:::phys190:::phys190la02:::phys 190 la02 introduction to astronomy
-5222:_:phys:::190:::la03:::Introduction to Astronomy:::phys190:::phys190la03:::phys 190 la03 introduction to astronomy
-5223:_:phys:::190:::la04:::Introduction to Astronomy:::phys190:::phys190la04:::phys 190 la04 introduction to astronomy
-5224:_:phys:::190:::la05:::Introduction to Astronomy:::phys190:::phys190la05:::phys 190 la05 introduction to astronomy
-5225:_:phys:::190:::la06:::Introduction to Astronomy:::phys190:::phys190la06:::phys 190 la06 introduction to astronomy
-5226:_:phys:::190:::la07:::Introduction to Astronomy:::phys190:::phys190la07:::phys 190 la07 introduction to astronomy
-5227:_:phys:::190:::la08:::Introduction to Astronomy:::phys190:::phys190la08:::phys 190 la08 introduction to astronomy
-5228:_:phys:::190:::la09:::Introduction to Astronomy:::phys190:::phys190la09:::phys 190 la09 introduction to astronomy
-5229:_:phys:::190:::la10:::Introduction to Astronomy:::phys190:::phys190la10:::phys 190 la10 introduction to astronomy
-5230:_:phys:::190:::la11:::Introduction to Astronomy:::phys190:::phys190la11:::phys 190 la11 introduction to astronomy
-5231:_:phys:::190:::la12:::Introduction to Astronomy:::phys190:::phys190la12:::phys 190 la12 introduction to astronomy
-5232:_:phys:::190:::la13:::Introduction to Astronomy:::phys190:::phys190la13:::phys 190 la13 introduction to astronomy
-5233:_:phys:::190:::la14:::Introduction to Astronomy:::phys190:::phys190la14:::phys 190 la14 introduction to astronomy
-5234:_:phys:::190:::la15:::Introduction to Astronomy:::phys190:::phys190la15:::phys 190 la15 introduction to astronomy
-5235:_:phys:::190:::la16:::Introduction to Astronomy:::phys190:::phys190la16:::phys 190 la16 introduction to astronomy
-5236:_:phys:::190:::lb01:::Introduction to Astronomy:::phys190:::phys190lb01:::phys 190 lb01 introduction to astronomy
-5237:_:phys:::190:::lb02:::Introduction to Astronomy:::phys190:::phys190lb02:::phys 190 lb02 introduction to astronomy
-5238:_:phys:::190:::lb03:::Introduction to Astronomy:::phys190:::phys190lb03:::phys 190 lb03 introduction to astronomy
-5239:_:phys:::190:::lb04:::Introduction to Astronomy:::phys190:::phys190lb04:::phys 190 lb04 introduction to astronomy
-5240:_:phys:::190:::lb05:::Introduction to Astronomy:::phys190:::phys190lb05:::phys 190 lb05 introduction to astronomy
-5241:_:phys:::190:::lb06:::Introduction to Astronomy:::phys190:::phys190lb06:::phys 190 lb06 introduction to astronomy
-5242:_:phys:::190:::lb07:::Introduction to Astronomy:::phys190:::phys190lb07:::phys 190 lb07 introduction to astronomy
-5243:_:phys:::190:::lb08:::Introduction to Astronomy:::phys190:::phys190lb08:::phys 190 lb08 introduction to astronomy
-5244:_:phys:::190:::lb09:::Introduction to Astronomy:::phys190:::phys190lb09:::phys 190 lb09 introduction to astronomy
-5245:_:phys:::190:::lb10:::Introduction to Astronomy:::phys190:::phys190lb10:::phys 190 lb10 introduction to astronomy
-5246:_:phys:::190:::lb11:::Introduction to Astronomy:::phys190:::phys190lb11:::phys 190 lb11 introduction to astronomy
-5247:_:phys:::190:::lb12:::Introduction to Astronomy:::phys190:::phys190lb12:::phys 190 lb12 introduction to astronomy
-5248:_:phys:::190:::lb13:::Introduction to Astronomy:::phys190:::phys190lb13:::phys 190 lb13 introduction to astronomy
-5249:_:phys:::190:::lb14:::Introduction to Astronomy:::phys190:::phys190lb14:::phys 190 lb14 introduction to astronomy
-5250:_:phys:::190:::lb15:::Introduction to Astronomy:::phys190:::phys190lb15:::phys 190 lb15 introduction to astronomy
-5251:_:phys:::190:::lb16:::Introduction to Astronomy:::phys190:::phys190lb16:::phys 190 lb16 introduction to astronomy
-5252:_:arch:::226:::c100:::The Prehistory of Religion: Shamans, Sorcerers and Saints:::arch226:::arch226c100:::arch 226 c100 the prehistory of religion: shamans, sorcerers and saints
-5253:_:arch:::226:::d100:::The Prehistory of Religion: Shamans, Sorcerers and Saints:::arch226:::arch226d100:::arch 226 d100 the prehistory of religion: shamans, sorcerers and saints
-5254:_:arch:::201:::c100:::Reconstructing the Human Past:::arch201:::arch201c100:::arch 201 c100 reconstructing the human past
-5255:_:arch:::201:::d100:::Reconstructing the Human Past:::arch201:::arch201d100:::arch 201 d100 reconstructing the human past
-5256:_:chem:::307:::d100:::Practicum II:::chem307:::chem307d100:::chem 307 d100 practicum ii
-5257:_:chem:::307:::d200:::Practicum II:::chem307:::chem307d200:::chem 307 d200 practicum ii
-5258:_:chem:::307:::i100:::Practicum II:::chem307:::chem307i100:::chem 307 i100 practicum ii
-5259:_:stat:::438:::d100:::Job Practicum V:::stat438:::stat438d100:::stat 438 d100 job practicum v
-5260:_:stat:::438:::d200:::Job Practicum V:::stat438:::stat438d200:::stat 438 d200 job practicum v
-5261:_:stat:::438:::i100:::Job Practicum V:::stat438:::stat438i100:::stat 438 i100 job practicum v
-5262:_:cmns:::426:::d100:::Video Design for Social Communication:::cmns426:::cmns426d100:::cmns 426 d100 video design for social communication
-5263:_:cmns:::426:::d101:::Video Design for Social Communication:::cmns426:::cmns426d101:::cmns 426 d101 video design for social communication
-5264:_:cmns:::428:::d100:::Media Analysis Project Group:::cmns428:::cmns428d100:::cmns 428 d100 media analysis project group
-5265:_:cmns:::428:::d101:::Media Analysis Project Group:::cmns428:::cmns428d101:::cmns 428 d101 media analysis project group
-5266:_:stat:::436:::d100:::Job Practicum III:::stat436:::stat436d100:::stat 436 d100 job practicum iii
-5267:_:stat:::436:::d200:::Job Practicum III:::stat436:::stat436d200:::stat 436 d200 job practicum iii
-5268:_:stat:::436:::i100:::Job Practicum III:::stat436:::stat436i100:::stat 436 i100 job practicum iii
-5269:_:stat:::437:::d100:::Job Practicum IV:::stat437:::stat437d100:::stat 437 d100 job practicum iv
-5270:_:stat:::437:::d200:::Job Practicum IV:::stat437:::stat437d200:::stat 437 d200 job practicum iv
-5271:_:stat:::437:::i100:::Job Practicum IV:::stat437:::stat437i100:::stat 437 i100 job practicum iv
-5272:_:psyc:::100:::d100:::Introduction to Psychology I:::psyc100:::psyc100d100:::psyc 100 d100 introduction to psychology i
-5273:_:psyc:::100:::d200:::Introduction to Psychology I:::psyc100:::psyc100d200:::psyc 100 d200 introduction to psychology i
-5274:_:psyc:::100:::d900:::Introduction to Psychology I:::psyc100:::psyc100d900:::psyc 100 d900 introduction to psychology i
-5275:_:psyc:::100:::j100:::Introduction to Psychology I:::psyc100:::psyc100j100:::psyc 100 j100 introduction to psychology i
-5276:_:stat:::450:::d100:::Statistical Theory:::stat450:::stat450d100:::stat 450 d100 statistical theory
-5277:_:stat:::450:::d101:::Statistical Theory:::stat450:::stat450d101:::stat 450 d101 statistical theory
-5278:_:span:::102:::d100:::Introductory Spanish I:::span102:::span102d100:::span 102 d100 introductory spanish i
-5279:_:span:::102:::d200:::Introductory Spanish I:::span102:::span102d200:::span 102 d200 introductory spanish i
-5280:_:span:::102:::d201:::Introductory Spanish I:::span102:::span102d201:::span 102 d201 introductory spanish i
-5281:_:span:::102:::d202:::Introductory Spanish I:::span102:::span102d202:::span 102 d202 introductory spanish i
-5282:_:span:::102:::d203:::Introductory Spanish I:::span102:::span102d203:::span 102 d203 introductory spanish i
-5283:_:psyc:::383:::d100:::Psychopharmacology:::psyc383:::psyc383d100:::psyc 383 d100 psychopharmacology
-5284:_:engl:::203:::d100:::Early Modern Literature:::engl203:::engl203d100:::engl 203 d100 early modern literature
-5285:_:engl:::203:::d101:::Early Modern Literature:::engl203:::engl203d101:::engl 203 d101 early modern literature
-5286:_:engl:::203:::d102:::Early Modern Literature:::engl203:::engl203d102:::engl 203 d102 early modern literature
-5287:_:engl:::203:::d103:::Early Modern Literature:::engl203:::engl203d103:::engl 203 d103 early modern literature
-5288:_:engl:::371:::d100:::Writing: Theory and Practice:::engl371:::engl371d100:::engl 371 d100 writing: theory and practice
-5289:_:engl:::371:::d101:::Writing: Theory and Practice:::engl371:::engl371d101:::engl 371 d101 writing: theory and practice
-5290:_:span:::103:::d100:::Introductory Spanish II:::span103:::span103d100:::span 103 d100 introductory spanish ii
-5291:_:chem:::306:::d100:::Practicum I:::chem306:::chem306d100:::chem 306 d100 practicum i
-5292:_:chem:::306:::d200:::Practicum I:::chem306:::chem306d200:::chem 306 d200 practicum i
-5293:_:chem:::306:::i100:::Practicum I:::chem306:::chem306i100:::chem 306 i100 practicum i
-5294:_:ital:::390:::d100:::STT - Dante's Inferno:::ital390:::ital390d100:::ital 390 d100 stt - dante's inferno
-5295:_:bus:::338:::d100:::Foundations of Innovation:::bus338:::bus338d100:::bus 338 d100 foundations of innovation
-5296:_:bus:::486:::d100:::Leadership:::bus486:::bus486d100:::bus 486 d100 leadership
-5297:_:fass:::101:::d001:::STT - FASSFirst Special Topics Seminar:::fass101:::fass101d001:::fass 101 d001 stt - fassfirst special topics seminar
-5298:_:fass:::101:::d002:::STT - FASSFirst Special Topics Seminar:::fass101:::fass101d002:::fass 101 d002 stt - fassfirst special topics seminar
-5299:_:fass:::101:::d003:::STT - FASSFirst Special Topics Seminar:::fass101:::fass101d003:::fass 101 d003 stt - fassfirst special topics seminar
-5300:_:fass:::101:::d004:::STT - FASSFirst Special Topics Seminar:::fass101:::fass101d004:::fass 101 d004 stt - fassfirst special topics seminar
-5301:_:fass:::101:::d005:::STT - FASSFirst Special Topics Seminar:::fass101:::fass101d005:::fass 101 d005 stt - fassfirst special topics seminar
-5302:_:fass:::101:::d006:::STT - FASSFirst Special Topics Seminar:::fass101:::fass101d006:::fass 101 d006 stt - fassfirst special topics seminar
-5303:_:fass:::101:::d007:::STT - FASSFirst Special Topics Seminar:::fass101:::fass101d007:::fass 101 d007 stt - fassfirst special topics seminar
-5304:_:fass:::101:::d008:::STT - FASSFirst Special Topics Seminar:::fass101:::fass101d008:::fass 101 d008 stt - fassfirst special topics seminar
-5305:_:fass:::101:::d009:::STT - FASSFirst Special Topics Seminar:::fass101:::fass101d009:::fass 101 d009 stt - fassfirst special topics seminar
-5306:_:fass:::101:::d010:::STT - FASSFirst Special Topics Seminar:::fass101:::fass101d010:::fass 101 d010 stt - fassfirst special topics seminar
-5307:_:chem:::281:::d100:::Organic Chemistry I:::chem281:::chem281d100:::chem 281 d100 organic chemistry i
-5308:_:chem:::281:::d101:::Organic Chemistry I:::chem281:::chem281d101:::chem 281 d101 organic chemistry i
-5309:_:chem:::281:::d102:::Organic Chemistry I:::chem281:::chem281d102:::chem 281 d102 organic chemistry i
-5310:_:chem:::281:::d103:::Organic Chemistry I:::chem281:::chem281d103:::chem 281 d103 organic chemistry i
-5311:_:chem:::281:::d104:::Organic Chemistry I:::chem281:::chem281d104:::chem 281 d104 organic chemistry i
-5312:_:chem:::281:::d105:::Organic Chemistry I:::chem281:::chem281d105:::chem 281 d105 organic chemistry i
-5313:_:chem:::281:::d106:::Organic Chemistry I:::chem281:::chem281d106:::chem 281 d106 organic chemistry i
-5314:_:chem:::281:::d107:::Organic Chemistry I:::chem281:::chem281d107:::chem 281 d107 organic chemistry i
-5315:_:chem:::281:::d108:::Organic Chemistry I:::chem281:::chem281d108:::chem 281 d108 organic chemistry i
-5316:_:chem:::281:::d109:::Organic Chemistry I:::chem281:::chem281d109:::chem 281 d109 organic chemistry i
-5317:_:chem:::281:::d110:::Organic Chemistry I:::chem281:::chem281d110:::chem 281 d110 organic chemistry i
-5318:_:chem:::281:::d111:::Organic Chemistry I:::chem281:::chem281d111:::chem 281 d111 organic chemistry i
-5319:_:chem:::281:::d112:::Organic Chemistry I:::chem281:::chem281d112:::chem 281 d112 organic chemistry i
-5320:_:chem:::281:::d113:::Organic Chemistry I:::chem281:::chem281d113:::chem 281 d113 organic chemistry i
-5321:_:chem:::281:::d114:::Organic Chemistry I:::chem281:::chem281d114:::chem 281 d114 organic chemistry i
-5322:_:chem:::281:::d115:::Organic Chemistry I:::chem281:::chem281d115:::chem 281 d115 organic chemistry i
-5323:_:chem:::281:::la01:::Organic Chemistry I:::chem281:::chem281la01:::chem 281 la01 organic chemistry i
-5324:_:chem:::281:::la04:::Organic Chemistry I:::chem281:::chem281la04:::chem 281 la04 organic chemistry i
-5325:_:chem:::281:::la05:::Organic Chemistry I:::chem281:::chem281la05:::chem 281 la05 organic chemistry i
-5326:_:chem:::281:::la07:::Organic Chemistry I:::chem281:::chem281la07:::chem 281 la07 organic chemistry i
-5327:_:chem:::281:::lb04:::Organic Chemistry I:::chem281:::chem281lb04:::chem 281 lb04 organic chemistry i
-5328:_:chem:::281:::lb05:::Organic Chemistry I:::chem281:::chem281lb05:::chem 281 lb05 organic chemistry i
-5329:_:chem:::281:::lb07:::Organic Chemistry I:::chem281:::chem281lb07:::chem 281 lb07 organic chemistry i
-5330:_:chem:::281:::le01:::Organic Chemistry I:::chem281:::chem281le01:::chem 281 le01 organic chemistry i
-5331:_:psyc:::382:::d100:::Cognitive Neuroscience:::psyc382:::psyc382d100:::psyc 382 d100 cognitive neuroscience
-5332:_:chem:::282:::d100:::Organic Chemistry II:::chem282:::chem282d100:::chem 282 d100 organic chemistry ii
-5333:_:chem:::282:::d101:::Organic Chemistry II:::chem282:::chem282d101:::chem 282 d101 organic chemistry ii
-5334:_:chem:::282:::d102:::Organic Chemistry II:::chem282:::chem282d102:::chem 282 d102 organic chemistry ii
-5335:_:chem:::282:::d103:::Organic Chemistry II:::chem282:::chem282d103:::chem 282 d103 organic chemistry ii
-5336:_:chem:::282:::d104:::Organic Chemistry II:::chem282:::chem282d104:::chem 282 d104 organic chemistry ii
-5337:_:bus:::361:::d200:::Project Management:::bus361:::bus361d200:::bus 361 d200 project management
-5338:_:bus:::361:::e100:::Project Management:::bus361:::bus361e100:::bus 361 e100 project management
-5339:_:chem:::286:::la03:::Organic Chemistry Laboratory II:::chem286:::chem286la03:::chem 286 la03 organic chemistry laboratory ii
-5340:_:chem:::286:::la06:::Organic Chemistry Laboratory II:::chem286:::chem286la06:::chem 286 la06 organic chemistry laboratory ii
-5341:_:bisc:::892:::g100:::PhD Graduate Candidacy Exam:::bisc892:::bisc892g100:::bisc 892 g100 phd graduate candidacy exam
-5342:_:bisc:::892:::g200:::PhD Graduate Candidacy Exam:::bisc892:::bisc892g200:::bisc 892 g200 phd graduate candidacy exam
-5343:_:mse:::220:::d100:::Engineering Materials:::mse220:::mse220d100:::mse 220 d100 engineering materials
-5344:_:mse:::220:::lab1:::Engineering Materials:::mse220:::mse220lab1:::mse 220 lab1 engineering materials
-5345:_:mse:::220:::lab2:::Engineering Materials:::mse220:::mse220lab2:::mse 220 lab2 engineering materials
-5346:_:mse:::220:::lab3:::Engineering Materials:::mse220:::mse220lab3:::mse 220 lab3 engineering materials
-5347:_:educ:::311:::d100:::Foundations in Aboriginal Education, Language, and Culture:::educ311:::educ311d100:::educ 311 d100 foundations in aboriginal education, language, and culture
-5348:_:mse:::498:::d100:::Mechatronic Systems Engineering  Thesis Proposal:::mse498:::mse498d100:::mse 498 d100 mechatronic systems engineering  thesis proposal
-5349:_:chem:::340:::d100:::Materials Chemistry:::chem340:::chem340d100:::chem 340 d100 materials chemistry
-5350:_:educ:::315:::d100:::Individual and Developmental Differences in Language Acquisition:::educ315:::educ315d100:::educ 315 d100 individual and developmental differences in language acquisition
-5351:_:mse:::499:::d100:::Mechatronic Systems Engineering  Undergraduate Thesis:::mse499:::mse499d100:::mse 499 d100 mechatronic systems engineering  undergraduate thesis
-5352:_:cmns:::425:::d100:::Applied Communication for Social Issues:::cmns425:::cmns425d100:::cmns 425 d100 applied communication for social issues
-5353:_:chem:::336:::la01:::Advanced Inorganic Chemistry Laboratory:::chem336:::chem336la01:::chem 336 la01 advanced inorganic chemistry laboratory
-5354:_:chem:::336:::la02:::Advanced Inorganic Chemistry Laboratory:::chem336:::chem336la02:::chem 336 la02 advanced inorganic chemistry laboratory
-5355:_:mse:::496:::d100:::Special Project Laboratory:::mse496:::mse496d100:::mse 496 d100 special project laboratory
-5356:_:mse:::496:::d200:::Special Project Laboratory:::mse496:::mse496d200:::mse 496 d200 special project laboratory
-5357:_:educ:::320:::d100:::Instructional Psychology:::educ320:::educ320d100:::educ 320 d100 instructional psychology
-5358:_:mse:::497:::d100:::Special Project Laboratory:::mse497:::mse497d100:::mse 497 d100 special project laboratory
-5359:_:mse:::497:::d200:::Special Project Laboratory:::mse497:::mse497d200:::mse 497 d200 special project laboratory
-5360:_:span:::201:::d100:::Intermediate Spanish I:::span201:::span201d100:::span 201 d100 intermediate spanish i
-5361:_:span:::201:::d201:::Intermediate Spanish I:::span201:::span201d201:::span 201 d201 intermediate spanish i
-5362:_:psyc:::102:::d100:::Introduction to Psychology II:::psyc102:::psyc102d100:::psyc 102 d100 introduction to psychology ii
-5363:_:psyc:::102:::d900:::Introduction to Psychology II:::psyc102:::psyc102d900:::psyc 102 d900 introduction to psychology ii
-5364:_:wl:::307:::d100:::Creative Writing in World Literature:::wl307:::wl307d100:::wl 307 d100 creative writing in world literature
-5365:_:stat:::452:::d100:::Statistical Learning and Prediction:::stat452:::stat452d100:::stat 452 d100 statistical learning and prediction
-5366:_:stat:::452:::d101:::Statistical Learning and Prediction:::stat452:::stat452d101:::stat 452 d101 statistical learning and prediction
-5367:_:stat:::452:::d102:::Statistical Learning and Prediction:::stat452:::stat452d102:::stat 452 d102 statistical learning and prediction
-5368:_:educ:::322:::c100:::The Social Lives of School Children:::educ322:::educ322c100:::educ 322 c100 the social lives of school children
-5369:_:educ:::322:::c200:::The Social Lives of School Children:::educ322:::educ322c200:::educ 322 c200 the social lives of school children
-5370:_:sd:::381:::e100:::Sustainable Community Development Theory and Practice:::sd381:::sd381e100:::sd 381 e100 sustainable community development theory and practice
-5371:_:sd:::481:::c100:::Social Enterprise for Sustainable Community Development:::sd481:::sd481c100:::sd 481 c100 social enterprise for sustainable community development
-5372:_:chem:::332:::d200:::The Chemistry of Transition Metals:::chem332:::chem332d200:::chem 332 d200 the chemistry of transition metals
-5373:_:arch:::272w:::d100:::Archaeology of the Old World:::arch272w:::arch272wd100:::arch 272w d100 archaeology of the old world
-5374:_:arch:::272w:::d101:::Archaeology of the Old World:::arch272w:::arch272wd101:::arch 272w d101 archaeology of the old world
-5375:_:arch:::272w:::d102:::Archaeology of the Old World:::arch272w:::arch272wd102:::arch 272w d102 archaeology of the old world
-5376:_:arch:::272w:::d103:::Archaeology of the Old World:::arch272w:::arch272wd103:::arch 272w d103 archaeology of the old world
-5377:_:educ:::323:::d100:::Introduction to Counselling Theories:::educ323:::educ323d100:::educ 323 d100 introduction to counselling theories
-5378:_:educ:::323:::e100:::Introduction to Counselling Theories:::educ323:::educ323e100:::educ 323 e100 introduction to counselling theories
-5379:_:cmpt:::120:::d100:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d100:::cmpt 120 d100 introduction to computing science and programming i
-5380:_:cmpt:::120:::d101:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d101:::cmpt 120 d101 introduction to computing science and programming i
-5381:_:cmpt:::120:::d102:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d102:::cmpt 120 d102 introduction to computing science and programming i
-5382:_:cmpt:::120:::d103:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d103:::cmpt 120 d103 introduction to computing science and programming i
-5383:_:cmpt:::120:::d104:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d104:::cmpt 120 d104 introduction to computing science and programming i
-5384:_:cmpt:::120:::d105:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d105:::cmpt 120 d105 introduction to computing science and programming i
-5385:_:cmpt:::120:::d106:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d106:::cmpt 120 d106 introduction to computing science and programming i
-5386:_:cmpt:::120:::d107:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d107:::cmpt 120 d107 introduction to computing science and programming i
-5387:_:cmpt:::120:::d108:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d108:::cmpt 120 d108 introduction to computing science and programming i
-5388:_:cmpt:::120:::d200:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d200:::cmpt 120 d200 introduction to computing science and programming i
-5389:_:cmpt:::120:::d201:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d201:::cmpt 120 d201 introduction to computing science and programming i
-5390:_:cmpt:::120:::d202:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d202:::cmpt 120 d202 introduction to computing science and programming i
-5391:_:cmpt:::120:::d203:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d203:::cmpt 120 d203 introduction to computing science and programming i
-5392:_:cmpt:::120:::d204:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d204:::cmpt 120 d204 introduction to computing science and programming i
-5393:_:cmpt:::120:::d205:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d205:::cmpt 120 d205 introduction to computing science and programming i
-5394:_:cmpt:::120:::d206:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d206:::cmpt 120 d206 introduction to computing science and programming i
-5395:_:cmpt:::120:::d207:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d207:::cmpt 120 d207 introduction to computing science and programming i
-5396:_:cmpt:::120:::d208:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d208:::cmpt 120 d208 introduction to computing science and programming i
-5397:_:cmpt:::125:::d100:::Introduction to Computing Science and Programming II:::cmpt125:::cmpt125d100:::cmpt 125 d100 introduction to computing science and programming ii
-5398:_:educ:::932:::g001:::Doctoral Seminar II in Educational Technology and Learning Design:::educ932:::educ932g001:::educ 932 g001 doctoral seminar ii in educational technology and learning design
-5399:_:cmpt:::225:::d100:::Data Structures and Programming:::cmpt225:::cmpt225d100:::cmpt 225 d100 data structures and programming
-5400:_:cmpt:::225:::d101:::Data Structures and Programming:::cmpt225:::cmpt225d101:::cmpt 225 d101 data structures and programming
-5401:_:cmpt:::225:::d102:::Data Structures and Programming:::cmpt225:::cmpt225d102:::cmpt 225 d102 data structures and programming
-5402:_:cmpt:::225:::d103:::Data Structures and Programming:::cmpt225:::cmpt225d103:::cmpt 225 d103 data structures and programming
-5403:_:cmpt:::225:::d104:::Data Structures and Programming:::cmpt225:::cmpt225d104:::cmpt 225 d104 data structures and programming
-5404:_:cmpt:::225:::d105:::Data Structures and Programming:::cmpt225:::cmpt225d105:::cmpt 225 d105 data structures and programming
-5405:_:cmpt:::225:::d106:::Data Structures and Programming:::cmpt225:::cmpt225d106:::cmpt 225 d106 data structures and programming
-5406:_:cmpt:::225:::d107:::Data Structures and Programming:::cmpt225:::cmpt225d107:::cmpt 225 d107 data structures and programming
-5407:_:cmpt:::225:::d108:::Data Structures and Programming:::cmpt225:::cmpt225d108:::cmpt 225 d108 data structures and programming
-5408:_:cmpt:::225:::d200:::Data Structures and Programming:::cmpt225:::cmpt225d200:::cmpt 225 d200 data structures and programming
-5409:_:cmpt:::225:::d201:::Data Structures and Programming:::cmpt225:::cmpt225d201:::cmpt 225 d201 data structures and programming
-5410:_:cmpt:::225:::d202:::Data Structures and Programming:::cmpt225:::cmpt225d202:::cmpt 225 d202 data structures and programming
-5411:_:cmpt:::225:::d203:::Data Structures and Programming:::cmpt225:::cmpt225d203:::cmpt 225 d203 data structures and programming
-5412:_:cmpt:::225:::d204:::Data Structures and Programming:::cmpt225:::cmpt225d204:::cmpt 225 d204 data structures and programming
-5413:_:hum:::340:::d100:::Great Cities in Their Time:::hum340:::hum340d100:::hum 340 d100 great cities in their time
-5414:_:sa:::150:::c100:::Introduction to Sociology (S):::sa150:::sa150c100:::sa 150 c100 introduction to sociology (s)
-5415:_:sa:::150:::d100:::Introduction to Sociology (S):::sa150:::sa150d100:::sa 150 d100 introduction to sociology (s)
-5416:_:sa:::150:::d101:::Introduction to Sociology (S):::sa150:::sa150d101:::sa 150 d101 introduction to sociology (s)
-5417:_:sa:::150:::d102:::Introduction to Sociology (S):::sa150:::sa150d102:::sa 150 d102 introduction to sociology (s)
-5418:_:sa:::150:::d103:::Introduction to Sociology (S):::sa150:::sa150d103:::sa 150 d103 introduction to sociology (s)
-5419:_:sa:::150:::d104:::Introduction to Sociology (S):::sa150:::sa150d104:::sa 150 d104 introduction to sociology (s)
-5420:_:sa:::150:::d105:::Introduction to Sociology (S):::sa150:::sa150d105:::sa 150 d105 introduction to sociology (s)
-5421:_:sa:::150:::d106:::Introduction to Sociology (S):::sa150:::sa150d106:::sa 150 d106 introduction to sociology (s)
-5422:_:sa:::150:::d107:::Introduction to Sociology (S):::sa150:::sa150d107:::sa 150 d107 introduction to sociology (s)
-5423:_:sa:::150:::d108:::Introduction to Sociology (S):::sa150:::sa150d108:::sa 150 d108 introduction to sociology (s)
-5424:_:sa:::150:::d109:::Introduction to Sociology (S):::sa150:::sa150d109:::sa 150 d109 introduction to sociology (s)
-5425:_:sa:::150:::d110:::Introduction to Sociology (S):::sa150:::sa150d110:::sa 150 d110 introduction to sociology (s)
-5426:_:sa:::150:::d111:::Introduction to Sociology (S):::sa150:::sa150d111:::sa 150 d111 introduction to sociology (s)
-5427:_:sa:::150:::d112:::Introduction to Sociology (S):::sa150:::sa150d112:::sa 150 d112 introduction to sociology (s)
-5428:_:sa:::150:::d113:::Introduction to Sociology (S):::sa150:::sa150d113:::sa 150 d113 introduction to sociology (s)
-5429:_:sa:::150:::d114:::Introduction to Sociology (S):::sa150:::sa150d114:::sa 150 d114 introduction to sociology (s)
-5430:_:sa:::150:::d115:::Introduction to Sociology (S):::sa150:::sa150d115:::sa 150 d115 introduction to sociology (s)
-5431:_:sa:::150:::d116:::Introduction to Sociology (S):::sa150:::sa150d116:::sa 150 d116 introduction to sociology (s)
-5432:_:sa:::150:::d117:::Introduction to Sociology (S):::sa150:::sa150d117:::sa 150 d117 introduction to sociology (s)
-5433:_:sa:::150:::d118:::Introduction to Sociology (S):::sa150:::sa150d118:::sa 150 d118 introduction to sociology (s)
-5434:_:sa:::150:::d900:::Introduction to Sociology (S):::sa150:::sa150d900:::sa 150 d900 introduction to sociology (s)
-5435:_:sa:::150:::d901:::Introduction to Sociology (S):::sa150:::sa150d901:::sa 150 d901 introduction to sociology (s)
-5436:_:sa:::150:::d902:::Introduction to Sociology (S):::sa150:::sa150d902:::sa 150 d902 introduction to sociology (s)
-5437:_:sa:::150:::d903:::Introduction to Sociology (S):::sa150:::sa150d903:::sa 150 d903 introduction to sociology (s)
-5438:_:sa:::150:::d904:::Introduction to Sociology (S):::sa150:::sa150d904:::sa 150 d904 introduction to sociology (s)
-5439:_:sa:::150:::d905:::Introduction to Sociology (S):::sa150:::sa150d905:::sa 150 d905 introduction to sociology (s)
-5440:_:sa:::150:::d906:::Introduction to Sociology (S):::sa150:::sa150d906:::sa 150 d906 introduction to sociology (s)
-5441:_:sa:::150:::d907:::Introduction to Sociology (S):::sa150:::sa150d907:::sa 150 d907 introduction to sociology (s)
-5442:_:sa:::150:::j100:::Introduction to Sociology (S):::sa150:::sa150j100:::sa 150 j100 introduction to sociology (s)
-5443:_:cmpt:::128:::d100:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d100:::cmpt 128 d100 introduction to computing science and programming for engineers
-5444:_:cmpt:::128:::d101:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d101:::cmpt 128 d101 introduction to computing science and programming for engineers
-5445:_:cmpt:::128:::d102:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d102:::cmpt 128 d102 introduction to computing science and programming for engineers
-5446:_:cmpt:::128:::d103:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d103:::cmpt 128 d103 introduction to computing science and programming for engineers
-5447:_:cmpt:::128:::d104:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d104:::cmpt 128 d104 introduction to computing science and programming for engineers
-5448:_:cmpt:::128:::d105:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d105:::cmpt 128 d105 introduction to computing science and programming for engineers
-5449:_:cmpt:::128:::d106:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d106:::cmpt 128 d106 introduction to computing science and programming for engineers
-5450:_:cmpt:::128:::d107:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d107:::cmpt 128 d107 introduction to computing science and programming for engineers
-5451:_:cmpt:::128:::d108:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d108:::cmpt 128 d108 introduction to computing science and programming for engineers
-5452:_:cmpt:::128:::d200:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d200:::cmpt 128 d200 introduction to computing science and programming for engineers
-5453:_:cmpt:::128:::d201:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d201:::cmpt 128 d201 introduction to computing science and programming for engineers
-5454:_:cmpt:::128:::d202:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d202:::cmpt 128 d202 introduction to computing science and programming for engineers
-5455:_:cmpt:::128:::d203:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d203:::cmpt 128 d203 introduction to computing science and programming for engineers
-5456:_:cmpt:::128:::d204:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d204:::cmpt 128 d204 introduction to computing science and programming for engineers
-5457:_:cmpt:::128:::d205:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d205:::cmpt 128 d205 introduction to computing science and programming for engineers
-5458:_:cmpt:::128:::d206:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d206:::cmpt 128 d206 introduction to computing science and programming for engineers
-5459:_:edpr:::577:::g100:::Advanced Field Studies in Educational Practice II:::edpr577:::edpr577g100:::edpr 577 g100 advanced field studies in educational practice ii
-5460:_:gsws:::312:::d100:::Immigrants, Women and Transnational Migration:::gsws312:::gsws312d100:::gsws 312 d100 immigrants, women and transnational migration
-5461:_:cogs:::310:::d100:::Consciousness:::cogs310:::cogs310d100:::cogs 310 d100 consciousness
-5462:_:econ:::453:::d100:::Seminar in the Economics of Education:::econ453:::econ453d100:::econ 453 d100 seminar in the economics of education
-5463:_:educ:::893:::g001:::Organizational and Social Aspects of Learning Technology Design:::educ893:::educ893g001:::educ 893 g001 organizational and social aspects of learning technology design
-5464:_:chem:::452:::d100:::Bio-organic Chemistry:::chem452:::chem452d100:::chem 452 d100 bio-organic chemistry
-5465:_:edpr:::520:::g100:::Special Topics:::edpr520:::edpr520g100:::edpr 520 g100 special topics
-5466:_:edpr:::520:::g200:::Special Topics:::edpr520:::edpr520g200:::edpr 520 g200 special topics
-5467:_:fren:::452:::d100:::Topics in French and Francophone Cultures or Cinemas:::fren452:::fren452d100:::fren 452 d100 topics in french and francophone cultures or cinemas
-5468:_:easc:::901:::g100:::PhD Research Seminar:::easc901:::easc901g100:::easc 901 g100 phd research seminar
-5469:_:econ:::355w:::d100:::Economic Development:::econ355w:::econ355wd100:::econ 355w d100 economic development
-5470:_:econ:::355w:::d101:::Economic Development:::econ355w:::econ355wd101:::econ 355w d101 economic development
-5471:_:econ:::355w:::d102:::Economic Development:::econ355w:::econ355wd102:::econ 355w d102 economic development
-5472:_:econ:::355w:::d103:::Economic Development:::econ355w:::econ355wd103:::econ 355w d103 economic development
-5473:_:econ:::355w:::d104:::Economic Development:::econ355w:::econ355wd104:::econ 355w d104 economic development
-5474:_:econ:::355w:::d105:::Economic Development:::econ355w:::econ355wd105:::econ 355w d105 economic development
-5475:_:econ:::355w:::d106:::Economic Development:::econ355w:::econ355wd106:::econ 355w d106 economic development
-5476:_:econ:::355w:::d107:::Economic Development:::econ355w:::econ355wd107:::econ 355w d107 economic development
-5477:_:econ:::355w:::d108:::Economic Development:::econ355w:::econ355wd108:::econ 355w d108 economic development
-5478:_:econ:::355w:::d109:::Economic Development:::econ355w:::econ355wd109:::econ 355w d109 economic development
-5479:_:econ:::355w:::d110:::Economic Development:::econ355w:::econ355wd110:::econ 355w d110 economic development
-5480:_:econ:::355w:::d111:::Economic Development:::econ355w:::econ355wd111:::econ 355w d111 economic development
-5481:_:econ:::355w:::d112:::Economic Development:::econ355w:::econ355wd112:::econ 355w d112 economic development
-5482:_:bus:::360w:::d100:::Business Communication:::bus360w:::bus360wd100:::bus 360w d100 business communication
-5483:_:bus:::360w:::d200:::Business Communication:::bus360w:::bus360wd200:::bus 360w d200 business communication
-5484:_:bus:::360w:::d300:::Business Communication:::bus360w:::bus360wd300:::bus 360w d300 business communication
-5485:_:bus:::360w:::d400:::Business Communication:::bus360w:::bus360wd400:::bus 360w d400 business communication
-5486:_:bus:::360w:::d700:::Business Communication:::bus360w:::bus360wd700:::bus 360w d700 business communication
-5487:_:bus:::360w:::d800:::Business Communication:::bus360w:::bus360wd800:::bus 360w d800 business communication
-5488:_:bus:::360w:::e100:::Business Communication:::bus360w:::bus360we100:::bus 360w e100 business communication
-5489:_:bus:::360w:::e200:::Business Communication:::bus360w:::bus360we200:::bus 360w e200 business communication
-5490:_:bus:::360w:::e300:::Business Communication:::bus360w:::bus360we300:::bus 360w e300 business communication
-5491:_:easc:::998:::g100:::PhD Thesis:::easc998:::easc998g100:::easc 998 g100 phd thesis
-5492:_:easc:::998:::g200:::PhD Thesis:::easc998:::easc998g200:::easc 998 g200 phd thesis
-5493:_:educ:::890:::g001:::Educational Media as Foundations of Curriculum:::educ890:::educ890g001:::educ 890 g001 educational media as foundations of curriculum
-5494:_:econ:::450w:::d100:::Seminar in Quantitative Economic History:::econ450w:::econ450wd100:::econ 450w d100 seminar in quantitative economic history
-5495:_:ling:::301w:::d100:::Linguistic Argumentation:::ling301w:::ling301wd100:::ling 301w d100 linguistic argumentation
-5496:_:mbb:::451:::d100:::Practicum IV:::mbb451:::mbb451d100:::mbb 451 d100 practicum iv
-5497:_:mbb:::451:::d200:::Practicum IV:::mbb451:::mbb451d200:::mbb 451 d200 practicum iv
-5498:_:mbb:::451:::i100:::Practicum IV:::mbb451:::mbb451i100:::mbb 451 i100 practicum iv
-5499:_:psyc:::363:::d100:::Intergroup Relations:::psyc363:::psyc363d100:::psyc 363 d100 intergroup relations
-5500:_:psyc:::376:::c100:::Experimental Psychology and Law:::psyc376:::psyc376c100:::psyc 376 c100 experimental psychology and law
-5501:_:mbb:::491:::d100:::Individual Study Semester:::mbb491:::mbb491d100:::mbb 491 d100 individual study semester
-5502:_:mbb:::491:::d200:::Individual Study Semester:::mbb491:::mbb491d200:::mbb 491 d200 individual study semester
-5503:_:mbb:::491:::d300:::Individual Study Semester:::mbb491:::mbb491d300:::mbb 491 d300 individual study semester
-5504:_:mbb:::491:::d400:::Individual Study Semester:::mbb491:::mbb491d400:::mbb 491 d400 individual study semester
-5505:_:mbb:::491:::d500:::Individual Study Semester:::mbb491:::mbb491d500:::mbb 491 d500 individual study semester
-5506:_:mbb:::492:::d100:::Individual Study Semester:::mbb492:::mbb492d100:::mbb 492 d100 individual study semester
-5507:_:mbb:::492:::d200:::Individual Study Semester:::mbb492:::mbb492d200:::mbb 492 d200 individual study semester
-5508:_:mbb:::492:::d300:::Individual Study Semester:::mbb492:::mbb492d300:::mbb 492 d300 individual study semester
-5509:_:mbb:::492:::d400:::Individual Study Semester:::mbb492:::mbb492d400:::mbb 492 d400 individual study semester
-5510:_:mbb:::492:::d500:::Individual Study Semester:::mbb492:::mbb492d500:::mbb 492 d500 individual study semester
-5511:_:mbb:::452:::d100:::Practicum V:::mbb452:::mbb452d100:::mbb 452 d100 practicum v
-5512:_:mbb:::452:::d200:::Practicum V:::mbb452:::mbb452d200:::mbb 452 d200 practicum v
-5513:_:mbb:::452:::i100:::Practicum V:::mbb452:::mbb452i100:::mbb 452 i100 practicum v
-5514:_:mbb:::490:::d100:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d100:::mbb 490 d100 directed readings in molecular biology and biochemistry
-5515:_:mbb:::490:::d200:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d200:::mbb 490 d200 directed readings in molecular biology and biochemistry
-5516:_:mbb:::490:::d300:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d300:::mbb 490 d300 directed readings in molecular biology and biochemistry
-5517:_:mbb:::490:::d400:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d400:::mbb 490 d400 directed readings in molecular biology and biochemistry
-5518:_:mbb:::490:::d500:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d500:::mbb 490 d500 directed readings in molecular biology and biochemistry
-5519:_:ca:::390:::d100:::Filmmaking IV:::ca390:::ca390d100:::ca 390 d100 filmmaking iv
-5520:_:ca:::390:::d101:::Filmmaking IV:::ca390:::ca390d101:::ca 390 d101 filmmaking iv
-5521:_:educ:::371w:::e100:::School Health Education:::educ371w:::educ371we100:::educ 371w e100 school health education
-5522:_:sa:::101:::d100:::Introduction to Anthropology (A):::sa101:::sa101d100:::sa 101 d100 introduction to anthropology (a)
-5523:_:sa:::101:::d101:::Introduction to Anthropology (A):::sa101:::sa101d101:::sa 101 d101 introduction to anthropology (a)
-5524:_:sa:::101:::d102:::Introduction to Anthropology (A):::sa101:::sa101d102:::sa 101 d102 introduction to anthropology (a)
-5525:_:sa:::101:::d103:::Introduction to Anthropology (A):::sa101:::sa101d103:::sa 101 d103 introduction to anthropology (a)
-5526:_:sa:::101:::d104:::Introduction to Anthropology (A):::sa101:::sa101d104:::sa 101 d104 introduction to anthropology (a)
-5527:_:sa:::101:::d105:::Introduction to Anthropology (A):::sa101:::sa101d105:::sa 101 d105 introduction to anthropology (a)
-5528:_:sa:::101:::d106:::Introduction to Anthropology (A):::sa101:::sa101d106:::sa 101 d106 introduction to anthropology (a)
-5529:_:sa:::101:::d107:::Introduction to Anthropology (A):::sa101:::sa101d107:::sa 101 d107 introduction to anthropology (a)
-5530:_:sa:::101:::d108:::Introduction to Anthropology (A):::sa101:::sa101d108:::sa 101 d108 introduction to anthropology (a)
-5531:_:sa:::101:::d900:::Introduction to Anthropology (A):::sa101:::sa101d900:::sa 101 d900 introduction to anthropology (a)
-5532:_:sa:::101:::d901:::Introduction to Anthropology (A):::sa101:::sa101d901:::sa 101 d901 introduction to anthropology (a)
-5533:_:sa:::101:::d902:::Introduction to Anthropology (A):::sa101:::sa101d902:::sa 101 d902 introduction to anthropology (a)
-5534:_:sa:::101:::d903:::Introduction to Anthropology (A):::sa101:::sa101d903:::sa 101 d903 introduction to anthropology (a)
-5535:_:sa:::101:::d904:::Introduction to Anthropology (A):::sa101:::sa101d904:::sa 101 d904 introduction to anthropology (a)
-5536:_:mbb:::309w:::d100:::Biochemistry Laboratory:::mbb309w:::mbb309wd100:::mbb 309w d100 biochemistry laboratory
-5537:_:mbb:::309w:::d101:::Biochemistry Laboratory:::mbb309w:::mbb309wd101:::mbb 309w d101 biochemistry laboratory
-5538:_:mbb:::309w:::d102:::Biochemistry Laboratory:::mbb309w:::mbb309wd102:::mbb 309w d102 biochemistry laboratory
-5539:_:mbb:::309w:::d103:::Biochemistry Laboratory:::mbb309w:::mbb309wd103:::mbb 309w d103 biochemistry laboratory
-5540:_:cmpt:::318:::d100:::Special Topics in Computing Science:::cmpt318:::cmpt318d100:::cmpt 318 d100 special topics in computing science
-5541:_:sa:::141:::d100:::Sociology and Anthropology Practicum I:::sa141:::sa141d100:::sa 141 d100 sociology and anthropology practicum i
-5542:_:sa:::141:::d200:::Sociology and Anthropology Practicum I:::sa141:::sa141d200:::sa 141 d200 sociology and anthropology practicum i
-5543:_:sa:::141:::i100:::Sociology and Anthropology Practicum I:::sa141:::sa141i100:::sa 141 i100 sociology and anthropology practicum i
-5544:_:hum:::375:::d100:::The Woodsworth Seminar:::hum375:::hum375d100:::hum 375 d100 the woodsworth seminar
-5545:_:hum:::360:::d100:::Special Topics: Great Themes in the Humanistic Tradition:::hum360:::hum360d100:::hum 360 d100 special topics: great themes in the humanistic tradition
-5546:_:fep:::209:::d100:::Exchange Study - No GPA:::fep209:::fep209d100:::fep 209 d100 exchange study - no gpa
-5547:_:gsws:::330:::d900:::Masculinities:::gsws330:::gsws330d900:::gsws 330 d900 masculinities
-5548:_:iat:::222:::d100:::Interactive Arts:::iat222:::iat222d100:::iat 222 d100 interactive arts
-5549:_:iat:::222:::d101:::Interactive Arts:::iat222:::iat222d101:::iat 222 d101 interactive arts
-5550:_:iat:::222:::d102:::Interactive Arts:::iat222:::iat222d102:::iat 222 d102 interactive arts
-5551:_:iat:::222:::d103:::Interactive Arts:::iat222:::iat222d103:::iat 222 d103 interactive arts
-5552:_:iat:::222:::d104:::Interactive Arts:::iat222:::iat222d104:::iat 222 d104 interactive arts
-5553:_:chem:::419:::d100:::Special Topics in Analytical Chemistry:::chem419:::chem419d100:::chem 419 d100 special topics in analytical chemistry
-5554:_:iat:::432:::d100:::Design Evaluation:::iat432:::iat432d100:::iat 432 d100 design evaluation
-5555:_:iat:::343:::d100:::Animation:::iat343:::iat343d100:::iat 343 d100 animation
-5556:_:iat:::343:::d101:::Animation:::iat343:::iat343d101:::iat 343 d101 animation
-5557:_:iat:::343:::d102:::Animation:::iat343:::iat343d102:::iat 343 d102 animation
-5558:_:iat:::343:::d103:::Animation:::iat343:::iat343d103:::iat 343 d103 animation
-5559:_:iat:::344:::d100:::Moving Images:::iat344:::iat344d100:::iat 344 d100 moving images
-5560:_:iat:::344:::d101:::Moving Images:::iat344:::iat344d101:::iat 344 d101 moving images
-5561:_:iat:::344:::d102:::Moving Images:::iat344:::iat344d102:::iat 344 d102 moving images
-5562:_:educ:::921:::g001:::Seminar in Philosophy and Educational Theory:::educ921:::educ921g001:::educ 921 g001 seminar in philosophy and educational theory
-5563:_:iat:::235:::d100:::Information Design:::iat235:::iat235d100:::iat 235 d100 information design
-5564:_:iat:::235:::d101:::Information Design:::iat235:::iat235d101:::iat 235 d101 information design
-5565:_:iat:::235:::d102:::Information Design:::iat235:::iat235d102:::iat 235 d102 information design
-5566:_:iat:::235:::d103:::Information Design:::iat235:::iat235d103:::iat 235 d103 information design
-5567:_:iat:::235:::d104:::Information Design:::iat235:::iat235d104:::iat 235 d104 information design
-5568:_:ca:::400:::d100:::Directed Studies (Studio):::ca400:::ca400d100:::ca 400 d100 directed studies (studio)
-5569:_:ca:::400:::d200:::Directed Studies (Studio):::ca400:::ca400d200:::ca 400 d200 directed studies (studio)
-5570:_:ca:::400:::d300:::Directed Studies (Studio):::ca400:::ca400d300:::ca 400 d300 directed studies (studio)
-5571:_:ca:::400:::d400:::Directed Studies (Studio):::ca400:::ca400d400:::ca 400 d400 directed studies (studio)
-5572:_:ca:::401:::d100:::Directed Studies (Theory/History):::ca401:::ca401d100:::ca 401 d100 directed studies (theory/history)
-5573:_:ca:::401:::d200:::Directed Studies (Theory/History):::ca401:::ca401d200:::ca 401 d200 directed studies (theory/history)
-5574:_:ca:::401:::d300:::Directed Studies (Theory/History):::ca401:::ca401d300:::ca 401 d300 directed studies (theory/history)
-5575:_:ca:::401:::d400:::Directed Studies (Theory/History):::ca401:::ca401d400:::ca 401 d400 directed studies (theory/history)
-5576:_:ca:::401:::d500:::Directed Studies (Theory/History):::ca401:::ca401d500:::ca 401 d500 directed studies (theory/history)
-5577:_:iat:::455:::d100:::Computational Media:::iat455:::iat455d100:::iat 455 d100 computational media
-5578:_:iat:::455:::d101:::Computational Media:::iat455:::iat455d101:::iat 455 d101 computational media
-5579:_:iat:::455:::d102:::Computational Media:::iat455:::iat455d102:::iat 455 d102 computational media
-5580:_:sa:::275:::d100:::China in Transition (SA):::sa275:::sa275d100:::sa 275 d100 china in transition (sa)
-5581:_:hum:::307:::d100:::Carolingian Civilization:::hum307:::hum307d100:::hum 307 d100 carolingian civilization
-5582:_:psyc:::300w:::d100:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd100:::psyc 300w d100 critical analysis of issues in psychology
-5583:_:psyc:::300w:::d101:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd101:::psyc 300w d101 critical analysis of issues in psychology
-5584:_:psyc:::300w:::d102:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd102:::psyc 300w d102 critical analysis of issues in psychology
-5585:_:psyc:::300w:::d103:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd103:::psyc 300w d103 critical analysis of issues in psychology
-5586:_:psyc:::300w:::d104:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd104:::psyc 300w d104 critical analysis of issues in psychology
-5587:_:psyc:::300w:::d105:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd105:::psyc 300w d105 critical analysis of issues in psychology
-5588:_:psyc:::300w:::d106:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd106:::psyc 300w d106 critical analysis of issues in psychology
-5589:_:psyc:::300w:::d107:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd107:::psyc 300w d107 critical analysis of issues in psychology
-5590:_:psyc:::300w:::d108:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd108:::psyc 300w d108 critical analysis of issues in psychology
-5591:_:psyc:::300w:::d109:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd109:::psyc 300w d109 critical analysis of issues in psychology
-5592:_:psyc:::300w:::d110:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd110:::psyc 300w d110 critical analysis of issues in psychology
-5593:_:psyc:::300w:::d111:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd111:::psyc 300w d111 critical analysis of issues in psychology
-5594:_:psyc:::300w:::d112:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd112:::psyc 300w d112 critical analysis of issues in psychology
-5595:_:hum:::305:::j100:::Medieval Studies:::hum305:::hum305j100:::hum 305 j100 medieval studies
-5596:_:sa:::231:::d100:::Sociology of Families (S):::sa231:::sa231d100:::sa 231 d100 sociology of families (s)
-5597:_:iat:::233:::d100:::Spatial Design:::iat233:::iat233d100:::iat 233 d100 spatial design
-5598:_:iat:::233:::d101:::Spatial Design:::iat233:::iat233d101:::iat 233 d101 spatial design
-5599:_:iat:::233:::d102:::Spatial Design:::iat233:::iat233d102:::iat 233 d102 spatial design
-5600:_:iat:::233:::d103:::Spatial Design:::iat233:::iat233d103:::iat 233 d103 spatial design
-5601:_:iat:::233:::opl:::Spatial Design:::iat233:::iat233opl:::iat 233 opl spatial design
-5602:_:phys:::421:::d100:::Electromagnetic Waves:::phys421:::phys421d100:::phys 421 d100 electromagnetic waves
-5603:_:phys:::421:::d101:::Electromagnetic Waves:::phys421:::phys421d101:::phys 421 d101 electromagnetic waves
-5604:_:bisc:::497w:::d100:::Undergraduate Research: Writing Intensive:::bisc497w:::bisc497wd100:::bisc 497w d100 undergraduate research: writing intensive
-5605:_:grad:::800:::g100:::Visiting Graduate Research:::grad800:::grad800g100:::grad 800 g100 visiting graduate research
-5606:_:grad:::800:::g200:::Visiting Graduate Research:::grad800:::grad800g200:::grad 800 g200 visiting graduate research
-5607:_:grad:::800:::g300:::Visiting Graduate Research:::grad800:::grad800g300:::grad 800 g300 visiting graduate research
-5608:_:bus:::434:::d100:::Foreign Market Entry:::bus434:::bus434d100:::bus 434 d100 foreign market entry
-5609:_:ling:::806:::g100:::Sociolinguistics:::ling806:::ling806g100:::ling 806 g100 sociolinguistics
-5610:_:sa:::241:::d100:::Sociology and Anthropology Practicum II:::sa241:::sa241d100:::sa 241 d100 sociology and anthropology practicum ii
-5611:_:sa:::241:::d200:::Sociology and Anthropology Practicum II:::sa241:::sa241d200:::sa 241 d200 sociology and anthropology practicum ii
-5612:_:sa:::241:::i100:::Sociology and Anthropology Practicum II:::sa241:::sa241i100:::sa 241 i100 sociology and anthropology practicum ii
-5613:_:phys:::231:::d100:::Physics Laboratory III:::phys231:::phys231d100:::phys 231 d100 physics laboratory iii
-5614:_:phys:::231:::la01:::Physics Laboratory III:::phys231:::phys231la01:::phys 231 la01 physics laboratory iii
-5615:_:phys:::231:::la02:::Physics Laboratory III:::phys231:::phys231la02:::phys 231 la02 physics laboratory iii
-5616:_:sa:::250:::c100:::Introduction to Sociological Theory (S):::sa250:::sa250c100:::sa 250 c100 introduction to sociological theory (s)
-5617:_:sa:::250:::d100:::Introduction to Sociological Theory (S):::sa250:::sa250d100:::sa 250 d100 introduction to sociological theory (s)
-5618:_:hum:::325:::d100:::The Humanities and the Natural World:::hum325:::hum325d100:::hum 325 d100 the humanities and the natural world
-5619:_:sa:::255:::d100:::Introduction to Social Research (SA):::sa255:::sa255d100:::sa 255 d100 introduction to social research (sa)
-5620:_:sa:::255:::d101:::Introduction to Social Research (SA):::sa255:::sa255d101:::sa 255 d101 introduction to social research (sa)
-5621:_:sa:::255:::d102:::Introduction to Social Research (SA):::sa255:::sa255d102:::sa 255 d102 introduction to social research (sa)
-5622:_:sa:::255:::d103:::Introduction to Social Research (SA):::sa255:::sa255d103:::sa 255 d103 introduction to social research (sa)
-5623:_:wl:::303:::d100:::Global Culture and Its Discontents:::wl303:::wl303d100:::wl 303 d100 global culture and its discontents
-5624:_:ling:::801:::g100:::Syntax:::ling801:::ling801g100:::ling 801 g100 syntax
-5625:_:ca:::366:::d100:::Seminar in Visual Art I:::ca366:::ca366d100:::ca 366 d100 seminar in visual art i
-5626:_:fep:::203:::d100:::Exchange Study - Not included in GPA:::fep203:::fep203d100:::fep 203 d100 exchange study - not included in gpa
-5627:_:phil:::805:::g100:::Selected Topics in Philosophy of Mind:::phil805:::phil805g100:::phil 805 g100 selected topics in philosophy of mind
-5628:_:phil:::804:::g100:::Selected Topics in Philosophy of Science:::phil804:::phil804g100:::phil 804 g100 selected topics in philosophy of science
-5629:_:easc:::207:::d100:::Introduction to Applied Geophysics:::easc207:::easc207d100:::easc 207 d100 introduction to applied geophysics
-5630:_:easc:::207:::d101:::Introduction to Applied Geophysics:::easc207:::easc207d101:::easc 207 d101 introduction to applied geophysics
-5631:_:geog:::412w:::d100:::Glacial Processes and Environments:::geog412w:::geog412wd100:::geog 412w d100 glacial processes and environments
-5632:_:geog:::412w:::d101:::Glacial Processes and Environments:::geog412w:::geog412wd101:::geog 412w d101 glacial processes and environments
-5633:_:easc:::301:::d100:::Igneous Petrology:::easc301:::easc301d100:::easc 301 d100 igneous petrology
-5634:_:easc:::301:::d101:::Igneous Petrology:::easc301:::easc301d101:::easc 301 d101 igneous petrology
-5635:_:easc:::302:::d100:::Sedimentary Petrology:::easc302:::easc302d100:::easc 302 d100 sedimentary petrology
-5636:_:easc:::302:::d101:::Sedimentary Petrology:::easc302:::easc302d101:::easc 302 d101 sedimentary petrology
-5637:_:cmpt:::895:::g100:::Master Program Extended Essay:::cmpt895:::cmpt895g100:::cmpt 895 g100 master program extended essay
-5638:_:mbb:::829:::g100:::Special Topics in Biochemistry:::mbb829:::mbb829g100:::mbb 829 g100 special topics in biochemistry
-5639:_:wl:::401:::d100:::Early Modernities Beyond the Medieval:::wl401:::wl401d100:::wl 401 d100 early modernities beyond the medieval
-5640:_:easc:::206:::d100:::Field Geology I:::easc206:::easc206d100:::easc 206 d100 field geology i
-5641:_:wl:::100:::d100:::What is World Literature?:::wl100:::wl100d100:::wl 100 d100 what is world literature?
-5642:_:wl:::100:::d101:::What is World Literature?:::wl100:::wl100d101:::wl 100 d101 what is world literature?
-5643:_:wl:::100:::d102:::What is World Literature?:::wl100:::wl100d102:::wl 100 d102 what is world literature?
-5644:_:cmpt:::628:::g100:::Graduate Co-op Practicum III:::cmpt628:::cmpt628g100:::cmpt 628 g100 graduate co-op practicum iii
-5645:_:cmpt:::628:::g200:::Graduate Co-op Practicum III:::cmpt628:::cmpt628g200:::cmpt 628 g200 graduate co-op practicum iii
-5646:_:cmpt:::628:::g300:::Graduate Co-op Practicum III:::cmpt628:::cmpt628g300:::cmpt 628 g300 graduate co-op practicum iii
-5647:_:cmpt:::628:::g400:::Graduate Co-op Practicum III:::cmpt628:::cmpt628g400:::cmpt 628 g400 graduate co-op practicum iii
-5648:_:cmpt:::628:::i100:::Graduate Co-op Practicum III:::cmpt628:::cmpt628i100:::cmpt 628 i100 graduate co-op practicum iii
-5649:_:cmpt:::627:::g100:::Graduate Co-op Practicum II:::cmpt627:::cmpt627g100:::cmpt 627 g100 graduate co-op practicum ii
-5650:_:cmpt:::627:::g200:::Graduate Co-op Practicum II:::cmpt627:::cmpt627g200:::cmpt 627 g200 graduate co-op practicum ii
-5651:_:cmpt:::627:::g300:::Graduate Co-op Practicum II:::cmpt627:::cmpt627g300:::cmpt 627 g300 graduate co-op practicum ii
-5652:_:cmpt:::627:::g400:::Graduate Co-op Practicum II:::cmpt627:::cmpt627g400:::cmpt 627 g400 graduate co-op practicum ii
-5653:_:cmpt:::627:::i100:::Graduate Co-op Practicum II:::cmpt627:::cmpt627i100:::cmpt 627 i100 graduate co-op practicum ii
-5654:_:cmpt:::626:::g100:::Graduate Co-op Practicum I:::cmpt626:::cmpt626g100:::cmpt 626 g100 graduate co-op practicum i
-5655:_:cmpt:::626:::g200:::Graduate Co-op Practicum I:::cmpt626:::cmpt626g200:::cmpt 626 g200 graduate co-op practicum i
-5656:_:cmpt:::626:::g300:::Graduate Co-op Practicum I:::cmpt626:::cmpt626g300:::cmpt 626 g300 graduate co-op practicum i
-5657:_:cmpt:::626:::g400:::Graduate Co-op Practicum I:::cmpt626:::cmpt626g400:::cmpt 626 g400 graduate co-op practicum i
-5658:_:cmpt:::626:::i100:::Graduate Co-op Practicum I:::cmpt626:::cmpt626i100:::cmpt 626 i100 graduate co-op practicum i
-5659:_:easc:::209w:::d100:::Environmental Geoscience:::easc209w:::easc209wd100:::easc 209w d100 environmental geoscience
-5660:_:easc:::209w:::d101:::Environmental Geoscience:::easc209w:::easc209wd101:::easc 209w d101 environmental geoscience
-5661:_:bisc:::440w:::d100:::Biodiversity:::bisc440w:::bisc440wd100:::bisc 440w d100 biodiversity
-5662:_:bisc:::440w:::d101:::Biodiversity:::bisc440w:::bisc440wd101:::bisc 440w d101 biodiversity
-5663:_:psyc:::201w:::c100:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wc100:::psyc 201w c100 introduction to research methods in psychology
-5664:_:psyc:::201w:::d100:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd100:::psyc 201w d100 introduction to research methods in psychology
-5665:_:psyc:::201w:::d101:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd101:::psyc 201w d101 introduction to research methods in psychology
-5666:_:psyc:::201w:::d102:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd102:::psyc 201w d102 introduction to research methods in psychology
-5667:_:psyc:::201w:::d103:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd103:::psyc 201w d103 introduction to research methods in psychology
-5668:_:psyc:::201w:::d104:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd104:::psyc 201w d104 introduction to research methods in psychology
-5669:_:psyc:::201w:::d105:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd105:::psyc 201w d105 introduction to research methods in psychology
-5670:_:psyc:::201w:::d106:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd106:::psyc 201w d106 introduction to research methods in psychology
-5671:_:psyc:::201w:::d107:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd107:::psyc 201w d107 introduction to research methods in psychology
-5672:_:psyc:::201w:::d108:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd108:::psyc 201w d108 introduction to research methods in psychology
-5673:_:psyc:::201w:::d109:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd109:::psyc 201w d109 introduction to research methods in psychology
-5674:_:psyc:::201w:::d110:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd110:::psyc 201w d110 introduction to research methods in psychology
-5675:_:psyc:::201w:::d111:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd111:::psyc 201w d111 introduction to research methods in psychology
-5676:_:psyc:::201w:::d112:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd112:::psyc 201w d112 introduction to research methods in psychology
-5677:_:psyc:::201w:::d113:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd113:::psyc 201w d113 introduction to research methods in psychology
-5678:_:psyc:::201w:::d114:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd114:::psyc 201w d114 introduction to research methods in psychology
-5679:_:bpk:::304w:::d100:::Inquiry and Measurement in Biomedical Physiology and Kinesiology:::bpk304w:::bpk304wd100:::bpk 304w d100 inquiry and measurement in biomedical physiology and kinesiology
-5680:_:bpk:::304w:::d101:::Inquiry and Measurement in Biomedical Physiology and Kinesiology:::bpk304w:::bpk304wd101:::bpk 304w d101 inquiry and measurement in biomedical physiology and kinesiology
-5681:_:bpk:::304w:::d102:::Inquiry and Measurement in Biomedical Physiology and Kinesiology:::bpk304w:::bpk304wd102:::bpk 304w d102 inquiry and measurement in biomedical physiology and kinesiology
-5682:_:bpk:::304w:::d103:::Inquiry and Measurement in Biomedical Physiology and Kinesiology:::bpk304w:::bpk304wd103:::bpk 304w d103 inquiry and measurement in biomedical physiology and kinesiology
-5683:_:bpk:::304w:::d104:::Inquiry and Measurement in Biomedical Physiology and Kinesiology:::bpk304w:::bpk304wd104:::bpk 304w d104 inquiry and measurement in biomedical physiology and kinesiology
-5684:_:easc:::101:::d100:::Dynamic Earth:::easc101:::easc101d100:::easc 101 d100 dynamic earth
-5685:_:easc:::101:::d101:::Dynamic Earth:::easc101:::easc101d101:::easc 101 d101 dynamic earth
-5686:_:easc:::101:::d102:::Dynamic Earth:::easc101:::easc101d102:::easc 101 d102 dynamic earth
-5687:_:easc:::101:::d103:::Dynamic Earth:::easc101:::easc101d103:::easc 101 d103 dynamic earth
-5688:_:easc:::101:::d104:::Dynamic Earth:::easc101:::easc101d104:::easc 101 d104 dynamic earth
-5689:_:easc:::101:::d200:::Dynamic Earth:::easc101:::easc101d200:::easc 101 d200 dynamic earth
-5690:_:easc:::101:::d201:::Dynamic Earth:::easc101:::easc101d201:::easc 101 d201 dynamic earth
-5691:_:phil:::451w:::e100:::Advanced Topics in the History of Philosophy:::phil451w:::phil451we100:::phil 451w e100 advanced topics in the history of philosophy
-5692:_:phil:::455w:::d100:::Contemporary Issues in Epistemology and Metaphysics:::phil455w:::phil455wd100:::phil 455w d100 contemporary issues in epistemology and metaphysics
-5693:_:easc:::202:::d100:::Introduction to Mineralogy:::easc202:::easc202d100:::easc 202 d100 introduction to mineralogy
-5694:_:easc:::202:::d101:::Introduction to Mineralogy:::easc202:::easc202d101:::easc 202 d101 introduction to mineralogy
-5695:_:wl:::200:::d100:::How to Do Things with World Literature:::wl200:::wl200d100:::wl 200 d100 how to do things with world literature
-5696:_:wl:::202:::d100:::North/South Intersections:::wl202:::wl202d100:::wl 202 d100 north/south intersections
-5697:_:wl:::201:::d100:::East/West Encounters:::wl201:::wl201d100:::wl 201 d100 east/west encounters
-5698:_:evsc:::100:::d100:::Introduction to Environmental Science:::evsc100:::evsc100d100:::evsc 100 d100 introduction to environmental science
-5699:_:evsc:::100:::d101:::Introduction to Environmental Science:::evsc100:::evsc100d101:::evsc 100 d101 introduction to environmental science
-5700:_:evsc:::100:::d102:::Introduction to Environmental Science:::evsc100:::evsc100d102:::evsc 100 d102 introduction to environmental science
-5701:_:evsc:::100:::d103:::Introduction to Environmental Science:::evsc100:::evsc100d103:::evsc 100 d103 introduction to environmental science
-5702:_:evsc:::100:::d300:::Introduction to Environmental Science:::evsc100:::evsc100d300:::evsc 100 d300 introduction to environmental science
-5703:_:evsc:::100:::d301:::Introduction to Environmental Science:::evsc100:::evsc100d301:::evsc 100 d301 introduction to environmental science
-5704:_:evsc:::100:::d302:::Introduction to Environmental Science:::evsc100:::evsc100d302:::evsc 100 d302 introduction to environmental science
-5705:_:evsc:::100:::d303:::Introduction to Environmental Science:::evsc100:::evsc100d303:::evsc 100 d303 introduction to environmental science
-5706:_:evsc:::100:::d304:::Introduction to Environmental Science:::evsc100:::evsc100d304:::evsc 100 d304 introduction to environmental science
-5707:_:evsc:::100:::d305:::Introduction to Environmental Science:::evsc100:::evsc100d305:::evsc 100 d305 introduction to environmental science
-5708:_:evsc:::100:::d306:::Introduction to Environmental Science:::evsc100:::evsc100d306:::evsc 100 d306 introduction to environmental science
-5709:_:evsc:::100:::d307:::Introduction to Environmental Science:::evsc100:::evsc100d307:::evsc 100 d307 introduction to environmental science
-5710:_:evsc:::100:::d308:::Introduction to Environmental Science:::evsc100:::evsc100d308:::evsc 100 d308 introduction to environmental science
-5711:_:evsc:::100:::d309:::Introduction to Environmental Science:::evsc100:::evsc100d309:::evsc 100 d309 introduction to environmental science
-5712:_:env:::491:::d100:::Directed Study in Environment:::env491:::env491d100:::env 491 d100 directed study in environment
-5713:_:env:::491:::d200:::Directed Study in Environment:::env491:::env491d200:::env 491 d200 directed study in environment
-5714:_:is:::220:::d100:::Wealth and Poverty of Nations:::is220:::is220d100:::is 220 d100 wealth and poverty of nations
-5715:_:is:::220:::d101:::Wealth and Poverty of Nations:::is220:::is220d101:::is 220 d101 wealth and poverty of nations
-5716:_:is:::220:::d102:::Wealth and Poverty of Nations:::is220:::is220d102:::is 220 d102 wealth and poverty of nations
-5717:_:is:::220:::d103:::Wealth and Poverty of Nations:::is220:::is220d103:::is 220 d103 wealth and poverty of nations
-5718:_:is:::220:::d104:::Wealth and Poverty of Nations:::is220:::is220d104:::is 220 d104 wealth and poverty of nations
-5719:_:is:::220:::d105:::Wealth and Poverty of Nations:::is220:::is220d105:::is 220 d105 wealth and poverty of nations
-5720:_:hsci:::199:::d100:::Special Topics in Health Sciences:::hsci199:::hsci199d100:::hsci 199 d100 special topics in health sciences
-5721:_:educ:::352w:::d100:::Building on Reflective Practice:::educ352w:::educ352wd100:::educ 352w d100 building on reflective practice
-5722:_:hsci:::481:::d100:::Senior Seminar in Social Health Science:::hsci481:::hsci481d100:::hsci 481 d100 senior seminar in social health science
-5723:_:hsci:::481:::d200:::Senior Seminar in Social Health Science:::hsci481:::hsci481d200:::hsci 481 d200 senior seminar in social health science
-5724:_:env:::391:::d100:::Directed Study in Environment:::env391:::env391d100:::env 391 d100 directed study in environment
-5725:_:env:::391:::d200:::Directed Study in Environment:::env391:::env391d200:::env 391 d200 directed study in environment
-5726:_:env:::391:::d300:::Directed Study in Environment:::env391:::env391d300:::env 391 d300 directed study in environment
-5727:_:env:::391:::d400:::Directed Study in Environment:::env391:::env391d400:::env 391 d400 directed study in environment
-5728:_:env:::391:::d500:::Directed Study in Environment:::env391:::env391d500:::env 391 d500 directed study in environment
-5729:_:env:::391:::d600:::Directed Study in Environment:::env391:::env391d600:::env 391 d600 directed study in environment
-5730:_:ca:::374:::d100:::Stage Lighting:::ca374:::ca374d100:::ca 374 d100 stage lighting
-5731:_:ca:::374:::d101:::Stage Lighting:::ca374:::ca374d101:::ca 374 d101 stage lighting
-5732:_:phil:::421w:::e100:::Advanced Topics in Ethical Theory:::phil421w:::phil421we100:::phil 421w e100 advanced topics in ethical theory
-5733:_:engl:::199w:::c100:::Introduction to University Writing:::engl199w:::engl199wc100:::engl 199w c100 introduction to university writing
-5734:_:engl:::199w:::d100:::Introduction to University Writing:::engl199w:::engl199wd100:::engl 199w d100 introduction to university writing
-5735:_:engl:::199w:::d200:::Introduction to University Writing:::engl199w:::engl199wd200:::engl 199w d200 introduction to university writing
-5736:_:engl:::199w:::e100:::Introduction to University Writing:::engl199w:::engl199we100:::engl 199w e100 introduction to university writing
-5737:_:engl:::199w:::e200:::Introduction to University Writing:::engl199w:::engl199we200:::engl 199w e200 introduction to university writing
-5738:_:engl:::199w:::j100:::Introduction to University Writing:::engl199w:::engl199wj100:::engl 199w j100 introduction to university writing
-5739:_:crim:::899:::g100:::PhD Thesis:::crim899:::crim899g100:::crim 899 g100 phd thesis
-5740:_:crim:::899:::g200:::PhD Thesis:::crim899:::crim899g200:::crim 899 g200 phd thesis
-5741:_:is:::490:::d100:::Honours Seminar:::is490:::is490d100:::is 490 d100 honours seminar
-5742:_:is:::490:::d200:::Honours Seminar:::is490:::is490d200:::is 490 d200 honours seminar
-5743:_:is:::499:::d100:::Honours Essay:::is499:::is499d100:::is 499 d100 honours essay
-5744:_:is:::499:::d200:::Honours Essay:::is499:::is499d200:::is 499 d200 honours essay
-5745:_:geog:::104:::d100:::Climate Change, Water, and Society:::geog104:::geog104d100:::geog 104 d100 climate change, water, and society
-5746:_:cmpt:::166:::d100:::An Animated Introduction to Programming:::cmpt166:::cmpt166d100:::cmpt 166 d100 an animated introduction to programming
-5747:_:engl:::494:::d100:::Honors Research and Methods Seminar:::engl494:::engl494d100:::engl 494 d100 honors research and methods seminar
-5748:_:gsws:::100:::d100:::Sex Talk: Introduction to Contemporary Issues in Sexuality Studies:::gsws100:::gsws100d100:::gsws 100 d100 sex talk: introduction to contemporary issues in sexuality studies
-5749:_:gsws:::100:::d101:::Sex Talk: Introduction to Contemporary Issues in Sexuality Studies:::gsws100:::gsws100d101:::gsws 100 d101 sex talk: introduction to contemporary issues in sexuality studies
-5750:_:gsws:::100:::d102:::Sex Talk: Introduction to Contemporary Issues in Sexuality Studies:::gsws100:::gsws100d102:::gsws 100 d102 sex talk: introduction to contemporary issues in sexuality studies
-5751:_:gsws:::100:::d103:::Sex Talk: Introduction to Contemporary Issues in Sexuality Studies:::gsws100:::gsws100d103:::gsws 100 d103 sex talk: introduction to contemporary issues in sexuality studies
-5752:_:gsws:::100:::d104:::Sex Talk: Introduction to Contemporary Issues in Sexuality Studies:::gsws100:::gsws100d104:::gsws 100 d104 sex talk: introduction to contemporary issues in sexuality studies
-5753:_:gsws:::100:::d105:::Sex Talk: Introduction to Contemporary Issues in Sexuality Studies:::gsws100:::gsws100d105:::gsws 100 d105 sex talk: introduction to contemporary issues in sexuality studies
-5754:_:gsws:::100:::d106:::Sex Talk: Introduction to Contemporary Issues in Sexuality Studies:::gsws100:::gsws100d106:::gsws 100 d106 sex talk: introduction to contemporary issues in sexuality studies
-5755:_:gsws:::100:::d107:::Sex Talk: Introduction to Contemporary Issues in Sexuality Studies:::gsws100:::gsws100d107:::gsws 100 d107 sex talk: introduction to contemporary issues in sexuality studies
-5756:_:gsws:::100:::d108:::Sex Talk: Introduction to Contemporary Issues in Sexuality Studies:::gsws100:::gsws100d108:::gsws 100 d108 sex talk: introduction to contemporary issues in sexuality studies
-5757:_:gsws:::100:::d109:::Sex Talk: Introduction to Contemporary Issues in Sexuality Studies:::gsws100:::gsws100d109:::gsws 100 d109 sex talk: introduction to contemporary issues in sexuality studies
-5758:_:gsws:::100:::d110:::Sex Talk: Introduction to Contemporary Issues in Sexuality Studies:::gsws100:::gsws100d110:::gsws 100 d110 sex talk: introduction to contemporary issues in sexuality studies
-5759:_:gsws:::100:::d111:::Sex Talk: Introduction to Contemporary Issues in Sexuality Studies:::gsws100:::gsws100d111:::gsws 100 d111 sex talk: introduction to contemporary issues in sexuality studies
-5760:_:gsws:::100:::d112:::Sex Talk: Introduction to Contemporary Issues in Sexuality Studies:::gsws100:::gsws100d112:::gsws 100 d112 sex talk: introduction to contemporary issues in sexuality studies
-5761:_:bpk:::423:::d100:::Selected Topics in Kinesiology IV:::bpk423:::bpk423d100:::bpk 423 d100 selected topics in kinesiology iv
-5762:_:edpr:::575:::g100:::Advanced Field Studies in Educational Practice II:::edpr575:::edpr575g100:::edpr 575 g100 advanced field studies in educational practice ii
-5763:_:gero:::410:::d100:::Special Topics in Gerontology I:::gero410:::gero410d100:::gero 410 d100 special topics in gerontology i
-5764:_:crim:::898:::g100:::MA Thesis:::crim898:::crim898g100:::crim 898 g100 ma thesis
-5765:_:crim:::898:::g200:::MA Thesis:::crim898:::crim898g200:::crim 898 g200 ma thesis
-5766:_:hist:::486:::d100:::Studies in History II:::hist486:::hist486d100:::hist 486 d100 studies in history ii
+5150:_:chem:::407:::d100:::Practicum IV:::chem407:::chem407d100:::chem 407 d100 practicum iv
+5151:_:chem:::407:::d200:::Practicum IV:::chem407:::chem407d200:::chem 407 d200 practicum iv
+5152:_:chem:::407:::i100:::Practicum IV:::chem407:::chem407i100:::chem 407 i100 practicum iv
+5153:_:educ:::250:::d100:::Studies in the History of Education in the Western World:::educ250:::educ250d100:::educ 250 d100 studies in the history of education in the western world
+5154:_:mse:::250:::d100:::Electric Circuits I:::mse250:::mse250d100:::mse 250 d100 electric circuits i
+5155:_:mse:::250:::d101:::Electric Circuits I:::mse250:::mse250d101:::mse 250 d101 electric circuits i
+5156:_:mse:::250:::lab1:::Electric Circuits I:::mse250:::mse250lab1:::mse 250 lab1 electric circuits i
+5157:_:mse:::250:::lab2:::Electric Circuits I:::mse250:::mse250lab2:::mse 250 lab2 electric circuits i
+5158:_:mse:::250:::lab3:::Electric Circuits I:::mse250:::mse250lab3:::mse 250 lab3 electric circuits i
+5159:_:chem:::406:::d100:::Practicum III:::chem406:::chem406d100:::chem 406 d100 practicum iii
+5160:_:chem:::406:::d200:::Practicum III:::chem406:::chem406d200:::chem 406 d200 practicum iii
+5161:_:chem:::406:::i100:::Practicum III:::chem406:::chem406i100:::chem 406 i100 practicum iii
+5162:_:educ:::252:::c100:::Introduction to Reflective Practice:::educ252:::educ252c100:::educ 252 c100 introduction to reflective practice
+5163:_:educ:::252:::c200:::Introduction to Reflective Practice:::educ252:::educ252c200:::educ 252 c200 introduction to reflective practice
+5164:_:mse:::310:::d100:::Introduction to Electro-Mechanical Sensors and Actuators:::mse310:::mse310d100:::mse 310 d100 introduction to electro-mechanical sensors and actuators
+5165:_:mse:::310:::d101:::Introduction to Electro-Mechanical Sensors and Actuators:::mse310:::mse310d101:::mse 310 d101 introduction to electro-mechanical sensors and actuators
+5166:_:mse:::310:::lab1:::Introduction to Electro-Mechanical Sensors and Actuators:::mse310:::mse310lab1:::mse 310 lab1 introduction to electro-mechanical sensors and actuators
+5167:_:mse:::310:::lab2:::Introduction to Electro-Mechanical Sensors and Actuators:::mse310:::mse310lab2:::mse 310 lab2 introduction to electro-mechanical sensors and actuators
+5168:_:educ:::230:::c100:::Introduction to Philosophy of Education:::educ230:::educ230c100:::educ 230 c100 introduction to philosophy of education
+5169:_:educ:::230:::d100:::Introduction to Philosophy of Education:::educ230:::educ230d100:::educ 230 d100 introduction to philosophy of education
+5170:_:educ:::230:::d101:::Introduction to Philosophy of Education:::educ230:::educ230d101:::educ 230 d101 introduction to philosophy of education
+5171:_:educ:::230:::d102:::Introduction to Philosophy of Education:::educ230:::educ230d102:::educ 230 d102 introduction to philosophy of education
+5172:_:educ:::230:::d103:::Introduction to Philosophy of Education:::educ230:::educ230d103:::educ 230 d103 introduction to philosophy of education
+5173:_:educ:::230:::d104:::Introduction to Philosophy of Education:::educ230:::educ230d104:::educ 230 d104 introduction to philosophy of education
+5174:_:educ:::230:::d105:::Introduction to Philosophy of Education:::educ230:::educ230d105:::educ 230 d105 introduction to philosophy of education
+5175:_:educ:::230:::d106:::Introduction to Philosophy of Education:::educ230:::educ230d106:::educ 230 d106 introduction to philosophy of education
+5176:_:educ:::240:::d100:::Social Issues in Education:::educ240:::educ240d100:::educ 240 d100 social issues in education
+5177:_:educ:::240:::d101:::Social Issues in Education:::educ240:::educ240d101:::educ 240 d101 social issues in education
+5178:_:educ:::240:::d102:::Social Issues in Education:::educ240:::educ240d102:::educ 240 d102 social issues in education
+5179:_:educ:::240:::d103:::Social Issues in Education:::educ240:::educ240d103:::educ 240 d103 social issues in education
+5180:_:educ:::240:::d104:::Social Issues in Education:::educ240:::educ240d104:::educ 240 d104 social issues in education
+5181:_:educ:::240:::d105:::Social Issues in Education:::educ240:::educ240d105:::educ 240 d105 social issues in education
+5182:_:educ:::240:::d106:::Social Issues in Education:::educ240:::educ240d106:::educ 240 d106 social issues in education
+5183:_:educ:::240:::d107:::Social Issues in Education:::educ240:::educ240d107:::educ 240 d107 social issues in education
+5184:_:educ:::240:::d108:::Social Issues in Education:::educ240:::educ240d108:::educ 240 d108 social issues in education
+5185:_:phil:::998:::g100:::PhD Thesis:::phil998:::phil998g100:::phil 998 g100 phd thesis
+5186:_:psyc:::280:::c100:::Introduction to Biological Psychology:::psyc280:::psyc280c100:::psyc 280 c100 introduction to biological psychology
+5187:_:phil:::899:::g100:::Non-Thesis Project Completion:::phil899:::phil899g100:::phil 899 g100 non-thesis project completion
+5188:_:chem:::380:::d100:::Chemical and Instrumental Methods of Identification of Organic Compounds:::chem380:::chem380d100:::chem 380 d100 chemical and instrumental methods of identification of organic compounds
+5189:_:chem:::380:::la01:::Chemical and Instrumental Methods of Identification of Organic Compounds:::chem380:::chem380la01:::chem 380 la01 chemical and instrumental methods of identification of organic compounds
+5190:_:chem:::380:::la02:::Chemical and Instrumental Methods of Identification of Organic Compounds:::chem380:::chem380la02:::chem 380 la02 chemical and instrumental methods of identification of organic compounds
+5191:_:psyc:::260:::d100:::Introduction to Social Psychology:::psyc260:::psyc260d100:::psyc 260 d100 introduction to social psychology
+5192:_:phil:::898:::g100:::MA Thesis:::phil898:::phil898g100:::phil 898 g100 ma thesis
+5193:_:psyc:::250:::d100:::Introduction to Developmental Psychology:::psyc250:::psyc250d100:::psyc 250 d100 introduction to developmental psychology
+5194:_:hist:::130:::d100:::Fundamentals of World History:::hist130:::hist130d100:::hist 130 d100 fundamentals of world history
+5195:_:hist:::130:::d101:::Fundamentals of World History:::hist130:::hist130d101:::hist 130 d101 fundamentals of world history
+5196:_:hist:::130:::d102:::Fundamentals of World History:::hist130:::hist130d102:::hist 130 d102 fundamentals of world history
+5197:_:hist:::130:::d103:::Fundamentals of World History:::hist130:::hist130d103:::hist 130 d103 fundamentals of world history
+5198:_:hist:::130:::d104:::Fundamentals of World History:::hist130:::hist130d104:::hist 130 d104 fundamentals of world history
+5199:_:hist:::130:::d105:::Fundamentals of World History:::hist130:::hist130d105:::hist 130 d105 fundamentals of world history
+5200:_:hist:::130:::d106:::Fundamentals of World History:::hist130:::hist130d106:::hist 130 d106 fundamentals of world history
+5201:_:hist:::130:::d900:::Fundamentals of World History:::hist130:::hist130d900:::hist 130 d900 fundamentals of world history
+5202:_:hist:::130:::d901:::Fundamentals of World History:::hist130:::hist130d901:::hist 130 d901 fundamentals of world history
+5203:_:hist:::130:::d902:::Fundamentals of World History:::hist130:::hist130d902:::hist 130 d902 fundamentals of world history
+5204:_:psyc:::241:::d100:::Introduction to Abnormal Psychology:::psyc241:::psyc241d100:::psyc 241 d100 introduction to abnormal psychology
+5205:_:engl:::330:::c100:::Studies in Victorian Literature:::engl330:::engl330c100:::engl 330 c100 studies in victorian literature
+5206:_:psyc:::388:::d100:::Biological Rhythms and Sleep:::psyc388:::psyc388d100:::psyc 388 d100 biological rhythms and sleep
+5207:_:mse:::101w:::d100:::Process, Form, and Convention in Professional Genres:::mse101w:::mse101wd100:::mse 101w d100 process, form, and convention in professional genres
+5208:_:mse:::101w:::d101:::Process, Form, and Convention in Professional Genres:::mse101w:::mse101wd101:::mse 101w d101 process, form, and convention in professional genres
+5209:_:chem:::372:::d100:::Chemistry of the Atmospheric Environment:::chem372:::chem372d100:::chem 372 d100 chemistry of the atmospheric environment
+5210:_:chem:::372:::d101:::Chemistry of the Atmospheric Environment:::chem372:::chem372d101:::chem 372 d101 chemistry of the atmospheric environment
+5211:_:psyc:::386:::d100:::Laboratory in Behavioral Neuroscience:::psyc386:::psyc386d100:::psyc 386 d100 laboratory in behavioral neuroscience
+5212:_:psyc:::386:::d101:::Laboratory in Behavioral Neuroscience:::psyc386:::psyc386d101:::psyc 386 d101 laboratory in behavioral neuroscience
+5213:_:psyc:::386:::d102:::Laboratory in Behavioral Neuroscience:::psyc386:::psyc386d102:::psyc 386 d102 laboratory in behavioral neuroscience
+5214:_:chem:::316:::d100:::Introductory Instrumental Analysis:::chem316:::chem316d100:::chem 316 d100 introductory instrumental analysis
+5215:_:chem:::316:::d101:::Introductory Instrumental Analysis:::chem316:::chem316d101:::chem 316 d101 introductory instrumental analysis
+5216:_:chem:::316:::la01:::Introductory Instrumental Analysis:::chem316:::chem316la01:::chem 316 la01 introductory instrumental analysis
+5217:_:chem:::316:::la02:::Introductory Instrumental Analysis:::chem316:::chem316la02:::chem 316 la02 introductory instrumental analysis
+5218:_:phys:::190:::d100:::Introduction to Astronomy:::phys190:::phys190d100:::phys 190 d100 introduction to astronomy
+5219:_:phys:::190:::la01:::Introduction to Astronomy:::phys190:::phys190la01:::phys 190 la01 introduction to astronomy
+5220:_:phys:::190:::la02:::Introduction to Astronomy:::phys190:::phys190la02:::phys 190 la02 introduction to astronomy
+5221:_:phys:::190:::la03:::Introduction to Astronomy:::phys190:::phys190la03:::phys 190 la03 introduction to astronomy
+5222:_:phys:::190:::la04:::Introduction to Astronomy:::phys190:::phys190la04:::phys 190 la04 introduction to astronomy
+5223:_:phys:::190:::la05:::Introduction to Astronomy:::phys190:::phys190la05:::phys 190 la05 introduction to astronomy
+5224:_:phys:::190:::la06:::Introduction to Astronomy:::phys190:::phys190la06:::phys 190 la06 introduction to astronomy
+5225:_:phys:::190:::la07:::Introduction to Astronomy:::phys190:::phys190la07:::phys 190 la07 introduction to astronomy
+5226:_:phys:::190:::la08:::Introduction to Astronomy:::phys190:::phys190la08:::phys 190 la08 introduction to astronomy
+5227:_:phys:::190:::la09:::Introduction to Astronomy:::phys190:::phys190la09:::phys 190 la09 introduction to astronomy
+5228:_:phys:::190:::la10:::Introduction to Astronomy:::phys190:::phys190la10:::phys 190 la10 introduction to astronomy
+5229:_:phys:::190:::la11:::Introduction to Astronomy:::phys190:::phys190la11:::phys 190 la11 introduction to astronomy
+5230:_:phys:::190:::la12:::Introduction to Astronomy:::phys190:::phys190la12:::phys 190 la12 introduction to astronomy
+5231:_:phys:::190:::la13:::Introduction to Astronomy:::phys190:::phys190la13:::phys 190 la13 introduction to astronomy
+5232:_:phys:::190:::la14:::Introduction to Astronomy:::phys190:::phys190la14:::phys 190 la14 introduction to astronomy
+5233:_:phys:::190:::la15:::Introduction to Astronomy:::phys190:::phys190la15:::phys 190 la15 introduction to astronomy
+5234:_:phys:::190:::la16:::Introduction to Astronomy:::phys190:::phys190la16:::phys 190 la16 introduction to astronomy
+5235:_:phys:::190:::lb01:::Introduction to Astronomy:::phys190:::phys190lb01:::phys 190 lb01 introduction to astronomy
+5236:_:phys:::190:::lb02:::Introduction to Astronomy:::phys190:::phys190lb02:::phys 190 lb02 introduction to astronomy
+5237:_:phys:::190:::lb03:::Introduction to Astronomy:::phys190:::phys190lb03:::phys 190 lb03 introduction to astronomy
+5238:_:phys:::190:::lb04:::Introduction to Astronomy:::phys190:::phys190lb04:::phys 190 lb04 introduction to astronomy
+5239:_:phys:::190:::lb05:::Introduction to Astronomy:::phys190:::phys190lb05:::phys 190 lb05 introduction to astronomy
+5240:_:phys:::190:::lb06:::Introduction to Astronomy:::phys190:::phys190lb06:::phys 190 lb06 introduction to astronomy
+5241:_:phys:::190:::lb07:::Introduction to Astronomy:::phys190:::phys190lb07:::phys 190 lb07 introduction to astronomy
+5242:_:phys:::190:::lb08:::Introduction to Astronomy:::phys190:::phys190lb08:::phys 190 lb08 introduction to astronomy
+5243:_:phys:::190:::lb09:::Introduction to Astronomy:::phys190:::phys190lb09:::phys 190 lb09 introduction to astronomy
+5244:_:phys:::190:::lb10:::Introduction to Astronomy:::phys190:::phys190lb10:::phys 190 lb10 introduction to astronomy
+5245:_:phys:::190:::lb11:::Introduction to Astronomy:::phys190:::phys190lb11:::phys 190 lb11 introduction to astronomy
+5246:_:phys:::190:::lb12:::Introduction to Astronomy:::phys190:::phys190lb12:::phys 190 lb12 introduction to astronomy
+5247:_:phys:::190:::lb13:::Introduction to Astronomy:::phys190:::phys190lb13:::phys 190 lb13 introduction to astronomy
+5248:_:phys:::190:::lb14:::Introduction to Astronomy:::phys190:::phys190lb14:::phys 190 lb14 introduction to astronomy
+5249:_:phys:::190:::lb15:::Introduction to Astronomy:::phys190:::phys190lb15:::phys 190 lb15 introduction to astronomy
+5250:_:phys:::190:::lb16:::Introduction to Astronomy:::phys190:::phys190lb16:::phys 190 lb16 introduction to astronomy
+5251:_:arch:::226:::c100:::The Prehistory of Religion: Shamans, Sorcerers and Saints:::arch226:::arch226c100:::arch 226 c100 the prehistory of religion: shamans, sorcerers and saints
+5252:_:arch:::226:::d100:::The Prehistory of Religion: Shamans, Sorcerers and Saints:::arch226:::arch226d100:::arch 226 d100 the prehistory of religion: shamans, sorcerers and saints
+5253:_:arch:::201:::c100:::Reconstructing the Human Past:::arch201:::arch201c100:::arch 201 c100 reconstructing the human past
+5254:_:arch:::201:::d100:::Reconstructing the Human Past:::arch201:::arch201d100:::arch 201 d100 reconstructing the human past
+5255:_:chem:::307:::d100:::Practicum II:::chem307:::chem307d100:::chem 307 d100 practicum ii
+5256:_:chem:::307:::d200:::Practicum II:::chem307:::chem307d200:::chem 307 d200 practicum ii
+5257:_:chem:::307:::i100:::Practicum II:::chem307:::chem307i100:::chem 307 i100 practicum ii
+5258:_:stat:::438:::d100:::Job Practicum V:::stat438:::stat438d100:::stat 438 d100 job practicum v
+5259:_:stat:::438:::d200:::Job Practicum V:::stat438:::stat438d200:::stat 438 d200 job practicum v
+5260:_:stat:::438:::i100:::Job Practicum V:::stat438:::stat438i100:::stat 438 i100 job practicum v
+5261:_:cmns:::426:::d100:::Video Design for Social Communication:::cmns426:::cmns426d100:::cmns 426 d100 video design for social communication
+5262:_:cmns:::426:::d101:::Video Design for Social Communication:::cmns426:::cmns426d101:::cmns 426 d101 video design for social communication
+5263:_:cmns:::428:::d100:::Media Analysis Project Group:::cmns428:::cmns428d100:::cmns 428 d100 media analysis project group
+5264:_:cmns:::428:::d101:::Media Analysis Project Group:::cmns428:::cmns428d101:::cmns 428 d101 media analysis project group
+5265:_:stat:::436:::d100:::Job Practicum III:::stat436:::stat436d100:::stat 436 d100 job practicum iii
+5266:_:stat:::436:::d200:::Job Practicum III:::stat436:::stat436d200:::stat 436 d200 job practicum iii
+5267:_:stat:::436:::i100:::Job Practicum III:::stat436:::stat436i100:::stat 436 i100 job practicum iii
+5268:_:stat:::437:::d100:::Job Practicum IV:::stat437:::stat437d100:::stat 437 d100 job practicum iv
+5269:_:stat:::437:::d200:::Job Practicum IV:::stat437:::stat437d200:::stat 437 d200 job practicum iv
+5270:_:stat:::437:::i100:::Job Practicum IV:::stat437:::stat437i100:::stat 437 i100 job practicum iv
+5271:_:psyc:::100:::d100:::Introduction to Psychology I:::psyc100:::psyc100d100:::psyc 100 d100 introduction to psychology i
+5272:_:psyc:::100:::d200:::Introduction to Psychology I:::psyc100:::psyc100d200:::psyc 100 d200 introduction to psychology i
+5273:_:psyc:::100:::d900:::Introduction to Psychology I:::psyc100:::psyc100d900:::psyc 100 d900 introduction to psychology i
+5274:_:psyc:::100:::j100:::Introduction to Psychology I:::psyc100:::psyc100j100:::psyc 100 j100 introduction to psychology i
+5275:_:stat:::450:::d100:::Statistical Theory:::stat450:::stat450d100:::stat 450 d100 statistical theory
+5276:_:stat:::450:::d101:::Statistical Theory:::stat450:::stat450d101:::stat 450 d101 statistical theory
+5277:_:span:::102:::d100:::Introductory Spanish I:::span102:::span102d100:::span 102 d100 introductory spanish i
+5278:_:span:::102:::d200:::Introductory Spanish I:::span102:::span102d200:::span 102 d200 introductory spanish i
+5279:_:span:::102:::d201:::Introductory Spanish I:::span102:::span102d201:::span 102 d201 introductory spanish i
+5280:_:span:::102:::d202:::Introductory Spanish I:::span102:::span102d202:::span 102 d202 introductory spanish i
+5281:_:span:::102:::d203:::Introductory Spanish I:::span102:::span102d203:::span 102 d203 introductory spanish i
+5282:_:psyc:::383:::d100:::Psychopharmacology:::psyc383:::psyc383d100:::psyc 383 d100 psychopharmacology
+5283:_:engl:::203:::d100:::Early Modern Literature:::engl203:::engl203d100:::engl 203 d100 early modern literature
+5284:_:engl:::203:::d101:::Early Modern Literature:::engl203:::engl203d101:::engl 203 d101 early modern literature
+5285:_:engl:::203:::d102:::Early Modern Literature:::engl203:::engl203d102:::engl 203 d102 early modern literature
+5286:_:engl:::203:::d103:::Early Modern Literature:::engl203:::engl203d103:::engl 203 d103 early modern literature
+5287:_:engl:::371:::d100:::Writing: Theory and Practice:::engl371:::engl371d100:::engl 371 d100 writing: theory and practice
+5288:_:engl:::371:::d101:::Writing: Theory and Practice:::engl371:::engl371d101:::engl 371 d101 writing: theory and practice
+5289:_:span:::103:::d100:::Introductory Spanish II:::span103:::span103d100:::span 103 d100 introductory spanish ii
+5290:_:chem:::306:::d100:::Practicum I:::chem306:::chem306d100:::chem 306 d100 practicum i
+5291:_:chem:::306:::d200:::Practicum I:::chem306:::chem306d200:::chem 306 d200 practicum i
+5292:_:chem:::306:::i100:::Practicum I:::chem306:::chem306i100:::chem 306 i100 practicum i
+5293:_:ital:::390:::d100:::STT - Dante's Inferno:::ital390:::ital390d100:::ital 390 d100 stt - dante's inferno
+5294:_:bus:::338:::d100:::Foundations of Innovation:::bus338:::bus338d100:::bus 338 d100 foundations of innovation
+5295:_:bus:::486:::d100:::Leadership:::bus486:::bus486d100:::bus 486 d100 leadership
+5296:_:fass:::101:::d001:::STT - FASSFirst Special Topics Seminar:::fass101:::fass101d001:::fass 101 d001 stt - fassfirst special topics seminar
+5297:_:fass:::101:::d002:::STT - FASSFirst Special Topics Seminar:::fass101:::fass101d002:::fass 101 d002 stt - fassfirst special topics seminar
+5298:_:fass:::101:::d003:::STT - FASSFirst Special Topics Seminar:::fass101:::fass101d003:::fass 101 d003 stt - fassfirst special topics seminar
+5299:_:fass:::101:::d004:::STT - FASSFirst Special Topics Seminar:::fass101:::fass101d004:::fass 101 d004 stt - fassfirst special topics seminar
+5300:_:fass:::101:::d005:::STT - FASSFirst Special Topics Seminar:::fass101:::fass101d005:::fass 101 d005 stt - fassfirst special topics seminar
+5301:_:fass:::101:::d006:::STT - FASSFirst Special Topics Seminar:::fass101:::fass101d006:::fass 101 d006 stt - fassfirst special topics seminar
+5302:_:fass:::101:::d007:::STT - FASSFirst Special Topics Seminar:::fass101:::fass101d007:::fass 101 d007 stt - fassfirst special topics seminar
+5303:_:fass:::101:::d008:::STT - FASSFirst Special Topics Seminar:::fass101:::fass101d008:::fass 101 d008 stt - fassfirst special topics seminar
+5304:_:fass:::101:::d009:::STT - FASSFirst Special Topics Seminar:::fass101:::fass101d009:::fass 101 d009 stt - fassfirst special topics seminar
+5305:_:fass:::101:::d010:::STT - FASSFirst Special Topics Seminar:::fass101:::fass101d010:::fass 101 d010 stt - fassfirst special topics seminar
+5306:_:chem:::281:::d100:::Organic Chemistry I:::chem281:::chem281d100:::chem 281 d100 organic chemistry i
+5307:_:chem:::281:::d101:::Organic Chemistry I:::chem281:::chem281d101:::chem 281 d101 organic chemistry i
+5308:_:chem:::281:::d102:::Organic Chemistry I:::chem281:::chem281d102:::chem 281 d102 organic chemistry i
+5309:_:chem:::281:::d103:::Organic Chemistry I:::chem281:::chem281d103:::chem 281 d103 organic chemistry i
+5310:_:chem:::281:::d104:::Organic Chemistry I:::chem281:::chem281d104:::chem 281 d104 organic chemistry i
+5311:_:chem:::281:::d105:::Organic Chemistry I:::chem281:::chem281d105:::chem 281 d105 organic chemistry i
+5312:_:chem:::281:::d106:::Organic Chemistry I:::chem281:::chem281d106:::chem 281 d106 organic chemistry i
+5313:_:chem:::281:::d107:::Organic Chemistry I:::chem281:::chem281d107:::chem 281 d107 organic chemistry i
+5314:_:chem:::281:::d108:::Organic Chemistry I:::chem281:::chem281d108:::chem 281 d108 organic chemistry i
+5315:_:chem:::281:::d109:::Organic Chemistry I:::chem281:::chem281d109:::chem 281 d109 organic chemistry i
+5316:_:chem:::281:::d110:::Organic Chemistry I:::chem281:::chem281d110:::chem 281 d110 organic chemistry i
+5317:_:chem:::281:::d111:::Organic Chemistry I:::chem281:::chem281d111:::chem 281 d111 organic chemistry i
+5318:_:chem:::281:::d112:::Organic Chemistry I:::chem281:::chem281d112:::chem 281 d112 organic chemistry i
+5319:_:chem:::281:::d113:::Organic Chemistry I:::chem281:::chem281d113:::chem 281 d113 organic chemistry i
+5320:_:chem:::281:::d114:::Organic Chemistry I:::chem281:::chem281d114:::chem 281 d114 organic chemistry i
+5321:_:chem:::281:::d115:::Organic Chemistry I:::chem281:::chem281d115:::chem 281 d115 organic chemistry i
+5322:_:chem:::281:::la01:::Organic Chemistry I:::chem281:::chem281la01:::chem 281 la01 organic chemistry i
+5323:_:chem:::281:::la04:::Organic Chemistry I:::chem281:::chem281la04:::chem 281 la04 organic chemistry i
+5324:_:chem:::281:::la05:::Organic Chemistry I:::chem281:::chem281la05:::chem 281 la05 organic chemistry i
+5325:_:chem:::281:::la07:::Organic Chemistry I:::chem281:::chem281la07:::chem 281 la07 organic chemistry i
+5326:_:chem:::281:::lb04:::Organic Chemistry I:::chem281:::chem281lb04:::chem 281 lb04 organic chemistry i
+5327:_:chem:::281:::lb05:::Organic Chemistry I:::chem281:::chem281lb05:::chem 281 lb05 organic chemistry i
+5328:_:chem:::281:::lb07:::Organic Chemistry I:::chem281:::chem281lb07:::chem 281 lb07 organic chemistry i
+5329:_:chem:::281:::le01:::Organic Chemistry I:::chem281:::chem281le01:::chem 281 le01 organic chemistry i
+5330:_:psyc:::382:::d100:::Cognitive Neuroscience:::psyc382:::psyc382d100:::psyc 382 d100 cognitive neuroscience
+5331:_:chem:::282:::d100:::Organic Chemistry II:::chem282:::chem282d100:::chem 282 d100 organic chemistry ii
+5332:_:chem:::282:::d101:::Organic Chemistry II:::chem282:::chem282d101:::chem 282 d101 organic chemistry ii
+5333:_:chem:::282:::d102:::Organic Chemistry II:::chem282:::chem282d102:::chem 282 d102 organic chemistry ii
+5334:_:chem:::282:::d103:::Organic Chemistry II:::chem282:::chem282d103:::chem 282 d103 organic chemistry ii
+5335:_:chem:::282:::d104:::Organic Chemistry II:::chem282:::chem282d104:::chem 282 d104 organic chemistry ii
+5336:_:bus:::361:::d200:::Project Management:::bus361:::bus361d200:::bus 361 d200 project management
+5337:_:bus:::361:::e100:::Project Management:::bus361:::bus361e100:::bus 361 e100 project management
+5338:_:chem:::286:::la03:::Organic Chemistry Laboratory II:::chem286:::chem286la03:::chem 286 la03 organic chemistry laboratory ii
+5339:_:chem:::286:::la06:::Organic Chemistry Laboratory II:::chem286:::chem286la06:::chem 286 la06 organic chemistry laboratory ii
+5340:_:bisc:::892:::g100:::PhD Graduate Candidacy Exam:::bisc892:::bisc892g100:::bisc 892 g100 phd graduate candidacy exam
+5341:_:bisc:::892:::g200:::PhD Graduate Candidacy Exam:::bisc892:::bisc892g200:::bisc 892 g200 phd graduate candidacy exam
+5342:_:mse:::220:::d100:::Engineering Materials:::mse220:::mse220d100:::mse 220 d100 engineering materials
+5343:_:mse:::220:::lab1:::Engineering Materials:::mse220:::mse220lab1:::mse 220 lab1 engineering materials
+5344:_:mse:::220:::lab2:::Engineering Materials:::mse220:::mse220lab2:::mse 220 lab2 engineering materials
+5345:_:mse:::220:::lab3:::Engineering Materials:::mse220:::mse220lab3:::mse 220 lab3 engineering materials
+5346:_:educ:::311:::d100:::Foundations in Aboriginal Education, Language, and Culture:::educ311:::educ311d100:::educ 311 d100 foundations in aboriginal education, language, and culture
+5347:_:mse:::498:::d100:::Mechatronic Systems Engineering  Thesis Proposal:::mse498:::mse498d100:::mse 498 d100 mechatronic systems engineering  thesis proposal
+5348:_:chem:::340:::d100:::Materials Chemistry:::chem340:::chem340d100:::chem 340 d100 materials chemistry
+5349:_:educ:::315:::d100:::Individual and Developmental Differences in Language Acquisition:::educ315:::educ315d100:::educ 315 d100 individual and developmental differences in language acquisition
+5350:_:mse:::499:::d100:::Mechatronic Systems Engineering  Undergraduate Thesis:::mse499:::mse499d100:::mse 499 d100 mechatronic systems engineering  undergraduate thesis
+5351:_:cmns:::425:::d100:::Applied Communication for Social Issues:::cmns425:::cmns425d100:::cmns 425 d100 applied communication for social issues
+5352:_:chem:::336:::la01:::Advanced Inorganic Chemistry Laboratory:::chem336:::chem336la01:::chem 336 la01 advanced inorganic chemistry laboratory
+5353:_:chem:::336:::la02:::Advanced Inorganic Chemistry Laboratory:::chem336:::chem336la02:::chem 336 la02 advanced inorganic chemistry laboratory
+5354:_:mse:::496:::d100:::Special Project Laboratory:::mse496:::mse496d100:::mse 496 d100 special project laboratory
+5355:_:mse:::496:::d200:::Special Project Laboratory:::mse496:::mse496d200:::mse 496 d200 special project laboratory
+5356:_:educ:::320:::d100:::Instructional Psychology:::educ320:::educ320d100:::educ 320 d100 instructional psychology
+5357:_:mse:::497:::d100:::Special Project Laboratory:::mse497:::mse497d100:::mse 497 d100 special project laboratory
+5358:_:mse:::497:::d200:::Special Project Laboratory:::mse497:::mse497d200:::mse 497 d200 special project laboratory
+5359:_:span:::201:::d100:::Intermediate Spanish I:::span201:::span201d100:::span 201 d100 intermediate spanish i
+5360:_:span:::201:::d201:::Intermediate Spanish I:::span201:::span201d201:::span 201 d201 intermediate spanish i
+5361:_:psyc:::102:::d100:::Introduction to Psychology II:::psyc102:::psyc102d100:::psyc 102 d100 introduction to psychology ii
+5362:_:psyc:::102:::d900:::Introduction to Psychology II:::psyc102:::psyc102d900:::psyc 102 d900 introduction to psychology ii
+5363:_:wl:::307:::d100:::Creative Writing in World Literature:::wl307:::wl307d100:::wl 307 d100 creative writing in world literature
+5364:_:stat:::452:::d100:::Statistical Learning and Prediction:::stat452:::stat452d100:::stat 452 d100 statistical learning and prediction
+5365:_:stat:::452:::d101:::Statistical Learning and Prediction:::stat452:::stat452d101:::stat 452 d101 statistical learning and prediction
+5366:_:stat:::452:::d102:::Statistical Learning and Prediction:::stat452:::stat452d102:::stat 452 d102 statistical learning and prediction
+5367:_:educ:::322:::c100:::The Social Lives of School Children:::educ322:::educ322c100:::educ 322 c100 the social lives of school children
+5368:_:educ:::322:::c200:::The Social Lives of School Children:::educ322:::educ322c200:::educ 322 c200 the social lives of school children
+5369:_:sd:::381:::e100:::Sustainable Community Development Theory and Practice:::sd381:::sd381e100:::sd 381 e100 sustainable community development theory and practice
+5370:_:sd:::481:::c100:::Social Enterprise for Sustainable Community Development:::sd481:::sd481c100:::sd 481 c100 social enterprise for sustainable community development
+5371:_:chem:::332:::d200:::The Chemistry of Transition Metals:::chem332:::chem332d200:::chem 332 d200 the chemistry of transition metals
+5372:_:arch:::272w:::d100:::Archaeology of the Old World:::arch272w:::arch272wd100:::arch 272w d100 archaeology of the old world
+5373:_:arch:::272w:::d101:::Archaeology of the Old World:::arch272w:::arch272wd101:::arch 272w d101 archaeology of the old world
+5374:_:arch:::272w:::d102:::Archaeology of the Old World:::arch272w:::arch272wd102:::arch 272w d102 archaeology of the old world
+5375:_:arch:::272w:::d103:::Archaeology of the Old World:::arch272w:::arch272wd103:::arch 272w d103 archaeology of the old world
+5376:_:educ:::323:::d100:::Introduction to Counselling Theories:::educ323:::educ323d100:::educ 323 d100 introduction to counselling theories
+5377:_:educ:::323:::e100:::Introduction to Counselling Theories:::educ323:::educ323e100:::educ 323 e100 introduction to counselling theories
+5378:_:cmpt:::120:::d100:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d100:::cmpt 120 d100 introduction to computing science and programming i
+5379:_:cmpt:::120:::d101:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d101:::cmpt 120 d101 introduction to computing science and programming i
+5380:_:cmpt:::120:::d102:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d102:::cmpt 120 d102 introduction to computing science and programming i
+5381:_:cmpt:::120:::d103:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d103:::cmpt 120 d103 introduction to computing science and programming i
+5382:_:cmpt:::120:::d104:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d104:::cmpt 120 d104 introduction to computing science and programming i
+5383:_:cmpt:::120:::d105:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d105:::cmpt 120 d105 introduction to computing science and programming i
+5384:_:cmpt:::120:::d106:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d106:::cmpt 120 d106 introduction to computing science and programming i
+5385:_:cmpt:::120:::d107:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d107:::cmpt 120 d107 introduction to computing science and programming i
+5386:_:cmpt:::120:::d108:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d108:::cmpt 120 d108 introduction to computing science and programming i
+5387:_:cmpt:::120:::d200:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d200:::cmpt 120 d200 introduction to computing science and programming i
+5388:_:cmpt:::120:::d201:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d201:::cmpt 120 d201 introduction to computing science and programming i
+5389:_:cmpt:::120:::d202:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d202:::cmpt 120 d202 introduction to computing science and programming i
+5390:_:cmpt:::120:::d203:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d203:::cmpt 120 d203 introduction to computing science and programming i
+5391:_:cmpt:::120:::d204:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d204:::cmpt 120 d204 introduction to computing science and programming i
+5392:_:cmpt:::120:::d205:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d205:::cmpt 120 d205 introduction to computing science and programming i
+5393:_:cmpt:::120:::d206:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d206:::cmpt 120 d206 introduction to computing science and programming i
+5394:_:cmpt:::120:::d207:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d207:::cmpt 120 d207 introduction to computing science and programming i
+5395:_:cmpt:::120:::d208:::Introduction to Computing Science and Programming I:::cmpt120:::cmpt120d208:::cmpt 120 d208 introduction to computing science and programming i
+5396:_:cmpt:::125:::d100:::Introduction to Computing Science and Programming II:::cmpt125:::cmpt125d100:::cmpt 125 d100 introduction to computing science and programming ii
+5397:_:educ:::932:::g001:::Doctoral Seminar II in Educational Technology and Learning Design:::educ932:::educ932g001:::educ 932 g001 doctoral seminar ii in educational technology and learning design
+5398:_:cmpt:::225:::d100:::Data Structures and Programming:::cmpt225:::cmpt225d100:::cmpt 225 d100 data structures and programming
+5399:_:cmpt:::225:::d101:::Data Structures and Programming:::cmpt225:::cmpt225d101:::cmpt 225 d101 data structures and programming
+5400:_:cmpt:::225:::d102:::Data Structures and Programming:::cmpt225:::cmpt225d102:::cmpt 225 d102 data structures and programming
+5401:_:cmpt:::225:::d103:::Data Structures and Programming:::cmpt225:::cmpt225d103:::cmpt 225 d103 data structures and programming
+5402:_:cmpt:::225:::d104:::Data Structures and Programming:::cmpt225:::cmpt225d104:::cmpt 225 d104 data structures and programming
+5403:_:cmpt:::225:::d105:::Data Structures and Programming:::cmpt225:::cmpt225d105:::cmpt 225 d105 data structures and programming
+5404:_:cmpt:::225:::d106:::Data Structures and Programming:::cmpt225:::cmpt225d106:::cmpt 225 d106 data structures and programming
+5405:_:cmpt:::225:::d107:::Data Structures and Programming:::cmpt225:::cmpt225d107:::cmpt 225 d107 data structures and programming
+5406:_:cmpt:::225:::d108:::Data Structures and Programming:::cmpt225:::cmpt225d108:::cmpt 225 d108 data structures and programming
+5407:_:cmpt:::225:::d200:::Data Structures and Programming:::cmpt225:::cmpt225d200:::cmpt 225 d200 data structures and programming
+5408:_:cmpt:::225:::d201:::Data Structures and Programming:::cmpt225:::cmpt225d201:::cmpt 225 d201 data structures and programming
+5409:_:cmpt:::225:::d202:::Data Structures and Programming:::cmpt225:::cmpt225d202:::cmpt 225 d202 data structures and programming
+5410:_:cmpt:::225:::d203:::Data Structures and Programming:::cmpt225:::cmpt225d203:::cmpt 225 d203 data structures and programming
+5411:_:cmpt:::225:::d204:::Data Structures and Programming:::cmpt225:::cmpt225d204:::cmpt 225 d204 data structures and programming
+5412:_:hum:::340:::d100:::Great Cities in Their Time:::hum340:::hum340d100:::hum 340 d100 great cities in their time
+5413:_:sa:::150:::c100:::Introduction to Sociology (S):::sa150:::sa150c100:::sa 150 c100 introduction to sociology (s)
+5414:_:sa:::150:::d100:::Introduction to Sociology (S):::sa150:::sa150d100:::sa 150 d100 introduction to sociology (s)
+5415:_:sa:::150:::d101:::Introduction to Sociology (S):::sa150:::sa150d101:::sa 150 d101 introduction to sociology (s)
+5416:_:sa:::150:::d102:::Introduction to Sociology (S):::sa150:::sa150d102:::sa 150 d102 introduction to sociology (s)
+5417:_:sa:::150:::d103:::Introduction to Sociology (S):::sa150:::sa150d103:::sa 150 d103 introduction to sociology (s)
+5418:_:sa:::150:::d104:::Introduction to Sociology (S):::sa150:::sa150d104:::sa 150 d104 introduction to sociology (s)
+5419:_:sa:::150:::d105:::Introduction to Sociology (S):::sa150:::sa150d105:::sa 150 d105 introduction to sociology (s)
+5420:_:sa:::150:::d106:::Introduction to Sociology (S):::sa150:::sa150d106:::sa 150 d106 introduction to sociology (s)
+5421:_:sa:::150:::d107:::Introduction to Sociology (S):::sa150:::sa150d107:::sa 150 d107 introduction to sociology (s)
+5422:_:sa:::150:::d108:::Introduction to Sociology (S):::sa150:::sa150d108:::sa 150 d108 introduction to sociology (s)
+5423:_:sa:::150:::d109:::Introduction to Sociology (S):::sa150:::sa150d109:::sa 150 d109 introduction to sociology (s)
+5424:_:sa:::150:::d110:::Introduction to Sociology (S):::sa150:::sa150d110:::sa 150 d110 introduction to sociology (s)
+5425:_:sa:::150:::d111:::Introduction to Sociology (S):::sa150:::sa150d111:::sa 150 d111 introduction to sociology (s)
+5426:_:sa:::150:::d112:::Introduction to Sociology (S):::sa150:::sa150d112:::sa 150 d112 introduction to sociology (s)
+5427:_:sa:::150:::d113:::Introduction to Sociology (S):::sa150:::sa150d113:::sa 150 d113 introduction to sociology (s)
+5428:_:sa:::150:::d114:::Introduction to Sociology (S):::sa150:::sa150d114:::sa 150 d114 introduction to sociology (s)
+5429:_:sa:::150:::d115:::Introduction to Sociology (S):::sa150:::sa150d115:::sa 150 d115 introduction to sociology (s)
+5430:_:sa:::150:::d116:::Introduction to Sociology (S):::sa150:::sa150d116:::sa 150 d116 introduction to sociology (s)
+5431:_:sa:::150:::d117:::Introduction to Sociology (S):::sa150:::sa150d117:::sa 150 d117 introduction to sociology (s)
+5432:_:sa:::150:::d118:::Introduction to Sociology (S):::sa150:::sa150d118:::sa 150 d118 introduction to sociology (s)
+5433:_:sa:::150:::d900:::Introduction to Sociology (S):::sa150:::sa150d900:::sa 150 d900 introduction to sociology (s)
+5434:_:sa:::150:::d901:::Introduction to Sociology (S):::sa150:::sa150d901:::sa 150 d901 introduction to sociology (s)
+5435:_:sa:::150:::d902:::Introduction to Sociology (S):::sa150:::sa150d902:::sa 150 d902 introduction to sociology (s)
+5436:_:sa:::150:::d903:::Introduction to Sociology (S):::sa150:::sa150d903:::sa 150 d903 introduction to sociology (s)
+5437:_:sa:::150:::d904:::Introduction to Sociology (S):::sa150:::sa150d904:::sa 150 d904 introduction to sociology (s)
+5438:_:sa:::150:::d905:::Introduction to Sociology (S):::sa150:::sa150d905:::sa 150 d905 introduction to sociology (s)
+5439:_:sa:::150:::d906:::Introduction to Sociology (S):::sa150:::sa150d906:::sa 150 d906 introduction to sociology (s)
+5440:_:sa:::150:::d907:::Introduction to Sociology (S):::sa150:::sa150d907:::sa 150 d907 introduction to sociology (s)
+5441:_:sa:::150:::j100:::Introduction to Sociology (S):::sa150:::sa150j100:::sa 150 j100 introduction to sociology (s)
+5442:_:cmpt:::128:::d100:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d100:::cmpt 128 d100 introduction to computing science and programming for engineers
+5443:_:cmpt:::128:::d101:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d101:::cmpt 128 d101 introduction to computing science and programming for engineers
+5444:_:cmpt:::128:::d102:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d102:::cmpt 128 d102 introduction to computing science and programming for engineers
+5445:_:cmpt:::128:::d103:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d103:::cmpt 128 d103 introduction to computing science and programming for engineers
+5446:_:cmpt:::128:::d104:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d104:::cmpt 128 d104 introduction to computing science and programming for engineers
+5447:_:cmpt:::128:::d105:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d105:::cmpt 128 d105 introduction to computing science and programming for engineers
+5448:_:cmpt:::128:::d106:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d106:::cmpt 128 d106 introduction to computing science and programming for engineers
+5449:_:cmpt:::128:::d107:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d107:::cmpt 128 d107 introduction to computing science and programming for engineers
+5450:_:cmpt:::128:::d108:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d108:::cmpt 128 d108 introduction to computing science and programming for engineers
+5451:_:cmpt:::128:::d200:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d200:::cmpt 128 d200 introduction to computing science and programming for engineers
+5452:_:cmpt:::128:::d201:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d201:::cmpt 128 d201 introduction to computing science and programming for engineers
+5453:_:cmpt:::128:::d202:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d202:::cmpt 128 d202 introduction to computing science and programming for engineers
+5454:_:cmpt:::128:::d203:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d203:::cmpt 128 d203 introduction to computing science and programming for engineers
+5455:_:cmpt:::128:::d204:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d204:::cmpt 128 d204 introduction to computing science and programming for engineers
+5456:_:cmpt:::128:::d205:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d205:::cmpt 128 d205 introduction to computing science and programming for engineers
+5457:_:cmpt:::128:::d206:::Introduction to Computing Science and Programming for Engineers:::cmpt128:::cmpt128d206:::cmpt 128 d206 introduction to computing science and programming for engineers
+5458:_:edpr:::577:::g100:::Advanced Field Studies in Educational Practice II:::edpr577:::edpr577g100:::edpr 577 g100 advanced field studies in educational practice ii
+5459:_:gsws:::312:::d100:::Immigrants, Women and Transnational Migration:::gsws312:::gsws312d100:::gsws 312 d100 immigrants, women and transnational migration
+5460:_:cogs:::310:::d100:::Consciousness:::cogs310:::cogs310d100:::cogs 310 d100 consciousness
+5461:_:econ:::453:::d100:::Seminar in the Economics of Education:::econ453:::econ453d100:::econ 453 d100 seminar in the economics of education
+5462:_:educ:::893:::g001:::Organizational and Social Aspects of Learning Technology Design:::educ893:::educ893g001:::educ 893 g001 organizational and social aspects of learning technology design
+5463:_:chem:::452:::d100:::Bio-organic Chemistry:::chem452:::chem452d100:::chem 452 d100 bio-organic chemistry
+5464:_:edpr:::520:::g100:::Special Topics:::edpr520:::edpr520g100:::edpr 520 g100 special topics
+5465:_:edpr:::520:::g200:::Special Topics:::edpr520:::edpr520g200:::edpr 520 g200 special topics
+5466:_:fren:::452:::d100:::Topics in French and Francophone Cultures or Cinemas:::fren452:::fren452d100:::fren 452 d100 topics in french and francophone cultures or cinemas
+5467:_:easc:::901:::g100:::PhD Research Seminar:::easc901:::easc901g100:::easc 901 g100 phd research seminar
+5468:_:econ:::355w:::d100:::Economic Development:::econ355w:::econ355wd100:::econ 355w d100 economic development
+5469:_:econ:::355w:::d101:::Economic Development:::econ355w:::econ355wd101:::econ 355w d101 economic development
+5470:_:econ:::355w:::d102:::Economic Development:::econ355w:::econ355wd102:::econ 355w d102 economic development
+5471:_:econ:::355w:::d103:::Economic Development:::econ355w:::econ355wd103:::econ 355w d103 economic development
+5472:_:econ:::355w:::d104:::Economic Development:::econ355w:::econ355wd104:::econ 355w d104 economic development
+5473:_:econ:::355w:::d105:::Economic Development:::econ355w:::econ355wd105:::econ 355w d105 economic development
+5474:_:econ:::355w:::d106:::Economic Development:::econ355w:::econ355wd106:::econ 355w d106 economic development
+5475:_:econ:::355w:::d107:::Economic Development:::econ355w:::econ355wd107:::econ 355w d107 economic development
+5476:_:econ:::355w:::d108:::Economic Development:::econ355w:::econ355wd108:::econ 355w d108 economic development
+5477:_:econ:::355w:::d109:::Economic Development:::econ355w:::econ355wd109:::econ 355w d109 economic development
+5478:_:econ:::355w:::d110:::Economic Development:::econ355w:::econ355wd110:::econ 355w d110 economic development
+5479:_:econ:::355w:::d111:::Economic Development:::econ355w:::econ355wd111:::econ 355w d111 economic development
+5480:_:econ:::355w:::d112:::Economic Development:::econ355w:::econ355wd112:::econ 355w d112 economic development
+5481:_:bus:::360w:::d100:::Business Communication:::bus360w:::bus360wd100:::bus 360w d100 business communication
+5482:_:bus:::360w:::d200:::Business Communication:::bus360w:::bus360wd200:::bus 360w d200 business communication
+5483:_:bus:::360w:::d300:::Business Communication:::bus360w:::bus360wd300:::bus 360w d300 business communication
+5484:_:bus:::360w:::d400:::Business Communication:::bus360w:::bus360wd400:::bus 360w d400 business communication
+5485:_:bus:::360w:::d700:::Business Communication:::bus360w:::bus360wd700:::bus 360w d700 business communication
+5486:_:bus:::360w:::d800:::Business Communication:::bus360w:::bus360wd800:::bus 360w d800 business communication
+5487:_:bus:::360w:::e100:::Business Communication:::bus360w:::bus360we100:::bus 360w e100 business communication
+5488:_:bus:::360w:::e200:::Business Communication:::bus360w:::bus360we200:::bus 360w e200 business communication
+5489:_:bus:::360w:::e300:::Business Communication:::bus360w:::bus360we300:::bus 360w e300 business communication
+5490:_:easc:::998:::g100:::PhD Thesis:::easc998:::easc998g100:::easc 998 g100 phd thesis
+5491:_:easc:::998:::g200:::PhD Thesis:::easc998:::easc998g200:::easc 998 g200 phd thesis
+5492:_:educ:::890:::g001:::Educational Media as Foundations of Curriculum:::educ890:::educ890g001:::educ 890 g001 educational media as foundations of curriculum
+5493:_:econ:::450w:::d100:::Seminar in Quantitative Economic History:::econ450w:::econ450wd100:::econ 450w d100 seminar in quantitative economic history
+5494:_:ling:::301w:::d100:::Linguistic Argumentation:::ling301w:::ling301wd100:::ling 301w d100 linguistic argumentation
+5495:_:mbb:::451:::d100:::Practicum IV:::mbb451:::mbb451d100:::mbb 451 d100 practicum iv
+5496:_:mbb:::451:::d200:::Practicum IV:::mbb451:::mbb451d200:::mbb 451 d200 practicum iv
+5497:_:mbb:::451:::i100:::Practicum IV:::mbb451:::mbb451i100:::mbb 451 i100 practicum iv
+5498:_:psyc:::363:::d100:::Intergroup Relations:::psyc363:::psyc363d100:::psyc 363 d100 intergroup relations
+5499:_:psyc:::376:::c100:::Experimental Psychology and Law:::psyc376:::psyc376c100:::psyc 376 c100 experimental psychology and law
+5500:_:mbb:::491:::d100:::Individual Study Semester:::mbb491:::mbb491d100:::mbb 491 d100 individual study semester
+5501:_:mbb:::491:::d200:::Individual Study Semester:::mbb491:::mbb491d200:::mbb 491 d200 individual study semester
+5502:_:mbb:::491:::d300:::Individual Study Semester:::mbb491:::mbb491d300:::mbb 491 d300 individual study semester
+5503:_:mbb:::491:::d400:::Individual Study Semester:::mbb491:::mbb491d400:::mbb 491 d400 individual study semester
+5504:_:mbb:::491:::d500:::Individual Study Semester:::mbb491:::mbb491d500:::mbb 491 d500 individual study semester
+5505:_:mbb:::492:::d100:::Individual Study Semester:::mbb492:::mbb492d100:::mbb 492 d100 individual study semester
+5506:_:mbb:::492:::d200:::Individual Study Semester:::mbb492:::mbb492d200:::mbb 492 d200 individual study semester
+5507:_:mbb:::492:::d300:::Individual Study Semester:::mbb492:::mbb492d300:::mbb 492 d300 individual study semester
+5508:_:mbb:::492:::d400:::Individual Study Semester:::mbb492:::mbb492d400:::mbb 492 d400 individual study semester
+5509:_:mbb:::492:::d500:::Individual Study Semester:::mbb492:::mbb492d500:::mbb 492 d500 individual study semester
+5510:_:mbb:::452:::d100:::Practicum V:::mbb452:::mbb452d100:::mbb 452 d100 practicum v
+5511:_:mbb:::452:::d200:::Practicum V:::mbb452:::mbb452d200:::mbb 452 d200 practicum v
+5512:_:mbb:::452:::i100:::Practicum V:::mbb452:::mbb452i100:::mbb 452 i100 practicum v
+5513:_:mbb:::490:::d100:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d100:::mbb 490 d100 directed readings in molecular biology and biochemistry
+5514:_:mbb:::490:::d200:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d200:::mbb 490 d200 directed readings in molecular biology and biochemistry
+5515:_:mbb:::490:::d300:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d300:::mbb 490 d300 directed readings in molecular biology and biochemistry
+5516:_:mbb:::490:::d400:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d400:::mbb 490 d400 directed readings in molecular biology and biochemistry
+5517:_:mbb:::490:::d500:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d500:::mbb 490 d500 directed readings in molecular biology and biochemistry
+5518:_:ca:::390:::d100:::Filmmaking IV:::ca390:::ca390d100:::ca 390 d100 filmmaking iv
+5519:_:ca:::390:::d101:::Filmmaking IV:::ca390:::ca390d101:::ca 390 d101 filmmaking iv
+5520:_:educ:::371w:::e100:::School Health Education:::educ371w:::educ371we100:::educ 371w e100 school health education
+5521:_:sa:::101:::d100:::Introduction to Anthropology (A):::sa101:::sa101d100:::sa 101 d100 introduction to anthropology (a)
+5522:_:sa:::101:::d101:::Introduction to Anthropology (A):::sa101:::sa101d101:::sa 101 d101 introduction to anthropology (a)
+5523:_:sa:::101:::d102:::Introduction to Anthropology (A):::sa101:::sa101d102:::sa 101 d102 introduction to anthropology (a)
+5524:_:sa:::101:::d103:::Introduction to Anthropology (A):::sa101:::sa101d103:::sa 101 d103 introduction to anthropology (a)
+5525:_:sa:::101:::d104:::Introduction to Anthropology (A):::sa101:::sa101d104:::sa 101 d104 introduction to anthropology (a)
+5526:_:sa:::101:::d105:::Introduction to Anthropology (A):::sa101:::sa101d105:::sa 101 d105 introduction to anthropology (a)
+5527:_:sa:::101:::d106:::Introduction to Anthropology (A):::sa101:::sa101d106:::sa 101 d106 introduction to anthropology (a)
+5528:_:sa:::101:::d107:::Introduction to Anthropology (A):::sa101:::sa101d107:::sa 101 d107 introduction to anthropology (a)
+5529:_:sa:::101:::d108:::Introduction to Anthropology (A):::sa101:::sa101d108:::sa 101 d108 introduction to anthropology (a)
+5530:_:sa:::101:::d900:::Introduction to Anthropology (A):::sa101:::sa101d900:::sa 101 d900 introduction to anthropology (a)
+5531:_:sa:::101:::d901:::Introduction to Anthropology (A):::sa101:::sa101d901:::sa 101 d901 introduction to anthropology (a)
+5532:_:sa:::101:::d902:::Introduction to Anthropology (A):::sa101:::sa101d902:::sa 101 d902 introduction to anthropology (a)
+5533:_:sa:::101:::d903:::Introduction to Anthropology (A):::sa101:::sa101d903:::sa 101 d903 introduction to anthropology (a)
+5534:_:sa:::101:::d904:::Introduction to Anthropology (A):::sa101:::sa101d904:::sa 101 d904 introduction to anthropology (a)
+5535:_:mbb:::309w:::d100:::Biochemistry Laboratory:::mbb309w:::mbb309wd100:::mbb 309w d100 biochemistry laboratory
+5536:_:mbb:::309w:::d101:::Biochemistry Laboratory:::mbb309w:::mbb309wd101:::mbb 309w d101 biochemistry laboratory
+5537:_:mbb:::309w:::d102:::Biochemistry Laboratory:::mbb309w:::mbb309wd102:::mbb 309w d102 biochemistry laboratory
+5538:_:mbb:::309w:::d103:::Biochemistry Laboratory:::mbb309w:::mbb309wd103:::mbb 309w d103 biochemistry laboratory
+5539:_:cmpt:::318:::d100:::Special Topics in Computing Science:::cmpt318:::cmpt318d100:::cmpt 318 d100 special topics in computing science
+5540:_:sa:::141:::d100:::Sociology and Anthropology Practicum I:::sa141:::sa141d100:::sa 141 d100 sociology and anthropology practicum i
+5541:_:sa:::141:::d200:::Sociology and Anthropology Practicum I:::sa141:::sa141d200:::sa 141 d200 sociology and anthropology practicum i
+5542:_:sa:::141:::i100:::Sociology and Anthropology Practicum I:::sa141:::sa141i100:::sa 141 i100 sociology and anthropology practicum i
+5543:_:hum:::375:::d100:::The Woodsworth Seminar:::hum375:::hum375d100:::hum 375 d100 the woodsworth seminar
+5544:_:hum:::360:::d100:::Special Topics: Great Themes in the Humanistic Tradition:::hum360:::hum360d100:::hum 360 d100 special topics: great themes in the humanistic tradition
+5545:_:fep:::209:::d100:::Exchange Study - No GPA:::fep209:::fep209d100:::fep 209 d100 exchange study - no gpa
+5546:_:gsws:::330:::d900:::Masculinities:::gsws330:::gsws330d900:::gsws 330 d900 masculinities
+5547:_:iat:::222:::d100:::Interactive Arts:::iat222:::iat222d100:::iat 222 d100 interactive arts
+5548:_:iat:::222:::d101:::Interactive Arts:::iat222:::iat222d101:::iat 222 d101 interactive arts
+5549:_:iat:::222:::d102:::Interactive Arts:::iat222:::iat222d102:::iat 222 d102 interactive arts
+5550:_:iat:::222:::d103:::Interactive Arts:::iat222:::iat222d103:::iat 222 d103 interactive arts
+5551:_:iat:::222:::d104:::Interactive Arts:::iat222:::iat222d104:::iat 222 d104 interactive arts
+5552:_:chem:::419:::d100:::Special Topics in Analytical Chemistry:::chem419:::chem419d100:::chem 419 d100 special topics in analytical chemistry
+5553:_:iat:::432:::d100:::Design Evaluation:::iat432:::iat432d100:::iat 432 d100 design evaluation
+5554:_:iat:::343:::d100:::Animation:::iat343:::iat343d100:::iat 343 d100 animation
+5555:_:iat:::343:::d101:::Animation:::iat343:::iat343d101:::iat 343 d101 animation
+5556:_:iat:::343:::d102:::Animation:::iat343:::iat343d102:::iat 343 d102 animation
+5557:_:iat:::343:::d103:::Animation:::iat343:::iat343d103:::iat 343 d103 animation
+5558:_:iat:::344:::d100:::Moving Images:::iat344:::iat344d100:::iat 344 d100 moving images
+5559:_:iat:::344:::d101:::Moving Images:::iat344:::iat344d101:::iat 344 d101 moving images
+5560:_:iat:::344:::d102:::Moving Images:::iat344:::iat344d102:::iat 344 d102 moving images
+5561:_:educ:::921:::g001:::Seminar in Philosophy and Educational Theory:::educ921:::educ921g001:::educ 921 g001 seminar in philosophy and educational theory
+5562:_:iat:::235:::d100:::Information Design:::iat235:::iat235d100:::iat 235 d100 information design
+5563:_:iat:::235:::d101:::Information Design:::iat235:::iat235d101:::iat 235 d101 information design
+5564:_:iat:::235:::d102:::Information Design:::iat235:::iat235d102:::iat 235 d102 information design
+5565:_:iat:::235:::d103:::Information Design:::iat235:::iat235d103:::iat 235 d103 information design
+5566:_:iat:::235:::d104:::Information Design:::iat235:::iat235d104:::iat 235 d104 information design
+5567:_:ca:::400:::d100:::Directed Studies (Studio):::ca400:::ca400d100:::ca 400 d100 directed studies (studio)
+5568:_:ca:::400:::d200:::Directed Studies (Studio):::ca400:::ca400d200:::ca 400 d200 directed studies (studio)
+5569:_:ca:::400:::d300:::Directed Studies (Studio):::ca400:::ca400d300:::ca 400 d300 directed studies (studio)
+5570:_:ca:::400:::d400:::Directed Studies (Studio):::ca400:::ca400d400:::ca 400 d400 directed studies (studio)
+5571:_:ca:::401:::d100:::Directed Studies (Theory/History):::ca401:::ca401d100:::ca 401 d100 directed studies (theory/history)
+5572:_:ca:::401:::d200:::Directed Studies (Theory/History):::ca401:::ca401d200:::ca 401 d200 directed studies (theory/history)
+5573:_:ca:::401:::d300:::Directed Studies (Theory/History):::ca401:::ca401d300:::ca 401 d300 directed studies (theory/history)
+5574:_:ca:::401:::d400:::Directed Studies (Theory/History):::ca401:::ca401d400:::ca 401 d400 directed studies (theory/history)
+5575:_:ca:::401:::d500:::Directed Studies (Theory/History):::ca401:::ca401d500:::ca 401 d500 directed studies (theory/history)
+5576:_:iat:::455:::d100:::Computational Media:::iat455:::iat455d100:::iat 455 d100 computational media
+5577:_:iat:::455:::d101:::Computational Media:::iat455:::iat455d101:::iat 455 d101 computational media
+5578:_:iat:::455:::d102:::Computational Media:::iat455:::iat455d102:::iat 455 d102 computational media
+5579:_:sa:::275:::d100:::China in Transition (SA):::sa275:::sa275d100:::sa 275 d100 china in transition (sa)
+5580:_:hum:::307:::d100:::Carolingian Civilization:::hum307:::hum307d100:::hum 307 d100 carolingian civilization
+5581:_:psyc:::300w:::d100:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd100:::psyc 300w d100 critical analysis of issues in psychology
+5582:_:psyc:::300w:::d101:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd101:::psyc 300w d101 critical analysis of issues in psychology
+5583:_:psyc:::300w:::d102:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd102:::psyc 300w d102 critical analysis of issues in psychology
+5584:_:psyc:::300w:::d103:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd103:::psyc 300w d103 critical analysis of issues in psychology
+5585:_:psyc:::300w:::d104:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd104:::psyc 300w d104 critical analysis of issues in psychology
+5586:_:psyc:::300w:::d105:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd105:::psyc 300w d105 critical analysis of issues in psychology
+5587:_:psyc:::300w:::d106:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd106:::psyc 300w d106 critical analysis of issues in psychology
+5588:_:psyc:::300w:::d107:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd107:::psyc 300w d107 critical analysis of issues in psychology
+5589:_:psyc:::300w:::d108:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd108:::psyc 300w d108 critical analysis of issues in psychology
+5590:_:psyc:::300w:::d109:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd109:::psyc 300w d109 critical analysis of issues in psychology
+5591:_:psyc:::300w:::d110:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd110:::psyc 300w d110 critical analysis of issues in psychology
+5592:_:psyc:::300w:::d111:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd111:::psyc 300w d111 critical analysis of issues in psychology
+5593:_:psyc:::300w:::d112:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd112:::psyc 300w d112 critical analysis of issues in psychology
+5594:_:hum:::305:::j100:::Medieval Studies:::hum305:::hum305j100:::hum 305 j100 medieval studies
+5595:_:sa:::231:::d100:::Sociology of Families (S):::sa231:::sa231d100:::sa 231 d100 sociology of families (s)
+5596:_:iat:::233:::d100:::Spatial Design:::iat233:::iat233d100:::iat 233 d100 spatial design
+5597:_:iat:::233:::d101:::Spatial Design:::iat233:::iat233d101:::iat 233 d101 spatial design
+5598:_:iat:::233:::d102:::Spatial Design:::iat233:::iat233d102:::iat 233 d102 spatial design
+5599:_:iat:::233:::d103:::Spatial Design:::iat233:::iat233d103:::iat 233 d103 spatial design
+5600:_:iat:::233:::opl:::Spatial Design:::iat233:::iat233opl:::iat 233 opl spatial design
+5601:_:phys:::421:::d100:::Electromagnetic Waves:::phys421:::phys421d100:::phys 421 d100 electromagnetic waves
+5602:_:phys:::421:::d101:::Electromagnetic Waves:::phys421:::phys421d101:::phys 421 d101 electromagnetic waves
+5603:_:bisc:::497w:::d100:::Undergraduate Research: Writing Intensive:::bisc497w:::bisc497wd100:::bisc 497w d100 undergraduate research: writing intensive
+5604:_:grad:::800:::g100:::Visiting Graduate Research:::grad800:::grad800g100:::grad 800 g100 visiting graduate research
+5605:_:grad:::800:::g200:::Visiting Graduate Research:::grad800:::grad800g200:::grad 800 g200 visiting graduate research
+5606:_:grad:::800:::g300:::Visiting Graduate Research:::grad800:::grad800g300:::grad 800 g300 visiting graduate research
+5607:_:bus:::434:::d100:::Foreign Market Entry:::bus434:::bus434d100:::bus 434 d100 foreign market entry
+5608:_:ling:::806:::g100:::Sociolinguistics:::ling806:::ling806g100:::ling 806 g100 sociolinguistics
+5609:_:sa:::241:::d100:::Sociology and Anthropology Practicum II:::sa241:::sa241d100:::sa 241 d100 sociology and anthropology practicum ii
+5610:_:sa:::241:::d200:::Sociology and Anthropology Practicum II:::sa241:::sa241d200:::sa 241 d200 sociology and anthropology practicum ii
+5611:_:sa:::241:::i100:::Sociology and Anthropology Practicum II:::sa241:::sa241i100:::sa 241 i100 sociology and anthropology practicum ii
+5612:_:phys:::231:::d100:::Physics Laboratory III:::phys231:::phys231d100:::phys 231 d100 physics laboratory iii
+5613:_:phys:::231:::la01:::Physics Laboratory III:::phys231:::phys231la01:::phys 231 la01 physics laboratory iii
+5614:_:phys:::231:::la02:::Physics Laboratory III:::phys231:::phys231la02:::phys 231 la02 physics laboratory iii
+5615:_:sa:::250:::c100:::Introduction to Sociological Theory (S):::sa250:::sa250c100:::sa 250 c100 introduction to sociological theory (s)
+5616:_:sa:::250:::d100:::Introduction to Sociological Theory (S):::sa250:::sa250d100:::sa 250 d100 introduction to sociological theory (s)
+5617:_:hum:::325:::d100:::The Humanities and the Natural World:::hum325:::hum325d100:::hum 325 d100 the humanities and the natural world
+5618:_:sa:::255:::d100:::Introduction to Social Research (SA):::sa255:::sa255d100:::sa 255 d100 introduction to social research (sa)
+5619:_:sa:::255:::d101:::Introduction to Social Research (SA):::sa255:::sa255d101:::sa 255 d101 introduction to social research (sa)
+5620:_:sa:::255:::d102:::Introduction to Social Research (SA):::sa255:::sa255d102:::sa 255 d102 introduction to social research (sa)
+5621:_:sa:::255:::d103:::Introduction to Social Research (SA):::sa255:::sa255d103:::sa 255 d103 introduction to social research (sa)
+5622:_:wl:::303:::d100:::Global Culture and Its Discontents:::wl303:::wl303d100:::wl 303 d100 global culture and its discontents
+5623:_:ling:::801:::g100:::Syntax:::ling801:::ling801g100:::ling 801 g100 syntax
+5624:_:ca:::366:::d100:::Seminar in Visual Art I:::ca366:::ca366d100:::ca 366 d100 seminar in visual art i
+5625:_:fep:::203:::d100:::Exchange Study - Not included in GPA:::fep203:::fep203d100:::fep 203 d100 exchange study - not included in gpa
+5626:_:phil:::805:::g100:::Selected Topics in Philosophy of Mind:::phil805:::phil805g100:::phil 805 g100 selected topics in philosophy of mind
+5627:_:phil:::804:::g100:::Selected Topics in Philosophy of Science:::phil804:::phil804g100:::phil 804 g100 selected topics in philosophy of science
+5628:_:easc:::207:::d100:::Introduction to Applied Geophysics:::easc207:::easc207d100:::easc 207 d100 introduction to applied geophysics
+5629:_:easc:::207:::d101:::Introduction to Applied Geophysics:::easc207:::easc207d101:::easc 207 d101 introduction to applied geophysics
+5630:_:geog:::412w:::d100:::Glacial Processes and Environments:::geog412w:::geog412wd100:::geog 412w d100 glacial processes and environments
+5631:_:geog:::412w:::d101:::Glacial Processes and Environments:::geog412w:::geog412wd101:::geog 412w d101 glacial processes and environments
+5632:_:easc:::301:::d100:::Igneous Petrology:::easc301:::easc301d100:::easc 301 d100 igneous petrology
+5633:_:easc:::301:::d101:::Igneous Petrology:::easc301:::easc301d101:::easc 301 d101 igneous petrology
+5634:_:easc:::302:::d100:::Sedimentary Petrology:::easc302:::easc302d100:::easc 302 d100 sedimentary petrology
+5635:_:easc:::302:::d101:::Sedimentary Petrology:::easc302:::easc302d101:::easc 302 d101 sedimentary petrology
+5636:_:cmpt:::895:::g100:::Master Program Extended Essay:::cmpt895:::cmpt895g100:::cmpt 895 g100 master program extended essay
+5637:_:mbb:::829:::g100:::Special Topics in Biochemistry:::mbb829:::mbb829g100:::mbb 829 g100 special topics in biochemistry
+5638:_:wl:::401:::d100:::Early Modernities Beyond the Medieval:::wl401:::wl401d100:::wl 401 d100 early modernities beyond the medieval
+5639:_:easc:::206:::d100:::Field Geology I:::easc206:::easc206d100:::easc 206 d100 field geology i
+5640:_:wl:::100:::d100:::What is World Literature?:::wl100:::wl100d100:::wl 100 d100 what is world literature?
+5641:_:wl:::100:::d101:::What is World Literature?:::wl100:::wl100d101:::wl 100 d101 what is world literature?
+5642:_:wl:::100:::d102:::What is World Literature?:::wl100:::wl100d102:::wl 100 d102 what is world literature?
+5643:_:cmpt:::628:::g100:::Graduate Co-op Practicum III:::cmpt628:::cmpt628g100:::cmpt 628 g100 graduate co-op practicum iii
+5644:_:cmpt:::628:::g200:::Graduate Co-op Practicum III:::cmpt628:::cmpt628g200:::cmpt 628 g200 graduate co-op practicum iii
+5645:_:cmpt:::628:::g300:::Graduate Co-op Practicum III:::cmpt628:::cmpt628g300:::cmpt 628 g300 graduate co-op practicum iii
+5646:_:cmpt:::628:::g400:::Graduate Co-op Practicum III:::cmpt628:::cmpt628g400:::cmpt 628 g400 graduate co-op practicum iii
+5647:_:cmpt:::628:::i100:::Graduate Co-op Practicum III:::cmpt628:::cmpt628i100:::cmpt 628 i100 graduate co-op practicum iii
+5648:_:cmpt:::627:::g100:::Graduate Co-op Practicum II:::cmpt627:::cmpt627g100:::cmpt 627 g100 graduate co-op practicum ii
+5649:_:cmpt:::627:::g200:::Graduate Co-op Practicum II:::cmpt627:::cmpt627g200:::cmpt 627 g200 graduate co-op practicum ii
+5650:_:cmpt:::627:::g300:::Graduate Co-op Practicum II:::cmpt627:::cmpt627g300:::cmpt 627 g300 graduate co-op practicum ii
+5651:_:cmpt:::627:::g400:::Graduate Co-op Practicum II:::cmpt627:::cmpt627g400:::cmpt 627 g400 graduate co-op practicum ii
+5652:_:cmpt:::627:::i100:::Graduate Co-op Practicum II:::cmpt627:::cmpt627i100:::cmpt 627 i100 graduate co-op practicum ii
+5653:_:cmpt:::626:::g100:::Graduate Co-op Practicum I:::cmpt626:::cmpt626g100:::cmpt 626 g100 graduate co-op practicum i
+5654:_:cmpt:::626:::g200:::Graduate Co-op Practicum I:::cmpt626:::cmpt626g200:::cmpt 626 g200 graduate co-op practicum i
+5655:_:cmpt:::626:::g300:::Graduate Co-op Practicum I:::cmpt626:::cmpt626g300:::cmpt 626 g300 graduate co-op practicum i
+5656:_:cmpt:::626:::g400:::Graduate Co-op Practicum I:::cmpt626:::cmpt626g400:::cmpt 626 g400 graduate co-op practicum i
+5657:_:cmpt:::626:::i100:::Graduate Co-op Practicum I:::cmpt626:::cmpt626i100:::cmpt 626 i100 graduate co-op practicum i
+5658:_:easc:::209w:::d100:::Environmental Geoscience:::easc209w:::easc209wd100:::easc 209w d100 environmental geoscience
+5659:_:easc:::209w:::d101:::Environmental Geoscience:::easc209w:::easc209wd101:::easc 209w d101 environmental geoscience
+5660:_:bisc:::440w:::d100:::Biodiversity:::bisc440w:::bisc440wd100:::bisc 440w d100 biodiversity
+5661:_:bisc:::440w:::d101:::Biodiversity:::bisc440w:::bisc440wd101:::bisc 440w d101 biodiversity
+5662:_:psyc:::201w:::c100:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wc100:::psyc 201w c100 introduction to research methods in psychology
+5663:_:psyc:::201w:::d100:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd100:::psyc 201w d100 introduction to research methods in psychology
+5664:_:psyc:::201w:::d101:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd101:::psyc 201w d101 introduction to research methods in psychology
+5665:_:psyc:::201w:::d102:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd102:::psyc 201w d102 introduction to research methods in psychology
+5666:_:psyc:::201w:::d103:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd103:::psyc 201w d103 introduction to research methods in psychology
+5667:_:psyc:::201w:::d104:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd104:::psyc 201w d104 introduction to research methods in psychology
+5668:_:psyc:::201w:::d105:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd105:::psyc 201w d105 introduction to research methods in psychology
+5669:_:psyc:::201w:::d106:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd106:::psyc 201w d106 introduction to research methods in psychology
+5670:_:psyc:::201w:::d107:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd107:::psyc 201w d107 introduction to research methods in psychology
+5671:_:psyc:::201w:::d108:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd108:::psyc 201w d108 introduction to research methods in psychology
+5672:_:psyc:::201w:::d109:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd109:::psyc 201w d109 introduction to research methods in psychology
+5673:_:psyc:::201w:::d110:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd110:::psyc 201w d110 introduction to research methods in psychology
+5674:_:psyc:::201w:::d111:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd111:::psyc 201w d111 introduction to research methods in psychology
+5675:_:psyc:::201w:::d112:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd112:::psyc 201w d112 introduction to research methods in psychology
+5676:_:psyc:::201w:::d113:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd113:::psyc 201w d113 introduction to research methods in psychology
+5677:_:psyc:::201w:::d114:::Introduction to Research Methods in Psychology:::psyc201w:::psyc201wd114:::psyc 201w d114 introduction to research methods in psychology
+5678:_:bpk:::304w:::d100:::Inquiry and Measurement in Biomedical Physiology and Kinesiology:::bpk304w:::bpk304wd100:::bpk 304w d100 inquiry and measurement in biomedical physiology and kinesiology
+5679:_:bpk:::304w:::d101:::Inquiry and Measurement in Biomedical Physiology and Kinesiology:::bpk304w:::bpk304wd101:::bpk 304w d101 inquiry and measurement in biomedical physiology and kinesiology
+5680:_:bpk:::304w:::d102:::Inquiry and Measurement in Biomedical Physiology and Kinesiology:::bpk304w:::bpk304wd102:::bpk 304w d102 inquiry and measurement in biomedical physiology and kinesiology
+5681:_:bpk:::304w:::d103:::Inquiry and Measurement in Biomedical Physiology and Kinesiology:::bpk304w:::bpk304wd103:::bpk 304w d103 inquiry and measurement in biomedical physiology and kinesiology
+5682:_:bpk:::304w:::d104:::Inquiry and Measurement in Biomedical Physiology and Kinesiology:::bpk304w:::bpk304wd104:::bpk 304w d104 inquiry and measurement in biomedical physiology and kinesiology
+5683:_:easc:::101:::d100:::Dynamic Earth:::easc101:::easc101d100:::easc 101 d100 dynamic earth
+5684:_:easc:::101:::d101:::Dynamic Earth:::easc101:::easc101d101:::easc 101 d101 dynamic earth
+5685:_:easc:::101:::d102:::Dynamic Earth:::easc101:::easc101d102:::easc 101 d102 dynamic earth
+5686:_:easc:::101:::d103:::Dynamic Earth:::easc101:::easc101d103:::easc 101 d103 dynamic earth
+5687:_:easc:::101:::d104:::Dynamic Earth:::easc101:::easc101d104:::easc 101 d104 dynamic earth
+5688:_:easc:::101:::d200:::Dynamic Earth:::easc101:::easc101d200:::easc 101 d200 dynamic earth
+5689:_:easc:::101:::d201:::Dynamic Earth:::easc101:::easc101d201:::easc 101 d201 dynamic earth
+5690:_:phil:::451w:::e100:::Advanced Topics in the History of Philosophy:::phil451w:::phil451we100:::phil 451w e100 advanced topics in the history of philosophy
+5691:_:phil:::455w:::d100:::Contemporary Issues in Epistemology and Metaphysics:::phil455w:::phil455wd100:::phil 455w d100 contemporary issues in epistemology and metaphysics
+5692:_:easc:::202:::d100:::Introduction to Mineralogy:::easc202:::easc202d100:::easc 202 d100 introduction to mineralogy
+5693:_:easc:::202:::d101:::Introduction to Mineralogy:::easc202:::easc202d101:::easc 202 d101 introduction to mineralogy
+5694:_:wl:::200:::d100:::How to Do Things with World Literature:::wl200:::wl200d100:::wl 200 d100 how to do things with world literature
+5695:_:wl:::202:::d100:::North/South Intersections:::wl202:::wl202d100:::wl 202 d100 north/south intersections
+5696:_:wl:::201:::d100:::East/West Encounters:::wl201:::wl201d100:::wl 201 d100 east/west encounters
+5697:_:evsc:::100:::d100:::Introduction to Environmental Science:::evsc100:::evsc100d100:::evsc 100 d100 introduction to environmental science
+5698:_:evsc:::100:::d101:::Introduction to Environmental Science:::evsc100:::evsc100d101:::evsc 100 d101 introduction to environmental science
+5699:_:evsc:::100:::d102:::Introduction to Environmental Science:::evsc100:::evsc100d102:::evsc 100 d102 introduction to environmental science
+5700:_:evsc:::100:::d103:::Introduction to Environmental Science:::evsc100:::evsc100d103:::evsc 100 d103 introduction to environmental science
+5701:_:evsc:::100:::d300:::Introduction to Environmental Science:::evsc100:::evsc100d300:::evsc 100 d300 introduction to environmental science
+5702:_:evsc:::100:::d301:::Introduction to Environmental Science:::evsc100:::evsc100d301:::evsc 100 d301 introduction to environmental science
+5703:_:evsc:::100:::d302:::Introduction to Environmental Science:::evsc100:::evsc100d302:::evsc 100 d302 introduction to environmental science
+5704:_:evsc:::100:::d303:::Introduction to Environmental Science:::evsc100:::evsc100d303:::evsc 100 d303 introduction to environmental science
+5705:_:evsc:::100:::d304:::Introduction to Environmental Science:::evsc100:::evsc100d304:::evsc 100 d304 introduction to environmental science
+5706:_:evsc:::100:::d305:::Introduction to Environmental Science:::evsc100:::evsc100d305:::evsc 100 d305 introduction to environmental science
+5707:_:evsc:::100:::d306:::Introduction to Environmental Science:::evsc100:::evsc100d306:::evsc 100 d306 introduction to environmental science
+5708:_:evsc:::100:::d307:::Introduction to Environmental Science:::evsc100:::evsc100d307:::evsc 100 d307 introduction to environmental science
+5709:_:evsc:::100:::d308:::Introduction to Environmental Science:::evsc100:::evsc100d308:::evsc 100 d308 introduction to environmental science
+5710:_:evsc:::100:::d309:::Introduction to Environmental Science:::evsc100:::evsc100d309:::evsc 100 d309 introduction to environmental science
+5711:_:env:::491:::d100:::Directed Study in Environment:::env491:::env491d100:::env 491 d100 directed study in environment
+5712:_:env:::491:::d200:::Directed Study in Environment:::env491:::env491d200:::env 491 d200 directed study in environment
+5713:_:is:::220:::d100:::Wealth and Poverty of Nations:::is220:::is220d100:::is 220 d100 wealth and poverty of nations
+5714:_:is:::220:::d101:::Wealth and Poverty of Nations:::is220:::is220d101:::is 220 d101 wealth and poverty of nations
+5715:_:is:::220:::d102:::Wealth and Poverty of Nations:::is220:::is220d102:::is 220 d102 wealth and poverty of nations
+5716:_:is:::220:::d103:::Wealth and Poverty of Nations:::is220:::is220d103:::is 220 d103 wealth and poverty of nations
+5717:_:is:::220:::d104:::Wealth and Poverty of Nations:::is220:::is220d104:::is 220 d104 wealth and poverty of nations
+5718:_:is:::220:::d105:::Wealth and Poverty of Nations:::is220:::is220d105:::is 220 d105 wealth and poverty of nations
+5719:_:hsci:::199:::d100:::Special Topics in Health Sciences:::hsci199:::hsci199d100:::hsci 199 d100 special topics in health sciences
+5720:_:educ:::352w:::d100:::Building on Reflective Practice:::educ352w:::educ352wd100:::educ 352w d100 building on reflective practice
+5721:_:hsci:::481:::d100:::Senior Seminar in Social Health Science:::hsci481:::hsci481d100:::hsci 481 d100 senior seminar in social health science
+5722:_:hsci:::481:::d200:::Senior Seminar in Social Health Science:::hsci481:::hsci481d200:::hsci 481 d200 senior seminar in social health science
+5723:_:env:::391:::d100:::Directed Study in Environment:::env391:::env391d100:::env 391 d100 directed study in environment
+5724:_:env:::391:::d200:::Directed Study in Environment:::env391:::env391d200:::env 391 d200 directed study in environment
+5725:_:env:::391:::d300:::Directed Study in Environment:::env391:::env391d300:::env 391 d300 directed study in environment
+5726:_:env:::391:::d400:::Directed Study in Environment:::env391:::env391d400:::env 391 d400 directed study in environment
+5727:_:env:::391:::d500:::Directed Study in Environment:::env391:::env391d500:::env 391 d500 directed study in environment
+5728:_:env:::391:::d600:::Directed Study in Environment:::env391:::env391d600:::env 391 d600 directed study in environment
+5729:_:ca:::374:::d100:::Stage Lighting:::ca374:::ca374d100:::ca 374 d100 stage lighting
+5730:_:ca:::374:::d101:::Stage Lighting:::ca374:::ca374d101:::ca 374 d101 stage lighting
+5731:_:phil:::421w:::e100:::Advanced Topics in Ethical Theory:::phil421w:::phil421we100:::phil 421w e100 advanced topics in ethical theory
+5732:_:engl:::199w:::c100:::Introduction to University Writing:::engl199w:::engl199wc100:::engl 199w c100 introduction to university writing
+5733:_:engl:::199w:::d100:::Introduction to University Writing:::engl199w:::engl199wd100:::engl 199w d100 introduction to university writing
+5734:_:engl:::199w:::d200:::Introduction to University Writing:::engl199w:::engl199wd200:::engl 199w d200 introduction to university writing
+5735:_:engl:::199w:::e100:::Introduction to University Writing:::engl199w:::engl199we100:::engl 199w e100 introduction to university writing
+5736:_:engl:::199w:::e200:::Introduction to University Writing:::engl199w:::engl199we200:::engl 199w e200 introduction to university writing
+5737:_:engl:::199w:::j100:::Introduction to University Writing:::engl199w:::engl199wj100:::engl 199w j100 introduction to university writing
+5738:_:crim:::899:::g100:::PhD Thesis:::crim899:::crim899g100:::crim 899 g100 phd thesis
+5739:_:crim:::899:::g200:::PhD Thesis:::crim899:::crim899g200:::crim 899 g200 phd thesis
+5740:_:is:::490:::d100:::Honours Seminar:::is490:::is490d100:::is 490 d100 honours seminar
+5741:_:is:::490:::d200:::Honours Seminar:::is490:::is490d200:::is 490 d200 honours seminar
+5742:_:is:::499:::d100:::Honours Essay:::is499:::is499d100:::is 499 d100 honours essay
+5743:_:is:::499:::d200:::Honours Essay:::is499:::is499d200:::is 499 d200 honours essay
+5744:_:geog:::104:::d100:::Climate Change, Water, and Society:::geog104:::geog104d100:::geog 104 d100 climate change, water, and society
+5745:_:cmpt:::166:::d100:::An Animated Introduction to Programming:::cmpt166:::cmpt166d100:::cmpt 166 d100 an animated introduction to programming
+5746:_:engl:::494:::d100:::Honors Research and Methods Seminar:::engl494:::engl494d100:::engl 494 d100 honors research and methods seminar
+5747:_:gsws:::100:::d100:::Sex Talk: Introduction to Contemporary Issues in Sexuality Studies:::gsws100:::gsws100d100:::gsws 100 d100 sex talk: introduction to contemporary issues in sexuality studies
+5748:_:gsws:::100:::d101:::Sex Talk: Introduction to Contemporary Issues in Sexuality Studies:::gsws100:::gsws100d101:::gsws 100 d101 sex talk: introduction to contemporary issues in sexuality studies
+5749:_:gsws:::100:::d102:::Sex Talk: Introduction to Contemporary Issues in Sexuality Studies:::gsws100:::gsws100d102:::gsws 100 d102 sex talk: introduction to contemporary issues in sexuality studies
+5750:_:gsws:::100:::d103:::Sex Talk: Introduction to Contemporary Issues in Sexuality Studies:::gsws100:::gsws100d103:::gsws 100 d103 sex talk: introduction to contemporary issues in sexuality studies
+5751:_:gsws:::100:::d104:::Sex Talk: Introduction to Contemporary Issues in Sexuality Studies:::gsws100:::gsws100d104:::gsws 100 d104 sex talk: introduction to contemporary issues in sexuality studies
+5752:_:gsws:::100:::d105:::Sex Talk: Introduction to Contemporary Issues in Sexuality Studies:::gsws100:::gsws100d105:::gsws 100 d105 sex talk: introduction to contemporary issues in sexuality studies
+5753:_:gsws:::100:::d106:::Sex Talk: Introduction to Contemporary Issues in Sexuality Studies:::gsws100:::gsws100d106:::gsws 100 d106 sex talk: introduction to contemporary issues in sexuality studies
+5754:_:gsws:::100:::d107:::Sex Talk: Introduction to Contemporary Issues in Sexuality Studies:::gsws100:::gsws100d107:::gsws 100 d107 sex talk: introduction to contemporary issues in sexuality studies
+5755:_:gsws:::100:::d108:::Sex Talk: Introduction to Contemporary Issues in Sexuality Studies:::gsws100:::gsws100d108:::gsws 100 d108 sex talk: introduction to contemporary issues in sexuality studies
+5756:_:gsws:::100:::d109:::Sex Talk: Introduction to Contemporary Issues in Sexuality Studies:::gsws100:::gsws100d109:::gsws 100 d109 sex talk: introduction to contemporary issues in sexuality studies
+5757:_:gsws:::100:::d110:::Sex Talk: Introduction to Contemporary Issues in Sexuality Studies:::gsws100:::gsws100d110:::gsws 100 d110 sex talk: introduction to contemporary issues in sexuality studies
+5758:_:gsws:::100:::d111:::Sex Talk: Introduction to Contemporary Issues in Sexuality Studies:::gsws100:::gsws100d111:::gsws 100 d111 sex talk: introduction to contemporary issues in sexuality studies
+5759:_:gsws:::100:::d112:::Sex Talk: Introduction to Contemporary Issues in Sexuality Studies:::gsws100:::gsws100d112:::gsws 100 d112 sex talk: introduction to contemporary issues in sexuality studies
+5760:_:bpk:::423:::d100:::Selected Topics in Kinesiology IV:::bpk423:::bpk423d100:::bpk 423 d100 selected topics in kinesiology iv
+5761:_:edpr:::575:::g100:::Advanced Field Studies in Educational Practice II:::edpr575:::edpr575g100:::edpr 575 g100 advanced field studies in educational practice ii
+5762:_:gero:::410:::d100:::Special Topics in Gerontology I:::gero410:::gero410d100:::gero 410 d100 special topics in gerontology i
+5763:_:crim:::898:::g100:::MA Thesis:::crim898:::crim898g100:::crim 898 g100 ma thesis
+5764:_:crim:::898:::g200:::MA Thesis:::crim898:::crim898g200:::crim 898 g200 ma thesis
+5765:_:hist:::486:::d100:::Studies in History II:::hist486:::hist486d100:::hist 486 d100 studies in history ii
