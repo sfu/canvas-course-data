@@ -1310,733 +1310,733 @@
 1310:_:evsc:::100:::d306:::Introduction to Environmental Science:::evsc100:::evsc100d306:::evsc 100 d306 introduction to environmental science
 1311:_:cmns:::408:::d100:::Communication Network Project Group:::cmns408:::cmns408d100:::cmns 408 d100 communication network project group
 1312:_:cmns:::408:::d200:::Communication Network Project Group:::cmns408:::cmns408d200:::cmns 408 d200 communication network project group
-1313:_:buec:::232:::d100:::Data and Decisions I:::buec232:::buec232d100:::buec 232 d100 data and decisions i
-1314:_:buec:::232:::d200:::Data and Decisions I:::buec232:::buec232d200:::buec 232 d200 data and decisions i
-1315:_:buec:::232:::e100:::Data and Decisions I:::buec232:::buec232e100:::buec 232 e100 data and decisions i
-1316:_:geog:::403:::d100:::Geography Practicum IV:::geog403:::geog403d100:::geog 403 d100 geography practicum iv
-1317:_:geog:::403:::d200:::Geography Practicum IV:::geog403:::geog403d200:::geog 403 d200 geography practicum iv
-1318:_:cogs:::370:::d100:::Cognitive Science Practicum I:::cogs370:::cogs370d100:::cogs 370 d100 cognitive science practicum i
-1319:_:cogs:::370:::d200:::Cognitive Science Practicum I:::cogs370:::cogs370d200:::cogs 370 d200 cognitive science practicum i
-1320:_:cogs:::370:::i100:::Cognitive Science Practicum I:::cogs370:::cogs370i100:::cogs 370 i100 cognitive science practicum i
-1321:_:cogs:::371:::d100:::Cognitive Science Practicum II:::cogs371:::cogs371d100:::cogs 371 d100 cognitive science practicum ii
-1322:_:cogs:::371:::d200:::Cognitive Science Practicum II:::cogs371:::cogs371d200:::cogs 371 d200 cognitive science practicum ii
-1323:_:cogs:::371:::i100:::Cognitive Science Practicum II:::cogs371:::cogs371i100:::cogs 371 i100 cognitive science practicum ii
-1324:_:geog:::402:::d100:::Geography Practicum III:::geog402:::geog402d100:::geog 402 d100 geography practicum iii
-1325:_:geog:::402:::d200:::Geography Practicum III:::geog402:::geog402d200:::geog 402 d200 geography practicum iii
-1326:_:cogs:::470:::d100:::Cognitive Science Practicum III:::cogs470:::cogs470d100:::cogs 470 d100 cognitive science practicum iii
-1327:_:cogs:::470:::d200:::Cognitive Science Practicum III:::cogs470:::cogs470d200:::cogs 470 d200 cognitive science practicum iii
-1328:_:cogs:::470:::i100:::Cognitive Science Practicum III:::cogs470:::cogs470i100:::cogs 470 i100 cognitive science practicum iii
-1329:_:geog:::405:::d100:::Directed Readings:::geog405:::geog405d100:::geog 405 d100 directed readings
-1330:_:geog:::405:::d200:::Directed Readings:::geog405:::geog405d200:::geog 405 d200 directed readings
-1331:_:cogs:::471:::d100:::Cognitive Science Practicum IV:::cogs471:::cogs471d100:::cogs 471 d100 cognitive science practicum iv
-1332:_:cogs:::471:::d200:::Cognitive Science Practicum IV:::cogs471:::cogs471d200:::cogs 471 d200 cognitive science practicum iv
-1333:_:cogs:::471:::i100:::Cognitive Science Practicum IV:::cogs471:::cogs471i100:::cogs 471 i100 cognitive science practicum iv
-1334:_:geog:::404:::d100:::Directed Readings:::geog404:::geog404d100:::geog 404 d100 directed readings
-1335:_:geog:::404:::d200:::Directed Readings:::geog404:::geog404d200:::geog 404 d200 directed readings
-1336:_:devs:::801:::g100:::Issues, Concepts & Cases in Development and Sustainability:::devs801:::devs801g100:::devs 801 g100 issues, concepts & cases in development and sustainability
-1337:_:sa:::499:::d100:::Honours Essay (SA):::sa499:::sa499d100:::sa 499 d100 honours essay (sa)
-1338:_:econ:::104:::d100:::Economics and Government:::econ104:::econ104d100:::econ 104 d100 economics and government
-1339:_:math:::208w:::d100:::Introduction to Operations Research:::math208w:::math208wd100:::math 208w d100 introduction to operations research
-1340:_:cmns:::425:::d100:::Applied Communication for Social Issues:::cmns425:::cmns425d100:::cmns 425 d100 applied communication for social issues
-1341:_:buec:::333:::d100:::Statistical Analysis of Economic Data:::buec333:::buec333d100:::buec 333 d100 statistical analysis of economic data
-1342:_:buec:::333:::d101:::Statistical Analysis of Economic Data:::buec333:::buec333d101:::buec 333 d101 statistical analysis of economic data
-1343:_:buec:::333:::d102:::Statistical Analysis of Economic Data:::buec333:::buec333d102:::buec 333 d102 statistical analysis of economic data
-1344:_:buec:::333:::d103:::Statistical Analysis of Economic Data:::buec333:::buec333d103:::buec 333 d103 statistical analysis of economic data
-1345:_:buec:::333:::d104:::Statistical Analysis of Economic Data:::buec333:::buec333d104:::buec 333 d104 statistical analysis of economic data
-1346:_:buec:::333:::d105:::Statistical Analysis of Economic Data:::buec333:::buec333d105:::buec 333 d105 statistical analysis of economic data
-1347:_:buec:::333:::d106:::Statistical Analysis of Economic Data:::buec333:::buec333d106:::buec 333 d106 statistical analysis of economic data
-1348:_:buec:::333:::d107:::Statistical Analysis of Economic Data:::buec333:::buec333d107:::buec 333 d107 statistical analysis of economic data
-1349:_:buec:::333:::d108:::Statistical Analysis of Economic Data:::buec333:::buec333d108:::buec 333 d108 statistical analysis of economic data
-1350:_:buec:::333:::d109:::Statistical Analysis of Economic Data:::buec333:::buec333d109:::buec 333 d109 statistical analysis of economic data
-1351:_:buec:::333:::d110:::Statistical Analysis of Economic Data:::buec333:::buec333d110:::buec 333 d110 statistical analysis of economic data
-1352:_:buec:::333:::op01:::Statistical Analysis of Economic Data:::buec333:::buec333op01:::buec 333 op01 statistical analysis of economic data
-1353:_:phil:::478:::d100:::Honours Tutorial II:::phil478:::phil478d100:::phil 478 d100 honours tutorial ii
-1354:_:plcy:::850:::g100:::Internship:::plcy850:::plcy850g100:::plcy 850 g100 internship
-1355:_:plcy:::850:::g200:::Internship:::plcy850:::plcy850g200:::plcy 850 g200 internship
-1356:_:plcy:::850:::i100:::Internship:::plcy850:::plcy850i100:::plcy 850 i100 internship
-1357:_:phil:::477:::d100:::Honours Tutorial I:::phil477:::phil477d100:::phil 477 d100 honours tutorial i
-1358:_:math:::402w:::d100:::Operations Research Clinic:::math402w:::math402wd100:::math 402w d100 operations research clinic
-1359:_:chem:::419:::d100:::Special Topics in Analytical Chemistry:::chem419:::chem419d100:::chem 419 d100 special topics in analytical chemistry
-1360:_:easc:::705:::g100:::Special Topics:::easc705:::easc705g100:::easc 705 g100 special topics
-1361:_:sa:::853:::g100:::Readings in Sociology I:::sa853:::sa853g100:::sa 853 g100 readings in sociology i
-1362:_:sa:::853:::g200:::Readings in Sociology I:::sa853:::sa853g200:::sa 853 g200 readings in sociology i
-1363:_:chem:::408:::d100:::Practicum V:::chem408:::chem408d100:::chem 408 d100 practicum v
-1364:_:chem:::408:::d200:::Practicum V:::chem408:::chem408d200:::chem 408 d200 practicum v
-1365:_:chem:::408:::i100:::Practicum V:::chem408:::chem408i100:::chem 408 i100 practicum v
-1366:_:sa:::854:::g100:::Readings in Sociology II:::sa854:::sa854g100:::sa 854 g100 readings in sociology ii
-1367:_:chem:::381:::d100:::Intermediate Organic Chemistry:::chem381:::chem381d100:::chem 381 d100 intermediate organic chemistry
-1368:_:chem:::381:::d101:::Intermediate Organic Chemistry:::chem381:::chem381d101:::chem 381 d101 intermediate organic chemistry
-1369:_:chem:::381:::la01:::Intermediate Organic Chemistry:::chem381:::chem381la01:::chem 381 la01 intermediate organic chemistry
-1370:_:chem:::406:::d100:::Practicum III:::chem406:::chem406d100:::chem 406 d100 practicum iii
-1371:_:chem:::406:::d200:::Practicum III:::chem406:::chem406d200:::chem 406 d200 practicum iii
-1372:_:chem:::406:::i100:::Practicum III:::chem406:::chem406i100:::chem 406 i100 practicum iii
-1373:_:chem:::407:::d100:::Practicum IV:::chem407:::chem407d100:::chem 407 d100 practicum iv
-1374:_:chem:::407:::d200:::Practicum IV:::chem407:::chem407d200:::chem 407 d200 practicum iv
-1375:_:chem:::407:::i100:::Practicum IV:::chem407:::chem407i100:::chem 407 i100 practicum iv
-1376:_:educ:::352w:::c100:::Building on Reflective Practice:::educ352w:::educ352wc100:::educ 352w c100 building on reflective practice
-1377:_:educ:::352w:::d100:::Building on Reflective Practice:::educ352w:::educ352wd100:::educ 352w d100 building on reflective practice
-1378:_:math:::436:::d100:::Job Practicum III:::math436:::math436d100:::math 436 d100 job practicum iii
-1379:_:math:::436:::d200:::Job Practicum III:::math436:::math436d200:::math 436 d200 job practicum iii
-1380:_:cmns:::851:::g100:::Directed Studies:::cmns851:::cmns851g100:::cmns 851 g100 directed studies
-1381:_:cmns:::851:::g200:::Directed Studies:::cmns851:::cmns851g200:::cmns 851 g200 directed studies
-1382:_:cmns:::851:::g300:::Directed Studies:::cmns851:::cmns851g300:::cmns 851 g300 directed studies
-1383:_:cmns:::851:::g400:::Directed Studies:::cmns851:::cmns851g400:::cmns 851 g400 directed studies
-1384:_:cmns:::851:::g500:::Directed Studies:::cmns851:::cmns851g500:::cmns 851 g500 directed studies
-1385:_:sa:::301:::d100:::Contemporary Ethnography (A):::sa301:::sa301d100:::sa 301 d100 contemporary ethnography (a)
-1386:_:cmns:::850:::g100:::Directed Readings and Research:::cmns850:::cmns850g100:::cmns 850 g100 directed readings and research
-1387:_:cmns:::850:::g200:::Directed Readings and Research:::cmns850:::cmns850g200:::cmns 850 g200 directed readings and research
-1388:_:cmns:::850:::g300:::Directed Readings and Research:::cmns850:::cmns850g300:::cmns 850 g300 directed readings and research
-1389:_:cmns:::850:::g400:::Directed Readings and Research:::cmns850:::cmns850g400:::cmns 850 g400 directed readings and research
-1390:_:cmns:::850:::g500:::Directed Readings and Research:::cmns850:::cmns850g500:::cmns 850 g500 directed readings and research
-1391:_:cmns:::840:::g100:::Political Economy of Communications:::cmns840:::cmns840g100:::cmns 840 g100 political economy of communications
-1392:_:chem:::372:::d100:::Chemistry of the Atmospheric Environment:::chem372:::chem372d100:::chem 372 d100 chemistry of the atmospheric environment
-1393:_:chem:::372:::d101:::Chemistry of the Atmospheric Environment:::chem372:::chem372d101:::chem 372 d101 chemistry of the atmospheric environment
-1394:_:geog:::104:::d100:::Climate Change, Water, and Society:::geog104:::geog104d100:::geog 104 d100 climate change, water, and society
-1395:_:bisc:::455:::d100:::Endocrinology:::bisc455:::bisc455d100:::bisc 455 d100 endocrinology
-1396:_:bisc:::455:::d101:::Endocrinology:::bisc455:::bisc455d101:::bisc 455 d101 endocrinology
-1397:_:bisc:::455:::d102:::Endocrinology:::bisc455:::bisc455d102:::bisc 455 d102 endocrinology
-1398:_:math:::440:::d100:::Galois Theory:::math440:::math440d100:::math 440 d100 galois theory
-1399:_:sd:::401:::d100:::Sustainable Development Goals Studio:::sd401:::sd401d100:::sd 401 d100 sustainable development goals studio
-1400:_:math:::437:::d100:::Job Practicum IV:::math437:::math437d100:::math 437 d100 job practicum iv
-1401:_:math:::437:::d200:::Job Practicum IV:::math437:::math437d200:::math 437 d200 job practicum iv
-1402:_:sa:::872:::g100:::Readings in Anthropology II:::sa872:::sa872g100:::sa 872 g100 readings in anthropology ii
-1403:_:sa:::872:::g200:::Readings in Anthropology II:::sa872:::sa872g200:::sa 872 g200 readings in anthropology ii
-1404:_:cmns:::428:::d100:::Media Analysis Project Group:::cmns428:::cmns428d100:::cmns 428 d100 media analysis project group
-1405:_:cmns:::428:::d200:::Media Analysis Project Group:::cmns428:::cmns428d200:::cmns 428 d200 media analysis project group
-1406:_:cmns:::428:::d300:::Media Analysis Project Group:::cmns428:::cmns428d300:::cmns 428 d300 media analysis project group
-1407:_:cmns:::428:::d400:::Media Analysis Project Group:::cmns428:::cmns428d400:::cmns 428 d400 media analysis project group
-1408:_:cmns:::428:::d500:::Media Analysis Project Group:::cmns428:::cmns428d500:::cmns 428 d500 media analysis project group
-1409:_:sa:::871:::g100:::Readings in Anthropology I:::sa871:::sa871g100:::sa 871 g100 readings in anthropology i
-1410:_:chem:::360:::d100:::Thermodynamics and Chemical Kinetics:::chem360:::chem360d100:::chem 360 d100 thermodynamics and chemical kinetics
-1411:_:chem:::360:::d102:::Thermodynamics and Chemical Kinetics:::chem360:::chem360d102:::chem 360 d102 thermodynamics and chemical kinetics
-1412:_:cmns:::357:::d100:::Audio Media Analysis:::cmns357:::cmns357d100:::cmns 357 d100 audio media analysis
-1413:_:cmns:::357:::d101:::Audio Media Analysis:::cmns357:::cmns357d101:::cmns 357 d101 audio media analysis
-1414:_:hist:::326:::d100:::History of Aboriginal Peoples of North America Since 1850:::hist326:::hist326d100:::hist 326 d100 history of aboriginal peoples of north america since 1850
-1415:_:bisc:::407:::d100:::Population Dynamics:::bisc407:::bisc407d100:::bisc 407 d100 population dynamics
-1416:_:bisc:::407:::d101:::Population Dynamics:::bisc407:::bisc407d101:::bisc 407 d101 population dynamics
-1417:_:bisc:::407:::d102:::Population Dynamics:::bisc407:::bisc407d102:::bisc 407 d102 population dynamics
-1418:_:mse:::102:::d200:::Applied Science, Technology and Society:::mse102:::mse102d200:::mse 102 d200 applied science, technology and society
-1419:_:mse:::102:::d201:::Applied Science, Technology and Society:::mse102:::mse102d201:::mse 102 d201 applied science, technology and society
-1420:_:mse:::421:::d200:::Advanced Vibration:::mse421:::mse421d200:::mse 421 d200 advanced vibration
-1421:_:mse:::421:::d201:::Advanced Vibration:::mse421:::mse421d201:::mse 421 d201 advanced vibration
-1422:_:mse:::480:::d100:::Manufacturing Systems:::mse480:::mse480d100:::mse 480 d100 manufacturing systems
-1423:_:mse:::480:::lab1:::Manufacturing Systems:::mse480:::mse480lab1:::mse 480 lab1 manufacturing systems
-1424:_:mse:::480:::lab2:::Manufacturing Systems:::mse480:::mse480lab2:::mse 480 lab2 manufacturing systems
-1425:_:mse:::450:::d100:::Real-Time and Embedded Control Systems:::mse450:::mse450d100:::mse 450 d100 real-time and embedded control systems
-1426:_:mse:::450:::lab1:::Real-Time and Embedded Control Systems:::mse450:::mse450lab1:::mse 450 lab1 real-time and embedded control systems
-1427:_:mse:::450:::lab2:::Real-Time and Embedded Control Systems:::mse450:::mse450lab2:::mse 450 lab2 real-time and embedded control systems
-1428:_:mse:::450:::lab3:::Real-Time and Embedded Control Systems:::mse450:::mse450lab3:::mse 450 lab3 real-time and embedded control systems
-1429:_:mse:::101w:::d100:::Process, Form, and Convention in Professional Genres:::mse101w:::mse101wd100:::mse 101w d100 process, form, and convention in professional genres
-1430:_:mse:::101w:::d101:::Process, Form, and Convention in Professional Genres:::mse101w:::mse101wd101:::mse 101w d101 process, form, and convention in professional genres
-1431:_:ensc:::703:::g100:::Graduate Co-op Practicum III:::ensc703:::ensc703g100:::ensc 703 g100 graduate co-op practicum iii
-1432:_:ensc:::703:::g200:::Graduate Co-op Practicum III:::ensc703:::ensc703g200:::ensc 703 g200 graduate co-op practicum iii
-1433:_:ensc:::703:::i100:::Graduate Co-op Practicum III:::ensc703:::ensc703i100:::ensc 703 i100 graduate co-op practicum iii
-1434:_:cmns:::202:::d100:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d100:::cmns 202 d100 design and method in qualitative communication research
-1435:_:cmns:::202:::d101:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d101:::cmns 202 d101 design and method in qualitative communication research
-1436:_:cmns:::202:::d102:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d102:::cmns 202 d102 design and method in qualitative communication research
-1437:_:cmns:::202:::d103:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d103:::cmns 202 d103 design and method in qualitative communication research
-1438:_:cmns:::202:::d104:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d104:::cmns 202 d104 design and method in qualitative communication research
-1439:_:cmns:::202:::d105:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d105:::cmns 202 d105 design and method in qualitative communication research
-1440:_:cmns:::202:::d106:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d106:::cmns 202 d106 design and method in qualitative communication research
-1441:_:cmns:::202:::d107:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d107:::cmns 202 d107 design and method in qualitative communication research
-1442:_:cmns:::202:::d108:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d108:::cmns 202 d108 design and method in qualitative communication research
-1443:_:arch:::131:::c100:::Human Origins:::arch131:::arch131c100:::arch 131 c100 human origins
-1444:_:arch:::131:::d100:::Human Origins:::arch131:::arch131d100:::arch 131 d100 human origins
-1445:_:arch:::131:::d200:::Human Origins:::arch131:::arch131d200:::arch 131 d200 human origins
-1446:_:arch:::131:::d900:::Human Origins:::arch131:::arch131d900:::arch 131 d900 human origins
-1447:_:ensc:::386:::d100:::Introduction to Mechanical Design:::ensc386:::ensc386d100:::ensc 386 d100 introduction to mechanical design
-1448:_:ensc:::386:::d101:::Introduction to Mechanical Design:::ensc386:::ensc386d101:::ensc 386 d101 introduction to mechanical design
-1449:_:ensc:::386:::la01:::Introduction to Mechanical Design:::ensc386:::ensc386la01:::ensc 386 la01 introduction to mechanical design
-1450:_:educ:::836:::g001:::Equity Issues in Language, Education and Society:::educ836:::educ836g001:::educ 836 g001 equity issues in language, education and society
-1451:_:mse:::498:::d100:::Mechatronic Systems Engineering  Thesis Proposal:::mse498:::mse498d100:::mse 498 d100 mechatronic systems engineering  thesis proposal
-1452:_:mse:::497:::d100:::Special Project Laboratory:::mse497:::mse497d100:::mse 497 d100 special project laboratory
-1453:_:mse:::497:::d200:::Special Project Laboratory:::mse497:::mse497d200:::mse 497 d200 special project laboratory
-1454:_:mse:::497:::d300:::Special Project Laboratory:::mse497:::mse497d300:::mse 497 d300 special project laboratory
-1455:_:hist:::319:::d100:::Modern France:::hist319:::hist319d100:::hist 319 d100 modern france
-1456:_:bisc:::298:::d100:::Introduction to Undergraduate Research in Biological Sciences:::bisc298:::bisc298d100:::bisc 298 d100 introduction to undergraduate research in biological sciences
-1457:_:mse:::496:::d100:::Special Project Laboratory:::mse496:::mse496d100:::mse 496 d100 special project laboratory
-1458:_:mse:::496:::d200:::Special Project Laboratory:::mse496:::mse496d200:::mse 496 d200 special project laboratory
-1459:_:mse:::496:::d300:::Special Project Laboratory:::mse496:::mse496d300:::mse 496 d300 special project laboratory
-1460:_:chem:::307:::d100:::Practicum II:::chem307:::chem307d100:::chem 307 d100 practicum ii
-1461:_:chem:::307:::d200:::Practicum II:::chem307:::chem307d200:::chem 307 d200 practicum ii
-1462:_:chem:::307:::i100:::Practicum II:::chem307:::chem307i100:::chem 307 i100 practicum ii
-1463:_:phys:::841:::g100:::Statistical Mechanics:::phys841:::phys841g100:::phys 841 g100 statistical mechanics
-1464:_:mse:::223:::d100:::Introduction to Fluid Mechanics:::mse223:::mse223d100:::mse 223 d100 introduction to fluid mechanics
-1465:_:mse:::223:::d101:::Introduction to Fluid Mechanics:::mse223:::mse223d101:::mse 223 d101 introduction to fluid mechanics
-1466:_:mse:::223:::lab1:::Introduction to Fluid Mechanics:::mse223:::mse223lab1:::mse 223 lab1 introduction to fluid mechanics
-1467:_:mse:::223:::lab2:::Introduction to Fluid Mechanics:::mse223:::mse223lab2:::mse 223 lab2 introduction to fluid mechanics
-1468:_:mse:::223:::lab3:::Introduction to Fluid Mechanics:::mse223:::mse223lab3:::mse 223 lab3 introduction to fluid mechanics
-1469:_:chem:::317:::la01:::Analytical Environmental Chemistry:::chem317:::chem317la01:::chem 317 la01 analytical environmental chemistry
-1470:_:mse:::499:::d100:::Mechatronic Systems Engineering  Undergraduate Thesis:::mse499:::mse499d100:::mse 499 d100 mechatronic systems engineering  undergraduate thesis
-1471:_:hist:::322:::d100:::Atlantic and Pacific Migration:::hist322:::hist322d100:::hist 322 d100 atlantic and pacific migration
-1472:_:chem:::316:::d100:::Introductory Instrumental Analysis:::chem316:::chem316d100:::chem 316 d100 introductory instrumental analysis
-1473:_:chem:::316:::la01:::Introductory Instrumental Analysis:::chem316:::chem316la01:::chem 316 la01 introductory instrumental analysis
-1474:_:chem:::316:::la02:::Introductory Instrumental Analysis:::chem316:::chem316la02:::chem 316 la02 introductory instrumental analysis
-1475:_:acma:::360w:::d100:::Actuarial Communication:::acma360w:::acma360wd100:::acma 360w d100 actuarial communication
-1476:_:bpk:::408w:::d100:::Cellular Physiology Laboratory:::bpk408w:::bpk408wd100:::bpk 408w d100 cellular physiology laboratory
-1477:_:bpk:::408w:::d101:::Cellular Physiology Laboratory:::bpk408w:::bpk408wd101:::bpk 408w d101 cellular physiology laboratory
-1478:_:engl:::376:::e100:::Special Studies:::engl376:::engl376e100:::engl 376 e100 special studies
-1479:_:acma:::438:::d100:::Job Practicum V:::acma438:::acma438d100:::acma 438 d100 job practicum v
-1480:_:acma:::438:::d200:::Job Practicum V:::acma438:::acma438d200:::acma 438 d200 job practicum v
-1481:_:acma:::438:::i100:::Job Practicum V:::acma438:::acma438i100:::acma 438 i100 job practicum v
-1482:_:acma:::436:::d100:::Job Practicum III:::acma436:::acma436d100:::acma 436 d100 job practicum iii
-1483:_:acma:::436:::d200:::Job Practicum III:::acma436:::acma436d200:::acma 436 d200 job practicum iii
-1484:_:acma:::436:::i100:::Job Practicum III:::acma436:::acma436i100:::acma 436 i100 job practicum iii
-1485:_:acma:::336:::d100:::Job Practicum I:::acma336:::acma336d100:::acma 336 d100 job practicum i
-1486:_:acma:::336:::d200:::Job Practicum I:::acma336:::acma336d200:::acma 336 d200 job practicum i
-1487:_:acma:::336:::i100:::Job Practicum I:::acma336:::acma336i100:::acma 336 i100 job practicum i
-1488:_:geog:::310:::d100:::Physical Geography Field Course:::geog310:::geog310d100:::geog 310 d100 physical geography field course
-1489:_:econ:::302:::d100:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d100:::econ 302 d100 microeconomic theory ii: strategic behavior
-1490:_:econ:::302:::d101:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d101:::econ 302 d101 microeconomic theory ii: strategic behavior
-1491:_:econ:::302:::d102:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d102:::econ 302 d102 microeconomic theory ii: strategic behavior
-1492:_:econ:::302:::d103:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d103:::econ 302 d103 microeconomic theory ii: strategic behavior
-1493:_:econ:::302:::d104:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d104:::econ 302 d104 microeconomic theory ii: strategic behavior
-1494:_:econ:::302:::d105:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d105:::econ 302 d105 microeconomic theory ii: strategic behavior
-1495:_:econ:::302:::d106:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d106:::econ 302 d106 microeconomic theory ii: strategic behavior
-1496:_:econ:::302:::d107:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d107:::econ 302 d107 microeconomic theory ii: strategic behavior
-1497:_:econ:::302:::d108:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d108:::econ 302 d108 microeconomic theory ii: strategic behavior
-1498:_:hist:::470:::d100:::Practicum III:::hist470:::hist470d100:::hist 470 d100 practicum iii
-1499:_:hist:::470:::d200:::Practicum III:::hist470:::hist470d200:::hist 470 d200 practicum iii
-1500:_:hist:::470:::i100:::Practicum III:::hist470:::hist470i100:::hist 470 i100 practicum iii
-1501:_:bpk:::420:::d100:::Selected Topics in Kinesiology I:::bpk420:::bpk420d100:::bpk 420 d100 selected topics in kinesiology i
-1502:_:bus:::238:::d100:::Introduction to Entrepreneurship and Innovation:::bus238:::bus238d100:::bus 238 d100 introduction to entrepreneurship and innovation
-1503:_:bus:::238:::d200:::Introduction to Entrepreneurship and Innovation:::bus238:::bus238d200:::bus 238 d200 introduction to entrepreneurship and innovation
-1504:_:bus:::202:::d100:::Foundations for Collaborative Work Environments:::bus202:::bus202d100:::bus 202 d100 foundations for collaborative work environments
-1505:_:bus:::202:::d101:::Foundations for Collaborative Work Environments:::bus202:::bus202d101:::bus 202 d101 foundations for collaborative work environments
-1506:_:bus:::202:::d102:::Foundations for Collaborative Work Environments:::bus202:::bus202d102:::bus 202 d102 foundations for collaborative work environments
-1507:_:bus:::202:::d103:::Foundations for Collaborative Work Environments:::bus202:::bus202d103:::bus 202 d103 foundations for collaborative work environments
-1508:_:bus:::202:::d200:::Foundations for Collaborative Work Environments:::bus202:::bus202d200:::bus 202 d200 foundations for collaborative work environments
-1509:_:bus:::202:::d201:::Foundations for Collaborative Work Environments:::bus202:::bus202d201:::bus 202 d201 foundations for collaborative work environments
-1510:_:bus:::202:::d202:::Foundations for Collaborative Work Environments:::bus202:::bus202d202:::bus 202 d202 foundations for collaborative work environments
-1511:_:bus:::202:::d203:::Foundations for Collaborative Work Environments:::bus202:::bus202d203:::bus 202 d203 foundations for collaborative work environments
-1512:_:bus:::404:::d100:::Technology Entrepreneurship I:::bus404:::bus404d100:::bus 404 d100 technology entrepreneurship i
-1513:_:chem:::260:::d100:::Atoms, Molecules, Spectroscopy:::chem260:::chem260d100:::chem 260 d100 atoms, molecules, spectroscopy
-1514:_:chem:::260:::d101:::Atoms, Molecules, Spectroscopy:::chem260:::chem260d101:::chem 260 d101 atoms, molecules, spectroscopy
-1515:_:chem:::260:::la01:::Atoms, Molecules, Spectroscopy:::chem260:::chem260la01:::chem 260 la01 atoms, molecules, spectroscopy
-1516:_:chem:::260:::la02:::Atoms, Molecules, Spectroscopy:::chem260:::chem260la02:::chem 260 la02 atoms, molecules, spectroscopy
-1517:_:mse:::898:::g100:::MASc Thesis:::mse898:::mse898g100:::mse 898 g100 masc thesis
-1518:_:hsci:::431:::d100:::The Global HIV/AIDS Epidemic:::hsci431:::hsci431d100:::hsci 431 d100 the global hiv/aids epidemic
-1519:_:hsci:::340:::d100:::Social Determinants of Health:::hsci340:::hsci340d100:::hsci 340 d100 social determinants of health
-1520:_:hsci:::324:::d100:::Human Population Genetics and Evolution:::hsci324:::hsci324d100:::hsci 324 d100 human population genetics and evolution
-1521:_:mse:::892:::g100:::Directed Studies II:::mse892:::mse892g100:::mse 892 g100 directed studies ii
-1522:_:mse:::895:::g100:::Special Topics III:::mse895:::mse895g100:::mse 895 g100 special topics iii
-1523:_:mse:::893:::g100:::Special Topics I:::mse893:::mse893g100:::mse 893 g100 special topics i
-1524:_:mse:::893:::lab1:::Special Topics I:::mse893:::mse893lab1:::mse 893 lab1 special topics i
-1525:_:mse:::893:::lab2:::Special Topics I:::mse893:::mse893lab2:::mse 893 lab2 special topics i
-1526:_:chem:::306:::d100:::Practicum I:::chem306:::chem306d100:::chem 306 d100 practicum i
-1527:_:chem:::306:::d200:::Practicum I:::chem306:::chem306d200:::chem 306 d200 practicum i
-1528:_:chem:::306:::i100:::Practicum I:::chem306:::chem306i100:::chem 306 i100 practicum i
-1529:_:chem:::286:::la03:::Organic Chemistry Laboratory II:::chem286:::chem286la03:::chem 286 la03 organic chemistry laboratory ii
-1530:_:chem:::286:::la06:::Organic Chemistry Laboratory II:::chem286:::chem286la06:::chem 286 la06 organic chemistry laboratory ii
-1531:_:bisc:::422:::d100:::Population Genetics:::bisc422:::bisc422d100:::bisc 422 d100 population genetics
-1532:_:bisc:::422:::d101:::Population Genetics:::bisc422:::bisc422d101:::bisc 422 d101 population genetics
-1533:_:bisc:::422:::d102:::Population Genetics:::bisc422:::bisc422d102:::bisc 422 d102 population genetics
-1534:_:bisc:::422:::d103:::Population Genetics:::bisc422:::bisc422d103:::bisc 422 d103 population genetics
-1535:_:bisc:::422:::d104:::Population Genetics:::bisc422:::bisc422d104:::bisc 422 d104 population genetics
-1536:_:chem:::282:::d100:::Organic Chemistry II:::chem282:::chem282d100:::chem 282 d100 organic chemistry ii
-1537:_:chem:::282:::d101:::Organic Chemistry II:::chem282:::chem282d101:::chem 282 d101 organic chemistry ii
-1538:_:chem:::282:::d102:::Organic Chemistry II:::chem282:::chem282d102:::chem 282 d102 organic chemistry ii
-1539:_:chem:::282:::d103:::Organic Chemistry II:::chem282:::chem282d103:::chem 282 d103 organic chemistry ii
-1540:_:chem:::282:::d104:::Organic Chemistry II:::chem282:::chem282d104:::chem 282 d104 organic chemistry ii
-1541:_:chem:::282:::d105:::Organic Chemistry II:::chem282:::chem282d105:::chem 282 d105 organic chemistry ii
-1542:_:chem:::282:::d106:::Organic Chemistry II:::chem282:::chem282d106:::chem 282 d106 organic chemistry ii
-1543:_:chem:::282:::d107:::Organic Chemistry II:::chem282:::chem282d107:::chem 282 d107 organic chemistry ii
-1544:_:chem:::282:::d108:::Organic Chemistry II:::chem282:::chem282d108:::chem 282 d108 organic chemistry ii
-1545:_:chem:::282:::d109:::Organic Chemistry II:::chem282:::chem282d109:::chem 282 d109 organic chemistry ii
-1546:_:chem:::282:::d110:::Organic Chemistry II:::chem282:::chem282d110:::chem 282 d110 organic chemistry ii
-1547:_:chem:::282:::d111:::Organic Chemistry II:::chem282:::chem282d111:::chem 282 d111 organic chemistry ii
-1548:_:chem:::282:::d112:::Organic Chemistry II:::chem282:::chem282d112:::chem 282 d112 organic chemistry ii
-1549:_:chem:::282:::d113:::Organic Chemistry II:::chem282:::chem282d113:::chem 282 d113 organic chemistry ii
-1550:_:chem:::282:::d114:::Organic Chemistry II:::chem282:::chem282d114:::chem 282 d114 organic chemistry ii
-1551:_:chem:::282:::d115:::Organic Chemistry II:::chem282:::chem282d115:::chem 282 d115 organic chemistry ii
-1552:_:chem:::281:::d100:::Organic Chemistry I:::chem281:::chem281d100:::chem 281 d100 organic chemistry i
-1553:_:chem:::281:::d101:::Organic Chemistry I:::chem281:::chem281d101:::chem 281 d101 organic chemistry i
-1554:_:chem:::281:::d102:::Organic Chemistry I:::chem281:::chem281d102:::chem 281 d102 organic chemistry i
-1555:_:chem:::281:::d103:::Organic Chemistry I:::chem281:::chem281d103:::chem 281 d103 organic chemistry i
-1556:_:chem:::281:::d104:::Organic Chemistry I:::chem281:::chem281d104:::chem 281 d104 organic chemistry i
-1557:_:chem:::281:::d105:::Organic Chemistry I:::chem281:::chem281d105:::chem 281 d105 organic chemistry i
-1558:_:chem:::281:::d106:::Organic Chemistry I:::chem281:::chem281d106:::chem 281 d106 organic chemistry i
-1559:_:chem:::281:::d107:::Organic Chemistry I:::chem281:::chem281d107:::chem 281 d107 organic chemistry i
-1560:_:chem:::281:::d108:::Organic Chemistry I:::chem281:::chem281d108:::chem 281 d108 organic chemistry i
-1561:_:chem:::281:::d109:::Organic Chemistry I:::chem281:::chem281d109:::chem 281 d109 organic chemistry i
-1562:_:chem:::281:::d110:::Organic Chemistry I:::chem281:::chem281d110:::chem 281 d110 organic chemistry i
-1563:_:chem:::281:::la04:::Organic Chemistry I:::chem281:::chem281la04:::chem 281 la04 organic chemistry i
-1564:_:chem:::281:::la05:::Organic Chemistry I:::chem281:::chem281la05:::chem 281 la05 organic chemistry i
-1565:_:chem:::281:::lb04:::Organic Chemistry I:::chem281:::chem281lb04:::chem 281 lb04 organic chemistry i
-1566:_:chem:::281:::lb05:::Organic Chemistry I:::chem281:::chem281lb05:::chem 281 lb05 organic chemistry i
-1567:_:chem:::281:::le01:::Organic Chemistry I:::chem281:::chem281le01:::chem 281 le01 organic chemistry i
-1568:_:engl:::359:::c100:::Studies in the Literature of British Columbia:::engl359:::engl359c100:::engl 359 c100 studies in the literature of british columbia
-1569:_:hsci:::432:::d100:::Seminar in Epidemiology:::hsci432:::hsci432d100:::hsci 432 d100 seminar in epidemiology
-1570:_:engl:::357:::e100:::Studies in Canadian Literature since 1920:::engl357:::engl357e100:::engl 357 e100 studies in canadian literature since 1920
-1571:_:hsci:::441:::d100:::Virology Laboratory:::hsci441:::hsci441d100:::hsci 441 d100 virology laboratory
-1572:_:engl:::364:::d100:::Literary Criticism: History, Theory, and Practice:::engl364:::engl364d100:::engl 364 d100 literary criticism: history, theory, and practice
-1573:_:bpk:::443:::d100:::Advanced Exercise Prescription:::bpk443:::bpk443d100:::bpk 443 d100 advanced exercise prescription
-1574:_:engl:::899:::g100:::PhD Thesis:::engl899:::engl899g100:::engl 899 g100 phd thesis
-1575:_:hsci:::442:::d100:::Immunology Laboratory:::hsci442:::hsci442d100:::hsci 442 d100 immunology laboratory
-1576:_:math:::877:::g100:::Supplementary Reading:::math877:::math877g100:::math 877 g100 supplementary reading
-1577:_:eco:::641:::g200:::First Nations & Social Perspectives of Ecological Restoration:::eco641:::eco641g200:::eco 641 g200 first nations & social perspectives of ecological restoration
-1578:_:eco:::641:::g300:::First Nations & Social Perspectives of Ecological Restoration:::eco641:::eco641g300:::eco 641 g300 first nations & social perspectives of ecological restoration
-1579:_:eco:::621:::g100:::Graduate Seminars in Research Methods:::eco621:::eco621g100:::eco 621 g100 graduate seminars in research methods
-1580:_:eco:::622:::g200:::Project Management and Policy for Ecological Restoration:::eco622:::eco622g200:::eco 622 g200 project management and policy for ecological restoration
-1581:_:mse:::483:::d100:::Modern Control Systems:::mse483:::mse483d100:::mse 483 d100 modern control systems
-1582:_:mse:::483:::lab1:::Modern Control Systems:::mse483:::mse483lab1:::mse 483 lab1 modern control systems
-1583:_:mse:::483:::lab2:::Modern Control Systems:::mse483:::mse483lab2:::mse 483 lab2 modern control systems
-1584:_:mse:::402:::d100:::Engineering Ethics, Law, and Professional Practice:::mse402:::mse402d100:::mse 402 d100 engineering ethics, law, and professional practice
-1585:_:mse:::402:::d101:::Engineering Ethics, Law, and Professional Practice:::mse402:::mse402d101:::mse 402 d101 engineering ethics, law, and professional practice
-1586:_:phys:::871:::g100:::Introduction to Elementary Particle Physics:::phys871:::phys871g100:::phys 871 g100 introduction to elementary particle physics
-1587:_:mse:::280:::d100:::Linear Systems:::mse280:::mse280d100:::mse 280 d100 linear systems
-1588:_:mse:::280:::lab1:::Linear Systems:::mse280:::mse280lab1:::mse 280 lab1 linear systems
-1589:_:mse:::280:::lab2:::Linear Systems:::mse280:::mse280lab2:::mse 280 lab2 linear systems
-1590:_:mse:::210:::d100:::Engineering Measurement and Data Analysis:::mse210:::mse210d100:::mse 210 d100 engineering measurement and data analysis
-1591:_:mse:::210:::lab1:::Engineering Measurement and Data Analysis:::mse210:::mse210lab1:::mse 210 lab1 engineering measurement and data analysis
-1592:_:mse:::210:::lab2:::Engineering Measurement and Data Analysis:::mse210:::mse210lab2:::mse 210 lab2 engineering measurement and data analysis
-1593:_:econ:::900:::g100:::PhD Field Paper:::econ900:::econ900g100:::econ 900 g100 phd field paper
-1594:_:psyc:::494:::d100:::Directed Studies:::psyc494:::psyc494d100:::psyc 494 d100 directed studies
-1595:_:phys:::493:::d100:::Special Topics in Physics:::phys493:::phys493d100:::phys 493 d100 special topics in physics
-1596:_:phys:::493:::d101:::Special Topics in Physics:::phys493:::phys493d101:::phys 493 d101 special topics in physics
-1597:_:psyc:::493:::d100:::Directed Studies:::psyc493:::psyc493d100:::psyc 493 d100 directed studies
-1598:_:chem:::230:::d100:::Inorganic Chemistry:::chem230:::chem230d100:::chem 230 d100 inorganic chemistry
-1599:_:chem:::230:::d101:::Inorganic Chemistry:::chem230:::chem230d101:::chem 230 d101 inorganic chemistry
-1600:_:psyc:::495:::d100:::Directed Studies:::psyc495:::psyc495d100:::psyc 495 d100 directed studies
-1601:_:math:::890:::g100:::Practicum I:::math890:::math890g100:::math 890 g100 practicum i
-1602:_:math:::890:::g200:::Practicum I:::math890:::math890g200:::math 890 g200 practicum i
-1603:_:sci:::191:::d100:::Introduction to Modern Scientific Research:::sci191:::sci191d100:::sci 191 d100 introduction to modern scientific research
-1604:_:math:::891:::g100:::Practicum II:::math891:::math891g100:::math 891 g100 practicum ii
-1605:_:math:::891:::g200:::Practicum II:::math891:::math891g200:::math 891 g200 practicum ii
-1606:_:phys:::132:::la01:::Physics Laboratory I:::phys132:::phys132la01:::phys 132 la01 physics laboratory i
-1607:_:mse:::891:::g100:::Directed Studies I:::mse891:::mse891g100:::mse 891 g100 directed studies i
-1608:_:phys:::133:::la01:::Physics Laboratory II:::phys133:::phys133la01:::phys 133 la01 physics laboratory ii
-1609:_:chem:::122:::d100:::General Chemistry II:::chem122:::chem122d100:::chem 122 d100 general chemistry ii
-1610:_:chem:::122:::d101:::General Chemistry II:::chem122:::chem122d101:::chem 122 d101 general chemistry ii
-1611:_:chem:::122:::d102:::General Chemistry II:::chem122:::chem122d102:::chem 122 d102 general chemistry ii
-1612:_:chem:::122:::d103:::General Chemistry II:::chem122:::chem122d103:::chem 122 d103 general chemistry ii
-1613:_:chem:::122:::d105:::General Chemistry II:::chem122:::chem122d105:::chem 122 d105 general chemistry ii
-1614:_:chem:::122:::d106:::General Chemistry II:::chem122:::chem122d106:::chem 122 d106 general chemistry ii
-1615:_:chem:::122:::d107:::General Chemistry II:::chem122:::chem122d107:::chem 122 d107 general chemistry ii
-1616:_:chem:::122:::d108:::General Chemistry II:::chem122:::chem122d108:::chem 122 d108 general chemistry ii
-1617:_:chem:::122:::d109:::General Chemistry II:::chem122:::chem122d109:::chem 122 d109 general chemistry ii
-1618:_:chem:::122:::d110:::General Chemistry II:::chem122:::chem122d110:::chem 122 d110 general chemistry ii
-1619:_:chem:::122:::d111:::General Chemistry II:::chem122:::chem122d111:::chem 122 d111 general chemistry ii
-1620:_:chem:::122:::d112:::General Chemistry II:::chem122:::chem122d112:::chem 122 d112 general chemistry ii
-1621:_:chem:::122:::d114:::General Chemistry II:::chem122:::chem122d114:::chem 122 d114 general chemistry ii
-1622:_:chem:::122:::d115:::General Chemistry II:::chem122:::chem122d115:::chem 122 d115 general chemistry ii
-1623:_:chem:::122:::d200:::General Chemistry II:::chem122:::chem122d200:::chem 122 d200 general chemistry ii
-1624:_:chem:::122:::d201:::General Chemistry II:::chem122:::chem122d201:::chem 122 d201 general chemistry ii
-1625:_:chem:::122:::d202:::General Chemistry II:::chem122:::chem122d202:::chem 122 d202 general chemistry ii
-1626:_:chem:::122:::d203:::General Chemistry II:::chem122:::chem122d203:::chem 122 d203 general chemistry ii
-1627:_:chem:::122:::d204:::General Chemistry II:::chem122:::chem122d204:::chem 122 d204 general chemistry ii
-1628:_:chem:::122:::d205:::General Chemistry II:::chem122:::chem122d205:::chem 122 d205 general chemistry ii
-1629:_:chem:::122:::d206:::General Chemistry II:::chem122:::chem122d206:::chem 122 d206 general chemistry ii
-1630:_:chem:::122:::d300:::General Chemistry II:::chem122:::chem122d300:::chem 122 d300 general chemistry ii
-1631:_:chem:::122:::d301:::General Chemistry II:::chem122:::chem122d301:::chem 122 d301 general chemistry ii
-1632:_:chem:::126:::la02:::General Chemistry Laboratory II:::chem126:::chem126la02:::chem 126 la02 general chemistry laboratory ii
-1633:_:chem:::126:::la03:::General Chemistry Laboratory II:::chem126:::chem126la03:::chem 126 la03 general chemistry laboratory ii
-1634:_:chem:::126:::la06:::General Chemistry Laboratory II:::chem126:::chem126la06:::chem 126 la06 general chemistry laboratory ii
-1635:_:chem:::126:::lc01:::General Chemistry Laboratory II:::chem126:::chem126lc01:::chem 126 lc01 general chemistry laboratory ii
-1636:_:chem:::126:::lc02:::General Chemistry Laboratory II:::chem126:::chem126lc02:::chem 126 lc02 general chemistry laboratory ii
-1637:_:chem:::126:::lc05:::General Chemistry Laboratory II:::chem126:::chem126lc05:::chem 126 lc05 general chemistry laboratory ii
-1638:_:hist:::897:::g100:::Supervised Readings:::hist897:::hist897g100:::hist 897 g100 supervised readings
-1639:_:fren:::222:::d100:::French Writing II:::fren222:::fren222d100:::fren 222 d100 french writing ii
-1640:_:fren:::222:::d200:::French Writing II:::fren222:::fren222d200:::fren 222 d200 french writing ii
-1641:_:fren:::222:::f100:::French Writing II:::fren222:::fren222f100:::fren 222 f100 french writing ii
-1642:_:math:::801:::g100:::Computer Algebra:::math801:::math801g100:::math 801 g100 computer algebra
-1643:_:hist:::898:::g100:::MA Thesis:::hist898:::hist898g100:::hist 898 g100 ma thesis
-1644:_:hist:::898:::g200:::MA Thesis:::hist898:::hist898g200:::hist 898 g200 ma thesis
-1645:_:chem:::121:::d100:::General Chemistry and Laboratory I:::chem121:::chem121d100:::chem 121 d100 general chemistry and laboratory i
-1646:_:chem:::121:::d102:::General Chemistry and Laboratory I:::chem121:::chem121d102:::chem 121 d102 general chemistry and laboratory i
-1647:_:chem:::121:::d103:::General Chemistry and Laboratory I:::chem121:::chem121d103:::chem 121 d103 general chemistry and laboratory i
-1648:_:chem:::121:::d104:::General Chemistry and Laboratory I:::chem121:::chem121d104:::chem 121 d104 general chemistry and laboratory i
-1649:_:chem:::121:::d105:::General Chemistry and Laboratory I:::chem121:::chem121d105:::chem 121 d105 general chemistry and laboratory i
-1650:_:chem:::121:::d106:::General Chemistry and Laboratory I:::chem121:::chem121d106:::chem 121 d106 general chemistry and laboratory i
-1651:_:chem:::121:::d108:::General Chemistry and Laboratory I:::chem121:::chem121d108:::chem 121 d108 general chemistry and laboratory i
-1652:_:chem:::121:::d109:::General Chemistry and Laboratory I:::chem121:::chem121d109:::chem 121 d109 general chemistry and laboratory i
-1653:_:chem:::121:::d110:::General Chemistry and Laboratory I:::chem121:::chem121d110:::chem 121 d110 general chemistry and laboratory i
-1654:_:chem:::121:::d111:::General Chemistry and Laboratory I:::chem121:::chem121d111:::chem 121 d111 general chemistry and laboratory i
-1655:_:chem:::121:::d112:::General Chemistry and Laboratory I:::chem121:::chem121d112:::chem 121 d112 general chemistry and laboratory i
-1656:_:chem:::121:::d115:::General Chemistry and Laboratory I:::chem121:::chem121d115:::chem 121 d115 general chemistry and laboratory i
-1657:_:chem:::121:::d116:::General Chemistry and Laboratory I:::chem121:::chem121d116:::chem 121 d116 general chemistry and laboratory i
-1658:_:chem:::121:::la04:::General Chemistry and Laboratory I:::chem121:::chem121la04:::chem 121 la04 general chemistry and laboratory i
-1659:_:chem:::121:::la06:::General Chemistry and Laboratory I:::chem121:::chem121la06:::chem 121 la06 general chemistry and laboratory i
-1660:_:chem:::121:::lb04:::General Chemistry and Laboratory I:::chem121:::chem121lb04:::chem 121 lb04 general chemistry and laboratory i
-1661:_:chem:::121:::lb06:::General Chemistry and Laboratory I:::chem121:::chem121lb06:::chem 121 lb06 general chemistry and laboratory i
-1662:_:chem:::121:::le01:::General Chemistry and Laboratory I:::chem121:::chem121le01:::chem 121 le01 general chemistry and laboratory i
-1663:_:hist:::899:::g100:::PhD Thesis:::hist899:::hist899g100:::hist 899 g100 phd thesis
-1664:_:hist:::899:::g200:::PhD Thesis:::hist899:::hist899g200:::hist 899 g200 phd thesis
-1665:_:ensc:::896:::g100:::MEng Project (Completion):::ensc896:::ensc896g100:::ensc 896 g100 meng project (completion)
-1666:_:ensc:::896:::g200:::MEng Project (Completion):::ensc896:::ensc896g200:::ensc 896 g200 meng project (completion)
-1667:_:ensc:::896:::g300:::MEng Project (Completion):::ensc896:::ensc896g300:::ensc 896 g300 meng project (completion)
-1668:_:ensc:::896:::g400:::MEng Project (Completion):::ensc896:::ensc896g400:::ensc 896 g400 meng project (completion)
-1669:_:chem:::215:::d100:::Introduction to Analytical Chemistry:::chem215:::chem215d100:::chem 215 d100 introduction to analytical chemistry
-1670:_:chem:::215:::la01:::Introduction to Analytical Chemistry:::chem215:::chem215la01:::chem 215 la01 introduction to analytical chemistry
-1671:_:chem:::215:::la02:::Introduction to Analytical Chemistry:::chem215:::chem215la02:::chem 215 la02 introduction to analytical chemistry
-1672:_:chem:::215:::la04:::Introduction to Analytical Chemistry:::chem215:::chem215la04:::chem 215 la04 introduction to analytical chemistry
-1673:_:rem:::471:::d100:::Forest Ecosystem Management:::rem471:::rem471d100:::rem 471 d100 forest ecosystem management
-1674:_:rem:::471:::d101:::Forest Ecosystem Management:::rem471:::rem471d101:::rem 471 d101 forest ecosystem management
-1675:_:rem:::471:::d103:::Forest Ecosystem Management:::rem471:::rem471d103:::rem 471 d103 forest ecosystem management
-1676:_:math:::876:::g100:::PhD Comprehensive Examination:::math876:::math876g100:::math 876 g100 phd comprehensive examination
-1677:_:bus:::439:::d100:::Analytics Project:::bus439:::bus439d100:::bus 439 d100 analytics project
-1678:_:fnst:::402w:::e100:::The Discourse of Aboriginal Peoples:::fnst402w:::fnst402we100:::fnst 402w e100 the discourse of aboriginal peoples
-1679:_:engl:::875:::d100:::Directed Studies:::engl875:::engl875d100:::engl 875 d100 directed studies
-1680:_:engl:::880:::g100:::Pro-seminar I:::engl880:::engl880g100:::engl 880 g100 pro-seminar i
-1681:_:sa:::355:::d100:::Quantitative Methods (S):::sa355:::sa355d100:::sa 355 d100 quantitative methods (s)
-1682:_:pol:::401:::d100:::Political Science Practicum IV:::pol401:::pol401d100:::pol 401 d100 political science practicum iv
-1683:_:pol:::401:::d200:::Political Science Practicum IV:::pol401:::pol401d200:::pol 401 d200 political science practicum iv
-1684:_:pol:::401:::i100:::Political Science Practicum IV:::pol401:::pol401i100:::pol 401 i100 political science practicum iv
-1685:_:sd:::803:::d100:::Directed Studies in Sustainable Development:::sd803:::sd803d100:::sd 803 d100 directed studies in sustainable development
-1686:_:engl:::891:::g100:::MA Paper/Project:::engl891:::engl891g100:::engl 891 g100 ma paper/project
-1687:_:engl:::891:::g900:::MA Paper/Project:::engl891:::engl891g900:::engl 891 g900 ma paper/project
-1688:_:engl:::892:::g100:::PhD Field Exam One:::engl892:::engl892g100:::engl 892 g100 phd field exam one
-1689:_:sa:::358:::c100:::The Philosophy of the Social Sciences (SA):::sa358:::sa358c100:::sa 358 c100 the philosophy of the social sciences (sa)
-1690:_:ensc:::491:::d100:::Special Project Laboratory:::ensc491:::ensc491d100:::ensc 491 d100 special project laboratory
-1691:_:engl:::890:::g100:::MA Thesis:::engl890:::engl890g100:::engl 890 g100 ma thesis
-1692:_:ensc:::493:::d100:::Special Project Laboratory:::ensc493:::ensc493d100:::ensc 493 d100 special project laboratory
-1693:_:engl:::893:::g100:::PhD Field Exam Two:::engl893:::engl893g100:::engl 893 g100 phd field exam two
-1694:_:rem:::602:::g200:::Professional Planning Practice: Advanced Seminar:::rem602:::rem602g200:::rem 602 g200 professional planning practice: advanced seminar
-1695:_:mse:::921:::g100:::Product Realization Project I:::mse921:::mse921g100:::mse 921 g100 product realization project i
-1696:_:mse:::921:::opl1:::Product Realization Project I:::mse921:::mse921opl1:::mse 921 opl1 product realization project i
-1697:_:mse:::921:::opl2:::Product Realization Project I:::mse921:::mse921opl2:::mse 921 opl2 product realization project i
-1698:_:mse:::921:::opl3:::Product Realization Project I:::mse921:::mse921opl3:::mse 921 opl3 product realization project i
-1699:_:ensc:::492:::d100:::Special Project Laboratory:::ensc492:::ensc492d100:::ensc 492 d100 special project laboratory
-1700:_:fren:::300:::d100:::Advanced French: Oral Practice:::fren300:::fren300d100:::fren 300 d100 advanced french: oral practice
-1701:_:bisc:::300:::d100:::Evolution:::bisc300:::bisc300d100:::bisc 300 d100 evolution
-1702:_:bisc:::300:::d101:::Evolution:::bisc300:::bisc300d101:::bisc 300 d101 evolution
-1703:_:bisc:::300:::d102:::Evolution:::bisc300:::bisc300d102:::bisc 300 d102 evolution
-1704:_:bisc:::300:::d103:::Evolution:::bisc300:::bisc300d103:::bisc 300 d103 evolution
-1705:_:bisc:::300:::d104:::Evolution:::bisc300:::bisc300d104:::bisc 300 d104 evolution
-1706:_:bisc:::300:::d105:::Evolution:::bisc300:::bisc300d105:::bisc 300 d105 evolution
-1707:_:bisc:::300:::d106:::Evolution:::bisc300:::bisc300d106:::bisc 300 d106 evolution
-1708:_:bisc:::300:::d107:::Evolution:::bisc300:::bisc300d107:::bisc 300 d107 evolution
-1709:_:bisc:::300:::d108:::Evolution:::bisc300:::bisc300d108:::bisc 300 d108 evolution
-1710:_:psyc:::499:::d100:::Honours Project:::psyc499:::psyc499d100:::psyc 499 d100 honours project
-1711:_:psyc:::715:::g100:::Proseminar in Measurement:::psyc715:::psyc715g100:::psyc 715 g100 proseminar in measurement
-1712:_:psyc:::715:::g900:::Proseminar in Measurement:::psyc715:::psyc715g900:::psyc 715 g900 proseminar in measurement
-1713:_:cmns:::480:::d001:::Directed Study:::cmns480:::cmns480d001:::cmns 480 d001 directed study
-1714:_:cmns:::480:::d002:::Directed Study:::cmns480:::cmns480d002:::cmns 480 d002 directed study
-1715:_:cmns:::480:::d003:::Directed Study:::cmns480:::cmns480d003:::cmns 480 d003 directed study
-1716:_:cmns:::480:::d004:::Directed Study:::cmns480:::cmns480d004:::cmns 480 d004 directed study
-1717:_:cmns:::480:::d005:::Directed Study:::cmns480:::cmns480d005:::cmns 480 d005 directed study
-1718:_:cmns:::480:::d006:::Directed Study:::cmns480:::cmns480d006:::cmns 480 d006 directed study
-1719:_:cmns:::480:::d007:::Directed Study:::cmns480:::cmns480d007:::cmns 480 d007 directed study
-1720:_:cmns:::480:::d008:::Directed Study:::cmns480:::cmns480d008:::cmns 480 d008 directed study
-1721:_:cmns:::480:::d009:::Directed Study:::cmns480:::cmns480d009:::cmns 480 d009 directed study
-1722:_:bus:::207:::d100:::Managerial Economics:::bus207:::bus207d100:::bus 207 d100 managerial economics
-1723:_:bus:::207:::d200:::Managerial Economics:::bus207:::bus207d200:::bus 207 d200 managerial economics
-1724:_:bus:::207:::e100:::Managerial Economics:::bus207:::bus207e100:::bus 207 e100 managerial economics
-1725:_:fnst:::341:::d100:::First Nations Co-op Practicum III:::fnst341:::fnst341d100:::fnst 341 d100 first nations co-op practicum iii
-1726:_:fnst:::341:::d200:::First Nations Co-op Practicum III:::fnst341:::fnst341d200:::fnst 341 d200 first nations co-op practicum iii
-1727:_:fnst:::341:::i100:::First Nations Co-op Practicum III:::fnst341:::fnst341i100:::fnst 341 i100 first nations co-op practicum iii
-1728:_:rem:::625:::g100:::Risk Assessment and Decision Analysis for Management of Natural Resources:::rem625:::rem625g100:::rem 625 g100 risk assessment and decision analysis for management of natural resources
-1729:_:hist:::344:::d100:::Themes in Modern East Africa:::hist344:::hist344d100:::hist 344 d100 themes in modern east africa
-1730:_:rem:::631:::g300:::Earth Systems and Global Change in Environmental Management:::rem631:::rem631g300:::rem 631 g300 earth systems and global change in environmental management
-1731:_:cmns:::482:::d001:::Directed Study:::cmns482:::cmns482d001:::cmns 482 d001 directed study
-1732:_:cmns:::482:::d002:::Directed Study:::cmns482:::cmns482d002:::cmns 482 d002 directed study
-1733:_:cmns:::482:::d003:::Directed Study:::cmns482:::cmns482d003:::cmns 482 d003 directed study
-1734:_:cmns:::482:::d004:::Directed Study:::cmns482:::cmns482d004:::cmns 482 d004 directed study
-1735:_:cmns:::482:::d005:::Directed Study:::cmns482:::cmns482d005:::cmns 482 d005 directed study
-1736:_:cmns:::482:::d006:::Directed Study:::cmns482:::cmns482d006:::cmns 482 d006 directed study
-1737:_:cmns:::482:::d007:::Directed Study:::cmns482:::cmns482d007:::cmns 482 d007 directed study
-1738:_:cmns:::482:::d008:::Directed Study:::cmns482:::cmns482d008:::cmns 482 d008 directed study
-1739:_:cmns:::482:::d009:::Directed Study:::cmns482:::cmns482d009:::cmns 482 d009 directed study
-1740:_:stat:::641:::g100:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat641:::stat641g100:::stat 641 g100 introduction to statistical computing and exploratory data analysis - r
-1741:_:stat:::641:::g101:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat641:::stat641g101:::stat 641 g101 introduction to statistical computing and exploratory data analysis - r
-1742:_:stat:::641:::g102:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat641:::stat641g102:::stat 641 g102 introduction to statistical computing and exploratory data analysis - r
-1743:_:stat:::641:::g103:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat641:::stat641g103:::stat 641 g103 introduction to statistical computing and exploratory data analysis - r
-1744:_:stat:::641:::g104:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat641:::stat641g104:::stat 641 g104 introduction to statistical computing and exploratory data analysis - r
-1745:_:stat:::641:::g105:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat641:::stat641g105:::stat 641 g105 introduction to statistical computing and exploratory data analysis - r
-1746:_:stat:::641:::g106:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat641:::stat641g106:::stat 641 g106 introduction to statistical computing and exploratory data analysis - r
-1747:_:cmns:::481:::d001:::Directed Study:::cmns481:::cmns481d001:::cmns 481 d001 directed study
-1748:_:cmns:::481:::d002:::Directed Study:::cmns481:::cmns481d002:::cmns 481 d002 directed study
-1749:_:cmns:::481:::d003:::Directed Study:::cmns481:::cmns481d003:::cmns 481 d003 directed study
-1750:_:cmns:::481:::d004:::Directed Study:::cmns481:::cmns481d004:::cmns 481 d004 directed study
-1751:_:cmns:::481:::d005:::Directed Study:::cmns481:::cmns481d005:::cmns 481 d005 directed study
-1752:_:cmns:::481:::d006:::Directed Study:::cmns481:::cmns481d006:::cmns 481 d006 directed study
-1753:_:cmns:::481:::d007:::Directed Study:::cmns481:::cmns481d007:::cmns 481 d007 directed study
-1754:_:cmns:::481:::d008:::Directed Study:::cmns481:::cmns481d008:::cmns 481 d008 directed study
-1755:_:cmns:::481:::d009:::Directed Study:::cmns481:::cmns481d009:::cmns 481 d009 directed study
-1756:_:hist:::350:::d100:::The Ottoman Empire and Turkey:::hist350:::hist350d100:::hist 350 d100 the ottoman empire and turkey
-1757:_:cmns:::483:::d001:::Directed Study:::cmns483:::cmns483d001:::cmns 483 d001 directed study
-1758:_:cmns:::483:::d002:::Directed Study:::cmns483:::cmns483d002:::cmns 483 d002 directed study
-1759:_:cmns:::483:::d003:::Directed Study:::cmns483:::cmns483d003:::cmns 483 d003 directed study
-1760:_:cmns:::483:::d004:::Directed Study:::cmns483:::cmns483d004:::cmns 483 d004 directed study
-1761:_:cmns:::483:::d005:::Directed Study:::cmns483:::cmns483d005:::cmns 483 d005 directed study
-1762:_:cmns:::483:::d006:::Directed Study:::cmns483:::cmns483d006:::cmns 483 d006 directed study
-1763:_:cmns:::483:::d007:::Directed Study:::cmns483:::cmns483d007:::cmns 483 d007 directed study
-1764:_:cmns:::483:::d008:::Directed Study:::cmns483:::cmns483d008:::cmns 483 d008 directed study
-1765:_:cmns:::483:::d009:::Directed Study:::cmns483:::cmns483d009:::cmns 483 d009 directed study
-1766:_:stat:::341:::d100:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat341:::stat341d100:::stat 341 d100 introduction to statistical computing and exploratory data analysis - r
-1767:_:stat:::341:::d101:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat341:::stat341d101:::stat 341 d101 introduction to statistical computing and exploratory data analysis - r
-1768:_:stat:::341:::d102:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat341:::stat341d102:::stat 341 d102 introduction to statistical computing and exploratory data analysis - r
-1769:_:stat:::341:::d103:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat341:::stat341d103:::stat 341 d103 introduction to statistical computing and exploratory data analysis - r
-1770:_:stat:::341:::d104:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat341:::stat341d104:::stat 341 d104 introduction to statistical computing and exploratory data analysis - r
-1771:_:stat:::341:::d105:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat341:::stat341d105:::stat 341 d105 introduction to statistical computing and exploratory data analysis - r
-1772:_:stat:::341:::d106:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat341:::stat341d106:::stat 341 d106 introduction to statistical computing and exploratory data analysis - r
-1773:_:fnst:::141:::d100:::First Nations Studies Co-op Practicum I:::fnst141:::fnst141d100:::fnst 141 d100 first nations studies co-op practicum i
-1774:_:fnst:::141:::d200:::First Nations Studies Co-op Practicum I:::fnst141:::fnst141d200:::fnst 141 d200 first nations studies co-op practicum i
-1775:_:fnst:::141:::i100:::First Nations Studies Co-op Practicum I:::fnst141:::fnst141i100:::fnst 141 i100 first nations studies co-op practicum i
-1776:_:bpk:::451w:::d100:::Practicum III:::bpk451w:::bpk451wd100:::bpk 451w d100 practicum iii
-1777:_:bpk:::451w:::d200:::Practicum III:::bpk451w:::bpk451wd200:::bpk 451w d200 practicum iii
-1778:_:ensc:::194:::d100:::Optional Job Practicum:::ensc194:::ensc194d100:::ensc 194 d100 optional job practicum
-1779:_:fren:::304:::d100:::Advanced French Grammar:::fren304:::fren304d100:::fren 304 d100 advanced french grammar
-1780:_:ensc:::488:::d100:::Introduction to Robotics:::ensc488:::ensc488d100:::ensc 488 d100 introduction to robotics
-1781:_:ensc:::488:::d101:::Introduction to Robotics:::ensc488:::ensc488d101:::ensc 488 d101 introduction to robotics
-1782:_:ensc:::488:::la01:::Introduction to Robotics:::ensc488:::ensc488la01:::ensc 488 la01 introduction to robotics
-1783:_:ensc:::195:::d100:::Industrial Internship I:::ensc195:::ensc195d100:::ensc 195 d100 industrial internship i
-1784:_:ensc:::195:::d200:::Industrial Internship I:::ensc195:::ensc195d200:::ensc 195 d200 industrial internship i
-1785:_:ensc:::195:::i100:::Industrial Internship I:::ensc195:::ensc195i100:::ensc 195 i100 industrial internship i
-1786:_:ensc:::196:::d100:::Special Internship I:::ensc196:::ensc196d100:::ensc 196 d100 special internship i
-1787:_:ensc:::196:::d200:::Special Internship I:::ensc196:::ensc196d200:::ensc 196 d200 special internship i
-1788:_:ensc:::196:::i100:::Special Internship I:::ensc196:::ensc196i100:::ensc 196 i100 special internship i
-1789:_:fren:::307:::d100:::The Right Word: Advanced Vocabulary and Translation:::fren307:::fren307d100:::fren 307 d100 the right word: advanced vocabulary and translation
-1790:_:psyc:::705:::g100:::Proseminar in History and Systems:::psyc705:::psyc705g100:::psyc 705 g100 proseminar in history and systems
-1791:_:bisc:::366:::d100:::Plant Physiology:::bisc366:::bisc366d100:::bisc 366 d100 plant physiology
-1792:_:bisc:::366:::d101:::Plant Physiology:::bisc366:::bisc366d101:::bisc 366 d101 plant physiology
-1793:_:bisc:::366:::d102:::Plant Physiology:::bisc366:::bisc366d102:::bisc 366 d102 plant physiology
-1794:_:bisc:::366:::d103:::Plant Physiology:::bisc366:::bisc366d103:::bisc 366 d103 plant physiology
-1795:_:hist:::338:::d100:::World War II:::hist338:::hist338d100:::hist 338 d100 world war ii
-1796:_:hist:::338:::d101:::World War II:::hist338:::hist338d101:::hist 338 d101 world war ii
-1797:_:hist:::338:::d102:::World War II:::hist338:::hist338d102:::hist 338 d102 world war ii
-1798:_:chem:::819:::d100:::Special Topics in Analytical Chemistry:::chem819:::chem819d100:::chem 819 d100 special topics in analytical chemistry
-1799:_:fren:::198:::e100:::French for Reading Knowledge I:::fren198:::fren198e100:::fren 198 e100 french for reading knowledge i
-1800:_:cmns:::327:::d100:::Media, Learning, and Social Change:::cmns327:::cmns327d100:::cmns 327 d100 media, learning, and social change
-1801:_:chem:::484:::d100:::Two-Semester Undergraduate Research in Chemistry:::chem484:::chem484d100:::chem 484 d100 two-semester undergraduate research in chemistry
-1802:_:chem:::802:::g100:::M.Sc. Research Proposal and Examination:::chem802:::chem802g100:::chem 802 g100 m.sc. research proposal and examination
-1803:_:bus:::483:::d100:::Introduction to Employment Law For Business:::bus483:::bus483d100:::bus 483 d100 introduction to employment law for business
-1804:_:ensc:::880:::g100:::PhD Qualifying Examination:::ensc880:::ensc880g100:::ensc 880 g100 phd qualifying examination
-1805:_:hist:::339:::c100:::The British Empire and Commonwealth:::hist339:::hist339c100:::hist 339 c100 the british empire and commonwealth
-1806:_:stat:::851:::g100:::Generalized Linear Models and Discrete Data Analysis:::stat851:::stat851g100:::stat 851 g100 generalized linear models and discrete data analysis
-1807:_:stat:::300w:::d100:::Statistics Communication:::stat300w:::stat300wd100:::stat 300w d100 statistics communication
-1808:_:ensc:::499:::d100:::Engineering Science Undergraduate Thesis:::ensc499:::ensc499d100:::ensc 499 d100 engineering science undergraduate thesis
-1809:_:engl:::434w:::e100:::Topics in the Victorian Period:::engl434w:::engl434we100:::engl 434w e100 topics in the victorian period
-1810:_:gsws:::210:::d100:::Gender Today:::gsws210:::gsws210d100:::gsws 210 d100 gender today
-1811:_:ling:::804:::g100:::Field Methods:::ling804:::ling804g100:::ling 804 g100 field methods
-1812:_:env:::402:::d100:::Environment Practicum III:::env402:::env402d100:::env 402 d100 environment practicum iii
-1813:_:env:::402:::d200:::Environment Practicum III:::env402:::env402d200:::env 402 d200 environment practicum iii
-1814:_:env:::402:::i100:::Environment Practicum III:::env402:::env402i100:::env 402 i100 environment practicum iii
-1815:_:fnst:::201w:::d100:::Canadian Aboriginal Peoples' Perspectives on History:::fnst201w:::fnst201wd100:::fnst 201w d100 canadian aboriginal peoples' perspectives on history
-1816:_:fnst:::241:::d100:::First Nations Studies Co-op Practicum II:::fnst241:::fnst241d100:::fnst 241 d100 first nations studies co-op practicum ii
-1817:_:fnst:::241:::d200:::First Nations Studies Co-op Practicum II:::fnst241:::fnst241d200:::fnst 241 d200 first nations studies co-op practicum ii
-1818:_:fnst:::241:::i100:::First Nations Studies Co-op Practicum II:::fnst241:::fnst241i100:::fnst 241 i100 first nations studies co-op practicum ii
-1819:_:acma:::850:::g100:::Actuarial Science: Selected Topics:::acma850:::acma850g100:::acma 850 g100 actuarial science: selected topics
-1820:_:acma:::850:::g101:::Actuarial Science: Selected Topics:::acma850:::acma850g101:::acma 850 g101 actuarial science: selected topics
-1821:_:env:::303:::d100:::Environment Practicum II:::env303:::env303d100:::env 303 d100 environment practicum ii
-1822:_:env:::303:::d200:::Environment Practicum II:::env303:::env303d200:::env 303 d200 environment practicum ii
-1823:_:env:::303:::i100:::Environment Practicum II:::env303:::env303i100:::env 303 i100 environment practicum ii
-1824:_:hist:::475:::d100:::Practicum IV:::hist475:::hist475d100:::hist 475 d100 practicum iv
-1825:_:hist:::475:::d200:::Practicum IV:::hist475:::hist475d200:::hist 475 d200 practicum iv
-1826:_:hist:::475:::i100:::Practicum IV:::hist475:::hist475i100:::hist 475 i100 practicum iv
-1827:_:cmns:::332:::d100:::Communication and Rhetoric:::cmns332:::cmns332d100:::cmns 332 d100 communication and rhetoric
-1828:_:fnst:::441:::d100:::First Nations Studies Co-op Practicum IV:::fnst441:::fnst441d100:::fnst 441 d100 first nations studies co-op practicum iv
-1829:_:fnst:::441:::d200:::First Nations Studies Co-op Practicum IV:::fnst441:::fnst441d200:::fnst 441 d200 first nations studies co-op practicum iv
-1830:_:fnst:::441:::i100:::First Nations Studies Co-op Practicum IV:::fnst441:::fnst441i100:::fnst 441 i100 first nations studies co-op practicum iv
-1831:_:env:::404:::d100:::Environment Practicum V:::env404:::env404d100:::env 404 d100 environment practicum v
-1832:_:env:::404:::d200:::Environment Practicum V:::env404:::env404d200:::env 404 d200 environment practicum v
-1833:_:env:::404:::i100:::Environment Practicum V:::env404:::env404i100:::env 404 i100 environment practicum v
-1834:_:hist:::439:::d100:::Catholicism in Early Modern Europe:::hist439:::hist439d100:::hist 439 d100 catholicism in early modern europe
-1835:_:acma:::820:::g100:::Stochastic Analysis of Insurance Portfolios:::acma820:::acma820g100:::acma 820 g100 stochastic analysis of insurance portfolios
-1836:_:acma:::820:::g101:::Stochastic Analysis of Insurance Portfolios:::acma820:::acma820g101:::acma 820 g101 stochastic analysis of insurance portfolios
-1837:_:env:::403:::d100:::Environment Practicum IV:::env403:::env403d100:::env 403 d100 environment practicum iv
-1838:_:env:::403:::d200:::Environment Practicum IV:::env403:::env403d200:::env 403 d200 environment practicum iv
-1839:_:env:::403:::i100:::Environment Practicum IV:::env403:::env403i100:::env 403 i100 environment practicum iv
-1840:_:env:::302:::d100:::Environment Practicum I:::env302:::env302d100:::env 302 d100 environment practicum i
-1841:_:env:::302:::d200:::Environment Practicum I:::env302:::env302d200:::env 302 d200 environment practicum i
-1842:_:env:::302:::i100:::Environment Practicum I:::env302:::env302i100:::env 302 i100 environment practicum i
-1843:_:bpk:::448:::d100:::Rehabilitation of Movement Control:::bpk448:::bpk448d100:::bpk 448 d100 rehabilitation of movement control
-1844:_:bpk:::446:::d100:::Neurological Disorders:::bpk446:::bpk446d100:::bpk 446 d100 neurological disorders
-1845:_:bpk:::452:::d100:::Practicum IV:::bpk452:::bpk452d100:::bpk 452 d100 practicum iv
-1846:_:bpk:::452:::d200:::Practicum IV:::bpk452:::bpk452d200:::bpk 452 d200 practicum iv
-1847:_:bpk:::452:::i100:::Practicum IV:::bpk452:::bpk452i100:::bpk 452 i100 practicum iv
-1848:_:cmns:::201:::d100:::Empirical Communication Research Methods:::cmns201:::cmns201d100:::cmns 201 d100 empirical communication research methods
-1849:_:cmns:::201:::d101:::Empirical Communication Research Methods:::cmns201:::cmns201d101:::cmns 201 d101 empirical communication research methods
-1850:_:cmns:::201:::d102:::Empirical Communication Research Methods:::cmns201:::cmns201d102:::cmns 201 d102 empirical communication research methods
-1851:_:cmns:::201:::d103:::Empirical Communication Research Methods:::cmns201:::cmns201d103:::cmns 201 d103 empirical communication research methods
-1852:_:cmns:::201:::d104:::Empirical Communication Research Methods:::cmns201:::cmns201d104:::cmns 201 d104 empirical communication research methods
-1853:_:cmns:::201:::d105:::Empirical Communication Research Methods:::cmns201:::cmns201d105:::cmns 201 d105 empirical communication research methods
-1854:_:cmns:::201:::d106:::Empirical Communication Research Methods:::cmns201:::cmns201d106:::cmns 201 d106 empirical communication research methods
-1855:_:cmns:::201:::d107:::Empirical Communication Research Methods:::cmns201:::cmns201d107:::cmns 201 d107 empirical communication research methods
-1856:_:cmns:::201:::d108:::Empirical Communication Research Methods:::cmns201:::cmns201d108:::cmns 201 d108 empirical communication research methods
-1857:_:cmns:::201:::d109:::Empirical Communication Research Methods:::cmns201:::cmns201d109:::cmns 201 d109 empirical communication research methods
-1858:_:bpk:::451:::d100:::Practicum III:::bpk451:::bpk451d100:::bpk 451 d100 practicum iii
-1859:_:bpk:::451:::d200:::Practicum III:::bpk451:::bpk451d200:::bpk 451 d200 practicum iii
-1860:_:bpk:::451:::i100:::Practicum III:::bpk451:::bpk451i100:::bpk 451 i100 practicum iii
-1861:_:fren:::210:::d100:::Intermediate French I:::fren210:::fren210d100:::fren 210 d100 intermediate french i
-1862:_:fren:::210:::d200:::Intermediate French I:::fren210:::fren210d200:::fren 210 d200 intermediate french i
-1863:_:fren:::210:::e100:::Intermediate French I:::fren210:::fren210e100:::fren 210 e100 intermediate french i
-1864:_:cmns:::455w:::d100:::Women and New Information Technologies:::cmns455w:::cmns455wd100:::cmns 455w d100 women and new information technologies
-1865:_:fren:::211:::d100:::Intermediate French II:::fren211:::fren211d100:::fren 211 d100 intermediate french ii
-1866:_:fren:::211:::d200:::Intermediate French II:::fren211:::fren211d200:::fren 211 d200 intermediate french ii
-1867:_:fren:::211:::e100:::Intermediate French II:::fren211:::fren211e100:::fren 211 e100 intermediate french ii
-1868:_:mse:::899:::g100:::PhD Thesis:::mse899:::mse899g100:::mse 899 g100 phd thesis
-1869:_:hist:::335:::d100:::The Soviet Project:::hist335:::hist335d100:::hist 335 d100 the soviet project
-1870:_:bpk:::453:::d100:::Practicum V:::bpk453:::bpk453d100:::bpk 453 d100 practicum v
-1871:_:bpk:::453:::d200:::Practicum V:::bpk453:::bpk453d200:::bpk 453 d200 practicum v
-1872:_:bpk:::453:::i100:::Practicum V:::bpk453:::bpk453i100:::bpk 453 i100 practicum v
-1873:_:bisc:::341:::d100:::Practicum I:::bisc341:::bisc341d100:::bisc 341 d100 practicum i
-1874:_:bisc:::341:::d200:::Practicum I:::bisc341:::bisc341d200:::bisc 341 d200 practicum i
-1875:_:bisc:::341:::i100:::Practicum I:::bisc341:::bisc341i100:::bisc 341 i100 practicum i
-1876:_:bisc:::342:::d100:::Practicum II:::bisc342:::bisc342d100:::bisc 342 d100 practicum ii
-1877:_:bisc:::342:::d200:::Practicum II:::bisc342:::bisc342d200:::bisc 342 d200 practicum ii
-1878:_:bisc:::342:::i100:::Practicum II:::bisc342:::bisc342i100:::bisc 342 i100 practicum ii
-1879:_:easc:::311:::d100:::Metamorphic Petrology:::easc311:::easc311d100:::easc 311 d100 metamorphic petrology
-1880:_:easc:::311:::d101:::Metamorphic Petrology:::easc311:::easc311d101:::easc 311 d101 metamorphic petrology
-1881:_:cmns:::461:::d100:::Field Placement in Dialogue:::cmns461:::cmns461d100:::cmns 461 d100 field placement in dialogue
-1882:_:cmns:::461:::d200:::Field Placement in Dialogue:::cmns461:::cmns461d200:::cmns 461 d200 field placement in dialogue
-1883:_:ensc:::494:::d100:::Special Project Laboratory:::ensc494:::ensc494d100:::ensc 494 d100 special project laboratory
-1884:_:cmns:::479:::d001:::Directed Study:::cmns479:::cmns479d001:::cmns 479 d001 directed study
-1885:_:cmns:::479:::d002:::Directed Study:::cmns479:::cmns479d002:::cmns 479 d002 directed study
-1886:_:cmns:::479:::d003:::Directed Study:::cmns479:::cmns479d003:::cmns 479 d003 directed study
-1887:_:cmns:::479:::d004:::Directed Study:::cmns479:::cmns479d004:::cmns 479 d004 directed study
-1888:_:cmns:::479:::d005:::Directed Study:::cmns479:::cmns479d005:::cmns 479 d005 directed study
-1889:_:cmns:::479:::d006:::Directed Study:::cmns479:::cmns479d006:::cmns 479 d006 directed study
-1890:_:cmns:::479:::d007:::Directed Study:::cmns479:::cmns479d007:::cmns 479 d007 directed study
-1891:_:cmns:::479:::d008:::Directed Study:::cmns479:::cmns479d008:::cmns 479 d008 directed study
-1892:_:cmns:::479:::d009:::Directed Study:::cmns479:::cmns479d009:::cmns 479 d009 directed study
-1893:_:acma:::815:::g100:::Rate of Return Models:::acma815:::acma815g100:::acma 815 g100 rate of return models
-1894:_:acma:::815:::g101:::Rate of Return Models:::acma815:::acma815g101:::acma 815 g101 rate of return models
-1895:_:bisc:::111:::d100:::Special Topics: Current Topics in Biology I:::bisc111:::bisc111d100:::bisc 111 d100 special topics: current topics in biology i
-1896:_:bisc:::111:::d101:::Special Topics: Current Topics in Biology I:::bisc111:::bisc111d101:::bisc 111 d101 special topics: current topics in biology i
-1897:_:bisc:::111:::d102:::Special Topics: Current Topics in Biology I:::bisc111:::bisc111d102:::bisc 111 d102 special topics: current topics in biology i
-1898:_:ensc:::495:::e100:::Introduction to Microelectronic Fabrication:::ensc495:::ensc495e100:::ensc 495 e100 introduction to microelectronic fabrication
-1899:_:ensc:::495:::la01:::Introduction to Microelectronic Fabrication:::ensc495:::ensc495la01:::ensc 495 la01 introduction to microelectronic fabrication
-1900:_:ensc:::495:::la02:::Introduction to Microelectronic Fabrication:::ensc495:::ensc495la02:::ensc 495 la02 introduction to microelectronic fabrication
-1901:_:engl:::438w:::d100:::Topics in Modernism:::engl438w:::engl438wd100:::engl 438w d100 topics in modernism
-1902:_:engl:::440w:::e100:::Topics in British Literature Post 1945:::engl440w:::engl440we100:::engl 440w e100 topics in british literature post 1945
-1903:_:ensc:::498:::d100:::Engineering Science Thesis Proposal:::ensc498:::ensc498d100:::ensc 498 d100 engineering science thesis proposal
-1904:_:fren:::217:::e100:::Intermediate French: Oral Practice Through Drama:::fren217:::fren217e100:::fren 217 e100 intermediate french: oral practice through drama
-1905:_:ling:::800:::g100:::Phonology:::ling800:::ling800g100:::ling 800 g100 phonology
-1906:_:engl:::436w:::d100:::Topics in Literature of Transition:::engl436w:::engl436wd100:::engl 436w d100 topics in literature of transition
-1907:_:fren:::221:::d100:::French Writing I:::fren221:::fren221d100:::fren 221 d100 french writing i
-1908:_:fren:::221:::d200:::French Writing I:::fren221:::fren221d200:::fren 221 d200 french writing i
-1909:_:psyc:::268:::c100:::Introduction to Law and Psychology:::psyc268:::psyc268c100:::psyc 268 c100 introduction to law and psychology
-1910:_:psyc:::268:::d100:::Introduction to Law and Psychology:::psyc268:::psyc268d100:::psyc 268 d100 introduction to law and psychology
-1911:_:arch:::100:::d100:::Ancient Peoples and Places:::arch100:::arch100d100:::arch 100 d100 ancient peoples and places
-1912:_:arch:::100:::d200:::Ancient Peoples and Places:::arch100:::arch100d200:::arch 100 d200 ancient peoples and places
-1913:_:arch:::100:::d900:::Ancient Peoples and Places:::arch100:::arch100d900:::arch 100 d900 ancient peoples and places
-1914:_:fren:::212:::d100:::French for Immersion Program Students:::fren212:::fren212d100:::fren 212 d100 french for immersion program students
-1915:_:easc:::312:::d100:::Stratigraphy:::easc312:::easc312d100:::easc 312 d100 stratigraphy
-1916:_:math:::341:::d100:::Algebra III: Groups:::math341:::math341d100:::math 341 d100 algebra iii: groups
-1917:_:math:::341:::d101:::Algebra III: Groups:::math341:::math341d101:::math 341 d101 algebra iii: groups
-1918:_:educ:::829:::g001:::Contemporary Issues in Learning and Developmental Disorders:::educ829:::educ829g001:::educ 829 g001 contemporary issues in learning and developmental disorders
-1919:_:math:::150:::d100:::Calculus I with Review:::math150:::math150d100:::math 150 d100 calculus i with review
-1920:_:math:::150:::d200:::Calculus I with Review:::math150:::math150d200:::math 150 d200 calculus i with review
-1921:_:math:::150:::op01:::Calculus I with Review:::math150:::math150op01:::math 150 op01 calculus i with review
-1922:_:math:::150:::op02:::Calculus I with Review:::math150:::math150op02:::math 150 op02 calculus i with review
-1923:_:engl:::340:::d100:::Studies in Twentieth Century British Literature before 1945:::engl340:::engl340d100:::engl 340 d100 studies in twentieth century british literature before 1945
-1924:_:engl:::852:::g100:::Studies in Gender, Sexuality, and Literature:::engl852:::engl852g100:::engl 852 g100 studies in gender, sexuality, and literature
-1925:_:fren:::425:::d100:::Topics in the Varieties of French:::fren425:::fren425d100:::fren 425 d100 topics in the varieties of french
-1926:_:engl:::347:::d100:::Studies in American Literature before 1900:::engl347:::engl347d100:::engl 347 d100 studies in american literature before 1900
-1927:_:bus:::440:::e100:::Simulation in Management Decision-making:::bus440:::bus440e100:::bus 440 e100 simulation in management decision-making
-1928:_:stat:::605:::g100:::Biostatistical Methods:::stat605:::stat605g100:::stat 605 g100 biostatistical methods
-1929:_:stat:::604:::g100:::Analysis of Experimental and Observational Data:::stat604:::stat604g100:::stat 604 g100 analysis of experimental and observational data
-1930:_:hsci:::100:::d100:::Human Biology:::hsci100:::hsci100d100:::hsci 100 d100 human biology
-1931:_:hsci:::100:::d200:::Human Biology:::hsci100:::hsci100d200:::hsci 100 d200 human biology
-1932:_:ensc:::450:::e100:::VLSI Systems Design:::ensc450:::ensc450e100:::ensc 450 e100 vlsi systems design
-1933:_:ensc:::450:::e101:::VLSI Systems Design:::ensc450:::ensc450e101:::ensc 450 e101 vlsi systems design
-1934:_:ensc:::450:::la01:::VLSI Systems Design:::ensc450:::ensc450la01:::ensc 450 la01 vlsi systems design
-1935:_:ensc:::450:::la02:::VLSI Systems Design:::ensc450:::ensc450la02:::ensc 450 la02 vlsi systems design
-1936:_:sa:::856:::g100:::Qualitative Sociological Research Methods:::sa856:::sa856g100:::sa 856 g100 qualitative sociological research methods
-1937:_:bpk:::899:::g100:::PhD Thesis:::bpk899:::bpk899g100:::bpk 899 g100 phd thesis
-1938:_:sa:::875:::g100:::Ethnographic Methodology: Social/Cultural Anthropology:::sa875:::sa875g100:::sa 875 g100 ethnographic methodology: social/cultural anthropology
-1939:_:ensc:::427:::d100:::Communication Networks:::ensc427:::ensc427d100:::ensc 427 d100 communication networks
-1940:_:ensc:::427:::d101:::Communication Networks:::ensc427:::ensc427d101:::ensc 427 d101 communication networks
-1941:_:ensc:::427:::la01:::Communication Networks:::ensc427:::ensc427la01:::ensc 427 la01 communication networks
-1942:_:bpk:::898:::g100:::MSc Thesis:::bpk898:::bpk898g100:::bpk 898 g100 msc thesis
-1943:_:ensc:::891:::g100:::Directed Studies I:::ensc891:::ensc891g100:::ensc 891 g100 directed studies i
-1944:_:ensc:::891:::g200:::Directed Studies I:::ensc891:::ensc891g200:::ensc 891 g200 directed studies i
-1945:_:ensc:::428:::d100:::Digital Communications:::ensc428:::ensc428d100:::ensc 428 d100 digital communications
-1946:_:ensc:::428:::d101:::Digital Communications:::ensc428:::ensc428d101:::ensc 428 d101 digital communications
-1947:_:ensc:::428:::la01:::Digital Communications:::ensc428:::ensc428la01:::ensc 428 la01 digital communications
-1948:_:ensc:::892:::g100:::Directed Studies II:::ensc892:::ensc892g100:::ensc 892 g100 directed studies ii
-1949:_:ensc:::892:::g200:::Directed Studies II:::ensc892:::ensc892g200:::ensc 892 g200 directed studies ii
-1950:_:math:::795:::g100:::Selected Topics in Applied Mathematics:::math795:::math795g100:::math 795 g100 selected topics in applied mathematics
-1951:_:engl:::831:::g100:::Studies in Early Modern Literature:::engl831:::engl831g100:::engl 831 g100 studies in early modern literature
-1952:_:arch:::450:::d100:::Practicum III:::arch450:::arch450d100:::arch 450 d100 practicum iii
-1953:_:arch:::450:::d200:::Practicum III:::arch450:::arch450d200:::arch 450 d200 practicum iii
-1954:_:arch:::451:::d100:::Practicum IV:::arch451:::arch451d100:::arch 451 d100 practicum iv
-1955:_:arch:::451:::d200:::Practicum IV:::arch451:::arch451d200:::arch 451 d200 practicum iv
-1956:_:bus:::432:::d100:::International Human Resource Management:::bus432:::bus432d100:::bus 432 d100 international human resource management
-1957:_:educ:::702:::g001:::Directed Readings:::educ702:::educ702g001:::educ 702 g001 directed readings
-1958:_:educ:::702:::g002:::Directed Readings:::educ702:::educ702g002:::educ 702 g002 directed readings
-1959:_:educ:::702:::g003:::Directed Readings:::educ702:::educ702g003:::educ 702 g003 directed readings
-1960:_:econ:::836:::g100:::Applied Econometrics:::econ836:::econ836g100:::econ 836 g100 applied econometrics
-1961:_:econ:::836:::g101:::Applied Econometrics:::econ836:::econ836g101:::econ 836 g101 applied econometrics
-1962:_:educ:::703:::g001:::Directed Readings:::educ703:::educ703g001:::educ 703 g001 directed readings
-1963:_:educ:::703:::g002:::Directed Readings:::educ703:::educ703g002:::educ 703 g002 directed readings
-1964:_:educ:::703:::g003:::Directed Readings:::educ703:::educ703g003:::educ 703 g003 directed readings
-1965:_:educ:::703:::g004:::Directed Readings:::educ703:::educ703g004:::educ 703 g004 directed readings
-1966:_:educ:::703:::g005:::Directed Readings:::educ703:::educ703g005:::educ 703 g005 directed readings
-1967:_:educ:::703:::g006:::Directed Readings:::educ703:::educ703g006:::educ 703 g006 directed readings
-1968:_:educ:::703:::g007:::Directed Readings:::educ703:::educ703g007:::educ 703 g007 directed readings
-1969:_:educ:::703:::g008:::Directed Readings:::educ703:::educ703g008:::educ 703 g008 directed readings
-1970:_:educ:::703:::g009:::Directed Readings:::educ703:::educ703g009:::educ 703 g009 directed readings
-1971:_:educ:::704:::g001:::Directed Readings:::educ704:::educ704g001:::educ 704 g001 directed readings
-1972:_:educ:::704:::g002:::Directed Readings:::educ704:::educ704g002:::educ 704 g002 directed readings
-1973:_:educ:::704:::g003:::Directed Readings:::educ704:::educ704g003:::educ 704 g003 directed readings
-1974:_:educ:::704:::g004:::Directed Readings:::educ704:::educ704g004:::educ 704 g004 directed readings
-1975:_:educ:::704:::g005:::Directed Readings:::educ704:::educ704g005:::educ 704 g005 directed readings
-1976:_:educ:::704:::g006:::Directed Readings:::educ704:::educ704g006:::educ 704 g006 directed readings
-1977:_:educ:::704:::g007:::Directed Readings:::educ704:::educ704g007:::educ 704 g007 directed readings
-1978:_:educ:::704:::g008:::Directed Readings:::educ704:::educ704g008:::educ 704 g008 directed readings
-1979:_:educ:::704:::g009:::Directed Readings:::educ704:::educ704g009:::educ 704 g009 directed readings
-1980:_:hist:::821:::g100:::Early Modern World:::hist821:::hist821g100:::hist 821 g100 early modern world
-1981:_:chem:::399:::d100:::Special Topics in Chemistry and Society:::chem399:::chem399d100:::chem 399 d100 special topics in chemistry and society
-1982:_:educ:::705:::g001:::Directed Readings:::educ705:::educ705g001:::educ 705 g001 directed readings
-1983:_:educ:::705:::g002:::Directed Readings:::educ705:::educ705g002:::educ 705 g002 directed readings
-1984:_:educ:::705:::g003:::Directed Readings:::educ705:::educ705g003:::educ 705 g003 directed readings
-1985:_:educ:::705:::g004:::Directed Readings:::educ705:::educ705g004:::educ 705 g004 directed readings
-1986:_:educ:::705:::g005:::Directed Readings:::educ705:::educ705g005:::educ 705 g005 directed readings
-1987:_:educ:::705:::g006:::Directed Readings:::educ705:::educ705g006:::educ 705 g006 directed readings
-1988:_:educ:::705:::g007:::Directed Readings:::educ705:::educ705g007:::educ 705 g007 directed readings
-1989:_:educ:::705:::g008:::Directed Readings:::educ705:::educ705g008:::educ 705 g008 directed readings
-1990:_:educ:::705:::g009:::Directed Readings:::educ705:::educ705g009:::educ 705 g009 directed readings
-1991:_:educ:::923:::g001:::Critical and Sociocultural Approaches to Educational Research:::educ923:::educ923g001:::educ 923 g001 critical and sociocultural approaches to educational research
-1992:_:educ:::924:::g001:::Multilingualism, Globalization, and Identities:::educ924:::educ924g001:::educ 924 g001 multilingualism, globalization, and identities
-1993:_:hist:::822:::g100:::Themes in British and Irish History:::hist822:::hist822g100:::hist 822 g100 themes in british and irish history
-1994:_:engl:::496:::d100:::Honors Graduating Essay:::engl496:::engl496d100:::engl 496 d100 honors graduating essay
-1995:_:engl:::496:::d200:::Honors Graduating Essay:::engl496:::engl496d200:::engl 496 d200 honors graduating essay
-1996:_:math:::882:::g100:::MSc Final Examination:::math882:::math882g100:::math 882 g100 msc final examination
-1997:_:math:::882:::g200:::MSc Final Examination:::math882:::math882g200:::math 882 g200 msc final examination
-1998:_:math:::879:::g100:::PhD Thesis Proposal:::math879:::math879g100:::math 879 g100 phd thesis proposal
-1999:_:mbb:::741:::g100:::Bioinformatics:::mbb741:::mbb741g100:::mbb 741 g100 bioinformatics
-2000:_:gsws:::840:::g100:::Directed Studies:::gsws840:::gsws840g100:::gsws 840 g100 directed studies
-2001:_:gsws:::840:::g200:::Directed Studies:::gsws840:::gsws840g200:::gsws 840 g200 directed studies
-2002:_:bpk:::208:::d100:::Introduction to Physiological Systems:::bpk208:::bpk208d100:::bpk 208 d100 introduction to physiological systems
-2003:_:bpk:::208:::d102:::Introduction to Physiological Systems:::bpk208:::bpk208d102:::bpk 208 d102 introduction to physiological systems
-2004:_:bpk:::208:::d103:::Introduction to Physiological Systems:::bpk208:::bpk208d103:::bpk 208 d103 introduction to physiological systems
-2005:_:bpk:::208:::d104:::Introduction to Physiological Systems:::bpk208:::bpk208d104:::bpk 208 d104 introduction to physiological systems
-2006:_:educ:::928:::g001:::Doctoral Seminar B:::educ928:::educ928g001:::educ 928 g001 doctoral seminar b
-2007:_:lbrl:::101:::d100:::Practicum I:::lbrl101:::lbrl101d100:::lbrl 101 d100 practicum i
-2008:_:lbrl:::101:::d200:::Practicum I:::lbrl101:::lbrl101d200:::lbrl 101 d200 practicum i
-2009:_:lbrl:::101:::i100:::Practicum I:::lbrl101:::lbrl101i100:::lbrl 101 i100 practicum i
-2010:_:bus:::462:::d100:::Business Analytics:::bus462:::bus462d100:::bus 462 d100 business analytics
-2011:_:bus:::462:::d200:::Business Analytics:::bus462:::bus462d200:::bus 462 d200 business analytics
-2012:_:geog:::491:::d100:::Honours Essay:::geog491:::geog491d100:::geog 491 d100 honours essay
-2013:_:geog:::491:::d200:::Honours Essay:::geog491:::geog491d200:::geog 491 d200 honours essay
-2014:_:lbrl:::301:::d100:::Practicum III:::lbrl301:::lbrl301d100:::lbrl 301 d100 practicum iii
-2015:_:lbrl:::301:::d200:::Practicum III:::lbrl301:::lbrl301d200:::lbrl 301 d200 practicum iii
-2016:_:lbrl:::301:::i100:::Practicum III:::lbrl301:::lbrl301i100:::lbrl 301 i100 practicum iii
-2017:_:bus:::449:::d100:::Ethical Issues in Marketing:::bus449:::bus449d100:::bus 449 d100 ethical issues in marketing
-2018:_:educ:::816:::g001:::Developing Educational Programs and Practices for Diverse Educational Settings:::educ816:::educ816g001:::educ 816 g001 developing educational programs and practices for diverse educational settings
-2019:_:lbrl:::201:::d100:::Practicum II:::lbrl201:::lbrl201d100:::lbrl 201 d100 practicum ii
-2020:_:lbrl:::201:::d200:::Practicum II:::lbrl201:::lbrl201d200:::lbrl 201 d200 practicum ii
-2021:_:lbrl:::201:::i100:::Practicum II:::lbrl201:::lbrl201i100:::lbrl 201 i100 practicum ii
-2022:_:mbb:::861:::g100:::Biomolecular Structure and Function Colloquium:::mbb861:::mbb861g100:::mbb 861 g100 biomolecular structure and function colloquium
-2023:_:econ:::842:::g100:::International Monetary Economics:::econ842:::econ842g100:::econ 842 g100 international monetary economics
-2024:_:bus:::468:::d100:::Managing Information Technology for Business Value:::bus468:::bus468d100:::bus 468 d100 managing information technology for business value
-2025:_:bus:::468:::d200:::Managing Information Technology for Business Value:::bus468:::bus468d200:::bus 468 d200 managing information technology for business value
-2026:_:bus:::464:::d100:::Business Data Management:::bus464:::bus464d100:::bus 464 d100 business data management
-2027:_:bus:::464:::d200:::Business Data Management:::bus464:::bus464d200:::bus 464 d200 business data management
-2028:_:gsws:::997:::g100:::PhD Comprehensive Examination:::gsws997:::gsws997g100:::gsws 997 g100 phd comprehensive examination
-2029:_:gsws:::997:::g200:::PhD Comprehensive Examination:::gsws997:::gsws997g200:::gsws 997 g200 phd comprehensive examination
-2030:_:gsws:::998:::g100:::PhD Thesis:::gsws998:::gsws998g100:::gsws 998 g100 phd thesis
-2031:_:gsws:::998:::g200:::PhD Thesis:::gsws998:::gsws998g200:::gsws 998 g200 phd thesis
-2032:_:gsws:::898:::g100:::MA Thesis:::gsws898:::gsws898g100:::gsws 898 g100 ma thesis
-2033:_:gsws:::898:::g200:::MA Thesis:::gsws898:::gsws898g200:::gsws 898 g200 ma thesis
-2034:_:bisc:::423:::d100:::Developmental Neurobiology:::bisc423:::bisc423d100:::bisc 423 d100 developmental neurobiology
-2035:_:ital:::391:::d100:::STT - The Medicean Circle:::ital391:::ital391d100:::ital 391 d100 stt - the medicean circle
-2036:_:econ:::838:::g100:::Econometrics II:::econ838:::econ838g100:::econ 838 g100 econometrics ii
-2037:_:gsws:::999:::g100:::MA Field Exam:::gsws999:::gsws999g100:::gsws 999 g100 ma field exam
-2038:_:gsws:::999:::g200:::MA Field Exam:::gsws999:::gsws999g200:::gsws 999 g200 ma field exam
-2039:_:econ:::840:::g100:::Theory of International Trade:::econ840:::econ840g100:::econ 840 g100 theory of international trade
+1313:_:cmns:::410:::d100:::Media and Ideology:::cmns410:::cmns410d100:::cmns 410 d100 media and ideology
+1314:_:buec:::232:::d100:::Data and Decisions I:::buec232:::buec232d100:::buec 232 d100 data and decisions i
+1315:_:buec:::232:::d200:::Data and Decisions I:::buec232:::buec232d200:::buec 232 d200 data and decisions i
+1316:_:buec:::232:::e100:::Data and Decisions I:::buec232:::buec232e100:::buec 232 e100 data and decisions i
+1317:_:geog:::403:::d100:::Geography Practicum IV:::geog403:::geog403d100:::geog 403 d100 geography practicum iv
+1318:_:geog:::403:::d200:::Geography Practicum IV:::geog403:::geog403d200:::geog 403 d200 geography practicum iv
+1319:_:cogs:::370:::d100:::Cognitive Science Practicum I:::cogs370:::cogs370d100:::cogs 370 d100 cognitive science practicum i
+1320:_:cogs:::370:::d200:::Cognitive Science Practicum I:::cogs370:::cogs370d200:::cogs 370 d200 cognitive science practicum i
+1321:_:cogs:::370:::i100:::Cognitive Science Practicum I:::cogs370:::cogs370i100:::cogs 370 i100 cognitive science practicum i
+1322:_:cogs:::371:::d100:::Cognitive Science Practicum II:::cogs371:::cogs371d100:::cogs 371 d100 cognitive science practicum ii
+1323:_:cogs:::371:::d200:::Cognitive Science Practicum II:::cogs371:::cogs371d200:::cogs 371 d200 cognitive science practicum ii
+1324:_:cogs:::371:::i100:::Cognitive Science Practicum II:::cogs371:::cogs371i100:::cogs 371 i100 cognitive science practicum ii
+1325:_:geog:::402:::d100:::Geography Practicum III:::geog402:::geog402d100:::geog 402 d100 geography practicum iii
+1326:_:geog:::402:::d200:::Geography Practicum III:::geog402:::geog402d200:::geog 402 d200 geography practicum iii
+1327:_:cogs:::470:::d100:::Cognitive Science Practicum III:::cogs470:::cogs470d100:::cogs 470 d100 cognitive science practicum iii
+1328:_:cogs:::470:::d200:::Cognitive Science Practicum III:::cogs470:::cogs470d200:::cogs 470 d200 cognitive science practicum iii
+1329:_:cogs:::470:::i100:::Cognitive Science Practicum III:::cogs470:::cogs470i100:::cogs 470 i100 cognitive science practicum iii
+1330:_:geog:::405:::d100:::Directed Readings:::geog405:::geog405d100:::geog 405 d100 directed readings
+1331:_:geog:::405:::d200:::Directed Readings:::geog405:::geog405d200:::geog 405 d200 directed readings
+1332:_:cogs:::471:::d100:::Cognitive Science Practicum IV:::cogs471:::cogs471d100:::cogs 471 d100 cognitive science practicum iv
+1333:_:cogs:::471:::d200:::Cognitive Science Practicum IV:::cogs471:::cogs471d200:::cogs 471 d200 cognitive science practicum iv
+1334:_:cogs:::471:::i100:::Cognitive Science Practicum IV:::cogs471:::cogs471i100:::cogs 471 i100 cognitive science practicum iv
+1335:_:geog:::404:::d100:::Directed Readings:::geog404:::geog404d100:::geog 404 d100 directed readings
+1336:_:geog:::404:::d200:::Directed Readings:::geog404:::geog404d200:::geog 404 d200 directed readings
+1337:_:devs:::801:::g100:::Issues, Concepts & Cases in Development and Sustainability:::devs801:::devs801g100:::devs 801 g100 issues, concepts & cases in development and sustainability
+1338:_:sa:::499:::d100:::Honours Essay (SA):::sa499:::sa499d100:::sa 499 d100 honours essay (sa)
+1339:_:econ:::104:::d100:::Economics and Government:::econ104:::econ104d100:::econ 104 d100 economics and government
+1340:_:math:::208w:::d100:::Introduction to Operations Research:::math208w:::math208wd100:::math 208w d100 introduction to operations research
+1341:_:cmns:::425:::d100:::Applied Communication for Social Issues:::cmns425:::cmns425d100:::cmns 425 d100 applied communication for social issues
+1342:_:buec:::333:::d100:::Statistical Analysis of Economic Data:::buec333:::buec333d100:::buec 333 d100 statistical analysis of economic data
+1343:_:buec:::333:::d101:::Statistical Analysis of Economic Data:::buec333:::buec333d101:::buec 333 d101 statistical analysis of economic data
+1344:_:buec:::333:::d102:::Statistical Analysis of Economic Data:::buec333:::buec333d102:::buec 333 d102 statistical analysis of economic data
+1345:_:buec:::333:::d103:::Statistical Analysis of Economic Data:::buec333:::buec333d103:::buec 333 d103 statistical analysis of economic data
+1346:_:buec:::333:::d104:::Statistical Analysis of Economic Data:::buec333:::buec333d104:::buec 333 d104 statistical analysis of economic data
+1347:_:buec:::333:::d105:::Statistical Analysis of Economic Data:::buec333:::buec333d105:::buec 333 d105 statistical analysis of economic data
+1348:_:buec:::333:::d106:::Statistical Analysis of Economic Data:::buec333:::buec333d106:::buec 333 d106 statistical analysis of economic data
+1349:_:buec:::333:::d107:::Statistical Analysis of Economic Data:::buec333:::buec333d107:::buec 333 d107 statistical analysis of economic data
+1350:_:buec:::333:::d108:::Statistical Analysis of Economic Data:::buec333:::buec333d108:::buec 333 d108 statistical analysis of economic data
+1351:_:buec:::333:::d109:::Statistical Analysis of Economic Data:::buec333:::buec333d109:::buec 333 d109 statistical analysis of economic data
+1352:_:buec:::333:::d110:::Statistical Analysis of Economic Data:::buec333:::buec333d110:::buec 333 d110 statistical analysis of economic data
+1353:_:buec:::333:::op01:::Statistical Analysis of Economic Data:::buec333:::buec333op01:::buec 333 op01 statistical analysis of economic data
+1354:_:phil:::478:::d100:::Honours Tutorial II:::phil478:::phil478d100:::phil 478 d100 honours tutorial ii
+1355:_:plcy:::850:::g100:::Internship:::plcy850:::plcy850g100:::plcy 850 g100 internship
+1356:_:plcy:::850:::g200:::Internship:::plcy850:::plcy850g200:::plcy 850 g200 internship
+1357:_:plcy:::850:::i100:::Internship:::plcy850:::plcy850i100:::plcy 850 i100 internship
+1358:_:phil:::477:::d100:::Honours Tutorial I:::phil477:::phil477d100:::phil 477 d100 honours tutorial i
+1359:_:math:::402w:::d100:::Operations Research Clinic:::math402w:::math402wd100:::math 402w d100 operations research clinic
+1360:_:chem:::419:::d100:::Special Topics in Analytical Chemistry:::chem419:::chem419d100:::chem 419 d100 special topics in analytical chemistry
+1361:_:easc:::705:::g100:::Special Topics:::easc705:::easc705g100:::easc 705 g100 special topics
+1362:_:sa:::853:::g100:::Readings in Sociology I:::sa853:::sa853g100:::sa 853 g100 readings in sociology i
+1363:_:sa:::853:::g200:::Readings in Sociology I:::sa853:::sa853g200:::sa 853 g200 readings in sociology i
+1364:_:chem:::408:::d100:::Practicum V:::chem408:::chem408d100:::chem 408 d100 practicum v
+1365:_:chem:::408:::d200:::Practicum V:::chem408:::chem408d200:::chem 408 d200 practicum v
+1366:_:chem:::408:::i100:::Practicum V:::chem408:::chem408i100:::chem 408 i100 practicum v
+1367:_:sa:::854:::g100:::Readings in Sociology II:::sa854:::sa854g100:::sa 854 g100 readings in sociology ii
+1368:_:chem:::381:::d100:::Intermediate Organic Chemistry:::chem381:::chem381d100:::chem 381 d100 intermediate organic chemistry
+1369:_:chem:::381:::d101:::Intermediate Organic Chemistry:::chem381:::chem381d101:::chem 381 d101 intermediate organic chemistry
+1370:_:chem:::381:::la01:::Intermediate Organic Chemistry:::chem381:::chem381la01:::chem 381 la01 intermediate organic chemistry
+1371:_:chem:::406:::d100:::Practicum III:::chem406:::chem406d100:::chem 406 d100 practicum iii
+1372:_:chem:::406:::d200:::Practicum III:::chem406:::chem406d200:::chem 406 d200 practicum iii
+1373:_:chem:::406:::i100:::Practicum III:::chem406:::chem406i100:::chem 406 i100 practicum iii
+1374:_:chem:::407:::d100:::Practicum IV:::chem407:::chem407d100:::chem 407 d100 practicum iv
+1375:_:chem:::407:::d200:::Practicum IV:::chem407:::chem407d200:::chem 407 d200 practicum iv
+1376:_:chem:::407:::i100:::Practicum IV:::chem407:::chem407i100:::chem 407 i100 practicum iv
+1377:_:educ:::352w:::c100:::Building on Reflective Practice:::educ352w:::educ352wc100:::educ 352w c100 building on reflective practice
+1378:_:educ:::352w:::d100:::Building on Reflective Practice:::educ352w:::educ352wd100:::educ 352w d100 building on reflective practice
+1379:_:math:::436:::d100:::Job Practicum III:::math436:::math436d100:::math 436 d100 job practicum iii
+1380:_:math:::436:::d200:::Job Practicum III:::math436:::math436d200:::math 436 d200 job practicum iii
+1381:_:cmns:::851:::g100:::Directed Studies:::cmns851:::cmns851g100:::cmns 851 g100 directed studies
+1382:_:cmns:::851:::g200:::Directed Studies:::cmns851:::cmns851g200:::cmns 851 g200 directed studies
+1383:_:cmns:::851:::g300:::Directed Studies:::cmns851:::cmns851g300:::cmns 851 g300 directed studies
+1384:_:cmns:::851:::g400:::Directed Studies:::cmns851:::cmns851g400:::cmns 851 g400 directed studies
+1385:_:cmns:::851:::g500:::Directed Studies:::cmns851:::cmns851g500:::cmns 851 g500 directed studies
+1386:_:sa:::301:::d100:::Contemporary Ethnography (A):::sa301:::sa301d100:::sa 301 d100 contemporary ethnography (a)
+1387:_:cmns:::850:::g100:::Directed Readings and Research:::cmns850:::cmns850g100:::cmns 850 g100 directed readings and research
+1388:_:cmns:::850:::g200:::Directed Readings and Research:::cmns850:::cmns850g200:::cmns 850 g200 directed readings and research
+1389:_:cmns:::850:::g300:::Directed Readings and Research:::cmns850:::cmns850g300:::cmns 850 g300 directed readings and research
+1390:_:cmns:::850:::g400:::Directed Readings and Research:::cmns850:::cmns850g400:::cmns 850 g400 directed readings and research
+1391:_:cmns:::850:::g500:::Directed Readings and Research:::cmns850:::cmns850g500:::cmns 850 g500 directed readings and research
+1392:_:cmns:::840:::g100:::Political Economy of Communications:::cmns840:::cmns840g100:::cmns 840 g100 political economy of communications
+1393:_:chem:::372:::d100:::Chemistry of the Atmospheric Environment:::chem372:::chem372d100:::chem 372 d100 chemistry of the atmospheric environment
+1394:_:chem:::372:::d101:::Chemistry of the Atmospheric Environment:::chem372:::chem372d101:::chem 372 d101 chemistry of the atmospheric environment
+1395:_:geog:::104:::d100:::Climate Change, Water, and Society:::geog104:::geog104d100:::geog 104 d100 climate change, water, and society
+1396:_:bisc:::455:::d100:::Endocrinology:::bisc455:::bisc455d100:::bisc 455 d100 endocrinology
+1397:_:bisc:::455:::d101:::Endocrinology:::bisc455:::bisc455d101:::bisc 455 d101 endocrinology
+1398:_:bisc:::455:::d102:::Endocrinology:::bisc455:::bisc455d102:::bisc 455 d102 endocrinology
+1399:_:math:::440:::d100:::Galois Theory:::math440:::math440d100:::math 440 d100 galois theory
+1400:_:sd:::401:::d100:::Sustainable Development Goals Studio:::sd401:::sd401d100:::sd 401 d100 sustainable development goals studio
+1401:_:math:::437:::d100:::Job Practicum IV:::math437:::math437d100:::math 437 d100 job practicum iv
+1402:_:math:::437:::d200:::Job Practicum IV:::math437:::math437d200:::math 437 d200 job practicum iv
+1403:_:sa:::872:::g100:::Readings in Anthropology II:::sa872:::sa872g100:::sa 872 g100 readings in anthropology ii
+1404:_:sa:::872:::g200:::Readings in Anthropology II:::sa872:::sa872g200:::sa 872 g200 readings in anthropology ii
+1405:_:cmns:::428:::d100:::Media Analysis Project Group:::cmns428:::cmns428d100:::cmns 428 d100 media analysis project group
+1406:_:cmns:::428:::d200:::Media Analysis Project Group:::cmns428:::cmns428d200:::cmns 428 d200 media analysis project group
+1407:_:cmns:::428:::d300:::Media Analysis Project Group:::cmns428:::cmns428d300:::cmns 428 d300 media analysis project group
+1408:_:cmns:::428:::d400:::Media Analysis Project Group:::cmns428:::cmns428d400:::cmns 428 d400 media analysis project group
+1409:_:cmns:::428:::d500:::Media Analysis Project Group:::cmns428:::cmns428d500:::cmns 428 d500 media analysis project group
+1410:_:sa:::871:::g100:::Readings in Anthropology I:::sa871:::sa871g100:::sa 871 g100 readings in anthropology i
+1411:_:chem:::360:::d100:::Thermodynamics and Chemical Kinetics:::chem360:::chem360d100:::chem 360 d100 thermodynamics and chemical kinetics
+1412:_:chem:::360:::d102:::Thermodynamics and Chemical Kinetics:::chem360:::chem360d102:::chem 360 d102 thermodynamics and chemical kinetics
+1413:_:cmns:::357:::d100:::Audio Media Analysis:::cmns357:::cmns357d100:::cmns 357 d100 audio media analysis
+1414:_:cmns:::357:::d101:::Audio Media Analysis:::cmns357:::cmns357d101:::cmns 357 d101 audio media analysis
+1415:_:hist:::326:::d100:::History of Aboriginal Peoples of North America Since 1850:::hist326:::hist326d100:::hist 326 d100 history of aboriginal peoples of north america since 1850
+1416:_:bisc:::407:::d100:::Population Dynamics:::bisc407:::bisc407d100:::bisc 407 d100 population dynamics
+1417:_:bisc:::407:::d101:::Population Dynamics:::bisc407:::bisc407d101:::bisc 407 d101 population dynamics
+1418:_:bisc:::407:::d102:::Population Dynamics:::bisc407:::bisc407d102:::bisc 407 d102 population dynamics
+1419:_:mse:::102:::d200:::Applied Science, Technology and Society:::mse102:::mse102d200:::mse 102 d200 applied science, technology and society
+1420:_:mse:::102:::d201:::Applied Science, Technology and Society:::mse102:::mse102d201:::mse 102 d201 applied science, technology and society
+1421:_:mse:::421:::d200:::Advanced Vibration:::mse421:::mse421d200:::mse 421 d200 advanced vibration
+1422:_:mse:::421:::d201:::Advanced Vibration:::mse421:::mse421d201:::mse 421 d201 advanced vibration
+1423:_:mse:::480:::d100:::Manufacturing Systems:::mse480:::mse480d100:::mse 480 d100 manufacturing systems
+1424:_:mse:::480:::lab1:::Manufacturing Systems:::mse480:::mse480lab1:::mse 480 lab1 manufacturing systems
+1425:_:mse:::480:::lab2:::Manufacturing Systems:::mse480:::mse480lab2:::mse 480 lab2 manufacturing systems
+1426:_:mse:::450:::d100:::Real-Time and Embedded Control Systems:::mse450:::mse450d100:::mse 450 d100 real-time and embedded control systems
+1427:_:mse:::450:::lab1:::Real-Time and Embedded Control Systems:::mse450:::mse450lab1:::mse 450 lab1 real-time and embedded control systems
+1428:_:mse:::450:::lab2:::Real-Time and Embedded Control Systems:::mse450:::mse450lab2:::mse 450 lab2 real-time and embedded control systems
+1429:_:mse:::450:::lab3:::Real-Time and Embedded Control Systems:::mse450:::mse450lab3:::mse 450 lab3 real-time and embedded control systems
+1430:_:mse:::101w:::d100:::Process, Form, and Convention in Professional Genres:::mse101w:::mse101wd100:::mse 101w d100 process, form, and convention in professional genres
+1431:_:mse:::101w:::d101:::Process, Form, and Convention in Professional Genres:::mse101w:::mse101wd101:::mse 101w d101 process, form, and convention in professional genres
+1432:_:ensc:::703:::g100:::Graduate Co-op Practicum III:::ensc703:::ensc703g100:::ensc 703 g100 graduate co-op practicum iii
+1433:_:ensc:::703:::g200:::Graduate Co-op Practicum III:::ensc703:::ensc703g200:::ensc 703 g200 graduate co-op practicum iii
+1434:_:ensc:::703:::i100:::Graduate Co-op Practicum III:::ensc703:::ensc703i100:::ensc 703 i100 graduate co-op practicum iii
+1435:_:cmns:::202:::d100:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d100:::cmns 202 d100 design and method in qualitative communication research
+1436:_:cmns:::202:::d101:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d101:::cmns 202 d101 design and method in qualitative communication research
+1437:_:cmns:::202:::d102:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d102:::cmns 202 d102 design and method in qualitative communication research
+1438:_:cmns:::202:::d103:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d103:::cmns 202 d103 design and method in qualitative communication research
+1439:_:cmns:::202:::d104:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d104:::cmns 202 d104 design and method in qualitative communication research
+1440:_:cmns:::202:::d105:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d105:::cmns 202 d105 design and method in qualitative communication research
+1441:_:cmns:::202:::d106:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d106:::cmns 202 d106 design and method in qualitative communication research
+1442:_:cmns:::202:::d107:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d107:::cmns 202 d107 design and method in qualitative communication research
+1443:_:cmns:::202:::d108:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d108:::cmns 202 d108 design and method in qualitative communication research
+1444:_:arch:::131:::c100:::Human Origins:::arch131:::arch131c100:::arch 131 c100 human origins
+1445:_:arch:::131:::d100:::Human Origins:::arch131:::arch131d100:::arch 131 d100 human origins
+1446:_:arch:::131:::d200:::Human Origins:::arch131:::arch131d200:::arch 131 d200 human origins
+1447:_:arch:::131:::d900:::Human Origins:::arch131:::arch131d900:::arch 131 d900 human origins
+1448:_:ensc:::386:::d100:::Introduction to Mechanical Design:::ensc386:::ensc386d100:::ensc 386 d100 introduction to mechanical design
+1449:_:ensc:::386:::d101:::Introduction to Mechanical Design:::ensc386:::ensc386d101:::ensc 386 d101 introduction to mechanical design
+1450:_:ensc:::386:::la01:::Introduction to Mechanical Design:::ensc386:::ensc386la01:::ensc 386 la01 introduction to mechanical design
+1451:_:educ:::836:::g001:::Equity Issues in Language, Education and Society:::educ836:::educ836g001:::educ 836 g001 equity issues in language, education and society
+1452:_:mse:::498:::d100:::Mechatronic Systems Engineering  Thesis Proposal:::mse498:::mse498d100:::mse 498 d100 mechatronic systems engineering  thesis proposal
+1453:_:mse:::497:::d100:::Special Project Laboratory:::mse497:::mse497d100:::mse 497 d100 special project laboratory
+1454:_:mse:::497:::d200:::Special Project Laboratory:::mse497:::mse497d200:::mse 497 d200 special project laboratory
+1455:_:mse:::497:::d300:::Special Project Laboratory:::mse497:::mse497d300:::mse 497 d300 special project laboratory
+1456:_:hist:::319:::d100:::Modern France:::hist319:::hist319d100:::hist 319 d100 modern france
+1457:_:bisc:::298:::d100:::Introduction to Undergraduate Research in Biological Sciences:::bisc298:::bisc298d100:::bisc 298 d100 introduction to undergraduate research in biological sciences
+1458:_:mse:::496:::d100:::Special Project Laboratory:::mse496:::mse496d100:::mse 496 d100 special project laboratory
+1459:_:mse:::496:::d200:::Special Project Laboratory:::mse496:::mse496d200:::mse 496 d200 special project laboratory
+1460:_:mse:::496:::d300:::Special Project Laboratory:::mse496:::mse496d300:::mse 496 d300 special project laboratory
+1461:_:chem:::307:::d100:::Practicum II:::chem307:::chem307d100:::chem 307 d100 practicum ii
+1462:_:chem:::307:::d200:::Practicum II:::chem307:::chem307d200:::chem 307 d200 practicum ii
+1463:_:chem:::307:::i100:::Practicum II:::chem307:::chem307i100:::chem 307 i100 practicum ii
+1464:_:phys:::841:::g100:::Statistical Mechanics:::phys841:::phys841g100:::phys 841 g100 statistical mechanics
+1465:_:mse:::223:::d100:::Introduction to Fluid Mechanics:::mse223:::mse223d100:::mse 223 d100 introduction to fluid mechanics
+1466:_:mse:::223:::d101:::Introduction to Fluid Mechanics:::mse223:::mse223d101:::mse 223 d101 introduction to fluid mechanics
+1467:_:mse:::223:::lab1:::Introduction to Fluid Mechanics:::mse223:::mse223lab1:::mse 223 lab1 introduction to fluid mechanics
+1468:_:mse:::223:::lab2:::Introduction to Fluid Mechanics:::mse223:::mse223lab2:::mse 223 lab2 introduction to fluid mechanics
+1469:_:mse:::223:::lab3:::Introduction to Fluid Mechanics:::mse223:::mse223lab3:::mse 223 lab3 introduction to fluid mechanics
+1470:_:chem:::317:::la01:::Analytical Environmental Chemistry:::chem317:::chem317la01:::chem 317 la01 analytical environmental chemistry
+1471:_:mse:::499:::d100:::Mechatronic Systems Engineering  Undergraduate Thesis:::mse499:::mse499d100:::mse 499 d100 mechatronic systems engineering  undergraduate thesis
+1472:_:hist:::322:::d100:::Atlantic and Pacific Migration:::hist322:::hist322d100:::hist 322 d100 atlantic and pacific migration
+1473:_:chem:::316:::d100:::Introductory Instrumental Analysis:::chem316:::chem316d100:::chem 316 d100 introductory instrumental analysis
+1474:_:chem:::316:::la01:::Introductory Instrumental Analysis:::chem316:::chem316la01:::chem 316 la01 introductory instrumental analysis
+1475:_:chem:::316:::la02:::Introductory Instrumental Analysis:::chem316:::chem316la02:::chem 316 la02 introductory instrumental analysis
+1476:_:acma:::360w:::d100:::Actuarial Communication:::acma360w:::acma360wd100:::acma 360w d100 actuarial communication
+1477:_:bpk:::408w:::d100:::Cellular Physiology Laboratory:::bpk408w:::bpk408wd100:::bpk 408w d100 cellular physiology laboratory
+1478:_:bpk:::408w:::d101:::Cellular Physiology Laboratory:::bpk408w:::bpk408wd101:::bpk 408w d101 cellular physiology laboratory
+1479:_:engl:::376:::e100:::Special Studies:::engl376:::engl376e100:::engl 376 e100 special studies
+1480:_:acma:::438:::d100:::Job Practicum V:::acma438:::acma438d100:::acma 438 d100 job practicum v
+1481:_:acma:::438:::d200:::Job Practicum V:::acma438:::acma438d200:::acma 438 d200 job practicum v
+1482:_:acma:::438:::i100:::Job Practicum V:::acma438:::acma438i100:::acma 438 i100 job practicum v
+1483:_:acma:::436:::d100:::Job Practicum III:::acma436:::acma436d100:::acma 436 d100 job practicum iii
+1484:_:acma:::436:::d200:::Job Practicum III:::acma436:::acma436d200:::acma 436 d200 job practicum iii
+1485:_:acma:::436:::i100:::Job Practicum III:::acma436:::acma436i100:::acma 436 i100 job practicum iii
+1486:_:acma:::336:::d100:::Job Practicum I:::acma336:::acma336d100:::acma 336 d100 job practicum i
+1487:_:acma:::336:::d200:::Job Practicum I:::acma336:::acma336d200:::acma 336 d200 job practicum i
+1488:_:acma:::336:::i100:::Job Practicum I:::acma336:::acma336i100:::acma 336 i100 job practicum i
+1489:_:geog:::310:::d100:::Physical Geography Field Course:::geog310:::geog310d100:::geog 310 d100 physical geography field course
+1490:_:econ:::302:::d100:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d100:::econ 302 d100 microeconomic theory ii: strategic behavior
+1491:_:econ:::302:::d101:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d101:::econ 302 d101 microeconomic theory ii: strategic behavior
+1492:_:econ:::302:::d102:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d102:::econ 302 d102 microeconomic theory ii: strategic behavior
+1493:_:econ:::302:::d103:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d103:::econ 302 d103 microeconomic theory ii: strategic behavior
+1494:_:econ:::302:::d104:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d104:::econ 302 d104 microeconomic theory ii: strategic behavior
+1495:_:econ:::302:::d105:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d105:::econ 302 d105 microeconomic theory ii: strategic behavior
+1496:_:econ:::302:::d106:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d106:::econ 302 d106 microeconomic theory ii: strategic behavior
+1497:_:econ:::302:::d107:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d107:::econ 302 d107 microeconomic theory ii: strategic behavior
+1498:_:econ:::302:::d108:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d108:::econ 302 d108 microeconomic theory ii: strategic behavior
+1499:_:hist:::470:::d100:::Practicum III:::hist470:::hist470d100:::hist 470 d100 practicum iii
+1500:_:hist:::470:::d200:::Practicum III:::hist470:::hist470d200:::hist 470 d200 practicum iii
+1501:_:hist:::470:::i100:::Practicum III:::hist470:::hist470i100:::hist 470 i100 practicum iii
+1502:_:bpk:::420:::d100:::Selected Topics in Kinesiology I:::bpk420:::bpk420d100:::bpk 420 d100 selected topics in kinesiology i
+1503:_:bus:::238:::d100:::Introduction to Entrepreneurship and Innovation:::bus238:::bus238d100:::bus 238 d100 introduction to entrepreneurship and innovation
+1504:_:bus:::238:::d200:::Introduction to Entrepreneurship and Innovation:::bus238:::bus238d200:::bus 238 d200 introduction to entrepreneurship and innovation
+1505:_:bus:::202:::d100:::Foundations for Collaborative Work Environments:::bus202:::bus202d100:::bus 202 d100 foundations for collaborative work environments
+1506:_:bus:::202:::d101:::Foundations for Collaborative Work Environments:::bus202:::bus202d101:::bus 202 d101 foundations for collaborative work environments
+1507:_:bus:::202:::d102:::Foundations for Collaborative Work Environments:::bus202:::bus202d102:::bus 202 d102 foundations for collaborative work environments
+1508:_:bus:::202:::d103:::Foundations for Collaborative Work Environments:::bus202:::bus202d103:::bus 202 d103 foundations for collaborative work environments
+1509:_:bus:::202:::d200:::Foundations for Collaborative Work Environments:::bus202:::bus202d200:::bus 202 d200 foundations for collaborative work environments
+1510:_:bus:::202:::d201:::Foundations for Collaborative Work Environments:::bus202:::bus202d201:::bus 202 d201 foundations for collaborative work environments
+1511:_:bus:::202:::d202:::Foundations for Collaborative Work Environments:::bus202:::bus202d202:::bus 202 d202 foundations for collaborative work environments
+1512:_:bus:::202:::d203:::Foundations for Collaborative Work Environments:::bus202:::bus202d203:::bus 202 d203 foundations for collaborative work environments
+1513:_:bus:::404:::d100:::Technology Entrepreneurship I:::bus404:::bus404d100:::bus 404 d100 technology entrepreneurship i
+1514:_:chem:::260:::d100:::Atoms, Molecules, Spectroscopy:::chem260:::chem260d100:::chem 260 d100 atoms, molecules, spectroscopy
+1515:_:chem:::260:::d101:::Atoms, Molecules, Spectroscopy:::chem260:::chem260d101:::chem 260 d101 atoms, molecules, spectroscopy
+1516:_:chem:::260:::la01:::Atoms, Molecules, Spectroscopy:::chem260:::chem260la01:::chem 260 la01 atoms, molecules, spectroscopy
+1517:_:chem:::260:::la02:::Atoms, Molecules, Spectroscopy:::chem260:::chem260la02:::chem 260 la02 atoms, molecules, spectroscopy
+1518:_:mse:::898:::g100:::MASc Thesis:::mse898:::mse898g100:::mse 898 g100 masc thesis
+1519:_:hsci:::431:::d100:::The Global HIV/AIDS Epidemic:::hsci431:::hsci431d100:::hsci 431 d100 the global hiv/aids epidemic
+1520:_:hsci:::340:::d100:::Social Determinants of Health:::hsci340:::hsci340d100:::hsci 340 d100 social determinants of health
+1521:_:hsci:::324:::d100:::Human Population Genetics and Evolution:::hsci324:::hsci324d100:::hsci 324 d100 human population genetics and evolution
+1522:_:mse:::892:::g100:::Directed Studies II:::mse892:::mse892g100:::mse 892 g100 directed studies ii
+1523:_:mse:::895:::g100:::Special Topics III:::mse895:::mse895g100:::mse 895 g100 special topics iii
+1524:_:mse:::893:::g100:::Special Topics I:::mse893:::mse893g100:::mse 893 g100 special topics i
+1525:_:mse:::893:::lab1:::Special Topics I:::mse893:::mse893lab1:::mse 893 lab1 special topics i
+1526:_:mse:::893:::lab2:::Special Topics I:::mse893:::mse893lab2:::mse 893 lab2 special topics i
+1527:_:chem:::306:::d100:::Practicum I:::chem306:::chem306d100:::chem 306 d100 practicum i
+1528:_:chem:::306:::d200:::Practicum I:::chem306:::chem306d200:::chem 306 d200 practicum i
+1529:_:chem:::306:::i100:::Practicum I:::chem306:::chem306i100:::chem 306 i100 practicum i
+1530:_:chem:::286:::la03:::Organic Chemistry Laboratory II:::chem286:::chem286la03:::chem 286 la03 organic chemistry laboratory ii
+1531:_:chem:::286:::la06:::Organic Chemistry Laboratory II:::chem286:::chem286la06:::chem 286 la06 organic chemistry laboratory ii
+1532:_:bisc:::422:::d100:::Population Genetics:::bisc422:::bisc422d100:::bisc 422 d100 population genetics
+1533:_:bisc:::422:::d101:::Population Genetics:::bisc422:::bisc422d101:::bisc 422 d101 population genetics
+1534:_:bisc:::422:::d102:::Population Genetics:::bisc422:::bisc422d102:::bisc 422 d102 population genetics
+1535:_:bisc:::422:::d103:::Population Genetics:::bisc422:::bisc422d103:::bisc 422 d103 population genetics
+1536:_:bisc:::422:::d104:::Population Genetics:::bisc422:::bisc422d104:::bisc 422 d104 population genetics
+1537:_:chem:::282:::d100:::Organic Chemistry II:::chem282:::chem282d100:::chem 282 d100 organic chemistry ii
+1538:_:chem:::282:::d101:::Organic Chemistry II:::chem282:::chem282d101:::chem 282 d101 organic chemistry ii
+1539:_:chem:::282:::d102:::Organic Chemistry II:::chem282:::chem282d102:::chem 282 d102 organic chemistry ii
+1540:_:chem:::282:::d103:::Organic Chemistry II:::chem282:::chem282d103:::chem 282 d103 organic chemistry ii
+1541:_:chem:::282:::d104:::Organic Chemistry II:::chem282:::chem282d104:::chem 282 d104 organic chemistry ii
+1542:_:chem:::282:::d105:::Organic Chemistry II:::chem282:::chem282d105:::chem 282 d105 organic chemistry ii
+1543:_:chem:::282:::d106:::Organic Chemistry II:::chem282:::chem282d106:::chem 282 d106 organic chemistry ii
+1544:_:chem:::282:::d107:::Organic Chemistry II:::chem282:::chem282d107:::chem 282 d107 organic chemistry ii
+1545:_:chem:::282:::d108:::Organic Chemistry II:::chem282:::chem282d108:::chem 282 d108 organic chemistry ii
+1546:_:chem:::282:::d109:::Organic Chemistry II:::chem282:::chem282d109:::chem 282 d109 organic chemistry ii
+1547:_:chem:::282:::d110:::Organic Chemistry II:::chem282:::chem282d110:::chem 282 d110 organic chemistry ii
+1548:_:chem:::282:::d111:::Organic Chemistry II:::chem282:::chem282d111:::chem 282 d111 organic chemistry ii
+1549:_:chem:::282:::d112:::Organic Chemistry II:::chem282:::chem282d112:::chem 282 d112 organic chemistry ii
+1550:_:chem:::282:::d113:::Organic Chemistry II:::chem282:::chem282d113:::chem 282 d113 organic chemistry ii
+1551:_:chem:::282:::d114:::Organic Chemistry II:::chem282:::chem282d114:::chem 282 d114 organic chemistry ii
+1552:_:chem:::282:::d115:::Organic Chemistry II:::chem282:::chem282d115:::chem 282 d115 organic chemistry ii
+1553:_:chem:::281:::d100:::Organic Chemistry I:::chem281:::chem281d100:::chem 281 d100 organic chemistry i
+1554:_:chem:::281:::d101:::Organic Chemistry I:::chem281:::chem281d101:::chem 281 d101 organic chemistry i
+1555:_:chem:::281:::d102:::Organic Chemistry I:::chem281:::chem281d102:::chem 281 d102 organic chemistry i
+1556:_:chem:::281:::d103:::Organic Chemistry I:::chem281:::chem281d103:::chem 281 d103 organic chemistry i
+1557:_:chem:::281:::d104:::Organic Chemistry I:::chem281:::chem281d104:::chem 281 d104 organic chemistry i
+1558:_:chem:::281:::d105:::Organic Chemistry I:::chem281:::chem281d105:::chem 281 d105 organic chemistry i
+1559:_:chem:::281:::d106:::Organic Chemistry I:::chem281:::chem281d106:::chem 281 d106 organic chemistry i
+1560:_:chem:::281:::d107:::Organic Chemistry I:::chem281:::chem281d107:::chem 281 d107 organic chemistry i
+1561:_:chem:::281:::d108:::Organic Chemistry I:::chem281:::chem281d108:::chem 281 d108 organic chemistry i
+1562:_:chem:::281:::d109:::Organic Chemistry I:::chem281:::chem281d109:::chem 281 d109 organic chemistry i
+1563:_:chem:::281:::d110:::Organic Chemistry I:::chem281:::chem281d110:::chem 281 d110 organic chemistry i
+1564:_:chem:::281:::la04:::Organic Chemistry I:::chem281:::chem281la04:::chem 281 la04 organic chemistry i
+1565:_:chem:::281:::la05:::Organic Chemistry I:::chem281:::chem281la05:::chem 281 la05 organic chemistry i
+1566:_:chem:::281:::lb04:::Organic Chemistry I:::chem281:::chem281lb04:::chem 281 lb04 organic chemistry i
+1567:_:chem:::281:::lb05:::Organic Chemistry I:::chem281:::chem281lb05:::chem 281 lb05 organic chemistry i
+1568:_:chem:::281:::le01:::Organic Chemistry I:::chem281:::chem281le01:::chem 281 le01 organic chemistry i
+1569:_:engl:::359:::c100:::Studies in the Literature of British Columbia:::engl359:::engl359c100:::engl 359 c100 studies in the literature of british columbia
+1570:_:hsci:::432:::d100:::Seminar in Epidemiology:::hsci432:::hsci432d100:::hsci 432 d100 seminar in epidemiology
+1571:_:engl:::357:::e100:::Studies in Canadian Literature since 1920:::engl357:::engl357e100:::engl 357 e100 studies in canadian literature since 1920
+1572:_:hsci:::441:::d100:::Virology Laboratory:::hsci441:::hsci441d100:::hsci 441 d100 virology laboratory
+1573:_:engl:::364:::d100:::Literary Criticism: History, Theory, and Practice:::engl364:::engl364d100:::engl 364 d100 literary criticism: history, theory, and practice
+1574:_:bpk:::443:::d100:::Advanced Exercise Prescription:::bpk443:::bpk443d100:::bpk 443 d100 advanced exercise prescription
+1575:_:engl:::899:::g100:::PhD Thesis:::engl899:::engl899g100:::engl 899 g100 phd thesis
+1576:_:hsci:::442:::d100:::Immunology Laboratory:::hsci442:::hsci442d100:::hsci 442 d100 immunology laboratory
+1577:_:math:::877:::g100:::Supplementary Reading:::math877:::math877g100:::math 877 g100 supplementary reading
+1578:_:eco:::641:::g200:::First Nations & Social Perspectives of Ecological Restoration:::eco641:::eco641g200:::eco 641 g200 first nations & social perspectives of ecological restoration
+1579:_:eco:::641:::g300:::First Nations & Social Perspectives of Ecological Restoration:::eco641:::eco641g300:::eco 641 g300 first nations & social perspectives of ecological restoration
+1580:_:eco:::621:::g100:::Graduate Seminars in Research Methods:::eco621:::eco621g100:::eco 621 g100 graduate seminars in research methods
+1581:_:eco:::622:::g200:::Project Management and Policy for Ecological Restoration:::eco622:::eco622g200:::eco 622 g200 project management and policy for ecological restoration
+1582:_:mse:::483:::d100:::Modern Control Systems:::mse483:::mse483d100:::mse 483 d100 modern control systems
+1583:_:mse:::483:::lab1:::Modern Control Systems:::mse483:::mse483lab1:::mse 483 lab1 modern control systems
+1584:_:mse:::483:::lab2:::Modern Control Systems:::mse483:::mse483lab2:::mse 483 lab2 modern control systems
+1585:_:mse:::402:::d100:::Engineering Ethics, Law, and Professional Practice:::mse402:::mse402d100:::mse 402 d100 engineering ethics, law, and professional practice
+1586:_:mse:::402:::d101:::Engineering Ethics, Law, and Professional Practice:::mse402:::mse402d101:::mse 402 d101 engineering ethics, law, and professional practice
+1587:_:phys:::871:::g100:::Introduction to Elementary Particle Physics:::phys871:::phys871g100:::phys 871 g100 introduction to elementary particle physics
+1588:_:mse:::280:::d100:::Linear Systems:::mse280:::mse280d100:::mse 280 d100 linear systems
+1589:_:mse:::280:::lab1:::Linear Systems:::mse280:::mse280lab1:::mse 280 lab1 linear systems
+1590:_:mse:::280:::lab2:::Linear Systems:::mse280:::mse280lab2:::mse 280 lab2 linear systems
+1591:_:mse:::210:::d100:::Engineering Measurement and Data Analysis:::mse210:::mse210d100:::mse 210 d100 engineering measurement and data analysis
+1592:_:mse:::210:::lab1:::Engineering Measurement and Data Analysis:::mse210:::mse210lab1:::mse 210 lab1 engineering measurement and data analysis
+1593:_:mse:::210:::lab2:::Engineering Measurement and Data Analysis:::mse210:::mse210lab2:::mse 210 lab2 engineering measurement and data analysis
+1594:_:econ:::900:::g100:::PhD Field Paper:::econ900:::econ900g100:::econ 900 g100 phd field paper
+1595:_:psyc:::494:::d100:::Directed Studies:::psyc494:::psyc494d100:::psyc 494 d100 directed studies
+1596:_:phys:::493:::d100:::Special Topics in Physics:::phys493:::phys493d100:::phys 493 d100 special topics in physics
+1597:_:phys:::493:::d101:::Special Topics in Physics:::phys493:::phys493d101:::phys 493 d101 special topics in physics
+1598:_:psyc:::493:::d100:::Directed Studies:::psyc493:::psyc493d100:::psyc 493 d100 directed studies
+1599:_:chem:::230:::d100:::Inorganic Chemistry:::chem230:::chem230d100:::chem 230 d100 inorganic chemistry
+1600:_:chem:::230:::d101:::Inorganic Chemistry:::chem230:::chem230d101:::chem 230 d101 inorganic chemistry
+1601:_:psyc:::495:::d100:::Directed Studies:::psyc495:::psyc495d100:::psyc 495 d100 directed studies
+1602:_:math:::890:::g100:::Practicum I:::math890:::math890g100:::math 890 g100 practicum i
+1603:_:math:::890:::g200:::Practicum I:::math890:::math890g200:::math 890 g200 practicum i
+1604:_:sci:::191:::d100:::Introduction to Modern Scientific Research:::sci191:::sci191d100:::sci 191 d100 introduction to modern scientific research
+1605:_:math:::891:::g100:::Practicum II:::math891:::math891g100:::math 891 g100 practicum ii
+1606:_:math:::891:::g200:::Practicum II:::math891:::math891g200:::math 891 g200 practicum ii
+1607:_:phys:::132:::la01:::Physics Laboratory I:::phys132:::phys132la01:::phys 132 la01 physics laboratory i
+1608:_:mse:::891:::g100:::Directed Studies I:::mse891:::mse891g100:::mse 891 g100 directed studies i
+1609:_:phys:::133:::la01:::Physics Laboratory II:::phys133:::phys133la01:::phys 133 la01 physics laboratory ii
+1610:_:chem:::122:::d100:::General Chemistry II:::chem122:::chem122d100:::chem 122 d100 general chemistry ii
+1611:_:chem:::122:::d101:::General Chemistry II:::chem122:::chem122d101:::chem 122 d101 general chemistry ii
+1612:_:chem:::122:::d102:::General Chemistry II:::chem122:::chem122d102:::chem 122 d102 general chemistry ii
+1613:_:chem:::122:::d103:::General Chemistry II:::chem122:::chem122d103:::chem 122 d103 general chemistry ii
+1614:_:chem:::122:::d105:::General Chemistry II:::chem122:::chem122d105:::chem 122 d105 general chemistry ii
+1615:_:chem:::122:::d106:::General Chemistry II:::chem122:::chem122d106:::chem 122 d106 general chemistry ii
+1616:_:chem:::122:::d107:::General Chemistry II:::chem122:::chem122d107:::chem 122 d107 general chemistry ii
+1617:_:chem:::122:::d108:::General Chemistry II:::chem122:::chem122d108:::chem 122 d108 general chemistry ii
+1618:_:chem:::122:::d109:::General Chemistry II:::chem122:::chem122d109:::chem 122 d109 general chemistry ii
+1619:_:chem:::122:::d110:::General Chemistry II:::chem122:::chem122d110:::chem 122 d110 general chemistry ii
+1620:_:chem:::122:::d111:::General Chemistry II:::chem122:::chem122d111:::chem 122 d111 general chemistry ii
+1621:_:chem:::122:::d112:::General Chemistry II:::chem122:::chem122d112:::chem 122 d112 general chemistry ii
+1622:_:chem:::122:::d114:::General Chemistry II:::chem122:::chem122d114:::chem 122 d114 general chemistry ii
+1623:_:chem:::122:::d115:::General Chemistry II:::chem122:::chem122d115:::chem 122 d115 general chemistry ii
+1624:_:chem:::122:::d200:::General Chemistry II:::chem122:::chem122d200:::chem 122 d200 general chemistry ii
+1625:_:chem:::122:::d201:::General Chemistry II:::chem122:::chem122d201:::chem 122 d201 general chemistry ii
+1626:_:chem:::122:::d202:::General Chemistry II:::chem122:::chem122d202:::chem 122 d202 general chemistry ii
+1627:_:chem:::122:::d203:::General Chemistry II:::chem122:::chem122d203:::chem 122 d203 general chemistry ii
+1628:_:chem:::122:::d204:::General Chemistry II:::chem122:::chem122d204:::chem 122 d204 general chemistry ii
+1629:_:chem:::122:::d205:::General Chemistry II:::chem122:::chem122d205:::chem 122 d205 general chemistry ii
+1630:_:chem:::122:::d206:::General Chemistry II:::chem122:::chem122d206:::chem 122 d206 general chemistry ii
+1631:_:chem:::122:::d300:::General Chemistry II:::chem122:::chem122d300:::chem 122 d300 general chemistry ii
+1632:_:chem:::122:::d301:::General Chemistry II:::chem122:::chem122d301:::chem 122 d301 general chemistry ii
+1633:_:chem:::126:::la02:::General Chemistry Laboratory II:::chem126:::chem126la02:::chem 126 la02 general chemistry laboratory ii
+1634:_:chem:::126:::la03:::General Chemistry Laboratory II:::chem126:::chem126la03:::chem 126 la03 general chemistry laboratory ii
+1635:_:chem:::126:::la06:::General Chemistry Laboratory II:::chem126:::chem126la06:::chem 126 la06 general chemistry laboratory ii
+1636:_:chem:::126:::lc01:::General Chemistry Laboratory II:::chem126:::chem126lc01:::chem 126 lc01 general chemistry laboratory ii
+1637:_:chem:::126:::lc02:::General Chemistry Laboratory II:::chem126:::chem126lc02:::chem 126 lc02 general chemistry laboratory ii
+1638:_:chem:::126:::lc05:::General Chemistry Laboratory II:::chem126:::chem126lc05:::chem 126 lc05 general chemistry laboratory ii
+1639:_:hist:::897:::g100:::Supervised Readings:::hist897:::hist897g100:::hist 897 g100 supervised readings
+1640:_:fren:::222:::d100:::French Writing II:::fren222:::fren222d100:::fren 222 d100 french writing ii
+1641:_:fren:::222:::d200:::French Writing II:::fren222:::fren222d200:::fren 222 d200 french writing ii
+1642:_:fren:::222:::f100:::French Writing II:::fren222:::fren222f100:::fren 222 f100 french writing ii
+1643:_:math:::801:::g100:::Computer Algebra:::math801:::math801g100:::math 801 g100 computer algebra
+1644:_:hist:::898:::g100:::MA Thesis:::hist898:::hist898g100:::hist 898 g100 ma thesis
+1645:_:hist:::898:::g200:::MA Thesis:::hist898:::hist898g200:::hist 898 g200 ma thesis
+1646:_:chem:::121:::d100:::General Chemistry and Laboratory I:::chem121:::chem121d100:::chem 121 d100 general chemistry and laboratory i
+1647:_:chem:::121:::d102:::General Chemistry and Laboratory I:::chem121:::chem121d102:::chem 121 d102 general chemistry and laboratory i
+1648:_:chem:::121:::d103:::General Chemistry and Laboratory I:::chem121:::chem121d103:::chem 121 d103 general chemistry and laboratory i
+1649:_:chem:::121:::d104:::General Chemistry and Laboratory I:::chem121:::chem121d104:::chem 121 d104 general chemistry and laboratory i
+1650:_:chem:::121:::d105:::General Chemistry and Laboratory I:::chem121:::chem121d105:::chem 121 d105 general chemistry and laboratory i
+1651:_:chem:::121:::d106:::General Chemistry and Laboratory I:::chem121:::chem121d106:::chem 121 d106 general chemistry and laboratory i
+1652:_:chem:::121:::d108:::General Chemistry and Laboratory I:::chem121:::chem121d108:::chem 121 d108 general chemistry and laboratory i
+1653:_:chem:::121:::d109:::General Chemistry and Laboratory I:::chem121:::chem121d109:::chem 121 d109 general chemistry and laboratory i
+1654:_:chem:::121:::d110:::General Chemistry and Laboratory I:::chem121:::chem121d110:::chem 121 d110 general chemistry and laboratory i
+1655:_:chem:::121:::d111:::General Chemistry and Laboratory I:::chem121:::chem121d111:::chem 121 d111 general chemistry and laboratory i
+1656:_:chem:::121:::d112:::General Chemistry and Laboratory I:::chem121:::chem121d112:::chem 121 d112 general chemistry and laboratory i
+1657:_:chem:::121:::d115:::General Chemistry and Laboratory I:::chem121:::chem121d115:::chem 121 d115 general chemistry and laboratory i
+1658:_:chem:::121:::d116:::General Chemistry and Laboratory I:::chem121:::chem121d116:::chem 121 d116 general chemistry and laboratory i
+1659:_:chem:::121:::la04:::General Chemistry and Laboratory I:::chem121:::chem121la04:::chem 121 la04 general chemistry and laboratory i
+1660:_:chem:::121:::la06:::General Chemistry and Laboratory I:::chem121:::chem121la06:::chem 121 la06 general chemistry and laboratory i
+1661:_:chem:::121:::lb04:::General Chemistry and Laboratory I:::chem121:::chem121lb04:::chem 121 lb04 general chemistry and laboratory i
+1662:_:chem:::121:::lb06:::General Chemistry and Laboratory I:::chem121:::chem121lb06:::chem 121 lb06 general chemistry and laboratory i
+1663:_:chem:::121:::le01:::General Chemistry and Laboratory I:::chem121:::chem121le01:::chem 121 le01 general chemistry and laboratory i
+1664:_:hist:::899:::g100:::PhD Thesis:::hist899:::hist899g100:::hist 899 g100 phd thesis
+1665:_:hist:::899:::g200:::PhD Thesis:::hist899:::hist899g200:::hist 899 g200 phd thesis
+1666:_:ensc:::896:::g100:::MEng Project (Completion):::ensc896:::ensc896g100:::ensc 896 g100 meng project (completion)
+1667:_:ensc:::896:::g200:::MEng Project (Completion):::ensc896:::ensc896g200:::ensc 896 g200 meng project (completion)
+1668:_:ensc:::896:::g300:::MEng Project (Completion):::ensc896:::ensc896g300:::ensc 896 g300 meng project (completion)
+1669:_:ensc:::896:::g400:::MEng Project (Completion):::ensc896:::ensc896g400:::ensc 896 g400 meng project (completion)
+1670:_:chem:::215:::d100:::Introduction to Analytical Chemistry:::chem215:::chem215d100:::chem 215 d100 introduction to analytical chemistry
+1671:_:chem:::215:::la01:::Introduction to Analytical Chemistry:::chem215:::chem215la01:::chem 215 la01 introduction to analytical chemistry
+1672:_:chem:::215:::la02:::Introduction to Analytical Chemistry:::chem215:::chem215la02:::chem 215 la02 introduction to analytical chemistry
+1673:_:chem:::215:::la04:::Introduction to Analytical Chemistry:::chem215:::chem215la04:::chem 215 la04 introduction to analytical chemistry
+1674:_:rem:::471:::d100:::Forest Ecosystem Management:::rem471:::rem471d100:::rem 471 d100 forest ecosystem management
+1675:_:rem:::471:::d101:::Forest Ecosystem Management:::rem471:::rem471d101:::rem 471 d101 forest ecosystem management
+1676:_:rem:::471:::d103:::Forest Ecosystem Management:::rem471:::rem471d103:::rem 471 d103 forest ecosystem management
+1677:_:math:::876:::g100:::PhD Comprehensive Examination:::math876:::math876g100:::math 876 g100 phd comprehensive examination
+1678:_:bus:::439:::d100:::Analytics Project:::bus439:::bus439d100:::bus 439 d100 analytics project
+1679:_:fnst:::402w:::e100:::The Discourse of Aboriginal Peoples:::fnst402w:::fnst402we100:::fnst 402w e100 the discourse of aboriginal peoples
+1680:_:engl:::875:::d100:::Directed Studies:::engl875:::engl875d100:::engl 875 d100 directed studies
+1681:_:engl:::880:::g100:::Pro-seminar I:::engl880:::engl880g100:::engl 880 g100 pro-seminar i
+1682:_:sa:::355:::d100:::Quantitative Methods (S):::sa355:::sa355d100:::sa 355 d100 quantitative methods (s)
+1683:_:pol:::401:::d100:::Political Science Practicum IV:::pol401:::pol401d100:::pol 401 d100 political science practicum iv
+1684:_:pol:::401:::d200:::Political Science Practicum IV:::pol401:::pol401d200:::pol 401 d200 political science practicum iv
+1685:_:pol:::401:::i100:::Political Science Practicum IV:::pol401:::pol401i100:::pol 401 i100 political science practicum iv
+1686:_:sd:::803:::d100:::Directed Studies in Sustainable Development:::sd803:::sd803d100:::sd 803 d100 directed studies in sustainable development
+1687:_:engl:::891:::g100:::MA Paper/Project:::engl891:::engl891g100:::engl 891 g100 ma paper/project
+1688:_:engl:::891:::g900:::MA Paper/Project:::engl891:::engl891g900:::engl 891 g900 ma paper/project
+1689:_:engl:::892:::g100:::PhD Field Exam One:::engl892:::engl892g100:::engl 892 g100 phd field exam one
+1690:_:sa:::358:::c100:::The Philosophy of the Social Sciences (SA):::sa358:::sa358c100:::sa 358 c100 the philosophy of the social sciences (sa)
+1691:_:ensc:::491:::d100:::Special Project Laboratory:::ensc491:::ensc491d100:::ensc 491 d100 special project laboratory
+1692:_:engl:::890:::g100:::MA Thesis:::engl890:::engl890g100:::engl 890 g100 ma thesis
+1693:_:ensc:::493:::d100:::Special Project Laboratory:::ensc493:::ensc493d100:::ensc 493 d100 special project laboratory
+1694:_:engl:::893:::g100:::PhD Field Exam Two:::engl893:::engl893g100:::engl 893 g100 phd field exam two
+1695:_:rem:::602:::g200:::Professional Planning Practice: Advanced Seminar:::rem602:::rem602g200:::rem 602 g200 professional planning practice: advanced seminar
+1696:_:mse:::921:::g100:::Product Realization Project I:::mse921:::mse921g100:::mse 921 g100 product realization project i
+1697:_:mse:::921:::opl1:::Product Realization Project I:::mse921:::mse921opl1:::mse 921 opl1 product realization project i
+1698:_:mse:::921:::opl2:::Product Realization Project I:::mse921:::mse921opl2:::mse 921 opl2 product realization project i
+1699:_:mse:::921:::opl3:::Product Realization Project I:::mse921:::mse921opl3:::mse 921 opl3 product realization project i
+1700:_:ensc:::492:::d100:::Special Project Laboratory:::ensc492:::ensc492d100:::ensc 492 d100 special project laboratory
+1701:_:fren:::300:::d100:::Advanced French: Oral Practice:::fren300:::fren300d100:::fren 300 d100 advanced french: oral practice
+1702:_:bisc:::300:::d100:::Evolution:::bisc300:::bisc300d100:::bisc 300 d100 evolution
+1703:_:bisc:::300:::d101:::Evolution:::bisc300:::bisc300d101:::bisc 300 d101 evolution
+1704:_:bisc:::300:::d102:::Evolution:::bisc300:::bisc300d102:::bisc 300 d102 evolution
+1705:_:bisc:::300:::d103:::Evolution:::bisc300:::bisc300d103:::bisc 300 d103 evolution
+1706:_:bisc:::300:::d104:::Evolution:::bisc300:::bisc300d104:::bisc 300 d104 evolution
+1707:_:bisc:::300:::d105:::Evolution:::bisc300:::bisc300d105:::bisc 300 d105 evolution
+1708:_:bisc:::300:::d106:::Evolution:::bisc300:::bisc300d106:::bisc 300 d106 evolution
+1709:_:bisc:::300:::d107:::Evolution:::bisc300:::bisc300d107:::bisc 300 d107 evolution
+1710:_:bisc:::300:::d108:::Evolution:::bisc300:::bisc300d108:::bisc 300 d108 evolution
+1711:_:psyc:::499:::d100:::Honours Project:::psyc499:::psyc499d100:::psyc 499 d100 honours project
+1712:_:psyc:::715:::g100:::Proseminar in Measurement:::psyc715:::psyc715g100:::psyc 715 g100 proseminar in measurement
+1713:_:psyc:::715:::g900:::Proseminar in Measurement:::psyc715:::psyc715g900:::psyc 715 g900 proseminar in measurement
+1714:_:cmns:::480:::d001:::Directed Study:::cmns480:::cmns480d001:::cmns 480 d001 directed study
+1715:_:cmns:::480:::d002:::Directed Study:::cmns480:::cmns480d002:::cmns 480 d002 directed study
+1716:_:cmns:::480:::d003:::Directed Study:::cmns480:::cmns480d003:::cmns 480 d003 directed study
+1717:_:cmns:::480:::d004:::Directed Study:::cmns480:::cmns480d004:::cmns 480 d004 directed study
+1718:_:cmns:::480:::d005:::Directed Study:::cmns480:::cmns480d005:::cmns 480 d005 directed study
+1719:_:cmns:::480:::d006:::Directed Study:::cmns480:::cmns480d006:::cmns 480 d006 directed study
+1720:_:cmns:::480:::d007:::Directed Study:::cmns480:::cmns480d007:::cmns 480 d007 directed study
+1721:_:cmns:::480:::d008:::Directed Study:::cmns480:::cmns480d008:::cmns 480 d008 directed study
+1722:_:cmns:::480:::d009:::Directed Study:::cmns480:::cmns480d009:::cmns 480 d009 directed study
+1723:_:bus:::207:::d100:::Managerial Economics:::bus207:::bus207d100:::bus 207 d100 managerial economics
+1724:_:bus:::207:::d200:::Managerial Economics:::bus207:::bus207d200:::bus 207 d200 managerial economics
+1725:_:bus:::207:::e100:::Managerial Economics:::bus207:::bus207e100:::bus 207 e100 managerial economics
+1726:_:fnst:::341:::d100:::First Nations Co-op Practicum III:::fnst341:::fnst341d100:::fnst 341 d100 first nations co-op practicum iii
+1727:_:fnst:::341:::d200:::First Nations Co-op Practicum III:::fnst341:::fnst341d200:::fnst 341 d200 first nations co-op practicum iii
+1728:_:fnst:::341:::i100:::First Nations Co-op Practicum III:::fnst341:::fnst341i100:::fnst 341 i100 first nations co-op practicum iii
+1729:_:rem:::625:::g100:::Risk Assessment and Decision Analysis for Management of Natural Resources:::rem625:::rem625g100:::rem 625 g100 risk assessment and decision analysis for management of natural resources
+1730:_:hist:::344:::d100:::Themes in Modern East Africa:::hist344:::hist344d100:::hist 344 d100 themes in modern east africa
+1731:_:rem:::631:::g300:::Earth Systems and Global Change in Environmental Management:::rem631:::rem631g300:::rem 631 g300 earth systems and global change in environmental management
+1732:_:cmns:::482:::d001:::Directed Study:::cmns482:::cmns482d001:::cmns 482 d001 directed study
+1733:_:cmns:::482:::d002:::Directed Study:::cmns482:::cmns482d002:::cmns 482 d002 directed study
+1734:_:cmns:::482:::d003:::Directed Study:::cmns482:::cmns482d003:::cmns 482 d003 directed study
+1735:_:cmns:::482:::d004:::Directed Study:::cmns482:::cmns482d004:::cmns 482 d004 directed study
+1736:_:cmns:::482:::d005:::Directed Study:::cmns482:::cmns482d005:::cmns 482 d005 directed study
+1737:_:cmns:::482:::d006:::Directed Study:::cmns482:::cmns482d006:::cmns 482 d006 directed study
+1738:_:cmns:::482:::d007:::Directed Study:::cmns482:::cmns482d007:::cmns 482 d007 directed study
+1739:_:cmns:::482:::d008:::Directed Study:::cmns482:::cmns482d008:::cmns 482 d008 directed study
+1740:_:cmns:::482:::d009:::Directed Study:::cmns482:::cmns482d009:::cmns 482 d009 directed study
+1741:_:stat:::641:::g100:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat641:::stat641g100:::stat 641 g100 introduction to statistical computing and exploratory data analysis - r
+1742:_:stat:::641:::g101:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat641:::stat641g101:::stat 641 g101 introduction to statistical computing and exploratory data analysis - r
+1743:_:stat:::641:::g102:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat641:::stat641g102:::stat 641 g102 introduction to statistical computing and exploratory data analysis - r
+1744:_:stat:::641:::g103:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat641:::stat641g103:::stat 641 g103 introduction to statistical computing and exploratory data analysis - r
+1745:_:stat:::641:::g104:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat641:::stat641g104:::stat 641 g104 introduction to statistical computing and exploratory data analysis - r
+1746:_:stat:::641:::g105:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat641:::stat641g105:::stat 641 g105 introduction to statistical computing and exploratory data analysis - r
+1747:_:stat:::641:::g106:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat641:::stat641g106:::stat 641 g106 introduction to statistical computing and exploratory data analysis - r
+1748:_:cmns:::481:::d001:::Directed Study:::cmns481:::cmns481d001:::cmns 481 d001 directed study
+1749:_:cmns:::481:::d002:::Directed Study:::cmns481:::cmns481d002:::cmns 481 d002 directed study
+1750:_:cmns:::481:::d003:::Directed Study:::cmns481:::cmns481d003:::cmns 481 d003 directed study
+1751:_:cmns:::481:::d004:::Directed Study:::cmns481:::cmns481d004:::cmns 481 d004 directed study
+1752:_:cmns:::481:::d005:::Directed Study:::cmns481:::cmns481d005:::cmns 481 d005 directed study
+1753:_:cmns:::481:::d006:::Directed Study:::cmns481:::cmns481d006:::cmns 481 d006 directed study
+1754:_:cmns:::481:::d007:::Directed Study:::cmns481:::cmns481d007:::cmns 481 d007 directed study
+1755:_:cmns:::481:::d008:::Directed Study:::cmns481:::cmns481d008:::cmns 481 d008 directed study
+1756:_:cmns:::481:::d009:::Directed Study:::cmns481:::cmns481d009:::cmns 481 d009 directed study
+1757:_:hist:::350:::d100:::The Ottoman Empire and Turkey:::hist350:::hist350d100:::hist 350 d100 the ottoman empire and turkey
+1758:_:cmns:::483:::d001:::Directed Study:::cmns483:::cmns483d001:::cmns 483 d001 directed study
+1759:_:cmns:::483:::d002:::Directed Study:::cmns483:::cmns483d002:::cmns 483 d002 directed study
+1760:_:cmns:::483:::d003:::Directed Study:::cmns483:::cmns483d003:::cmns 483 d003 directed study
+1761:_:cmns:::483:::d004:::Directed Study:::cmns483:::cmns483d004:::cmns 483 d004 directed study
+1762:_:cmns:::483:::d005:::Directed Study:::cmns483:::cmns483d005:::cmns 483 d005 directed study
+1763:_:cmns:::483:::d006:::Directed Study:::cmns483:::cmns483d006:::cmns 483 d006 directed study
+1764:_:cmns:::483:::d007:::Directed Study:::cmns483:::cmns483d007:::cmns 483 d007 directed study
+1765:_:cmns:::483:::d008:::Directed Study:::cmns483:::cmns483d008:::cmns 483 d008 directed study
+1766:_:cmns:::483:::d009:::Directed Study:::cmns483:::cmns483d009:::cmns 483 d009 directed study
+1767:_:stat:::341:::d100:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat341:::stat341d100:::stat 341 d100 introduction to statistical computing and exploratory data analysis - r
+1768:_:stat:::341:::d101:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat341:::stat341d101:::stat 341 d101 introduction to statistical computing and exploratory data analysis - r
+1769:_:stat:::341:::d102:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat341:::stat341d102:::stat 341 d102 introduction to statistical computing and exploratory data analysis - r
+1770:_:stat:::341:::d103:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat341:::stat341d103:::stat 341 d103 introduction to statistical computing and exploratory data analysis - r
+1771:_:stat:::341:::d104:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat341:::stat341d104:::stat 341 d104 introduction to statistical computing and exploratory data analysis - r
+1772:_:stat:::341:::d105:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat341:::stat341d105:::stat 341 d105 introduction to statistical computing and exploratory data analysis - r
+1773:_:stat:::341:::d106:::Introduction to Statistical Computing and Exploratory Data Analysis - R:::stat341:::stat341d106:::stat 341 d106 introduction to statistical computing and exploratory data analysis - r
+1774:_:fnst:::141:::d100:::First Nations Studies Co-op Practicum I:::fnst141:::fnst141d100:::fnst 141 d100 first nations studies co-op practicum i
+1775:_:fnst:::141:::d200:::First Nations Studies Co-op Practicum I:::fnst141:::fnst141d200:::fnst 141 d200 first nations studies co-op practicum i
+1776:_:fnst:::141:::i100:::First Nations Studies Co-op Practicum I:::fnst141:::fnst141i100:::fnst 141 i100 first nations studies co-op practicum i
+1777:_:bpk:::451w:::d100:::Practicum III:::bpk451w:::bpk451wd100:::bpk 451w d100 practicum iii
+1778:_:bpk:::451w:::d200:::Practicum III:::bpk451w:::bpk451wd200:::bpk 451w d200 practicum iii
+1779:_:ensc:::194:::d100:::Optional Job Practicum:::ensc194:::ensc194d100:::ensc 194 d100 optional job practicum
+1780:_:fren:::304:::d100:::Advanced French Grammar:::fren304:::fren304d100:::fren 304 d100 advanced french grammar
+1781:_:ensc:::488:::d100:::Introduction to Robotics:::ensc488:::ensc488d100:::ensc 488 d100 introduction to robotics
+1782:_:ensc:::488:::d101:::Introduction to Robotics:::ensc488:::ensc488d101:::ensc 488 d101 introduction to robotics
+1783:_:ensc:::488:::la01:::Introduction to Robotics:::ensc488:::ensc488la01:::ensc 488 la01 introduction to robotics
+1784:_:ensc:::195:::d100:::Industrial Internship I:::ensc195:::ensc195d100:::ensc 195 d100 industrial internship i
+1785:_:ensc:::195:::d200:::Industrial Internship I:::ensc195:::ensc195d200:::ensc 195 d200 industrial internship i
+1786:_:ensc:::195:::i100:::Industrial Internship I:::ensc195:::ensc195i100:::ensc 195 i100 industrial internship i
+1787:_:ensc:::196:::d100:::Special Internship I:::ensc196:::ensc196d100:::ensc 196 d100 special internship i
+1788:_:ensc:::196:::d200:::Special Internship I:::ensc196:::ensc196d200:::ensc 196 d200 special internship i
+1789:_:ensc:::196:::i100:::Special Internship I:::ensc196:::ensc196i100:::ensc 196 i100 special internship i
+1790:_:fren:::307:::d100:::The Right Word: Advanced Vocabulary and Translation:::fren307:::fren307d100:::fren 307 d100 the right word: advanced vocabulary and translation
+1791:_:psyc:::705:::g100:::Proseminar in History and Systems:::psyc705:::psyc705g100:::psyc 705 g100 proseminar in history and systems
+1792:_:bisc:::366:::d100:::Plant Physiology:::bisc366:::bisc366d100:::bisc 366 d100 plant physiology
+1793:_:bisc:::366:::d101:::Plant Physiology:::bisc366:::bisc366d101:::bisc 366 d101 plant physiology
+1794:_:bisc:::366:::d102:::Plant Physiology:::bisc366:::bisc366d102:::bisc 366 d102 plant physiology
+1795:_:bisc:::366:::d103:::Plant Physiology:::bisc366:::bisc366d103:::bisc 366 d103 plant physiology
+1796:_:hist:::338:::d100:::World War II:::hist338:::hist338d100:::hist 338 d100 world war ii
+1797:_:hist:::338:::d101:::World War II:::hist338:::hist338d101:::hist 338 d101 world war ii
+1798:_:hist:::338:::d102:::World War II:::hist338:::hist338d102:::hist 338 d102 world war ii
+1799:_:chem:::819:::d100:::Special Topics in Analytical Chemistry:::chem819:::chem819d100:::chem 819 d100 special topics in analytical chemistry
+1800:_:fren:::198:::e100:::French for Reading Knowledge I:::fren198:::fren198e100:::fren 198 e100 french for reading knowledge i
+1801:_:cmns:::327:::d100:::Media, Learning, and Social Change:::cmns327:::cmns327d100:::cmns 327 d100 media, learning, and social change
+1802:_:chem:::484:::d100:::Two-Semester Undergraduate Research in Chemistry:::chem484:::chem484d100:::chem 484 d100 two-semester undergraduate research in chemistry
+1803:_:chem:::802:::g100:::M.Sc. Research Proposal and Examination:::chem802:::chem802g100:::chem 802 g100 m.sc. research proposal and examination
+1804:_:bus:::483:::d100:::Introduction to Employment Law For Business:::bus483:::bus483d100:::bus 483 d100 introduction to employment law for business
+1805:_:ensc:::880:::g100:::PhD Qualifying Examination:::ensc880:::ensc880g100:::ensc 880 g100 phd qualifying examination
+1806:_:hist:::339:::c100:::The British Empire and Commonwealth:::hist339:::hist339c100:::hist 339 c100 the british empire and commonwealth
+1807:_:stat:::851:::g100:::Generalized Linear Models and Discrete Data Analysis:::stat851:::stat851g100:::stat 851 g100 generalized linear models and discrete data analysis
+1808:_:stat:::300w:::d100:::Statistics Communication:::stat300w:::stat300wd100:::stat 300w d100 statistics communication
+1809:_:ensc:::499:::d100:::Engineering Science Undergraduate Thesis:::ensc499:::ensc499d100:::ensc 499 d100 engineering science undergraduate thesis
+1810:_:engl:::434w:::e100:::Topics in the Victorian Period:::engl434w:::engl434we100:::engl 434w e100 topics in the victorian period
+1811:_:gsws:::210:::d100:::Gender Today:::gsws210:::gsws210d100:::gsws 210 d100 gender today
+1812:_:ling:::804:::g100:::Field Methods:::ling804:::ling804g100:::ling 804 g100 field methods
+1813:_:env:::402:::d100:::Environment Practicum III:::env402:::env402d100:::env 402 d100 environment practicum iii
+1814:_:env:::402:::d200:::Environment Practicum III:::env402:::env402d200:::env 402 d200 environment practicum iii
+1815:_:env:::402:::i100:::Environment Practicum III:::env402:::env402i100:::env 402 i100 environment practicum iii
+1816:_:fnst:::201w:::d100:::Canadian Aboriginal Peoples' Perspectives on History:::fnst201w:::fnst201wd100:::fnst 201w d100 canadian aboriginal peoples' perspectives on history
+1817:_:fnst:::241:::d100:::First Nations Studies Co-op Practicum II:::fnst241:::fnst241d100:::fnst 241 d100 first nations studies co-op practicum ii
+1818:_:fnst:::241:::d200:::First Nations Studies Co-op Practicum II:::fnst241:::fnst241d200:::fnst 241 d200 first nations studies co-op practicum ii
+1819:_:fnst:::241:::i100:::First Nations Studies Co-op Practicum II:::fnst241:::fnst241i100:::fnst 241 i100 first nations studies co-op practicum ii
+1820:_:acma:::850:::g100:::Actuarial Science: Selected Topics:::acma850:::acma850g100:::acma 850 g100 actuarial science: selected topics
+1821:_:acma:::850:::g101:::Actuarial Science: Selected Topics:::acma850:::acma850g101:::acma 850 g101 actuarial science: selected topics
+1822:_:env:::303:::d100:::Environment Practicum II:::env303:::env303d100:::env 303 d100 environment practicum ii
+1823:_:env:::303:::d200:::Environment Practicum II:::env303:::env303d200:::env 303 d200 environment practicum ii
+1824:_:env:::303:::i100:::Environment Practicum II:::env303:::env303i100:::env 303 i100 environment practicum ii
+1825:_:hist:::475:::d100:::Practicum IV:::hist475:::hist475d100:::hist 475 d100 practicum iv
+1826:_:hist:::475:::d200:::Practicum IV:::hist475:::hist475d200:::hist 475 d200 practicum iv
+1827:_:hist:::475:::i100:::Practicum IV:::hist475:::hist475i100:::hist 475 i100 practicum iv
+1828:_:cmns:::332:::d100:::Communication and Rhetoric:::cmns332:::cmns332d100:::cmns 332 d100 communication and rhetoric
+1829:_:fnst:::441:::d100:::First Nations Studies Co-op Practicum IV:::fnst441:::fnst441d100:::fnst 441 d100 first nations studies co-op practicum iv
+1830:_:fnst:::441:::d200:::First Nations Studies Co-op Practicum IV:::fnst441:::fnst441d200:::fnst 441 d200 first nations studies co-op practicum iv
+1831:_:fnst:::441:::i100:::First Nations Studies Co-op Practicum IV:::fnst441:::fnst441i100:::fnst 441 i100 first nations studies co-op practicum iv
+1832:_:env:::404:::d100:::Environment Practicum V:::env404:::env404d100:::env 404 d100 environment practicum v
+1833:_:env:::404:::d200:::Environment Practicum V:::env404:::env404d200:::env 404 d200 environment practicum v
+1834:_:env:::404:::i100:::Environment Practicum V:::env404:::env404i100:::env 404 i100 environment practicum v
+1835:_:hist:::439:::d100:::Catholicism in Early Modern Europe:::hist439:::hist439d100:::hist 439 d100 catholicism in early modern europe
+1836:_:acma:::820:::g100:::Stochastic Analysis of Insurance Portfolios:::acma820:::acma820g100:::acma 820 g100 stochastic analysis of insurance portfolios
+1837:_:acma:::820:::g101:::Stochastic Analysis of Insurance Portfolios:::acma820:::acma820g101:::acma 820 g101 stochastic analysis of insurance portfolios
+1838:_:env:::403:::d100:::Environment Practicum IV:::env403:::env403d100:::env 403 d100 environment practicum iv
+1839:_:env:::403:::d200:::Environment Practicum IV:::env403:::env403d200:::env 403 d200 environment practicum iv
+1840:_:env:::403:::i100:::Environment Practicum IV:::env403:::env403i100:::env 403 i100 environment practicum iv
+1841:_:env:::302:::d100:::Environment Practicum I:::env302:::env302d100:::env 302 d100 environment practicum i
+1842:_:env:::302:::d200:::Environment Practicum I:::env302:::env302d200:::env 302 d200 environment practicum i
+1843:_:env:::302:::i100:::Environment Practicum I:::env302:::env302i100:::env 302 i100 environment practicum i
+1844:_:bpk:::448:::d100:::Rehabilitation of Movement Control:::bpk448:::bpk448d100:::bpk 448 d100 rehabilitation of movement control
+1845:_:bpk:::446:::d100:::Neurological Disorders:::bpk446:::bpk446d100:::bpk 446 d100 neurological disorders
+1846:_:bpk:::452:::d100:::Practicum IV:::bpk452:::bpk452d100:::bpk 452 d100 practicum iv
+1847:_:bpk:::452:::d200:::Practicum IV:::bpk452:::bpk452d200:::bpk 452 d200 practicum iv
+1848:_:bpk:::452:::i100:::Practicum IV:::bpk452:::bpk452i100:::bpk 452 i100 practicum iv
+1849:_:cmns:::201:::d100:::Empirical Communication Research Methods:::cmns201:::cmns201d100:::cmns 201 d100 empirical communication research methods
+1850:_:cmns:::201:::d101:::Empirical Communication Research Methods:::cmns201:::cmns201d101:::cmns 201 d101 empirical communication research methods
+1851:_:cmns:::201:::d102:::Empirical Communication Research Methods:::cmns201:::cmns201d102:::cmns 201 d102 empirical communication research methods
+1852:_:cmns:::201:::d103:::Empirical Communication Research Methods:::cmns201:::cmns201d103:::cmns 201 d103 empirical communication research methods
+1853:_:cmns:::201:::d104:::Empirical Communication Research Methods:::cmns201:::cmns201d104:::cmns 201 d104 empirical communication research methods
+1854:_:cmns:::201:::d105:::Empirical Communication Research Methods:::cmns201:::cmns201d105:::cmns 201 d105 empirical communication research methods
+1855:_:cmns:::201:::d106:::Empirical Communication Research Methods:::cmns201:::cmns201d106:::cmns 201 d106 empirical communication research methods
+1856:_:cmns:::201:::d107:::Empirical Communication Research Methods:::cmns201:::cmns201d107:::cmns 201 d107 empirical communication research methods
+1857:_:cmns:::201:::d108:::Empirical Communication Research Methods:::cmns201:::cmns201d108:::cmns 201 d108 empirical communication research methods
+1858:_:cmns:::201:::d109:::Empirical Communication Research Methods:::cmns201:::cmns201d109:::cmns 201 d109 empirical communication research methods
+1859:_:bpk:::451:::d100:::Practicum III:::bpk451:::bpk451d100:::bpk 451 d100 practicum iii
+1860:_:bpk:::451:::d200:::Practicum III:::bpk451:::bpk451d200:::bpk 451 d200 practicum iii
+1861:_:bpk:::451:::i100:::Practicum III:::bpk451:::bpk451i100:::bpk 451 i100 practicum iii
+1862:_:fren:::210:::d100:::Intermediate French I:::fren210:::fren210d100:::fren 210 d100 intermediate french i
+1863:_:fren:::210:::d200:::Intermediate French I:::fren210:::fren210d200:::fren 210 d200 intermediate french i
+1864:_:fren:::210:::e100:::Intermediate French I:::fren210:::fren210e100:::fren 210 e100 intermediate french i
+1865:_:cmns:::455w:::d100:::Women and New Information Technologies:::cmns455w:::cmns455wd100:::cmns 455w d100 women and new information technologies
+1866:_:fren:::211:::d100:::Intermediate French II:::fren211:::fren211d100:::fren 211 d100 intermediate french ii
+1867:_:fren:::211:::d200:::Intermediate French II:::fren211:::fren211d200:::fren 211 d200 intermediate french ii
+1868:_:fren:::211:::e100:::Intermediate French II:::fren211:::fren211e100:::fren 211 e100 intermediate french ii
+1869:_:mse:::899:::g100:::PhD Thesis:::mse899:::mse899g100:::mse 899 g100 phd thesis
+1870:_:hist:::335:::d100:::The Soviet Project:::hist335:::hist335d100:::hist 335 d100 the soviet project
+1871:_:bpk:::453:::d100:::Practicum V:::bpk453:::bpk453d100:::bpk 453 d100 practicum v
+1872:_:bpk:::453:::d200:::Practicum V:::bpk453:::bpk453d200:::bpk 453 d200 practicum v
+1873:_:bpk:::453:::i100:::Practicum V:::bpk453:::bpk453i100:::bpk 453 i100 practicum v
+1874:_:bisc:::341:::d100:::Practicum I:::bisc341:::bisc341d100:::bisc 341 d100 practicum i
+1875:_:bisc:::341:::d200:::Practicum I:::bisc341:::bisc341d200:::bisc 341 d200 practicum i
+1876:_:bisc:::341:::i100:::Practicum I:::bisc341:::bisc341i100:::bisc 341 i100 practicum i
+1877:_:bisc:::342:::d100:::Practicum II:::bisc342:::bisc342d100:::bisc 342 d100 practicum ii
+1878:_:bisc:::342:::d200:::Practicum II:::bisc342:::bisc342d200:::bisc 342 d200 practicum ii
+1879:_:bisc:::342:::i100:::Practicum II:::bisc342:::bisc342i100:::bisc 342 i100 practicum ii
+1880:_:easc:::311:::d100:::Metamorphic Petrology:::easc311:::easc311d100:::easc 311 d100 metamorphic petrology
+1881:_:easc:::311:::d101:::Metamorphic Petrology:::easc311:::easc311d101:::easc 311 d101 metamorphic petrology
+1882:_:cmns:::461:::d100:::Field Placement in Dialogue:::cmns461:::cmns461d100:::cmns 461 d100 field placement in dialogue
+1883:_:cmns:::461:::d200:::Field Placement in Dialogue:::cmns461:::cmns461d200:::cmns 461 d200 field placement in dialogue
+1884:_:ensc:::494:::d100:::Special Project Laboratory:::ensc494:::ensc494d100:::ensc 494 d100 special project laboratory
+1885:_:cmns:::479:::d001:::Directed Study:::cmns479:::cmns479d001:::cmns 479 d001 directed study
+1886:_:cmns:::479:::d002:::Directed Study:::cmns479:::cmns479d002:::cmns 479 d002 directed study
+1887:_:cmns:::479:::d003:::Directed Study:::cmns479:::cmns479d003:::cmns 479 d003 directed study
+1888:_:cmns:::479:::d004:::Directed Study:::cmns479:::cmns479d004:::cmns 479 d004 directed study
+1889:_:cmns:::479:::d005:::Directed Study:::cmns479:::cmns479d005:::cmns 479 d005 directed study
+1890:_:cmns:::479:::d006:::Directed Study:::cmns479:::cmns479d006:::cmns 479 d006 directed study
+1891:_:cmns:::479:::d007:::Directed Study:::cmns479:::cmns479d007:::cmns 479 d007 directed study
+1892:_:cmns:::479:::d008:::Directed Study:::cmns479:::cmns479d008:::cmns 479 d008 directed study
+1893:_:cmns:::479:::d009:::Directed Study:::cmns479:::cmns479d009:::cmns 479 d009 directed study
+1894:_:acma:::815:::g100:::Rate of Return Models:::acma815:::acma815g100:::acma 815 g100 rate of return models
+1895:_:acma:::815:::g101:::Rate of Return Models:::acma815:::acma815g101:::acma 815 g101 rate of return models
+1896:_:bisc:::111:::d100:::Special Topics: Current Topics in Biology I:::bisc111:::bisc111d100:::bisc 111 d100 special topics: current topics in biology i
+1897:_:bisc:::111:::d101:::Special Topics: Current Topics in Biology I:::bisc111:::bisc111d101:::bisc 111 d101 special topics: current topics in biology i
+1898:_:bisc:::111:::d102:::Special Topics: Current Topics in Biology I:::bisc111:::bisc111d102:::bisc 111 d102 special topics: current topics in biology i
+1899:_:ensc:::495:::e100:::Introduction to Microelectronic Fabrication:::ensc495:::ensc495e100:::ensc 495 e100 introduction to microelectronic fabrication
+1900:_:ensc:::495:::la01:::Introduction to Microelectronic Fabrication:::ensc495:::ensc495la01:::ensc 495 la01 introduction to microelectronic fabrication
+1901:_:ensc:::495:::la02:::Introduction to Microelectronic Fabrication:::ensc495:::ensc495la02:::ensc 495 la02 introduction to microelectronic fabrication
+1902:_:engl:::438w:::d100:::Topics in Modernism:::engl438w:::engl438wd100:::engl 438w d100 topics in modernism
+1903:_:engl:::440w:::e100:::Topics in British Literature Post 1945:::engl440w:::engl440we100:::engl 440w e100 topics in british literature post 1945
+1904:_:ensc:::498:::d100:::Engineering Science Thesis Proposal:::ensc498:::ensc498d100:::ensc 498 d100 engineering science thesis proposal
+1905:_:fren:::217:::e100:::Intermediate French: Oral Practice Through Drama:::fren217:::fren217e100:::fren 217 e100 intermediate french: oral practice through drama
+1906:_:ling:::800:::g100:::Phonology:::ling800:::ling800g100:::ling 800 g100 phonology
+1907:_:engl:::436w:::d100:::Topics in Literature of Transition:::engl436w:::engl436wd100:::engl 436w d100 topics in literature of transition
+1908:_:fren:::221:::d100:::French Writing I:::fren221:::fren221d100:::fren 221 d100 french writing i
+1909:_:fren:::221:::d200:::French Writing I:::fren221:::fren221d200:::fren 221 d200 french writing i
+1910:_:psyc:::268:::c100:::Introduction to Law and Psychology:::psyc268:::psyc268c100:::psyc 268 c100 introduction to law and psychology
+1911:_:psyc:::268:::d100:::Introduction to Law and Psychology:::psyc268:::psyc268d100:::psyc 268 d100 introduction to law and psychology
+1912:_:arch:::100:::d100:::Ancient Peoples and Places:::arch100:::arch100d100:::arch 100 d100 ancient peoples and places
+1913:_:arch:::100:::d200:::Ancient Peoples and Places:::arch100:::arch100d200:::arch 100 d200 ancient peoples and places
+1914:_:arch:::100:::d900:::Ancient Peoples and Places:::arch100:::arch100d900:::arch 100 d900 ancient peoples and places
+1915:_:fren:::212:::d100:::French for Immersion Program Students:::fren212:::fren212d100:::fren 212 d100 french for immersion program students
+1916:_:easc:::312:::d100:::Stratigraphy:::easc312:::easc312d100:::easc 312 d100 stratigraphy
+1917:_:math:::341:::d100:::Algebra III: Groups:::math341:::math341d100:::math 341 d100 algebra iii: groups
+1918:_:math:::341:::d101:::Algebra III: Groups:::math341:::math341d101:::math 341 d101 algebra iii: groups
+1919:_:educ:::829:::g001:::Contemporary Issues in Learning and Developmental Disorders:::educ829:::educ829g001:::educ 829 g001 contemporary issues in learning and developmental disorders
+1920:_:math:::150:::d100:::Calculus I with Review:::math150:::math150d100:::math 150 d100 calculus i with review
+1921:_:math:::150:::d200:::Calculus I with Review:::math150:::math150d200:::math 150 d200 calculus i with review
+1922:_:math:::150:::op01:::Calculus I with Review:::math150:::math150op01:::math 150 op01 calculus i with review
+1923:_:math:::150:::op02:::Calculus I with Review:::math150:::math150op02:::math 150 op02 calculus i with review
+1924:_:engl:::340:::d100:::Studies in Twentieth Century British Literature before 1945:::engl340:::engl340d100:::engl 340 d100 studies in twentieth century british literature before 1945
+1925:_:engl:::852:::g100:::Studies in Gender, Sexuality, and Literature:::engl852:::engl852g100:::engl 852 g100 studies in gender, sexuality, and literature
+1926:_:fren:::425:::d100:::Topics in the Varieties of French:::fren425:::fren425d100:::fren 425 d100 topics in the varieties of french
+1927:_:engl:::347:::d100:::Studies in American Literature before 1900:::engl347:::engl347d100:::engl 347 d100 studies in american literature before 1900
+1928:_:bus:::440:::e100:::Simulation in Management Decision-making:::bus440:::bus440e100:::bus 440 e100 simulation in management decision-making
+1929:_:stat:::605:::g100:::Biostatistical Methods:::stat605:::stat605g100:::stat 605 g100 biostatistical methods
+1930:_:stat:::604:::g100:::Analysis of Experimental and Observational Data:::stat604:::stat604g100:::stat 604 g100 analysis of experimental and observational data
+1931:_:hsci:::100:::d100:::Human Biology:::hsci100:::hsci100d100:::hsci 100 d100 human biology
+1932:_:hsci:::100:::d200:::Human Biology:::hsci100:::hsci100d200:::hsci 100 d200 human biology
+1933:_:ensc:::450:::e100:::VLSI Systems Design:::ensc450:::ensc450e100:::ensc 450 e100 vlsi systems design
+1934:_:ensc:::450:::e101:::VLSI Systems Design:::ensc450:::ensc450e101:::ensc 450 e101 vlsi systems design
+1935:_:ensc:::450:::la01:::VLSI Systems Design:::ensc450:::ensc450la01:::ensc 450 la01 vlsi systems design
+1936:_:ensc:::450:::la02:::VLSI Systems Design:::ensc450:::ensc450la02:::ensc 450 la02 vlsi systems design
+1937:_:sa:::856:::g100:::Qualitative Sociological Research Methods:::sa856:::sa856g100:::sa 856 g100 qualitative sociological research methods
+1938:_:bpk:::899:::g100:::PhD Thesis:::bpk899:::bpk899g100:::bpk 899 g100 phd thesis
+1939:_:sa:::875:::g100:::Ethnographic Methodology: Social/Cultural Anthropology:::sa875:::sa875g100:::sa 875 g100 ethnographic methodology: social/cultural anthropology
+1940:_:ensc:::427:::d100:::Communication Networks:::ensc427:::ensc427d100:::ensc 427 d100 communication networks
+1941:_:ensc:::427:::d101:::Communication Networks:::ensc427:::ensc427d101:::ensc 427 d101 communication networks
+1942:_:ensc:::427:::la01:::Communication Networks:::ensc427:::ensc427la01:::ensc 427 la01 communication networks
+1943:_:bpk:::898:::g100:::MSc Thesis:::bpk898:::bpk898g100:::bpk 898 g100 msc thesis
+1944:_:ensc:::891:::g100:::Directed Studies I:::ensc891:::ensc891g100:::ensc 891 g100 directed studies i
+1945:_:ensc:::891:::g200:::Directed Studies I:::ensc891:::ensc891g200:::ensc 891 g200 directed studies i
+1946:_:ensc:::428:::d100:::Digital Communications:::ensc428:::ensc428d100:::ensc 428 d100 digital communications
+1947:_:ensc:::428:::d101:::Digital Communications:::ensc428:::ensc428d101:::ensc 428 d101 digital communications
+1948:_:ensc:::428:::la01:::Digital Communications:::ensc428:::ensc428la01:::ensc 428 la01 digital communications
+1949:_:ensc:::892:::g100:::Directed Studies II:::ensc892:::ensc892g100:::ensc 892 g100 directed studies ii
+1950:_:ensc:::892:::g200:::Directed Studies II:::ensc892:::ensc892g200:::ensc 892 g200 directed studies ii
+1951:_:math:::795:::g100:::Selected Topics in Applied Mathematics:::math795:::math795g100:::math 795 g100 selected topics in applied mathematics
+1952:_:engl:::831:::g100:::Studies in Early Modern Literature:::engl831:::engl831g100:::engl 831 g100 studies in early modern literature
+1953:_:arch:::450:::d100:::Practicum III:::arch450:::arch450d100:::arch 450 d100 practicum iii
+1954:_:arch:::450:::d200:::Practicum III:::arch450:::arch450d200:::arch 450 d200 practicum iii
+1955:_:arch:::451:::d100:::Practicum IV:::arch451:::arch451d100:::arch 451 d100 practicum iv
+1956:_:arch:::451:::d200:::Practicum IV:::arch451:::arch451d200:::arch 451 d200 practicum iv
+1957:_:bus:::432:::d100:::International Human Resource Management:::bus432:::bus432d100:::bus 432 d100 international human resource management
+1958:_:educ:::702:::g001:::Directed Readings:::educ702:::educ702g001:::educ 702 g001 directed readings
+1959:_:educ:::702:::g002:::Directed Readings:::educ702:::educ702g002:::educ 702 g002 directed readings
+1960:_:educ:::702:::g003:::Directed Readings:::educ702:::educ702g003:::educ 702 g003 directed readings
+1961:_:econ:::836:::g100:::Applied Econometrics:::econ836:::econ836g100:::econ 836 g100 applied econometrics
+1962:_:econ:::836:::g101:::Applied Econometrics:::econ836:::econ836g101:::econ 836 g101 applied econometrics
+1963:_:educ:::703:::g001:::Directed Readings:::educ703:::educ703g001:::educ 703 g001 directed readings
+1964:_:educ:::703:::g002:::Directed Readings:::educ703:::educ703g002:::educ 703 g002 directed readings
+1965:_:educ:::703:::g003:::Directed Readings:::educ703:::educ703g003:::educ 703 g003 directed readings
+1966:_:educ:::703:::g004:::Directed Readings:::educ703:::educ703g004:::educ 703 g004 directed readings
+1967:_:educ:::703:::g005:::Directed Readings:::educ703:::educ703g005:::educ 703 g005 directed readings
+1968:_:educ:::703:::g006:::Directed Readings:::educ703:::educ703g006:::educ 703 g006 directed readings
+1969:_:educ:::703:::g007:::Directed Readings:::educ703:::educ703g007:::educ 703 g007 directed readings
+1970:_:educ:::703:::g008:::Directed Readings:::educ703:::educ703g008:::educ 703 g008 directed readings
+1971:_:educ:::703:::g009:::Directed Readings:::educ703:::educ703g009:::educ 703 g009 directed readings
+1972:_:educ:::704:::g001:::Directed Readings:::educ704:::educ704g001:::educ 704 g001 directed readings
+1973:_:educ:::704:::g002:::Directed Readings:::educ704:::educ704g002:::educ 704 g002 directed readings
+1974:_:educ:::704:::g003:::Directed Readings:::educ704:::educ704g003:::educ 704 g003 directed readings
+1975:_:educ:::704:::g004:::Directed Readings:::educ704:::educ704g004:::educ 704 g004 directed readings
+1976:_:educ:::704:::g005:::Directed Readings:::educ704:::educ704g005:::educ 704 g005 directed readings
+1977:_:educ:::704:::g006:::Directed Readings:::educ704:::educ704g006:::educ 704 g006 directed readings
+1978:_:educ:::704:::g007:::Directed Readings:::educ704:::educ704g007:::educ 704 g007 directed readings
+1979:_:educ:::704:::g008:::Directed Readings:::educ704:::educ704g008:::educ 704 g008 directed readings
+1980:_:educ:::704:::g009:::Directed Readings:::educ704:::educ704g009:::educ 704 g009 directed readings
+1981:_:hist:::821:::g100:::Early Modern World:::hist821:::hist821g100:::hist 821 g100 early modern world
+1982:_:chem:::399:::d100:::Special Topics in Chemistry and Society:::chem399:::chem399d100:::chem 399 d100 special topics in chemistry and society
+1983:_:educ:::705:::g001:::Directed Readings:::educ705:::educ705g001:::educ 705 g001 directed readings
+1984:_:educ:::705:::g002:::Directed Readings:::educ705:::educ705g002:::educ 705 g002 directed readings
+1985:_:educ:::705:::g003:::Directed Readings:::educ705:::educ705g003:::educ 705 g003 directed readings
+1986:_:educ:::705:::g004:::Directed Readings:::educ705:::educ705g004:::educ 705 g004 directed readings
+1987:_:educ:::705:::g005:::Directed Readings:::educ705:::educ705g005:::educ 705 g005 directed readings
+1988:_:educ:::705:::g006:::Directed Readings:::educ705:::educ705g006:::educ 705 g006 directed readings
+1989:_:educ:::705:::g007:::Directed Readings:::educ705:::educ705g007:::educ 705 g007 directed readings
+1990:_:educ:::705:::g008:::Directed Readings:::educ705:::educ705g008:::educ 705 g008 directed readings
+1991:_:educ:::705:::g009:::Directed Readings:::educ705:::educ705g009:::educ 705 g009 directed readings
+1992:_:educ:::923:::g001:::Critical and Sociocultural Approaches to Educational Research:::educ923:::educ923g001:::educ 923 g001 critical and sociocultural approaches to educational research
+1993:_:educ:::924:::g001:::Multilingualism, Globalization, and Identities:::educ924:::educ924g001:::educ 924 g001 multilingualism, globalization, and identities
+1994:_:hist:::822:::g100:::Themes in British and Irish History:::hist822:::hist822g100:::hist 822 g100 themes in british and irish history
+1995:_:engl:::496:::d100:::Honors Graduating Essay:::engl496:::engl496d100:::engl 496 d100 honors graduating essay
+1996:_:engl:::496:::d200:::Honors Graduating Essay:::engl496:::engl496d200:::engl 496 d200 honors graduating essay
+1997:_:math:::882:::g100:::MSc Final Examination:::math882:::math882g100:::math 882 g100 msc final examination
+1998:_:math:::882:::g200:::MSc Final Examination:::math882:::math882g200:::math 882 g200 msc final examination
+1999:_:math:::879:::g100:::PhD Thesis Proposal:::math879:::math879g100:::math 879 g100 phd thesis proposal
+2000:_:mbb:::741:::g100:::Bioinformatics:::mbb741:::mbb741g100:::mbb 741 g100 bioinformatics
+2001:_:gsws:::840:::g100:::Directed Studies:::gsws840:::gsws840g100:::gsws 840 g100 directed studies
+2002:_:gsws:::840:::g200:::Directed Studies:::gsws840:::gsws840g200:::gsws 840 g200 directed studies
+2003:_:bpk:::208:::d100:::Introduction to Physiological Systems:::bpk208:::bpk208d100:::bpk 208 d100 introduction to physiological systems
+2004:_:bpk:::208:::d102:::Introduction to Physiological Systems:::bpk208:::bpk208d102:::bpk 208 d102 introduction to physiological systems
+2005:_:bpk:::208:::d103:::Introduction to Physiological Systems:::bpk208:::bpk208d103:::bpk 208 d103 introduction to physiological systems
+2006:_:bpk:::208:::d104:::Introduction to Physiological Systems:::bpk208:::bpk208d104:::bpk 208 d104 introduction to physiological systems
+2007:_:educ:::928:::g001:::Doctoral Seminar B:::educ928:::educ928g001:::educ 928 g001 doctoral seminar b
+2008:_:lbrl:::101:::d100:::Practicum I:::lbrl101:::lbrl101d100:::lbrl 101 d100 practicum i
+2009:_:lbrl:::101:::d200:::Practicum I:::lbrl101:::lbrl101d200:::lbrl 101 d200 practicum i
+2010:_:lbrl:::101:::i100:::Practicum I:::lbrl101:::lbrl101i100:::lbrl 101 i100 practicum i
+2011:_:bus:::462:::d100:::Business Analytics:::bus462:::bus462d100:::bus 462 d100 business analytics
+2012:_:bus:::462:::d200:::Business Analytics:::bus462:::bus462d200:::bus 462 d200 business analytics
+2013:_:geog:::491:::d100:::Honours Essay:::geog491:::geog491d100:::geog 491 d100 honours essay
+2014:_:geog:::491:::d200:::Honours Essay:::geog491:::geog491d200:::geog 491 d200 honours essay
+2015:_:lbrl:::301:::d100:::Practicum III:::lbrl301:::lbrl301d100:::lbrl 301 d100 practicum iii
+2016:_:lbrl:::301:::d200:::Practicum III:::lbrl301:::lbrl301d200:::lbrl 301 d200 practicum iii
+2017:_:lbrl:::301:::i100:::Practicum III:::lbrl301:::lbrl301i100:::lbrl 301 i100 practicum iii
+2018:_:bus:::449:::d100:::Ethical Issues in Marketing:::bus449:::bus449d100:::bus 449 d100 ethical issues in marketing
+2019:_:educ:::816:::g001:::Developing Educational Programs and Practices for Diverse Educational Settings:::educ816:::educ816g001:::educ 816 g001 developing educational programs and practices for diverse educational settings
+2020:_:lbrl:::201:::d100:::Practicum II:::lbrl201:::lbrl201d100:::lbrl 201 d100 practicum ii
+2021:_:lbrl:::201:::d200:::Practicum II:::lbrl201:::lbrl201d200:::lbrl 201 d200 practicum ii
+2022:_:lbrl:::201:::i100:::Practicum II:::lbrl201:::lbrl201i100:::lbrl 201 i100 practicum ii
+2023:_:mbb:::861:::g100:::Biomolecular Structure and Function Colloquium:::mbb861:::mbb861g100:::mbb 861 g100 biomolecular structure and function colloquium
+2024:_:econ:::842:::g100:::International Monetary Economics:::econ842:::econ842g100:::econ 842 g100 international monetary economics
+2025:_:bus:::468:::d100:::Managing Information Technology for Business Value:::bus468:::bus468d100:::bus 468 d100 managing information technology for business value
+2026:_:bus:::468:::d200:::Managing Information Technology for Business Value:::bus468:::bus468d200:::bus 468 d200 managing information technology for business value
+2027:_:bus:::464:::d100:::Business Data Management:::bus464:::bus464d100:::bus 464 d100 business data management
+2028:_:bus:::464:::d200:::Business Data Management:::bus464:::bus464d200:::bus 464 d200 business data management
+2029:_:gsws:::997:::g100:::PhD Comprehensive Examination:::gsws997:::gsws997g100:::gsws 997 g100 phd comprehensive examination
+2030:_:gsws:::997:::g200:::PhD Comprehensive Examination:::gsws997:::gsws997g200:::gsws 997 g200 phd comprehensive examination
+2031:_:gsws:::998:::g100:::PhD Thesis:::gsws998:::gsws998g100:::gsws 998 g100 phd thesis
+2032:_:gsws:::998:::g200:::PhD Thesis:::gsws998:::gsws998g200:::gsws 998 g200 phd thesis
+2033:_:gsws:::898:::g100:::MA Thesis:::gsws898:::gsws898g100:::gsws 898 g100 ma thesis
+2034:_:gsws:::898:::g200:::MA Thesis:::gsws898:::gsws898g200:::gsws 898 g200 ma thesis
+2035:_:bisc:::423:::d100:::Developmental Neurobiology:::bisc423:::bisc423d100:::bisc 423 d100 developmental neurobiology
+2036:_:ital:::391:::d100:::STT - The Medicean Circle:::ital391:::ital391d100:::ital 391 d100 stt - the medicean circle
+2037:_:econ:::838:::g100:::Econometrics II:::econ838:::econ838g100:::econ 838 g100 econometrics ii
+2038:_:gsws:::999:::g100:::MA Field Exam:::gsws999:::gsws999g100:::gsws 999 g100 ma field exam
+2039:_:gsws:::999:::g200:::MA Field Exam:::gsws999:::gsws999g200:::gsws 999 g200 ma field exam
 2040:_:lbrl:::750:::g100:::Practicum I:::lbrl750:::lbrl750g100:::lbrl 750 g100 practicum i
 2041:_:lbrl:::750:::g200:::Practicum I:::lbrl750:::lbrl750g200:::lbrl 750 g200 practicum i
 2042:_:lbrl:::750:::i100:::Practicum I:::lbrl750:::lbrl750i100:::lbrl 750 i100 practicum i
@@ -3352,11 +3352,11 @@
 3352:_:ling:::371:::d200:::Linguistics Practicum II:::ling371:::ling371d200:::ling 371 d200 linguistics practicum ii
 3353:_:ling:::371:::i100:::Linguistics Practicum II:::ling371:::ling371i100:::ling 371 i100 linguistics practicum ii
 3354:_:ling:::363:::e100:::Practicum in Teaching English as a Practice Second Language to Adults:::ling363:::ling363e100:::ling 363 e100 practicum in teaching english as a practice second language to adults
-3355:_:fnst:::301:::d100:::Issues in Applied First Nations Studies Research:::fnst301:::fnst301d100:::fnst 301 d100 issues in applied first nations studies research
-3356:_:hist:::106:::d900:::The Making of Modern Europe:::hist106:::hist106d900:::hist 106 d900 the making of modern europe
-3357:_:hist:::106:::d901:::The Making of Modern Europe:::hist106:::hist106d901:::hist 106 d901 the making of modern europe
-3358:_:hist:::106:::d902:::The Making of Modern Europe:::hist106:::hist106d902:::hist 106 d902 the making of modern europe
-3359:_:hist:::106:::d903:::The Making of Modern Europe:::hist106:::hist106d903:::hist 106 d903 the making of modern europe
+3355:_:hist:::106:::d900:::The Making of Modern Europe:::hist106:::hist106d900:::hist 106 d900 the making of modern europe
+3356:_:hist:::106:::d901:::The Making of Modern Europe:::hist106:::hist106d901:::hist 106 d901 the making of modern europe
+3357:_:hist:::106:::d902:::The Making of Modern Europe:::hist106:::hist106d902:::hist 106 d902 the making of modern europe
+3358:_:hist:::106:::d903:::The Making of Modern Europe:::hist106:::hist106d903:::hist 106 d903 the making of modern europe
+3359:_:fnst:::301:::d100:::Issues in Applied First Nations Studies Research:::fnst301:::fnst301d100:::fnst 301 d100 issues in applied first nations studies research
 3360:_:engl:::475w:::d100:::Topics in Rhetoric:::engl475w:::engl475wd100:::engl 475w d100 topics in rhetoric
 3361:_:hsci:::333:::d100:::Red, Hot, and True: A Semester of Blood:::hsci333:::hsci333d100:::hsci 333 d100 red, hot, and true: a semester of blood
 3362:_:bpk:::482:::d100:::Ergonomics and Rehabilitation:::bpk482:::bpk482d100:::bpk 482 d100 ergonomics and rehabilitation
