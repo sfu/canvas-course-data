@@ -3274,420 +3274,423 @@
 3274:_:mbb:::251:::d100:::Practicum II:::mbb251:::mbb251d100:::mbb 251 d100 practicum ii
 3275:_:mbb:::251:::d200:::Practicum II:::mbb251:::mbb251d200:::mbb 251 d200 practicum ii
 3276:_:mbb:::251:::i100:::Practicum II:::mbb251:::mbb251i100:::mbb 251 i100 practicum ii
-3277:_:sa:::360:::d100:::Special Topics in Sociology and Anthropology (SA):::sa360:::sa360d100:::sa 360 d100 special topics in sociology and anthropology (sa)
-3278:_:ling:::323:::d100:::Morphology:::ling323:::ling323d100:::ling 323 d100 morphology
-3279:_:psyc:::825:::g100:::Clinical Practice:::psyc825:::psyc825g100:::psyc 825 g100 clinical practice
-3280:_:mbb:::222:::d100:::Molecular Biology and Biochemistry:::mbb222:::mbb222d100:::mbb 222 d100 molecular biology and biochemistry
-3281:_:mbb:::222:::d101:::Molecular Biology and Biochemistry:::mbb222:::mbb222d101:::mbb 222 d101 molecular biology and biochemistry
-3282:_:mbb:::222:::d102:::Molecular Biology and Biochemistry:::mbb222:::mbb222d102:::mbb 222 d102 molecular biology and biochemistry
-3283:_:mbb:::222:::d103:::Molecular Biology and Biochemistry:::mbb222:::mbb222d103:::mbb 222 d103 molecular biology and biochemistry
-3284:_:mbb:::222:::d104:::Molecular Biology and Biochemistry:::mbb222:::mbb222d104:::mbb 222 d104 molecular biology and biochemistry
-3285:_:mbb:::222:::d105:::Molecular Biology and Biochemistry:::mbb222:::mbb222d105:::mbb 222 d105 molecular biology and biochemistry
-3286:_:mbb:::222:::d106:::Molecular Biology and Biochemistry:::mbb222:::mbb222d106:::mbb 222 d106 molecular biology and biochemistry
-3287:_:mbb:::222:::d108:::Molecular Biology and Biochemistry:::mbb222:::mbb222d108:::mbb 222 d108 molecular biology and biochemistry
-3288:_:mbb:::222:::d109:::Molecular Biology and Biochemistry:::mbb222:::mbb222d109:::mbb 222 d109 molecular biology and biochemistry
-3289:_:ling:::322:::d100:::Syntax:::ling322:::ling322d100:::ling 322 d100 syntax
-3290:_:ling:::330:::d100:::Phonetics:::ling330:::ling330d100:::ling 330 d100 phonetics
-3291:_:psyc:::824:::g100:::Research Issues in Psychology:::psyc824:::psyc824g100:::psyc 824 g100 research issues in psychology
-3292:_:mbb:::151:::d100:::Practicum I:::mbb151:::mbb151d100:::mbb 151 d100 practicum i
-3293:_:mbb:::151:::d200:::Practicum I:::mbb151:::mbb151d200:::mbb 151 d200 practicum i
-3294:_:mbb:::151:::i100:::Practicum I:::mbb151:::mbb151i100:::mbb 151 i100 practicum i
-3295:_:chem:::740:::g100:::Solid State Materials Chemistry:::chem740:::chem740g100:::chem 740 g100 solid state materials chemistry
-3296:_:mse:::782:::g100:::Introduction to State Space Control Systems:::mse782:::mse782g100:::mse 782 g100 introduction to state space control systems
-3297:_:mse:::782:::lab1:::Introduction to State Space Control Systems:::mse782:::mse782lab1:::mse 782 lab1 introduction to state space control systems
-3298:_:mse:::782:::lab2:::Introduction to State Space Control Systems:::mse782:::mse782lab2:::mse 782 lab2 introduction to state space control systems
-3299:_:mse:::726:::g100:::Introduction to Engineering Design Optimization:::mse726:::mse726g100:::mse 726 g100 introduction to engineering design optimization
-3300:_:mse:::726:::lab1:::Introduction to Engineering Design Optimization:::mse726:::mse726lab1:::mse 726 lab1 introduction to engineering design optimization
-3301:_:mse:::726:::lab2:::Introduction to Engineering Design Optimization:::mse726:::mse726lab2:::mse 726 lab2 introduction to engineering design optimization
-3302:_:psyc:::880:::g100:::Junior Practicum:::psyc880:::psyc880g100:::psyc 880 g100 junior practicum
-3303:_:psyc:::880:::g200:::Junior Practicum:::psyc880:::psyc880g200:::psyc 880 g200 junior practicum
-3304:_:macm:::401:::d100:::Introduction to Computer Algebra:::macm401:::macm401d100:::macm 401 d100 introduction to computer algebra
-3305:_:bus:::727:::g100:::MBA Internship:::bus727:::bus727g100:::bus 727 g100 mba internship
-3306:_:mse:::881:::g100:::Analysis and Control of Nonlinear Systems:::mse881:::mse881g100:::mse 881 g100 analysis and control of nonlinear systems
-3307:_:macm:::316:::d100:::Numerical Analysis I:::macm316:::macm316d100:::macm 316 d100 numerical analysis i
-3308:_:macm:::316:::d101:::Numerical Analysis I:::macm316:::macm316d101:::macm 316 d101 numerical analysis i
-3309:_:macm:::316:::d102:::Numerical Analysis I:::macm316:::macm316d102:::macm 316 d102 numerical analysis i
-3310:_:macm:::316:::d103:::Numerical Analysis I:::macm316:::macm316d103:::macm 316 d103 numerical analysis i
-3311:_:macm:::316:::d104:::Numerical Analysis I:::macm316:::macm316d104:::macm 316 d104 numerical analysis i
-3312:_:macm:::316:::d105:::Numerical Analysis I:::macm316:::macm316d105:::macm 316 d105 numerical analysis i
-3313:_:macm:::316:::d106:::Numerical Analysis I:::macm316:::macm316d106:::macm 316 d106 numerical analysis i
-3314:_:hum:::312w:::d100:::Renaissance Studies:::hum312w:::hum312wd100:::hum 312w d100 renaissance studies
-3315:_:chem:::482:::d100:::Directed Study in Advanced Topics of Chemistry:::chem482:::chem482d100:::chem 482 d100 directed study in advanced topics of chemistry
-3316:_:chem:::482:::d200:::Directed Study in Advanced Topics of Chemistry:::chem482:::chem482d200:::chem 482 d200 directed study in advanced topics of chemistry
-3317:_:gsws:::314:::d100:::Race, Class and Gender:::gsws314:::gsws314d100:::gsws 314 d100 race, class and gender
-3318:_:chem:::481:::d100:::Undergraduate Research:::chem481:::chem481d100:::chem 481 d100 undergraduate research
-3319:_:chem:::483:::d100:::Undergraduate Research II:::chem483:::chem483d100:::chem 483 d100 undergraduate research ii
-3320:_:mse:::721:::g100:::Advanced Vibrations:::mse721:::mse721g100:::mse 721 g100 advanced vibrations
-3321:_:mse:::721:::g200:::Advanced Vibrations:::mse721:::mse721g200:::mse 721 g200 advanced vibrations
-3322:_:mse:::721:::g201:::Advanced Vibrations:::mse721:::mse721g201:::mse 721 g201 advanced vibrations
-3323:_:mse:::822:::g100:::Advanced Convection Heat Transfer:::mse822:::mse822g100:::mse 822 g100 advanced convection heat transfer
-3324:_:arch:::551:::g100:::HRM Business Management:::arch551:::arch551g100:::arch 551 g100 hrm business management
-3325:_:hist:::231:::d100:::History of Africa to the 19th Century: From Ancient Times to the Slave Trade:::hist231:::hist231d100:::hist 231 d100 history of africa to the 19th century: from ancient times to the slave trade
-3326:_:engl:::811:::g100:::Studies in Theory II:::engl811:::engl811g100:::engl 811 g100 studies in theory ii
-3327:_:arch:::561:::g100:::HRM Archaeological Research Design and Methods:::arch561:::arch561g100:::arch 561 g100 hrm archaeological research design and methods
-3328:_:bus:::752:::g100:::Strategic Management of Technology-Based Firms:::bus752:::bus752g100:::bus 752 g100 strategic management of technology-based firms
-3329:_:psyc:::836:::g100:::Forensic Assessment:::psyc836:::psyc836g100:::psyc 836 g100 forensic assessment
-3330:_:bus:::756:::g100:::Strategic Use of Information and Knowledge:::bus756:::bus756g100:::bus 756 g100 strategic use of information and knowledge
-3331:_:hist:::225:::d100:::20th Century Europe:::hist225:::hist225d100:::hist 225 d100 20th century europe
-3332:_:hist:::225:::d101:::20th Century Europe:::hist225:::hist225d101:::hist 225 d101 20th century europe
-3333:_:hist:::225:::d102:::20th Century Europe:::hist225:::hist225d102:::hist 225 d102 20th century europe
-3334:_:hist:::225:::d103:::20th Century Europe:::hist225:::hist225d103:::hist 225 d103 20th century europe
-3335:_:hist:::225:::d104:::20th Century Europe:::hist225:::hist225d104:::hist 225 d104 20th century europe
-3336:_:hist:::225:::d105:::20th Century Europe:::hist225:::hist225d105:::hist 225 d105 20th century europe
-3337:_:hist:::225:::d106:::20th Century Europe:::hist225:::hist225d106:::hist 225 d106 20th century europe
-3338:_:psyc:::895:::g100:::MA Thesis Proposal:::psyc895:::psyc895g100:::psyc 895 g100 ma thesis proposal
-3339:_:psyc:::993:::g100:::Research Comprehensive Examination 3:::psyc993:::psyc993g100:::psyc 993 g100 research comprehensive examination 3
-3340:_:stat:::240:::d100:::Introduction to Data Science:::stat240:::stat240d100:::stat 240 d100 introduction to data science
-3341:_:stat:::240:::d101:::Introduction to Data Science:::stat240:::stat240d101:::stat 240 d101 introduction to data science
-3342:_:stat:::240:::d102:::Introduction to Data Science:::stat240:::stat240d102:::stat 240 d102 introduction to data science
-3343:_:stat:::240:::d103:::Introduction to Data Science:::stat240:::stat240d103:::stat 240 d103 introduction to data science
-3344:_:stat:::240:::d104:::Introduction to Data Science:::stat240:::stat240d104:::stat 240 d104 introduction to data science
-3345:_:stat:::240:::d105:::Introduction to Data Science:::stat240:::stat240d105:::stat 240 d105 introduction to data science
-3346:_:psyc:::992:::g100:::Research Comprehensive Examination 2:::psyc992:::psyc992g100:::psyc 992 g100 research comprehensive examination 2
-3347:_:psyc:::991:::g100:::Research Comprehensive Examination 1:::psyc991:::psyc991g100:::psyc 991 g100 research comprehensive examination 1
-3348:_:sci:::300:::e100:::Science and its Impact on Society:::sci300:::sci300e100:::sci 300 e100 science and its impact on society
-3349:_:sci:::300:::e101:::Science and its Impact on Society:::sci300:::sci300e101:::sci 300 e101 science and its impact on society
-3350:_:sci:::300:::e102:::Science and its Impact on Society:::sci300:::sci300e102:::sci 300 e102 science and its impact on society
-3351:_:sci:::300:::e103:::Science and its Impact on Society:::sci300:::sci300e103:::sci 300 e103 science and its impact on society
-3352:_:sci:::300:::e105:::Science and its Impact on Society:::sci300:::sci300e105:::sci 300 e105 science and its impact on society
-3353:_:sci:::300:::e106:::Science and its Impact on Society:::sci300:::sci300e106:::sci 300 e106 science and its impact on society
-3354:_:sci:::300:::e107:::Science and its Impact on Society:::sci300:::sci300e107:::sci 300 e107 science and its impact on society
-3355:_:sci:::300:::e108:::Science and its Impact on Society:::sci300:::sci300e108:::sci 300 e108 science and its impact on society
-3356:_:sci:::300:::e109:::Science and its Impact on Society:::sci300:::sci300e109:::sci 300 e109 science and its impact on society
-3357:_:psyc:::896:::g100:::PhD Thesis Proposal:::psyc896:::psyc896g100:::psyc 896 g100 phd thesis proposal
-3358:_:bpk:::415:::d100:::Neural Control of Movement:::bpk415:::bpk415d100:::bpk 415 d100 neural control of movement
-3359:_:rem:::481:::e200:::Sustainable Communities Leadership Lab:::rem481:::rem481e200:::rem 481 e200 sustainable communities leadership lab
-3360:_:ling:::896:::g100:::Directed Research:::ling896:::ling896g100:::ling 896 g100 directed research
-3361:_:ling:::896:::g200:::Directed Research:::ling896:::ling896g200:::ling 896 g200 directed research
-3362:_:ling:::896:::g300:::Directed Research:::ling896:::ling896g300:::ling 896 g300 directed research
-3363:_:ling:::401:::d100:::Topics in Phonetics:::ling401:::ling401d100:::ling 401 d100 topics in phonetics
-3364:_:fren:::480:::d100:::Seminar I:::fren480:::fren480d100:::fren 480 d100 seminar i
-3365:_:engl:::455w:::d100:::Topics in Canadian Literature:::engl455w:::engl455wd100:::engl 455w d100 topics in canadian literature
-3366:_:fnst:::442:::d100:::Directed Readings in First Nations Studies:::fnst442:::fnst442d100:::fnst 442 d100 directed readings in first nations studies
-3367:_:fnst:::403:::j100:::Indigenous Knowledge in the Modern World:::fnst403:::fnst403j100:::fnst 403 j100 indigenous knowledge in the modern world
-3368:_:hist:::151:::d900:::The Modern Middle East:::hist151:::hist151d900:::hist 151 d900 the modern middle east
-3369:_:hist:::151:::d901:::The Modern Middle East:::hist151:::hist151d901:::hist 151 d901 the modern middle east
-3370:_:hist:::151:::d902:::The Modern Middle East:::hist151:::hist151d902:::hist 151 d902 the modern middle east
-3371:_:phys:::141:::d100:::Studio Physics - Optics, Electricity and Magnetism:::phys141:::phys141d100:::phys 141 d100 studio physics - optics, electricity and magnetism
-3372:_:phys:::141:::d101:::Studio Physics - Optics, Electricity and Magnetism:::phys141:::phys141d101:::phys 141 d101 studio physics - optics, electricity and magnetism
-3373:_:phys:::141:::d200:::Studio Physics - Optics, Electricity and Magnetism:::phys141:::phys141d200:::phys 141 d200 studio physics - optics, electricity and magnetism
-3374:_:phys:::141:::d201:::Studio Physics - Optics, Electricity and Magnetism:::phys141:::phys141d201:::phys 141 d201 studio physics - optics, electricity and magnetism
-3375:_:phys:::141:::la01:::Studio Physics - Optics, Electricity and Magnetism:::phys141:::phys141la01:::phys 141 la01 studio physics - optics, electricity and magnetism
-3376:_:phys:::141:::la02:::Studio Physics - Optics, Electricity and Magnetism:::phys141:::phys141la02:::phys 141 la02 studio physics - optics, electricity and magnetism
-3377:_:ensc:::410:::d100:::The Business of Engineering:::ensc410:::ensc410d100:::ensc 410 d100 the business of engineering
-3378:_:ensc:::410:::d101:::The Business of Engineering:::ensc410:::ensc410d101:::ensc 410 d101 the business of engineering
-3379:_:math:::800:::g100:::Mathematics: Selected Topics:::math800:::math800g100:::math 800 g100 mathematics: selected topics
-3380:_:bpk:::407:::d100:::Human Physiology Laboratory:::bpk407:::bpk407d100:::bpk 407 d100 human physiology laboratory
-3381:_:bpk:::407:::d200:::Human Physiology Laboratory:::bpk407:::bpk407d200:::bpk 407 d200 human physiology laboratory
-3382:_:bpk:::407:::d300:::Human Physiology Laboratory:::bpk407:::bpk407d300:::bpk 407 d300 human physiology laboratory
-3383:_:ensc:::475:::d100:::Biomedical Instrumentation:::ensc475:::ensc475d100:::ensc 475 d100 biomedical instrumentation
-3384:_:ensc:::475:::d101:::Biomedical Instrumentation:::ensc475:::ensc475d101:::ensc 475 d101 biomedical instrumentation
-3385:_:ensc:::475:::la01:::Biomedical Instrumentation:::ensc475:::ensc475la01:::ensc 475 la01 biomedical instrumentation
-3386:_:bus:::646:::g100:::Managing Innovation:::bus646:::bus646g100:::bus 646 g100 managing innovation
-3387:_:bus:::410:::d100:::Financial Institutions:::bus410:::bus410d100:::bus 410 d100 financial institutions
-3388:_:bus:::410:::d200:::Financial Institutions:::bus410:::bus410d200:::bus 410 d200 financial institutions
-3389:_:sd:::281:::c100:::Sustainable Communities, Sustainable World:::sd281:::sd281c100:::sd 281 c100 sustainable communities, sustainable world
-3390:_:math:::100:::d100:::Precalculus:::math100:::math100d100:::math 100 d100 precalculus
-3391:_:math:::100:::d200:::Precalculus:::math100:::math100d200:::math 100 d200 precalculus
-3392:_:math:::100:::op01:::Precalculus:::math100:::math100op01:::math 100 op01 precalculus
-3393:_:math:::100:::op02:::Precalculus:::math100:::math100op02:::math 100 op02 precalculus
-3394:_:sd:::491:::d100:::Directed Studies in Sustainable Development:::sd491:::sd491d100:::sd 491 d100 directed studies in sustainable development
-3395:_:engl:::463:::d100:::Practicum III:::engl463:::engl463d100:::engl 463 d100 practicum iii
-3396:_:engl:::463:::d200:::Practicum III:::engl463:::engl463d200:::engl 463 d200 practicum iii
-3397:_:engl:::463:::i100:::Practicum III:::engl463:::engl463i100:::engl 463 i100 practicum iii
-3398:_:sd:::494:::d100:::Project in Sustainable Development:::sd494:::sd494d100:::sd 494 d100 project in sustainable development
-3399:_:educ:::490:::d100:::Directed Study:::educ490:::educ490d100:::educ 490 d100 directed study
-3400:_:educ:::490:::d200:::Directed Study:::educ490:::educ490d200:::educ 490 d200 directed study
-3401:_:educ:::490:::d300:::Directed Study:::educ490:::educ490d300:::educ 490 d300 directed study
-3402:_:educ:::490:::d400:::Directed Study:::educ490:::educ490d400:::educ 490 d400 directed study
-3403:_:educ:::490:::d500:::Directed Study:::educ490:::educ490d500:::educ 490 d500 directed study
-3404:_:educ:::490:::d600:::Directed Study:::educ490:::educ490d600:::educ 490 d600 directed study
-3405:_:educ:::490:::d700:::Directed Study:::educ490:::educ490d700:::educ 490 d700 directed study
-3406:_:educ:::490:::d800:::Directed Study:::educ490:::educ490d800:::educ 490 d800 directed study
-3407:_:ling:::350:::d100:::First Language Acquisition:::ling350:::ling350d100:::ling 350 d100 first language acquisition
-3408:_:educ:::492:::d100:::Directed Study:::educ492:::educ492d100:::educ 492 d100 directed study
-3409:_:engl:::464:::d100:::Practicum IV:::engl464:::engl464d100:::engl 464 d100 practicum iv
-3410:_:engl:::464:::d200:::Practicum IV:::engl464:::engl464d200:::engl 464 d200 practicum iv
-3411:_:engl:::464:::i100:::Practicum IV:::engl464:::engl464i100:::engl 464 i100 practicum iv
-3412:_:educ:::491:::d100:::Directed Study:::educ491:::educ491d100:::educ 491 d100 directed study
-3413:_:educ:::491:::d200:::Directed Study:::educ491:::educ491d200:::educ 491 d200 directed study
-3414:_:educ:::491:::d300:::Directed Study:::educ491:::educ491d300:::educ 491 d300 directed study
-3415:_:engl:::462:::d100:::Practicum II:::engl462:::engl462d100:::engl 462 d100 practicum ii
-3416:_:engl:::462:::d200:::Practicum II:::engl462:::engl462d200:::engl 462 d200 practicum ii
-3417:_:engl:::462:::i100:::Practicum II:::engl462:::engl462i100:::engl 462 i100 practicum ii
-3418:_:bpk:::421:::d100:::Selected Topics in Kinesiology II:::bpk421:::bpk421d100:::bpk 421 d100 selected topics in kinesiology ii
-3419:_:engl:::461:::d100:::Practicum I:::engl461:::engl461d100:::engl 461 d100 practicum i
-3420:_:engl:::461:::d200:::Practicum I:::engl461:::engl461d200:::engl 461 d200 practicum i
-3421:_:engl:::461:::i100:::Practicum I:::engl461:::engl461i100:::engl 461 i100 practicum i
-3422:_:fnst:::401:::d100:::Aboriginal Peoples and Public Policy:::fnst401:::fnst401d100:::fnst 401 d100 aboriginal peoples and public policy
-3423:_:ling:::360:::d100:::Introduction to Applied Linguistics:::ling360:::ling360d100:::ling 360 d100 introduction to applied linguistics
-3424:_:ling:::370:::d100:::Linguistics Practicum I:::ling370:::ling370d100:::ling 370 d100 linguistics practicum i
-3425:_:ling:::370:::d200:::Linguistics Practicum I:::ling370:::ling370d200:::ling 370 d200 linguistics practicum i
-3426:_:ling:::370:::i100:::Linguistics Practicum I:::ling370:::ling370i100:::ling 370 i100 linguistics practicum i
-3427:_:fnst:::332:::d10:::Ethnobotany of British Columbia First Nations:::fnst332:::fnst332d10:::fnst 332 d10 ethnobotany of british columbia first nations
-3428:_:ling:::371:::d100:::Linguistics Practicum II:::ling371:::ling371d100:::ling 371 d100 linguistics practicum ii
-3429:_:ling:::371:::d200:::Linguistics Practicum II:::ling371:::ling371d200:::ling 371 d200 linguistics practicum ii
-3430:_:ling:::371:::i100:::Linguistics Practicum II:::ling371:::ling371i100:::ling 371 i100 linguistics practicum ii
-3431:_:ling:::363:::e100:::Practicum in Teaching English as a Practice Second Language to Adults:::ling363:::ling363e100:::ling 363 e100 practicum in teaching english as a practice second language to adults
-3432:_:hist:::106:::d900:::The Making of Modern Europe:::hist106:::hist106d900:::hist 106 d900 the making of modern europe
-3433:_:hist:::106:::d901:::The Making of Modern Europe:::hist106:::hist106d901:::hist 106 d901 the making of modern europe
-3434:_:hist:::106:::d902:::The Making of Modern Europe:::hist106:::hist106d902:::hist 106 d902 the making of modern europe
-3435:_:hist:::106:::d903:::The Making of Modern Europe:::hist106:::hist106d903:::hist 106 d903 the making of modern europe
-3436:_:fnst:::301:::d100:::Issues in Applied First Nations Studies Research:::fnst301:::fnst301d100:::fnst 301 d100 issues in applied first nations studies research
-3437:_:engl:::475w:::d100:::Topics in Rhetoric:::engl475w:::engl475wd100:::engl 475w d100 topics in rhetoric
-3438:_:hsci:::333:::d100:::Red, Hot, and True: A Semester of Blood:::hsci333:::hsci333d100:::hsci 333 d100 red, hot, and true: a semester of blood
-3439:_:bpk:::482:::d100:::Ergonomics and Rehabilitation:::bpk482:::bpk482d100:::bpk 482 d100 ergonomics and rehabilitation
-3440:_:ling:::280:::d100:::Interdisciplinary Topics in Linguistics:::ling280:::ling280d100:::ling 280 d100 interdisciplinary topics in linguistics
-3441:_:rem:::200:::d100:::Introduction to Resource and Environmental Management in Canada:::rem200:::rem200d100:::rem 200 d100 introduction to resource and environmental management in canada
-3442:_:rem:::200:::d101:::Introduction to Resource and Environmental Management in Canada:::rem200:::rem200d101:::rem 200 d101 introduction to resource and environmental management in canada
-3443:_:rem:::200:::d102:::Introduction to Resource and Environmental Management in Canada:::rem200:::rem200d102:::rem 200 d102 introduction to resource and environmental management in canada
-3444:_:rem:::200:::d103:::Introduction to Resource and Environmental Management in Canada:::rem200:::rem200d103:::rem 200 d103 introduction to resource and environmental management in canada
-3445:_:rem:::200:::d104:::Introduction to Resource and Environmental Management in Canada:::rem200:::rem200d104:::rem 200 d104 introduction to resource and environmental management in canada
-3446:_:bus:::418:::d100:::International Financial Management:::bus418:::bus418d100:::bus 418 d100 international financial management
-3447:_:bus:::418:::e100:::International Financial Management:::bus418:::bus418e100:::bus 418 e100 international financial management
-3448:_:bus:::419:::d100:::Advanced Derivative Securities:::bus419:::bus419d100:::bus 419 d100 advanced derivative securities
-3449:_:bus:::419:::e100:::Advanced Derivative Securities:::bus419:::bus419e100:::bus 419 e100 advanced derivative securities
-3450:_:cmns:::304w:::d100:::Communication in Everyday Life:::cmns304w:::cmns304wd100:::cmns 304w d100 communication in everyday life
-3451:_:cmns:::304w:::d101:::Communication in Everyday Life:::cmns304w:::cmns304wd101:::cmns 304w d101 communication in everyday life
-3452:_:cmns:::304w:::d102:::Communication in Everyday Life:::cmns304w:::cmns304wd102:::cmns 304w d102 communication in everyday life
-3453:_:cmns:::304w:::d103:::Communication in Everyday Life:::cmns304w:::cmns304wd103:::cmns 304w d103 communication in everyday life
-3454:_:cmns:::304w:::d104:::Communication in Everyday Life:::cmns304w:::cmns304wd104:::cmns 304w d104 communication in everyday life
-3455:_:cmns:::304w:::d105:::Communication in Everyday Life:::cmns304w:::cmns304wd105:::cmns 304w d105 communication in everyday life
-3456:_:cmns:::304w:::d106:::Communication in Everyday Life:::cmns304w:::cmns304wd106:::cmns 304w d106 communication in everyday life
-3457:_:econ:::387:::d100:::Selected Topics in Economics:::econ387:::econ387d100:::econ 387 d100 selected topics in economics
-3458:_:sa:::302w:::d100:::Global Problems and the Culture of Capitalism (SA):::sa302w:::sa302wd100:::sa 302w d100 global problems and the culture of capitalism (sa)
-3459:_:sa:::201w:::d100:::Anthropology and Contemporary Life (A):::sa201w:::sa201wd100:::sa 201w d100 anthropology and contemporary life (a)
-3460:_:ensc:::405w:::d100:::Capstone A: Project Design, Management, and Documentation:::ensc405w:::ensc405wd100:::ensc 405w d100 capstone a: project design, management, and documentation
-3461:_:ensc:::405w:::la01:::Capstone A: Project Design, Management, and Documentation:::ensc405w:::ensc405wla01:::ensc 405w la01 capstone a: project design, management, and documentation
-3462:_:bus:::413:::d100:::Corporate Finance:::bus413:::bus413d100:::bus 413 d100 corporate finance
-3463:_:bus:::413:::d300:::Corporate Finance:::bus413:::bus413d300:::bus 413 d300 corporate finance
-3464:_:bus:::413:::e100:::Corporate Finance:::bus413:::bus413e100:::bus 413 e100 corporate finance
-3465:_:mbb:::839:::g100:::Special Topics in Molecular Biology:::mbb839:::mbb839g100:::mbb 839 g100 special topics in molecular biology
-3466:_:bus:::417:::d100:::Security Analysis:::bus417:::bus417d100:::bus 417 d100 security analysis
-3467:_:bus:::417:::e100:::Security Analysis:::bus417:::bus417e100:::bus 417 e100 security analysis
-3468:_:engl:::115w:::d100:::Literature and Culture:::engl115w:::engl115wd100:::engl 115w d100 literature and culture
-3469:_:engl:::115w:::d101:::Literature and Culture:::engl115w:::engl115wd101:::engl 115w d101 literature and culture
-3470:_:engl:::115w:::d102:::Literature and Culture:::engl115w:::engl115wd102:::engl 115w d102 literature and culture
-3471:_:engl:::115w:::d103:::Literature and Culture:::engl115w:::engl115wd103:::engl 115w d103 literature and culture
-3472:_:engl:::115w:::d104:::Literature and Culture:::engl115w:::engl115wd104:::engl 115w d104 literature and culture
-3473:_:engl:::115w:::d105:::Literature and Culture:::engl115w:::engl115wd105:::engl 115w d105 literature and culture
-3474:_:engl:::115w:::d106:::Literature and Culture:::engl115w:::engl115wd106:::engl 115w d106 literature and culture
-3475:_:engl:::115w:::d107:::Literature and Culture:::engl115w:::engl115wd107:::engl 115w d107 literature and culture
-3476:_:engl:::115w:::d108:::Literature and Culture:::engl115w:::engl115wd108:::engl 115w d108 literature and culture
-3477:_:engl:::115w:::d109:::Literature and Culture:::engl115w:::engl115wd109:::engl 115w d109 literature and culture
-3478:_:engl:::115w:::d110:::Literature and Culture:::engl115w:::engl115wd110:::engl 115w d110 literature and culture
-3479:_:engl:::115w:::d900:::Literature and Culture:::engl115w:::engl115wd900:::engl 115w d900 literature and culture
-3480:_:engl:::115w:::d901:::Literature and Culture:::engl115w:::engl115wd901:::engl 115w d901 literature and culture
-3481:_:engl:::115w:::d902:::Literature and Culture:::engl115w:::engl115wd902:::engl 115w d902 literature and culture
-3482:_:engl:::115w:::d903:::Literature and Culture:::engl115w:::engl115wd903:::engl 115w d903 literature and culture
-3483:_:engl:::115w:::d904:::Literature and Culture:::engl115w:::engl115wd904:::engl 115w d904 literature and culture
-3484:_:engl:::115w:::d905:::Literature and Culture:::engl115w:::engl115wd905:::engl 115w d905 literature and culture
-3485:_:engl:::115w:::d906:::Literature and Culture:::engl115w:::engl115wd906:::engl 115w d906 literature and culture
-3486:_:psyc:::998:::g100:::Directed Readings:::psyc998:::psyc998g100:::psyc 998 g100 directed readings
-3487:_:psyc:::998:::g200:::Directed Readings:::psyc998:::psyc998g200:::psyc 998 g200 directed readings
-3488:_:engl:::208:::d100:::21st Century Literatures in English:::engl208:::engl208d100:::engl 208 d100 21st century literatures in english
-3489:_:engl:::208:::d101:::21st Century Literatures in English:::engl208:::engl208d101:::engl 208 d101 21st century literatures in english
-3490:_:engl:::208:::d102:::21st Century Literatures in English:::engl208:::engl208d102:::engl 208 d102 21st century literatures in english
-3491:_:engl:::208:::d103:::21st Century Literatures in English:::engl208:::engl208d103:::engl 208 d103 21st century literatures in english
-3492:_:fren:::485:::d100:::Practicum IV:::fren485:::fren485d100:::fren 485 d100 practicum iv
-3493:_:fren:::485:::d200:::Practicum IV:::fren485:::fren485d200:::fren 485 d200 practicum iv
-3494:_:fren:::485:::i100:::Practicum IV:::fren485:::fren485i100:::fren 485 i100 practicum iv
-3495:_:bus:::200:::d100:::Business Fundamentals:::bus200:::bus200d100:::bus 200 d100 business fundamentals
-3496:_:bus:::200:::d200:::Business Fundamentals:::bus200:::bus200d200:::bus 200 d200 business fundamentals
-3497:_:fren:::285:::d100:::Practicum II:::fren285:::fren285d100:::fren 285 d100 practicum ii
-3498:_:fren:::285:::d200:::Practicum II:::fren285:::fren285d200:::fren 285 d200 practicum ii
-3499:_:fren:::285:::i100:::Practicum II:::fren285:::fren285i100:::fren 285 i100 practicum ii
-3500:_:fren:::385:::d100:::Practicum III:::fren385:::fren385d100:::fren 385 d100 practicum iii
-3501:_:fren:::385:::d200:::Practicum III:::fren385:::fren385d200:::fren 385 d200 practicum iii
-3502:_:fren:::385:::i100:::Practicum III:::fren385:::fren385i100:::fren 385 i100 practicum iii
-3503:_:bus:::216:::e100:::Introduction to Essentials of Business Communications:::bus216:::bus216e100:::bus 216 e100 introduction to essentials of business communications
-3504:_:hist:::427:::d100:::Problems in the History of Aboriginal Peoples:::hist427:::hist427d100:::hist 427 d100 problems in the history of aboriginal peoples
-3505:_:fnst:::101:::c100:::Introduction to First Nations Studies:::fnst101:::fnst101c100:::fnst 101 c100 introduction to first nations studies
-3506:_:fnst:::101:::d100:::Introduction to First Nations Studies:::fnst101:::fnst101d100:::fnst 101 d100 introduction to first nations studies
-3507:_:fnst:::101:::d200:::Introduction to First Nations Studies:::fnst101:::fnst101d200:::fnst 101 d200 introduction to first nations studies
-3508:_:phil:::100w:::d100:::Knowledge and Reality:::phil100w:::phil100wd100:::phil 100w d100 knowledge and reality
-3509:_:phil:::100w:::d101:::Knowledge and Reality:::phil100w:::phil100wd101:::phil 100w d101 knowledge and reality
-3510:_:phil:::100w:::d103:::Knowledge and Reality:::phil100w:::phil100wd103:::phil 100w d103 knowledge and reality
-3511:_:phil:::100w:::d104:::Knowledge and Reality:::phil100w:::phil100wd104:::phil 100w d104 knowledge and reality
-3512:_:phil:::100w:::d105:::Knowledge and Reality:::phil100w:::phil100wd105:::phil 100w d105 knowledge and reality
-3513:_:phil:::100w:::d106:::Knowledge and Reality:::phil100w:::phil100wd106:::phil 100w d106 knowledge and reality
-3514:_:phil:::100w:::d107:::Knowledge and Reality:::phil100w:::phil100wd107:::phil 100w d107 knowledge and reality
-3515:_:phil:::100w:::d110:::Knowledge and Reality:::phil100w:::phil100wd110:::phil 100w d110 knowledge and reality
-3516:_:phil:::100w:::d113:::Knowledge and Reality:::phil100w:::phil100wd113:::phil 100w d113 knowledge and reality
-3517:_:phil:::100w:::d114:::Knowledge and Reality:::phil100w:::phil100wd114:::phil 100w d114 knowledge and reality
-3518:_:phil:::100w:::d115:::Knowledge and Reality:::phil100w:::phil100wd115:::phil 100w d115 knowledge and reality
-3519:_:phil:::100w:::d116:::Knowledge and Reality:::phil100w:::phil100wd116:::phil 100w d116 knowledge and reality
-3520:_:phil:::100w:::d118:::Knowledge and Reality:::phil100w:::phil100wd118:::phil 100w d118 knowledge and reality
-3521:_:phil:::100w:::d900:::Knowledge and Reality:::phil100w:::phil100wd900:::phil 100w d900 knowledge and reality
-3522:_:phil:::120w:::d100:::Moral Problems:::phil120w:::phil120wd100:::phil 120w d100 moral problems
-3523:_:phil:::120w:::d101:::Moral Problems:::phil120w:::phil120wd101:::phil 120w d101 moral problems
-3524:_:phil:::120w:::d102:::Moral Problems:::phil120w:::phil120wd102:::phil 120w d102 moral problems
-3525:_:phil:::120w:::d103:::Moral Problems:::phil120w:::phil120wd103:::phil 120w d103 moral problems
-3526:_:phil:::120w:::d104:::Moral Problems:::phil120w:::phil120wd104:::phil 120w d104 moral problems
-3527:_:phil:::120w:::d105:::Moral Problems:::phil120w:::phil120wd105:::phil 120w d105 moral problems
-3528:_:phil:::120w:::d106:::Moral Problems:::phil120w:::phil120wd106:::phil 120w d106 moral problems
-3529:_:phil:::120w:::d107:::Moral Problems:::phil120w:::phil120wd107:::phil 120w d107 moral problems
-3530:_:phil:::120w:::d108:::Moral Problems:::phil120w:::phil120wd108:::phil 120w d108 moral problems
-3531:_:phil:::120w:::d109:::Moral Problems:::phil120w:::phil120wd109:::phil 120w d109 moral problems
-3532:_:phil:::120w:::d110:::Moral Problems:::phil120w:::phil120wd110:::phil 120w d110 moral problems
-3533:_:phil:::120w:::d111:::Moral Problems:::phil120w:::phil120wd111:::phil 120w d111 moral problems
-3534:_:phil:::120w:::d112:::Moral Problems:::phil120w:::phil120wd112:::phil 120w d112 moral problems
-3535:_:phil:::120w:::d113:::Moral Problems:::phil120w:::phil120wd113:::phil 120w d113 moral problems
-3536:_:phil:::120w:::d114:::Moral Problems:::phil120w:::phil120wd114:::phil 120w d114 moral problems
-3537:_:phil:::120w:::d115:::Moral Problems:::phil120w:::phil120wd115:::phil 120w d115 moral problems
-3538:_:phil:::120w:::d116:::Moral Problems:::phil120w:::phil120wd116:::phil 120w d116 moral problems
-3539:_:phil:::120w:::d117:::Moral Problems:::phil120w:::phil120wd117:::phil 120w d117 moral problems
-3540:_:phil:::120w:::j100:::Moral Problems:::phil120w:::phil120wj100:::phil 120w j100 moral problems
-3541:_:sa:::241:::d100:::Sociology and Anthropology Practicum II:::sa241:::sa241d100:::sa 241 d100 sociology and anthropology practicum ii
-3542:_:sa:::241:::d200:::Sociology and Anthropology Practicum II:::sa241:::sa241d200:::sa 241 d200 sociology and anthropology practicum ii
-3543:_:sa:::241:::i100:::Sociology and Anthropology Practicum II:::sa241:::sa241i100:::sa 241 i100 sociology and anthropology practicum ii
-3544:_:bus:::645:::g100:::Capstone Simulation:::bus645:::bus645g100:::bus 645 g100 capstone simulation
-3545:_:fren:::301w:::d100:::Advanced French Composition:::fren301w:::fren301wd100:::fren 301w d100 advanced french composition
-3546:_:fren:::301w:::d200:::Advanced French Composition:::fren301w:::fren301wd200:::fren 301w d200 advanced french composition
-3547:_:bus:::441:::d100:::Web Analytics:::bus441:::bus441d100:::bus 441 d100 web analytics
-3548:_:evsc:::482:::d100:::Practicum V:::evsc482:::evsc482d100:::evsc 482 d100 practicum v
-3549:_:evsc:::482:::d200:::Practicum V:::evsc482:::evsc482d200:::evsc 482 d200 practicum v
-3550:_:evsc:::482:::i100:::Practicum V:::evsc482:::evsc482i100:::evsc 482 i100 practicum v
-3551:_:sa:::255:::d100:::Introduction to Social Research (SA):::sa255:::sa255d100:::sa 255 d100 introduction to social research (sa)
-3552:_:sa:::255:::d101:::Introduction to Social Research (SA):::sa255:::sa255d101:::sa 255 d101 introduction to social research (sa)
-3553:_:sa:::255:::d102:::Introduction to Social Research (SA):::sa255:::sa255d102:::sa 255 d102 introduction to social research (sa)
-3554:_:sa:::255:::d103:::Introduction to Social Research (SA):::sa255:::sa255d103:::sa 255 d103 introduction to social research (sa)
-3555:_:sa:::255:::j100:::Introduction to Social Research (SA):::sa255:::sa255j100:::sa 255 j100 introduction to social research (sa)
-3556:_:gsws:::826:::g100:::Graduate Seminar on Queer/Trans Studies:::gsws826:::gsws826g100:::gsws 826 g100 graduate seminar on queer/trans studies
-3557:_:evsc:::481:::d100:::Practicum IV:::evsc481:::evsc481d100:::evsc 481 d100 practicum iv
-3558:_:evsc:::481:::d200:::Practicum IV:::evsc481:::evsc481d200:::evsc 481 d200 practicum iv
-3559:_:evsc:::481:::i100:::Practicum IV:::evsc481:::evsc481i100:::evsc 481 i100 practicum iv
-3560:_:fren:::185:::d100:::Practicum I:::fren185:::fren185d100:::fren 185 d100 practicum i
-3561:_:fren:::185:::d200:::Practicum I:::fren185:::fren185d200:::fren 185 d200 practicum i
-3562:_:fren:::185:::i100:::Practicum I:::fren185:::fren185i100:::fren 185 i100 practicum i
-3563:_:sa:::250:::d100:::Introduction to Sociological Theory (S):::sa250:::sa250d100:::sa 250 d100 introduction to sociological theory (s)
-3564:_:evsc:::480:::d100:::Practicum III:::evsc480:::evsc480d100:::evsc 480 d100 practicum iii
-3565:_:evsc:::480:::d200:::Practicum III:::evsc480:::evsc480d200:::evsc 480 d200 practicum iii
-3566:_:evsc:::480:::i100:::Practicum III:::evsc480:::evsc480i100:::evsc 480 i100 practicum iii
-3567:_:bus:::641:::g100:::Cross Cultural Management:::bus641:::bus641g100:::bus 641 g100 cross cultural management
-3568:_:bus:::426:::d100:::Auditing and Assurance: Concepts and Methods:::bus426:::bus426d100:::bus 426 d100 auditing and assurance: concepts and methods
-3569:_:bus:::426:::e100:::Auditing and Assurance: Concepts and Methods:::bus426:::bus426e100:::bus 426 e100 auditing and assurance: concepts and methods
-3570:_:math:::158:::e100:::Calculus II for the Social Sciences:::math158:::math158e100:::math 158 e100 calculus ii for the social sciences
-3571:_:math:::158:::op01:::Calculus II for the Social Sciences:::math158:::math158op01:::math 158 op01 calculus ii for the social sciences
-3572:_:math:::157:::d100:::Calculus I for the Social Sciences:::math157:::math157d100:::math 157 d100 calculus i for the social sciences
-3573:_:math:::157:::d200:::Calculus I for the Social Sciences:::math157:::math157d200:::math 157 d200 calculus i for the social sciences
-3574:_:math:::157:::op01:::Calculus I for the Social Sciences:::math157:::math157op01:::math 157 op01 calculus i for the social sciences
-3575:_:math:::157:::op02:::Calculus I for the Social Sciences:::math157:::math157op02:::math 157 op02 calculus i for the social sciences
-3576:_:hist:::490:::d100:::Studies in History:::hist490:::hist490d100:::hist 490 d100 studies in history
-3577:_:math:::155:::d100:::Calculus II for the Biological Sciences:::math155:::math155d100:::math 155 d100 calculus ii for the biological sciences
-3578:_:math:::155:::d200:::Calculus II for the Biological Sciences:::math155:::math155d200:::math 155 d200 calculus ii for the biological sciences
-3579:_:math:::155:::op01:::Calculus II for the Biological Sciences:::math155:::math155op01:::math 155 op01 calculus ii for the biological sciences
-3580:_:math:::155:::op02:::Calculus II for the Biological Sciences:::math155:::math155op02:::math 155 op02 calculus ii for the biological sciences
-3581:_:math:::154:::d100:::Calculus I for the Biological Sciences:::math154:::math154d100:::math 154 d100 calculus i for the biological sciences
-3582:_:math:::154:::op01:::Calculus I for the Biological Sciences:::math154:::math154op01:::math 154 op01 calculus i for the biological sciences
-3583:_:math:::152:::d100:::Calculus II:::math152:::math152d100:::math 152 d100 calculus ii
-3584:_:math:::152:::d200:::Calculus II:::math152:::math152d200:::math 152 d200 calculus ii
-3585:_:math:::152:::op01:::Calculus II:::math152:::math152op01:::math 152 op01 calculus ii
-3586:_:math:::152:::op02:::Calculus II:::math152:::math152op02:::math 152 op02 calculus ii
-3587:_:ensc:::461:::d100:::Special Topics in Engineering Science:::ensc461:::ensc461d100:::ensc 461 d100 special topics in engineering science
-3588:_:ensc:::461:::la01:::Special Topics in Engineering Science:::ensc461:::ensc461la01:::ensc 461 la01 special topics in engineering science
-3589:_:mse:::890:::g100:::PhD Qualifying Examination:::mse890:::mse890g100:::mse 890 g100 phd qualifying examination
-3590:_:ling:::111:::d100:::Introduction to English Vocabulary Analysis:::ling111:::ling111d100:::ling 111 d100 introduction to english vocabulary analysis
-3591:_:hist:::489:::d100:::Studies in History:::hist489:::hist489d100:::hist 489 d100 studies in history
-3592:_:hist:::489:::d200:::Studies in History:::hist489:::hist489d200:::hist 489 d200 studies in history
-3593:_:bus:::421:::d100:::Accounting Theory:::bus421:::bus421d100:::bus 421 d100 accounting theory
-3594:_:bus:::421:::d200:::Accounting Theory:::bus421:::bus421d200:::bus 421 d200 accounting theory
-3595:_:bus:::421:::e100:::Accounting Theory:::bus421:::bus421e100:::bus 421 e100 accounting theory
-3596:_:bus:::424:::d100:::Advanced Managerial Accounting:::bus424:::bus424d100:::bus 424 d100 advanced managerial accounting
-3597:_:bus:::424:::e100:::Advanced Managerial Accounting:::bus424:::bus424e100:::bus 424 e100 advanced managerial accounting
-3598:_:mse:::211:::e100:::Computational Methods for Engineers:::mse211:::mse211e100:::mse 211 e100 computational methods for engineers
-3599:_:mse:::211:::lab1:::Computational Methods for Engineers:::mse211:::mse211lab1:::mse 211 lab1 computational methods for engineers
-3600:_:mse:::211:::lab3:::Computational Methods for Engineers:::mse211:::mse211lab3:::mse 211 lab3 computational methods for engineers
-3601:_:engl:::442:::d100:::Directed Studies B:::engl442:::engl442d100:::engl 442 d100 directed studies b
-3602:_:bus:::425:::d100:::Co-op Practicum V:::bus425:::bus425d100:::bus 425 d100 co-op practicum v
-3603:_:bus:::425:::d200:::Co-op Practicum V:::bus425:::bus425d200:::bus 425 d200 co-op practicum v
-3604:_:bus:::425:::i100:::Co-op Practicum V:::bus425:::bus425i100:::bus 425 i100 co-op practicum v
-3605:_:hist:::102w:::d100:::Canada since Confederation:::hist102w:::hist102wd100:::hist 102w d100 canada since confederation
-3606:_:hist:::102w:::d101:::Canada since Confederation:::hist102w:::hist102wd101:::hist 102w d101 canada since confederation
-3607:_:hist:::102w:::d102:::Canada since Confederation:::hist102w:::hist102wd102:::hist 102w d102 canada since confederation
-3608:_:hist:::102w:::d103:::Canada since Confederation:::hist102w:::hist102wd103:::hist 102w d103 canada since confederation
-3609:_:hist:::102w:::d104:::Canada since Confederation:::hist102w:::hist102wd104:::hist 102w d104 canada since confederation
-3610:_:hist:::102w:::d105:::Canada since Confederation:::hist102w:::hist102wd105:::hist 102w d105 canada since confederation
-3611:_:hist:::102w:::d106:::Canada since Confederation:::hist102w:::hist102wd106:::hist 102w d106 canada since confederation
-3612:_:hist:::102w:::d107:::Canada since Confederation:::hist102w:::hist102wd107:::hist 102w d107 canada since confederation
-3613:_:hist:::102w:::d108:::Canada since Confederation:::hist102w:::hist102wd108:::hist 102w d108 canada since confederation
-3614:_:hist:::102w:::d109:::Canada since Confederation:::hist102w:::hist102wd109:::hist 102w d109 canada since confederation
-3615:_:hist:::102w:::d110:::Canada since Confederation:::hist102w:::hist102wd110:::hist 102w d110 canada since confederation
-3616:_:hist:::102w:::d111:::Canada since Confederation:::hist102w:::hist102wd111:::hist 102w d111 canada since confederation
-3617:_:hist:::102w:::d112:::Canada since Confederation:::hist102w:::hist102wd112:::hist 102w d112 canada since confederation
-3618:_:hist:::102w:::f100:::Canada since Confederation:::hist102w:::hist102wf100:::hist 102w f100 canada since confederation
-3619:_:engl:::111w:::d100:::Literary Classics in English:::engl111w:::engl111wd100:::engl 111w d100 literary classics in english
-3620:_:engl:::111w:::d101:::Literary Classics in English:::engl111w:::engl111wd101:::engl 111w d101 literary classics in english
-3621:_:engl:::111w:::d102:::Literary Classics in English:::engl111w:::engl111wd102:::engl 111w d102 literary classics in english
-3622:_:engl:::111w:::d103:::Literary Classics in English:::engl111w:::engl111wd103:::engl 111w d103 literary classics in english
-3623:_:engl:::111w:::d104:::Literary Classics in English:::engl111w:::engl111wd104:::engl 111w d104 literary classics in english
-3624:_:engl:::111w:::d105:::Literary Classics in English:::engl111w:::engl111wd105:::engl 111w d105 literary classics in english
-3625:_:engl:::111w:::d106:::Literary Classics in English:::engl111w:::engl111wd106:::engl 111w d106 literary classics in english
-3626:_:engl:::111w:::d107:::Literary Classics in English:::engl111w:::engl111wd107:::engl 111w d107 literary classics in english
-3627:_:engl:::111w:::d108:::Literary Classics in English:::engl111w:::engl111wd108:::engl 111w d108 literary classics in english
-3628:_:engl:::111w:::d109:::Literary Classics in English:::engl111w:::engl111wd109:::engl 111w d109 literary classics in english
-3629:_:engl:::111w:::d110:::Literary Classics in English:::engl111w:::engl111wd110:::engl 111w d110 literary classics in english
-3630:_:engl:::111w:::j100:::Literary Classics in English:::engl111w:::engl111wj100:::engl 111w j100 literary classics in english
-3631:_:engl:::113w:::d100:::Literature and Performance:::engl113w:::engl113wd100:::engl 113w d100 literature and performance
-3632:_:engl:::113w:::d101:::Literature and Performance:::engl113w:::engl113wd101:::engl 113w d101 literature and performance
-3633:_:engl:::113w:::d102:::Literature and Performance:::engl113w:::engl113wd102:::engl 113w d102 literature and performance
-3634:_:engl:::113w:::d103:::Literature and Performance:::engl113w:::engl113wd103:::engl 113w d103 literature and performance
-3635:_:engl:::113w:::d104:::Literature and Performance:::engl113w:::engl113wd104:::engl 113w d104 literature and performance
-3636:_:engl:::113w:::d105:::Literature and Performance:::engl113w:::engl113wd105:::engl 113w d105 literature and performance
-3637:_:engl:::113w:::d106:::Literature and Performance:::engl113w:::engl113wd106:::engl 113w d106 literature and performance
-3638:_:engl:::113w:::d107:::Literature and Performance:::engl113w:::engl113wd107:::engl 113w d107 literature and performance
-3639:_:engl:::113w:::d108:::Literature and Performance:::engl113w:::engl113wd108:::engl 113w d108 literature and performance
-3640:_:engl:::113w:::d109:::Literature and Performance:::engl113w:::engl113wd109:::engl 113w d109 literature and performance
-3641:_:engl:::113w:::d110:::Literature and Performance:::engl113w:::engl113wd110:::engl 113w d110 literature and performance
-3642:_:bus:::615:::g100:::Marketing Management:::bus615:::bus615g100:::bus 615 g100 marketing management
-3643:_:engl:::114w:::d100:::Language and Purpose:::engl114w:::engl114wd100:::engl 114w d100 language and purpose
-3644:_:engl:::114w:::d101:::Language and Purpose:::engl114w:::engl114wd101:::engl 114w d101 language and purpose
-3645:_:engl:::114w:::d102:::Language and Purpose:::engl114w:::engl114wd102:::engl 114w d102 language and purpose
-3646:_:engl:::114w:::d103:::Language and Purpose:::engl114w:::engl114wd103:::engl 114w d103 language and purpose
-3647:_:engl:::114w:::d104:::Language and Purpose:::engl114w:::engl114wd104:::engl 114w d104 language and purpose
-3648:_:engl:::114w:::d105:::Language and Purpose:::engl114w:::engl114wd105:::engl 114w d105 language and purpose
-3649:_:engl:::114w:::d106:::Language and Purpose:::engl114w:::engl114wd106:::engl 114w d106 language and purpose
-3650:_:engl:::114w:::d107:::Language and Purpose:::engl114w:::engl114wd107:::engl 114w d107 language and purpose
-3651:_:engl:::114w:::d108:::Language and Purpose:::engl114w:::engl114wd108:::engl 114w d108 language and purpose
-3652:_:engl:::114w:::d109:::Language and Purpose:::engl114w:::engl114wd109:::engl 114w d109 language and purpose
-3653:_:engl:::114w:::d110:::Language and Purpose:::engl114w:::engl114wd110:::engl 114w d110 language and purpose
-3654:_:engl:::114w:::d900:::Language and Purpose:::engl114w:::engl114wd900:::engl 114w d900 language and purpose
-3655:_:engl:::114w:::d901:::Language and Purpose:::engl114w:::engl114wd901:::engl 114w d901 language and purpose
-3656:_:engl:::114w:::d902:::Language and Purpose:::engl114w:::engl114wd902:::engl 114w d902 language and purpose
-3657:_:engl:::114w:::d903:::Language and Purpose:::engl114w:::engl114wd903:::engl 114w d903 language and purpose
-3658:_:ling:::408:::d100:::Field Linguistics:::ling408:::ling408d100:::ling 408 d100 field linguistics
-3659:_:evsc:::380:::d100:::Practicum I:::evsc380:::evsc380d100:::evsc 380 d100 practicum i
-3660:_:evsc:::380:::d200:::Practicum I:::evsc380:::evsc380d200:::evsc 380 d200 practicum i
-3661:_:evsc:::380:::i100:::Practicum I:::evsc380:::evsc380i100:::evsc 380 i100 practicum i
-3662:_:ling:::898:::g100:::MA Thesis:::ling898:::ling898g100:::ling 898 g100 ma thesis
-3663:_:ling:::898:::g200:::MA Thesis:::ling898:::ling898g200:::ling 898 g200 ma thesis
-3664:_:ling:::898:::g300:::MA Thesis:::ling898:::ling898g300:::ling 898 g300 ma thesis
-3665:_:ling:::898:::g400:::MA Thesis:::ling898:::ling898g400:::ling 898 g400 ma thesis
-3666:_:ling:::898:::g500:::MA Thesis:::ling898:::ling898g500:::ling 898 g500 ma thesis
-3667:_:ling:::898:::g600:::MA Thesis:::ling898:::ling898g600:::ling 898 g600 ma thesis
-3668:_:ling:::898:::g700:::MA Thesis:::ling898:::ling898g700:::ling 898 g700 ma thesis
-3669:_:ling:::898:::g800:::MA Thesis:::ling898:::ling898g800:::ling 898 g800 ma thesis
-3670:_:ling:::898:::g900:::MA Thesis:::ling898:::ling898g900:::ling 898 g900 ma thesis
-3671:_:bus:::420:::d100:::Advanced Accounting:::bus420:::bus420d100:::bus 420 d100 advanced accounting
-3672:_:bus:::420:::d200:::Advanced Accounting:::bus420:::bus420d200:::bus 420 d200 advanced accounting
-3673:_:bus:::420:::e100:::Advanced Accounting:::bus420:::bus420e100:::bus 420 e100 advanced accounting
-3674:_:engl:::441:::d100:::Directed Studies A:::engl441:::engl441d100:::engl 441 d100 directed studies a
-3675:_:ling:::899:::g100:::PhD Thesis:::ling899:::ling899g100:::ling 899 g100 phd thesis
-3676:_:ling:::899:::g200:::PhD Thesis:::ling899:::ling899g200:::ling 899 g200 phd thesis
-3677:_:ling:::899:::g300:::PhD Thesis:::ling899:::ling899g300:::ling 899 g300 phd thesis
-3678:_:ling:::899:::g400:::PhD Thesis:::ling899:::ling899g400:::ling 899 g400 phd thesis
-3679:_:ling:::899:::g500:::PhD Thesis:::ling899:::ling899g500:::ling 899 g500 phd thesis
-3680:_:ling:::899:::g600:::PhD Thesis:::ling899:::ling899g600:::ling 899 g600 phd thesis
-3681:_:ling:::899:::g700:::PhD Thesis:::ling899:::ling899g700:::ling 899 g700 phd thesis
-3682:_:evsc:::381:::d100:::Practicum II:::evsc381:::evsc381d100:::evsc 381 d100 practicum ii
-3683:_:evsc:::381:::d200:::Practicum II:::evsc381:::evsc381d200:::evsc 381 d200 practicum ii
-3684:_:evsc:::381:::i100:::Practicum II:::evsc381:::evsc381i100:::evsc 381 i100 practicum ii
-3685:_:geog:::432:::d100:::Problems in Environmental History:::geog432:::geog432d100:::geog 432 d100 problems in environmental history
-3686:_:bus:::603:::g100:::Structure and Change in Organizations:::bus603:::bus603g100:::bus 603 g100 structure and change in organizations
-3687:_:fren:::998:::g100:::Extended Essays:::fren998:::fren998g100:::fren 998 g100 extended essays
-3688:_:fren:::896:::g100:::Thesis Proposal:::fren896:::fren896g100:::fren 896 g100 thesis proposal
-3689:_:mbb:::324:::d100:::Protein Biochemistry:::mbb324:::mbb324d100:::mbb 324 d100 protein biochemistry
-3690:_:mbb:::324:::d101:::Protein Biochemistry:::mbb324:::mbb324d101:::mbb 324 d101 protein biochemistry
-3691:_:mbb:::324:::d102:::Protein Biochemistry:::mbb324:::mbb324d102:::mbb 324 d102 protein biochemistry
-3692:_:mbb:::324:::d103:::Protein Biochemistry:::mbb324:::mbb324d103:::mbb 324 d103 protein biochemistry
-3693:_:mbb:::324:::d104:::Protein Biochemistry:::mbb324:::mbb324d104:::mbb 324 d104 protein biochemistry
+3277:_:ls:::819:::g100:::Selected Topics:::ls819:::ls819g100:::ls 819 g100 selected topics
+3278:_:sa:::360:::d100:::Special Topics in Sociology and Anthropology (SA):::sa360:::sa360d100:::sa 360 d100 special topics in sociology and anthropology (sa)
+3279:_:ling:::323:::d100:::Morphology:::ling323:::ling323d100:::ling 323 d100 morphology
+3280:_:psyc:::825:::g100:::Clinical Practice:::psyc825:::psyc825g100:::psyc 825 g100 clinical practice
+3281:_:mbb:::222:::d100:::Molecular Biology and Biochemistry:::mbb222:::mbb222d100:::mbb 222 d100 molecular biology and biochemistry
+3282:_:mbb:::222:::d101:::Molecular Biology and Biochemistry:::mbb222:::mbb222d101:::mbb 222 d101 molecular biology and biochemistry
+3283:_:mbb:::222:::d102:::Molecular Biology and Biochemistry:::mbb222:::mbb222d102:::mbb 222 d102 molecular biology and biochemistry
+3284:_:mbb:::222:::d103:::Molecular Biology and Biochemistry:::mbb222:::mbb222d103:::mbb 222 d103 molecular biology and biochemistry
+3285:_:mbb:::222:::d104:::Molecular Biology and Biochemistry:::mbb222:::mbb222d104:::mbb 222 d104 molecular biology and biochemistry
+3286:_:mbb:::222:::d105:::Molecular Biology and Biochemistry:::mbb222:::mbb222d105:::mbb 222 d105 molecular biology and biochemistry
+3287:_:mbb:::222:::d106:::Molecular Biology and Biochemistry:::mbb222:::mbb222d106:::mbb 222 d106 molecular biology and biochemistry
+3288:_:mbb:::222:::d108:::Molecular Biology and Biochemistry:::mbb222:::mbb222d108:::mbb 222 d108 molecular biology and biochemistry
+3289:_:mbb:::222:::d109:::Molecular Biology and Biochemistry:::mbb222:::mbb222d109:::mbb 222 d109 molecular biology and biochemistry
+3290:_:ling:::322:::d100:::Syntax:::ling322:::ling322d100:::ling 322 d100 syntax
+3291:_:ling:::330:::d100:::Phonetics:::ling330:::ling330d100:::ling 330 d100 phonetics
+3292:_:psyc:::824:::g100:::Research Issues in Psychology:::psyc824:::psyc824g100:::psyc 824 g100 research issues in psychology
+3293:_:mbb:::151:::d100:::Practicum I:::mbb151:::mbb151d100:::mbb 151 d100 practicum i
+3294:_:mbb:::151:::d200:::Practicum I:::mbb151:::mbb151d200:::mbb 151 d200 practicum i
+3295:_:mbb:::151:::i100:::Practicum I:::mbb151:::mbb151i100:::mbb 151 i100 practicum i
+3296:_:chem:::740:::g100:::Solid State Materials Chemistry:::chem740:::chem740g100:::chem 740 g100 solid state materials chemistry
+3297:_:mse:::782:::g100:::Introduction to State Space Control Systems:::mse782:::mse782g100:::mse 782 g100 introduction to state space control systems
+3298:_:mse:::782:::lab1:::Introduction to State Space Control Systems:::mse782:::mse782lab1:::mse 782 lab1 introduction to state space control systems
+3299:_:mse:::782:::lab2:::Introduction to State Space Control Systems:::mse782:::mse782lab2:::mse 782 lab2 introduction to state space control systems
+3300:_:mse:::726:::g100:::Introduction to Engineering Design Optimization:::mse726:::mse726g100:::mse 726 g100 introduction to engineering design optimization
+3301:_:mse:::726:::lab1:::Introduction to Engineering Design Optimization:::mse726:::mse726lab1:::mse 726 lab1 introduction to engineering design optimization
+3302:_:mse:::726:::lab2:::Introduction to Engineering Design Optimization:::mse726:::mse726lab2:::mse 726 lab2 introduction to engineering design optimization
+3303:_:psyc:::880:::g100:::Junior Practicum:::psyc880:::psyc880g100:::psyc 880 g100 junior practicum
+3304:_:psyc:::880:::g200:::Junior Practicum:::psyc880:::psyc880g200:::psyc 880 g200 junior practicum
+3305:_:macm:::401:::d100:::Introduction to Computer Algebra:::macm401:::macm401d100:::macm 401 d100 introduction to computer algebra
+3306:_:bus:::727:::g100:::MBA Internship:::bus727:::bus727g100:::bus 727 g100 mba internship
+3307:_:mse:::881:::g100:::Analysis and Control of Nonlinear Systems:::mse881:::mse881g100:::mse 881 g100 analysis and control of nonlinear systems
+3308:_:macm:::316:::d100:::Numerical Analysis I:::macm316:::macm316d100:::macm 316 d100 numerical analysis i
+3309:_:macm:::316:::d101:::Numerical Analysis I:::macm316:::macm316d101:::macm 316 d101 numerical analysis i
+3310:_:macm:::316:::d102:::Numerical Analysis I:::macm316:::macm316d102:::macm 316 d102 numerical analysis i
+3311:_:macm:::316:::d103:::Numerical Analysis I:::macm316:::macm316d103:::macm 316 d103 numerical analysis i
+3312:_:macm:::316:::d104:::Numerical Analysis I:::macm316:::macm316d104:::macm 316 d104 numerical analysis i
+3313:_:macm:::316:::d105:::Numerical Analysis I:::macm316:::macm316d105:::macm 316 d105 numerical analysis i
+3314:_:macm:::316:::d106:::Numerical Analysis I:::macm316:::macm316d106:::macm 316 d106 numerical analysis i
+3315:_:hum:::312w:::d100:::Renaissance Studies:::hum312w:::hum312wd100:::hum 312w d100 renaissance studies
+3316:_:chem:::482:::d100:::Directed Study in Advanced Topics of Chemistry:::chem482:::chem482d100:::chem 482 d100 directed study in advanced topics of chemistry
+3317:_:chem:::482:::d200:::Directed Study in Advanced Topics of Chemistry:::chem482:::chem482d200:::chem 482 d200 directed study in advanced topics of chemistry
+3318:_:gsws:::314:::d100:::Race, Class and Gender:::gsws314:::gsws314d100:::gsws 314 d100 race, class and gender
+3319:_:chem:::481:::d100:::Undergraduate Research:::chem481:::chem481d100:::chem 481 d100 undergraduate research
+3320:_:chem:::483:::d100:::Undergraduate Research II:::chem483:::chem483d100:::chem 483 d100 undergraduate research ii
+3321:_:mse:::721:::g100:::Advanced Vibrations:::mse721:::mse721g100:::mse 721 g100 advanced vibrations
+3322:_:mse:::721:::g200:::Advanced Vibrations:::mse721:::mse721g200:::mse 721 g200 advanced vibrations
+3323:_:mse:::721:::g201:::Advanced Vibrations:::mse721:::mse721g201:::mse 721 g201 advanced vibrations
+3324:_:mse:::822:::g100:::Advanced Convection Heat Transfer:::mse822:::mse822g100:::mse 822 g100 advanced convection heat transfer
+3325:_:arch:::551:::g100:::HRM Business Management:::arch551:::arch551g100:::arch 551 g100 hrm business management
+3326:_:hist:::231:::d100:::History of Africa to the 19th Century: From Ancient Times to the Slave Trade:::hist231:::hist231d100:::hist 231 d100 history of africa to the 19th century: from ancient times to the slave trade
+3327:_:engl:::811:::g100:::Studies in Theory II:::engl811:::engl811g100:::engl 811 g100 studies in theory ii
+3328:_:arch:::561:::g100:::HRM Archaeological Research Design and Methods:::arch561:::arch561g100:::arch 561 g100 hrm archaeological research design and methods
+3329:_:bus:::752:::g100:::Strategic Management of Technology-Based Firms:::bus752:::bus752g100:::bus 752 g100 strategic management of technology-based firms
+3330:_:psyc:::836:::g100:::Forensic Assessment:::psyc836:::psyc836g100:::psyc 836 g100 forensic assessment
+3331:_:bus:::756:::g100:::Strategic Use of Information and Knowledge:::bus756:::bus756g100:::bus 756 g100 strategic use of information and knowledge
+3332:_:hist:::225:::d100:::20th Century Europe:::hist225:::hist225d100:::hist 225 d100 20th century europe
+3333:_:hist:::225:::d101:::20th Century Europe:::hist225:::hist225d101:::hist 225 d101 20th century europe
+3334:_:hist:::225:::d102:::20th Century Europe:::hist225:::hist225d102:::hist 225 d102 20th century europe
+3335:_:hist:::225:::d103:::20th Century Europe:::hist225:::hist225d103:::hist 225 d103 20th century europe
+3336:_:hist:::225:::d104:::20th Century Europe:::hist225:::hist225d104:::hist 225 d104 20th century europe
+3337:_:hist:::225:::d105:::20th Century Europe:::hist225:::hist225d105:::hist 225 d105 20th century europe
+3338:_:hist:::225:::d106:::20th Century Europe:::hist225:::hist225d106:::hist 225 d106 20th century europe
+3339:_:psyc:::895:::g100:::MA Thesis Proposal:::psyc895:::psyc895g100:::psyc 895 g100 ma thesis proposal
+3340:_:psyc:::993:::g100:::Research Comprehensive Examination 3:::psyc993:::psyc993g100:::psyc 993 g100 research comprehensive examination 3
+3341:_:stat:::240:::d100:::Introduction to Data Science:::stat240:::stat240d100:::stat 240 d100 introduction to data science
+3342:_:stat:::240:::d101:::Introduction to Data Science:::stat240:::stat240d101:::stat 240 d101 introduction to data science
+3343:_:stat:::240:::d102:::Introduction to Data Science:::stat240:::stat240d102:::stat 240 d102 introduction to data science
+3344:_:stat:::240:::d103:::Introduction to Data Science:::stat240:::stat240d103:::stat 240 d103 introduction to data science
+3345:_:stat:::240:::d104:::Introduction to Data Science:::stat240:::stat240d104:::stat 240 d104 introduction to data science
+3346:_:stat:::240:::d105:::Introduction to Data Science:::stat240:::stat240d105:::stat 240 d105 introduction to data science
+3347:_:psyc:::992:::g100:::Research Comprehensive Examination 2:::psyc992:::psyc992g100:::psyc 992 g100 research comprehensive examination 2
+3348:_:psyc:::991:::g100:::Research Comprehensive Examination 1:::psyc991:::psyc991g100:::psyc 991 g100 research comprehensive examination 1
+3349:_:sci:::300:::e100:::Science and its Impact on Society:::sci300:::sci300e100:::sci 300 e100 science and its impact on society
+3350:_:sci:::300:::e101:::Science and its Impact on Society:::sci300:::sci300e101:::sci 300 e101 science and its impact on society
+3351:_:sci:::300:::e102:::Science and its Impact on Society:::sci300:::sci300e102:::sci 300 e102 science and its impact on society
+3352:_:sci:::300:::e103:::Science and its Impact on Society:::sci300:::sci300e103:::sci 300 e103 science and its impact on society
+3353:_:sci:::300:::e105:::Science and its Impact on Society:::sci300:::sci300e105:::sci 300 e105 science and its impact on society
+3354:_:sci:::300:::e106:::Science and its Impact on Society:::sci300:::sci300e106:::sci 300 e106 science and its impact on society
+3355:_:sci:::300:::e107:::Science and its Impact on Society:::sci300:::sci300e107:::sci 300 e107 science and its impact on society
+3356:_:sci:::300:::e108:::Science and its Impact on Society:::sci300:::sci300e108:::sci 300 e108 science and its impact on society
+3357:_:sci:::300:::e109:::Science and its Impact on Society:::sci300:::sci300e109:::sci 300 e109 science and its impact on society
+3358:_:psyc:::896:::g100:::PhD Thesis Proposal:::psyc896:::psyc896g100:::psyc 896 g100 phd thesis proposal
+3359:_:bpk:::415:::d100:::Neural Control of Movement:::bpk415:::bpk415d100:::bpk 415 d100 neural control of movement
+3360:_:rem:::481:::e200:::Sustainable Communities Leadership Lab:::rem481:::rem481e200:::rem 481 e200 sustainable communities leadership lab
+3361:_:ling:::896:::g100:::Directed Research:::ling896:::ling896g100:::ling 896 g100 directed research
+3362:_:ling:::896:::g200:::Directed Research:::ling896:::ling896g200:::ling 896 g200 directed research
+3363:_:ling:::896:::g300:::Directed Research:::ling896:::ling896g300:::ling 896 g300 directed research
+3364:_:ling:::401:::d100:::Topics in Phonetics:::ling401:::ling401d100:::ling 401 d100 topics in phonetics
+3365:_:fren:::480:::d100:::Seminar I:::fren480:::fren480d100:::fren 480 d100 seminar i
+3366:_:engl:::455w:::d100:::Topics in Canadian Literature:::engl455w:::engl455wd100:::engl 455w d100 topics in canadian literature
+3367:_:fnst:::442:::d100:::Directed Readings in First Nations Studies:::fnst442:::fnst442d100:::fnst 442 d100 directed readings in first nations studies
+3368:_:fnst:::403:::j100:::Indigenous Knowledge in the Modern World:::fnst403:::fnst403j100:::fnst 403 j100 indigenous knowledge in the modern world
+3369:_:hist:::151:::d900:::The Modern Middle East:::hist151:::hist151d900:::hist 151 d900 the modern middle east
+3370:_:hist:::151:::d901:::The Modern Middle East:::hist151:::hist151d901:::hist 151 d901 the modern middle east
+3371:_:hist:::151:::d902:::The Modern Middle East:::hist151:::hist151d902:::hist 151 d902 the modern middle east
+3372:_:phys:::141:::d100:::Studio Physics - Optics, Electricity and Magnetism:::phys141:::phys141d100:::phys 141 d100 studio physics - optics, electricity and magnetism
+3373:_:phys:::141:::d101:::Studio Physics - Optics, Electricity and Magnetism:::phys141:::phys141d101:::phys 141 d101 studio physics - optics, electricity and magnetism
+3374:_:phys:::141:::d200:::Studio Physics - Optics, Electricity and Magnetism:::phys141:::phys141d200:::phys 141 d200 studio physics - optics, electricity and magnetism
+3375:_:phys:::141:::d201:::Studio Physics - Optics, Electricity and Magnetism:::phys141:::phys141d201:::phys 141 d201 studio physics - optics, electricity and magnetism
+3376:_:phys:::141:::la01:::Studio Physics - Optics, Electricity and Magnetism:::phys141:::phys141la01:::phys 141 la01 studio physics - optics, electricity and magnetism
+3377:_:phys:::141:::la02:::Studio Physics - Optics, Electricity and Magnetism:::phys141:::phys141la02:::phys 141 la02 studio physics - optics, electricity and magnetism
+3378:_:ensc:::410:::d100:::The Business of Engineering:::ensc410:::ensc410d100:::ensc 410 d100 the business of engineering
+3379:_:ensc:::410:::d101:::The Business of Engineering:::ensc410:::ensc410d101:::ensc 410 d101 the business of engineering
+3380:_:math:::800:::g100:::Mathematics: Selected Topics:::math800:::math800g100:::math 800 g100 mathematics: selected topics
+3381:_:bpk:::407:::d100:::Human Physiology Laboratory:::bpk407:::bpk407d100:::bpk 407 d100 human physiology laboratory
+3382:_:bpk:::407:::d200:::Human Physiology Laboratory:::bpk407:::bpk407d200:::bpk 407 d200 human physiology laboratory
+3383:_:bpk:::407:::d300:::Human Physiology Laboratory:::bpk407:::bpk407d300:::bpk 407 d300 human physiology laboratory
+3384:_:ensc:::475:::d100:::Biomedical Instrumentation:::ensc475:::ensc475d100:::ensc 475 d100 biomedical instrumentation
+3385:_:ensc:::475:::d101:::Biomedical Instrumentation:::ensc475:::ensc475d101:::ensc 475 d101 biomedical instrumentation
+3386:_:ensc:::475:::la01:::Biomedical Instrumentation:::ensc475:::ensc475la01:::ensc 475 la01 biomedical instrumentation
+3387:_:bus:::646:::g100:::Managing Innovation:::bus646:::bus646g100:::bus 646 g100 managing innovation
+3388:_:bus:::410:::d100:::Financial Institutions:::bus410:::bus410d100:::bus 410 d100 financial institutions
+3389:_:bus:::410:::d200:::Financial Institutions:::bus410:::bus410d200:::bus 410 d200 financial institutions
+3390:_:sd:::281:::c100:::Sustainable Communities, Sustainable World:::sd281:::sd281c100:::sd 281 c100 sustainable communities, sustainable world
+3391:_:math:::100:::d100:::Precalculus:::math100:::math100d100:::math 100 d100 precalculus
+3392:_:math:::100:::d200:::Precalculus:::math100:::math100d200:::math 100 d200 precalculus
+3393:_:math:::100:::op01:::Precalculus:::math100:::math100op01:::math 100 op01 precalculus
+3394:_:math:::100:::op02:::Precalculus:::math100:::math100op02:::math 100 op02 precalculus
+3395:_:sd:::491:::d100:::Directed Studies in Sustainable Development:::sd491:::sd491d100:::sd 491 d100 directed studies in sustainable development
+3396:_:engl:::463:::d100:::Practicum III:::engl463:::engl463d100:::engl 463 d100 practicum iii
+3397:_:engl:::463:::d200:::Practicum III:::engl463:::engl463d200:::engl 463 d200 practicum iii
+3398:_:engl:::463:::i100:::Practicum III:::engl463:::engl463i100:::engl 463 i100 practicum iii
+3399:_:sd:::494:::d100:::Project in Sustainable Development:::sd494:::sd494d100:::sd 494 d100 project in sustainable development
+3400:_:educ:::490:::d100:::Directed Study:::educ490:::educ490d100:::educ 490 d100 directed study
+3401:_:educ:::490:::d200:::Directed Study:::educ490:::educ490d200:::educ 490 d200 directed study
+3402:_:educ:::490:::d300:::Directed Study:::educ490:::educ490d300:::educ 490 d300 directed study
+3403:_:educ:::490:::d400:::Directed Study:::educ490:::educ490d400:::educ 490 d400 directed study
+3404:_:educ:::490:::d500:::Directed Study:::educ490:::educ490d500:::educ 490 d500 directed study
+3405:_:educ:::490:::d600:::Directed Study:::educ490:::educ490d600:::educ 490 d600 directed study
+3406:_:educ:::490:::d700:::Directed Study:::educ490:::educ490d700:::educ 490 d700 directed study
+3407:_:educ:::490:::d800:::Directed Study:::educ490:::educ490d800:::educ 490 d800 directed study
+3408:_:ling:::350:::d100:::First Language Acquisition:::ling350:::ling350d100:::ling 350 d100 first language acquisition
+3409:_:educ:::492:::d100:::Directed Study:::educ492:::educ492d100:::educ 492 d100 directed study
+3410:_:engl:::464:::d100:::Practicum IV:::engl464:::engl464d100:::engl 464 d100 practicum iv
+3411:_:engl:::464:::d200:::Practicum IV:::engl464:::engl464d200:::engl 464 d200 practicum iv
+3412:_:engl:::464:::i100:::Practicum IV:::engl464:::engl464i100:::engl 464 i100 practicum iv
+3413:_:educ:::491:::d100:::Directed Study:::educ491:::educ491d100:::educ 491 d100 directed study
+3414:_:educ:::491:::d200:::Directed Study:::educ491:::educ491d200:::educ 491 d200 directed study
+3415:_:educ:::491:::d300:::Directed Study:::educ491:::educ491d300:::educ 491 d300 directed study
+3416:_:engl:::462:::d100:::Practicum II:::engl462:::engl462d100:::engl 462 d100 practicum ii
+3417:_:engl:::462:::d200:::Practicum II:::engl462:::engl462d200:::engl 462 d200 practicum ii
+3418:_:engl:::462:::i100:::Practicum II:::engl462:::engl462i100:::engl 462 i100 practicum ii
+3419:_:bpk:::421:::d100:::Selected Topics in Kinesiology II:::bpk421:::bpk421d100:::bpk 421 d100 selected topics in kinesiology ii
+3420:_:engl:::461:::d100:::Practicum I:::engl461:::engl461d100:::engl 461 d100 practicum i
+3421:_:engl:::461:::d200:::Practicum I:::engl461:::engl461d200:::engl 461 d200 practicum i
+3422:_:engl:::461:::i100:::Practicum I:::engl461:::engl461i100:::engl 461 i100 practicum i
+3423:_:fnst:::401:::d100:::Aboriginal Peoples and Public Policy:::fnst401:::fnst401d100:::fnst 401 d100 aboriginal peoples and public policy
+3424:_:ling:::360:::d100:::Introduction to Applied Linguistics:::ling360:::ling360d100:::ling 360 d100 introduction to applied linguistics
+3425:_:ling:::370:::d100:::Linguistics Practicum I:::ling370:::ling370d100:::ling 370 d100 linguistics practicum i
+3426:_:ling:::370:::d200:::Linguistics Practicum I:::ling370:::ling370d200:::ling 370 d200 linguistics practicum i
+3427:_:ling:::370:::i100:::Linguistics Practicum I:::ling370:::ling370i100:::ling 370 i100 linguistics practicum i
+3428:_:fnst:::332:::d10:::Ethnobotany of British Columbia First Nations:::fnst332:::fnst332d10:::fnst 332 d10 ethnobotany of british columbia first nations
+3429:_:ling:::371:::d100:::Linguistics Practicum II:::ling371:::ling371d100:::ling 371 d100 linguistics practicum ii
+3430:_:ling:::371:::d200:::Linguistics Practicum II:::ling371:::ling371d200:::ling 371 d200 linguistics practicum ii
+3431:_:ling:::371:::i100:::Linguistics Practicum II:::ling371:::ling371i100:::ling 371 i100 linguistics practicum ii
+3432:_:ling:::363:::e100:::Practicum in Teaching English as a Practice Second Language to Adults:::ling363:::ling363e100:::ling 363 e100 practicum in teaching english as a practice second language to adults
+3433:_:hist:::106:::d900:::The Making of Modern Europe:::hist106:::hist106d900:::hist 106 d900 the making of modern europe
+3434:_:hist:::106:::d901:::The Making of Modern Europe:::hist106:::hist106d901:::hist 106 d901 the making of modern europe
+3435:_:hist:::106:::d902:::The Making of Modern Europe:::hist106:::hist106d902:::hist 106 d902 the making of modern europe
+3436:_:hist:::106:::d903:::The Making of Modern Europe:::hist106:::hist106d903:::hist 106 d903 the making of modern europe
+3437:_:fnst:::301:::d100:::Issues in Applied First Nations Studies Research:::fnst301:::fnst301d100:::fnst 301 d100 issues in applied first nations studies research
+3438:_:engl:::475w:::d100:::Topics in Rhetoric:::engl475w:::engl475wd100:::engl 475w d100 topics in rhetoric
+3439:_:hsci:::333:::d100:::Red, Hot, and True: A Semester of Blood:::hsci333:::hsci333d100:::hsci 333 d100 red, hot, and true: a semester of blood
+3440:_:bpk:::482:::d100:::Ergonomics and Rehabilitation:::bpk482:::bpk482d100:::bpk 482 d100 ergonomics and rehabilitation
+3441:_:ling:::280:::d100:::Interdisciplinary Topics in Linguistics:::ling280:::ling280d100:::ling 280 d100 interdisciplinary topics in linguistics
+3442:_:rem:::200:::d100:::Introduction to Resource and Environmental Management in Canada:::rem200:::rem200d100:::rem 200 d100 introduction to resource and environmental management in canada
+3443:_:rem:::200:::d101:::Introduction to Resource and Environmental Management in Canada:::rem200:::rem200d101:::rem 200 d101 introduction to resource and environmental management in canada
+3444:_:rem:::200:::d102:::Introduction to Resource and Environmental Management in Canada:::rem200:::rem200d102:::rem 200 d102 introduction to resource and environmental management in canada
+3445:_:rem:::200:::d103:::Introduction to Resource and Environmental Management in Canada:::rem200:::rem200d103:::rem 200 d103 introduction to resource and environmental management in canada
+3446:_:rem:::200:::d104:::Introduction to Resource and Environmental Management in Canada:::rem200:::rem200d104:::rem 200 d104 introduction to resource and environmental management in canada
+3447:_:bus:::418:::d100:::International Financial Management:::bus418:::bus418d100:::bus 418 d100 international financial management
+3448:_:bus:::418:::e100:::International Financial Management:::bus418:::bus418e100:::bus 418 e100 international financial management
+3449:_:bus:::419:::d100:::Advanced Derivative Securities:::bus419:::bus419d100:::bus 419 d100 advanced derivative securities
+3450:_:bus:::419:::e100:::Advanced Derivative Securities:::bus419:::bus419e100:::bus 419 e100 advanced derivative securities
+3451:_:cmns:::304w:::d100:::Communication in Everyday Life:::cmns304w:::cmns304wd100:::cmns 304w d100 communication in everyday life
+3452:_:cmns:::304w:::d101:::Communication in Everyday Life:::cmns304w:::cmns304wd101:::cmns 304w d101 communication in everyday life
+3453:_:cmns:::304w:::d102:::Communication in Everyday Life:::cmns304w:::cmns304wd102:::cmns 304w d102 communication in everyday life
+3454:_:cmns:::304w:::d103:::Communication in Everyday Life:::cmns304w:::cmns304wd103:::cmns 304w d103 communication in everyday life
+3455:_:cmns:::304w:::d104:::Communication in Everyday Life:::cmns304w:::cmns304wd104:::cmns 304w d104 communication in everyday life
+3456:_:cmns:::304w:::d105:::Communication in Everyday Life:::cmns304w:::cmns304wd105:::cmns 304w d105 communication in everyday life
+3457:_:cmns:::304w:::d106:::Communication in Everyday Life:::cmns304w:::cmns304wd106:::cmns 304w d106 communication in everyday life
+3458:_:econ:::387:::d100:::Selected Topics in Economics:::econ387:::econ387d100:::econ 387 d100 selected topics in economics
+3459:_:sa:::302w:::d100:::Global Problems and the Culture of Capitalism (SA):::sa302w:::sa302wd100:::sa 302w d100 global problems and the culture of capitalism (sa)
+3460:_:sa:::201w:::d100:::Anthropology and Contemporary Life (A):::sa201w:::sa201wd100:::sa 201w d100 anthropology and contemporary life (a)
+3461:_:ensc:::405w:::d100:::Capstone A: Project Design, Management, and Documentation:::ensc405w:::ensc405wd100:::ensc 405w d100 capstone a: project design, management, and documentation
+3462:_:ensc:::405w:::la01:::Capstone A: Project Design, Management, and Documentation:::ensc405w:::ensc405wla01:::ensc 405w la01 capstone a: project design, management, and documentation
+3463:_:bus:::413:::d100:::Corporate Finance:::bus413:::bus413d100:::bus 413 d100 corporate finance
+3464:_:bus:::413:::d300:::Corporate Finance:::bus413:::bus413d300:::bus 413 d300 corporate finance
+3465:_:bus:::413:::e100:::Corporate Finance:::bus413:::bus413e100:::bus 413 e100 corporate finance
+3466:_:mbb:::839:::g100:::Special Topics in Molecular Biology:::mbb839:::mbb839g100:::mbb 839 g100 special topics in molecular biology
+3467:_:bus:::417:::d100:::Security Analysis:::bus417:::bus417d100:::bus 417 d100 security analysis
+3468:_:bus:::417:::e100:::Security Analysis:::bus417:::bus417e100:::bus 417 e100 security analysis
+3469:_:engl:::115w:::d100:::Literature and Culture:::engl115w:::engl115wd100:::engl 115w d100 literature and culture
+3470:_:engl:::115w:::d101:::Literature and Culture:::engl115w:::engl115wd101:::engl 115w d101 literature and culture
+3471:_:engl:::115w:::d102:::Literature and Culture:::engl115w:::engl115wd102:::engl 115w d102 literature and culture
+3472:_:engl:::115w:::d103:::Literature and Culture:::engl115w:::engl115wd103:::engl 115w d103 literature and culture
+3473:_:engl:::115w:::d104:::Literature and Culture:::engl115w:::engl115wd104:::engl 115w d104 literature and culture
+3474:_:engl:::115w:::d105:::Literature and Culture:::engl115w:::engl115wd105:::engl 115w d105 literature and culture
+3475:_:engl:::115w:::d106:::Literature and Culture:::engl115w:::engl115wd106:::engl 115w d106 literature and culture
+3476:_:engl:::115w:::d107:::Literature and Culture:::engl115w:::engl115wd107:::engl 115w d107 literature and culture
+3477:_:engl:::115w:::d108:::Literature and Culture:::engl115w:::engl115wd108:::engl 115w d108 literature and culture
+3478:_:engl:::115w:::d109:::Literature and Culture:::engl115w:::engl115wd109:::engl 115w d109 literature and culture
+3479:_:engl:::115w:::d110:::Literature and Culture:::engl115w:::engl115wd110:::engl 115w d110 literature and culture
+3480:_:engl:::115w:::d900:::Literature and Culture:::engl115w:::engl115wd900:::engl 115w d900 literature and culture
+3481:_:engl:::115w:::d901:::Literature and Culture:::engl115w:::engl115wd901:::engl 115w d901 literature and culture
+3482:_:engl:::115w:::d902:::Literature and Culture:::engl115w:::engl115wd902:::engl 115w d902 literature and culture
+3483:_:engl:::115w:::d903:::Literature and Culture:::engl115w:::engl115wd903:::engl 115w d903 literature and culture
+3484:_:engl:::115w:::d904:::Literature and Culture:::engl115w:::engl115wd904:::engl 115w d904 literature and culture
+3485:_:engl:::115w:::d905:::Literature and Culture:::engl115w:::engl115wd905:::engl 115w d905 literature and culture
+3486:_:engl:::115w:::d906:::Literature and Culture:::engl115w:::engl115wd906:::engl 115w d906 literature and culture
+3487:_:psyc:::998:::g100:::Directed Readings:::psyc998:::psyc998g100:::psyc 998 g100 directed readings
+3488:_:psyc:::998:::g200:::Directed Readings:::psyc998:::psyc998g200:::psyc 998 g200 directed readings
+3489:_:engl:::208:::d100:::21st Century Literatures in English:::engl208:::engl208d100:::engl 208 d100 21st century literatures in english
+3490:_:engl:::208:::d101:::21st Century Literatures in English:::engl208:::engl208d101:::engl 208 d101 21st century literatures in english
+3491:_:engl:::208:::d102:::21st Century Literatures in English:::engl208:::engl208d102:::engl 208 d102 21st century literatures in english
+3492:_:engl:::208:::d103:::21st Century Literatures in English:::engl208:::engl208d103:::engl 208 d103 21st century literatures in english
+3493:_:fren:::485:::d100:::Practicum IV:::fren485:::fren485d100:::fren 485 d100 practicum iv
+3494:_:fren:::485:::d200:::Practicum IV:::fren485:::fren485d200:::fren 485 d200 practicum iv
+3495:_:fren:::485:::i100:::Practicum IV:::fren485:::fren485i100:::fren 485 i100 practicum iv
+3496:_:bus:::200:::d100:::Business Fundamentals:::bus200:::bus200d100:::bus 200 d100 business fundamentals
+3497:_:bus:::200:::d200:::Business Fundamentals:::bus200:::bus200d200:::bus 200 d200 business fundamentals
+3498:_:fren:::285:::d100:::Practicum II:::fren285:::fren285d100:::fren 285 d100 practicum ii
+3499:_:fren:::285:::d200:::Practicum II:::fren285:::fren285d200:::fren 285 d200 practicum ii
+3500:_:fren:::285:::i100:::Practicum II:::fren285:::fren285i100:::fren 285 i100 practicum ii
+3501:_:fren:::385:::d100:::Practicum III:::fren385:::fren385d100:::fren 385 d100 practicum iii
+3502:_:fren:::385:::d200:::Practicum III:::fren385:::fren385d200:::fren 385 d200 practicum iii
+3503:_:fren:::385:::i100:::Practicum III:::fren385:::fren385i100:::fren 385 i100 practicum iii
+3504:_:bus:::216:::e100:::Introduction to Essentials of Business Communications:::bus216:::bus216e100:::bus 216 e100 introduction to essentials of business communications
+3505:_:hist:::427:::d100:::Problems in the History of Aboriginal Peoples:::hist427:::hist427d100:::hist 427 d100 problems in the history of aboriginal peoples
+3506:_:fnst:::101:::c100:::Introduction to First Nations Studies:::fnst101:::fnst101c100:::fnst 101 c100 introduction to first nations studies
+3507:_:fnst:::101:::d100:::Introduction to First Nations Studies:::fnst101:::fnst101d100:::fnst 101 d100 introduction to first nations studies
+3508:_:fnst:::101:::d200:::Introduction to First Nations Studies:::fnst101:::fnst101d200:::fnst 101 d200 introduction to first nations studies
+3509:_:phil:::100w:::d100:::Knowledge and Reality:::phil100w:::phil100wd100:::phil 100w d100 knowledge and reality
+3510:_:phil:::100w:::d101:::Knowledge and Reality:::phil100w:::phil100wd101:::phil 100w d101 knowledge and reality
+3511:_:phil:::100w:::d103:::Knowledge and Reality:::phil100w:::phil100wd103:::phil 100w d103 knowledge and reality
+3512:_:phil:::100w:::d104:::Knowledge and Reality:::phil100w:::phil100wd104:::phil 100w d104 knowledge and reality
+3513:_:phil:::100w:::d105:::Knowledge and Reality:::phil100w:::phil100wd105:::phil 100w d105 knowledge and reality
+3514:_:phil:::100w:::d106:::Knowledge and Reality:::phil100w:::phil100wd106:::phil 100w d106 knowledge and reality
+3515:_:phil:::100w:::d107:::Knowledge and Reality:::phil100w:::phil100wd107:::phil 100w d107 knowledge and reality
+3516:_:phil:::100w:::d110:::Knowledge and Reality:::phil100w:::phil100wd110:::phil 100w d110 knowledge and reality
+3517:_:phil:::100w:::d113:::Knowledge and Reality:::phil100w:::phil100wd113:::phil 100w d113 knowledge and reality
+3518:_:phil:::100w:::d114:::Knowledge and Reality:::phil100w:::phil100wd114:::phil 100w d114 knowledge and reality
+3519:_:phil:::100w:::d115:::Knowledge and Reality:::phil100w:::phil100wd115:::phil 100w d115 knowledge and reality
+3520:_:phil:::100w:::d116:::Knowledge and Reality:::phil100w:::phil100wd116:::phil 100w d116 knowledge and reality
+3521:_:phil:::100w:::d118:::Knowledge and Reality:::phil100w:::phil100wd118:::phil 100w d118 knowledge and reality
+3522:_:phil:::100w:::d900:::Knowledge and Reality:::phil100w:::phil100wd900:::phil 100w d900 knowledge and reality
+3523:_:phil:::120w:::d100:::Moral Problems:::phil120w:::phil120wd100:::phil 120w d100 moral problems
+3524:_:phil:::120w:::d101:::Moral Problems:::phil120w:::phil120wd101:::phil 120w d101 moral problems
+3525:_:phil:::120w:::d102:::Moral Problems:::phil120w:::phil120wd102:::phil 120w d102 moral problems
+3526:_:phil:::120w:::d103:::Moral Problems:::phil120w:::phil120wd103:::phil 120w d103 moral problems
+3527:_:phil:::120w:::d104:::Moral Problems:::phil120w:::phil120wd104:::phil 120w d104 moral problems
+3528:_:phil:::120w:::d105:::Moral Problems:::phil120w:::phil120wd105:::phil 120w d105 moral problems
+3529:_:phil:::120w:::d106:::Moral Problems:::phil120w:::phil120wd106:::phil 120w d106 moral problems
+3530:_:phil:::120w:::d107:::Moral Problems:::phil120w:::phil120wd107:::phil 120w d107 moral problems
+3531:_:phil:::120w:::d108:::Moral Problems:::phil120w:::phil120wd108:::phil 120w d108 moral problems
+3532:_:phil:::120w:::d109:::Moral Problems:::phil120w:::phil120wd109:::phil 120w d109 moral problems
+3533:_:phil:::120w:::d110:::Moral Problems:::phil120w:::phil120wd110:::phil 120w d110 moral problems
+3534:_:phil:::120w:::d111:::Moral Problems:::phil120w:::phil120wd111:::phil 120w d111 moral problems
+3535:_:phil:::120w:::d112:::Moral Problems:::phil120w:::phil120wd112:::phil 120w d112 moral problems
+3536:_:phil:::120w:::d113:::Moral Problems:::phil120w:::phil120wd113:::phil 120w d113 moral problems
+3537:_:phil:::120w:::d114:::Moral Problems:::phil120w:::phil120wd114:::phil 120w d114 moral problems
+3538:_:phil:::120w:::d115:::Moral Problems:::phil120w:::phil120wd115:::phil 120w d115 moral problems
+3539:_:phil:::120w:::d116:::Moral Problems:::phil120w:::phil120wd116:::phil 120w d116 moral problems
+3540:_:phil:::120w:::d117:::Moral Problems:::phil120w:::phil120wd117:::phil 120w d117 moral problems
+3541:_:phil:::120w:::j100:::Moral Problems:::phil120w:::phil120wj100:::phil 120w j100 moral problems
+3542:_:sa:::241:::d100:::Sociology and Anthropology Practicum II:::sa241:::sa241d100:::sa 241 d100 sociology and anthropology practicum ii
+3543:_:sa:::241:::d200:::Sociology and Anthropology Practicum II:::sa241:::sa241d200:::sa 241 d200 sociology and anthropology practicum ii
+3544:_:sa:::241:::i100:::Sociology and Anthropology Practicum II:::sa241:::sa241i100:::sa 241 i100 sociology and anthropology practicum ii
+3545:_:bus:::645:::g100:::Capstone Simulation:::bus645:::bus645g100:::bus 645 g100 capstone simulation
+3546:_:fren:::301w:::d100:::Advanced French Composition:::fren301w:::fren301wd100:::fren 301w d100 advanced french composition
+3547:_:fren:::301w:::d200:::Advanced French Composition:::fren301w:::fren301wd200:::fren 301w d200 advanced french composition
+3548:_:bus:::441:::d100:::Web Analytics:::bus441:::bus441d100:::bus 441 d100 web analytics
+3549:_:evsc:::482:::d100:::Practicum V:::evsc482:::evsc482d100:::evsc 482 d100 practicum v
+3550:_:evsc:::482:::d200:::Practicum V:::evsc482:::evsc482d200:::evsc 482 d200 practicum v
+3551:_:evsc:::482:::i100:::Practicum V:::evsc482:::evsc482i100:::evsc 482 i100 practicum v
+3552:_:sa:::255:::d100:::Introduction to Social Research (SA):::sa255:::sa255d100:::sa 255 d100 introduction to social research (sa)
+3553:_:sa:::255:::d101:::Introduction to Social Research (SA):::sa255:::sa255d101:::sa 255 d101 introduction to social research (sa)
+3554:_:sa:::255:::d102:::Introduction to Social Research (SA):::sa255:::sa255d102:::sa 255 d102 introduction to social research (sa)
+3555:_:sa:::255:::d103:::Introduction to Social Research (SA):::sa255:::sa255d103:::sa 255 d103 introduction to social research (sa)
+3556:_:sa:::255:::j100:::Introduction to Social Research (SA):::sa255:::sa255j100:::sa 255 j100 introduction to social research (sa)
+3557:_:gsws:::826:::g100:::Graduate Seminar on Queer/Trans Studies:::gsws826:::gsws826g100:::gsws 826 g100 graduate seminar on queer/trans studies
+3558:_:evsc:::481:::d100:::Practicum IV:::evsc481:::evsc481d100:::evsc 481 d100 practicum iv
+3559:_:evsc:::481:::d200:::Practicum IV:::evsc481:::evsc481d200:::evsc 481 d200 practicum iv
+3560:_:evsc:::481:::i100:::Practicum IV:::evsc481:::evsc481i100:::evsc 481 i100 practicum iv
+3561:_:fren:::185:::d100:::Practicum I:::fren185:::fren185d100:::fren 185 d100 practicum i
+3562:_:fren:::185:::d200:::Practicum I:::fren185:::fren185d200:::fren 185 d200 practicum i
+3563:_:fren:::185:::i100:::Practicum I:::fren185:::fren185i100:::fren 185 i100 practicum i
+3564:_:sa:::250:::d100:::Introduction to Sociological Theory (S):::sa250:::sa250d100:::sa 250 d100 introduction to sociological theory (s)
+3565:_:evsc:::480:::d100:::Practicum III:::evsc480:::evsc480d100:::evsc 480 d100 practicum iii
+3566:_:evsc:::480:::d200:::Practicum III:::evsc480:::evsc480d200:::evsc 480 d200 practicum iii
+3567:_:evsc:::480:::i100:::Practicum III:::evsc480:::evsc480i100:::evsc 480 i100 practicum iii
+3568:_:bus:::641:::g100:::Cross Cultural Management:::bus641:::bus641g100:::bus 641 g100 cross cultural management
+3569:_:bus:::426:::d100:::Auditing and Assurance: Concepts and Methods:::bus426:::bus426d100:::bus 426 d100 auditing and assurance: concepts and methods
+3570:_:bus:::426:::e100:::Auditing and Assurance: Concepts and Methods:::bus426:::bus426e100:::bus 426 e100 auditing and assurance: concepts and methods
+3571:_:math:::158:::e100:::Calculus II for the Social Sciences:::math158:::math158e100:::math 158 e100 calculus ii for the social sciences
+3572:_:math:::158:::op01:::Calculus II for the Social Sciences:::math158:::math158op01:::math 158 op01 calculus ii for the social sciences
+3573:_:math:::157:::d100:::Calculus I for the Social Sciences:::math157:::math157d100:::math 157 d100 calculus i for the social sciences
+3574:_:math:::157:::d200:::Calculus I for the Social Sciences:::math157:::math157d200:::math 157 d200 calculus i for the social sciences
+3575:_:math:::157:::op01:::Calculus I for the Social Sciences:::math157:::math157op01:::math 157 op01 calculus i for the social sciences
+3576:_:math:::157:::op02:::Calculus I for the Social Sciences:::math157:::math157op02:::math 157 op02 calculus i for the social sciences
+3577:_:hist:::490:::d100:::Studies in History:::hist490:::hist490d100:::hist 490 d100 studies in history
+3578:_:math:::155:::d100:::Calculus II for the Biological Sciences:::math155:::math155d100:::math 155 d100 calculus ii for the biological sciences
+3579:_:math:::155:::d200:::Calculus II for the Biological Sciences:::math155:::math155d200:::math 155 d200 calculus ii for the biological sciences
+3580:_:math:::155:::op01:::Calculus II for the Biological Sciences:::math155:::math155op01:::math 155 op01 calculus ii for the biological sciences
+3581:_:math:::155:::op02:::Calculus II for the Biological Sciences:::math155:::math155op02:::math 155 op02 calculus ii for the biological sciences
+3582:_:math:::154:::d100:::Calculus I for the Biological Sciences:::math154:::math154d100:::math 154 d100 calculus i for the biological sciences
+3583:_:math:::154:::op01:::Calculus I for the Biological Sciences:::math154:::math154op01:::math 154 op01 calculus i for the biological sciences
+3584:_:math:::152:::d100:::Calculus II:::math152:::math152d100:::math 152 d100 calculus ii
+3585:_:math:::152:::d200:::Calculus II:::math152:::math152d200:::math 152 d200 calculus ii
+3586:_:math:::152:::op01:::Calculus II:::math152:::math152op01:::math 152 op01 calculus ii
+3587:_:math:::152:::op02:::Calculus II:::math152:::math152op02:::math 152 op02 calculus ii
+3588:_:ensc:::461:::d100:::Special Topics in Engineering Science:::ensc461:::ensc461d100:::ensc 461 d100 special topics in engineering science
+3589:_:ensc:::461:::la01:::Special Topics in Engineering Science:::ensc461:::ensc461la01:::ensc 461 la01 special topics in engineering science
+3590:_:mse:::890:::g100:::PhD Qualifying Examination:::mse890:::mse890g100:::mse 890 g100 phd qualifying examination
+3591:_:ls:::810:::g100:::Self and Society:::ls810:::ls810g100:::ls 810 g100 self and society
+3592:_:ls:::801:::g100:::Reflections on Reason and Passion II:::ls801:::ls801g100:::ls 801 g100 reflections on reason and passion ii
+3593:_:ling:::111:::d100:::Introduction to English Vocabulary Analysis:::ling111:::ling111d100:::ling 111 d100 introduction to english vocabulary analysis
+3594:_:hist:::489:::d100:::Studies in History:::hist489:::hist489d100:::hist 489 d100 studies in history
+3595:_:hist:::489:::d200:::Studies in History:::hist489:::hist489d200:::hist 489 d200 studies in history
+3596:_:bus:::421:::d100:::Accounting Theory:::bus421:::bus421d100:::bus 421 d100 accounting theory
+3597:_:bus:::421:::d200:::Accounting Theory:::bus421:::bus421d200:::bus 421 d200 accounting theory
+3598:_:bus:::421:::e100:::Accounting Theory:::bus421:::bus421e100:::bus 421 e100 accounting theory
+3599:_:bus:::424:::d100:::Advanced Managerial Accounting:::bus424:::bus424d100:::bus 424 d100 advanced managerial accounting
+3600:_:bus:::424:::e100:::Advanced Managerial Accounting:::bus424:::bus424e100:::bus 424 e100 advanced managerial accounting
+3601:_:mse:::211:::e100:::Computational Methods for Engineers:::mse211:::mse211e100:::mse 211 e100 computational methods for engineers
+3602:_:mse:::211:::lab1:::Computational Methods for Engineers:::mse211:::mse211lab1:::mse 211 lab1 computational methods for engineers
+3603:_:mse:::211:::lab3:::Computational Methods for Engineers:::mse211:::mse211lab3:::mse 211 lab3 computational methods for engineers
+3604:_:engl:::442:::d100:::Directed Studies B:::engl442:::engl442d100:::engl 442 d100 directed studies b
+3605:_:bus:::425:::d100:::Co-op Practicum V:::bus425:::bus425d100:::bus 425 d100 co-op practicum v
+3606:_:bus:::425:::d200:::Co-op Practicum V:::bus425:::bus425d200:::bus 425 d200 co-op practicum v
+3607:_:bus:::425:::i100:::Co-op Practicum V:::bus425:::bus425i100:::bus 425 i100 co-op practicum v
+3608:_:hist:::102w:::d100:::Canada since Confederation:::hist102w:::hist102wd100:::hist 102w d100 canada since confederation
+3609:_:hist:::102w:::d101:::Canada since Confederation:::hist102w:::hist102wd101:::hist 102w d101 canada since confederation
+3610:_:hist:::102w:::d102:::Canada since Confederation:::hist102w:::hist102wd102:::hist 102w d102 canada since confederation
+3611:_:hist:::102w:::d103:::Canada since Confederation:::hist102w:::hist102wd103:::hist 102w d103 canada since confederation
+3612:_:hist:::102w:::d104:::Canada since Confederation:::hist102w:::hist102wd104:::hist 102w d104 canada since confederation
+3613:_:hist:::102w:::d105:::Canada since Confederation:::hist102w:::hist102wd105:::hist 102w d105 canada since confederation
+3614:_:hist:::102w:::d106:::Canada since Confederation:::hist102w:::hist102wd106:::hist 102w d106 canada since confederation
+3615:_:hist:::102w:::d107:::Canada since Confederation:::hist102w:::hist102wd107:::hist 102w d107 canada since confederation
+3616:_:hist:::102w:::d108:::Canada since Confederation:::hist102w:::hist102wd108:::hist 102w d108 canada since confederation
+3617:_:hist:::102w:::d109:::Canada since Confederation:::hist102w:::hist102wd109:::hist 102w d109 canada since confederation
+3618:_:hist:::102w:::d110:::Canada since Confederation:::hist102w:::hist102wd110:::hist 102w d110 canada since confederation
+3619:_:hist:::102w:::d111:::Canada since Confederation:::hist102w:::hist102wd111:::hist 102w d111 canada since confederation
+3620:_:hist:::102w:::d112:::Canada since Confederation:::hist102w:::hist102wd112:::hist 102w d112 canada since confederation
+3621:_:hist:::102w:::f100:::Canada since Confederation:::hist102w:::hist102wf100:::hist 102w f100 canada since confederation
+3622:_:engl:::111w:::d100:::Literary Classics in English:::engl111w:::engl111wd100:::engl 111w d100 literary classics in english
+3623:_:engl:::111w:::d101:::Literary Classics in English:::engl111w:::engl111wd101:::engl 111w d101 literary classics in english
+3624:_:engl:::111w:::d102:::Literary Classics in English:::engl111w:::engl111wd102:::engl 111w d102 literary classics in english
+3625:_:engl:::111w:::d103:::Literary Classics in English:::engl111w:::engl111wd103:::engl 111w d103 literary classics in english
+3626:_:engl:::111w:::d104:::Literary Classics in English:::engl111w:::engl111wd104:::engl 111w d104 literary classics in english
+3627:_:engl:::111w:::d105:::Literary Classics in English:::engl111w:::engl111wd105:::engl 111w d105 literary classics in english
+3628:_:engl:::111w:::d106:::Literary Classics in English:::engl111w:::engl111wd106:::engl 111w d106 literary classics in english
+3629:_:engl:::111w:::d107:::Literary Classics in English:::engl111w:::engl111wd107:::engl 111w d107 literary classics in english
+3630:_:engl:::111w:::d108:::Literary Classics in English:::engl111w:::engl111wd108:::engl 111w d108 literary classics in english
+3631:_:engl:::111w:::d109:::Literary Classics in English:::engl111w:::engl111wd109:::engl 111w d109 literary classics in english
+3632:_:engl:::111w:::d110:::Literary Classics in English:::engl111w:::engl111wd110:::engl 111w d110 literary classics in english
+3633:_:engl:::111w:::j100:::Literary Classics in English:::engl111w:::engl111wj100:::engl 111w j100 literary classics in english
+3634:_:engl:::113w:::d100:::Literature and Performance:::engl113w:::engl113wd100:::engl 113w d100 literature and performance
+3635:_:engl:::113w:::d101:::Literature and Performance:::engl113w:::engl113wd101:::engl 113w d101 literature and performance
+3636:_:engl:::113w:::d102:::Literature and Performance:::engl113w:::engl113wd102:::engl 113w d102 literature and performance
+3637:_:engl:::113w:::d103:::Literature and Performance:::engl113w:::engl113wd103:::engl 113w d103 literature and performance
+3638:_:engl:::113w:::d104:::Literature and Performance:::engl113w:::engl113wd104:::engl 113w d104 literature and performance
+3639:_:engl:::113w:::d105:::Literature and Performance:::engl113w:::engl113wd105:::engl 113w d105 literature and performance
+3640:_:engl:::113w:::d106:::Literature and Performance:::engl113w:::engl113wd106:::engl 113w d106 literature and performance
+3641:_:engl:::113w:::d107:::Literature and Performance:::engl113w:::engl113wd107:::engl 113w d107 literature and performance
+3642:_:engl:::113w:::d108:::Literature and Performance:::engl113w:::engl113wd108:::engl 113w d108 literature and performance
+3643:_:engl:::113w:::d109:::Literature and Performance:::engl113w:::engl113wd109:::engl 113w d109 literature and performance
+3644:_:engl:::113w:::d110:::Literature and Performance:::engl113w:::engl113wd110:::engl 113w d110 literature and performance
+3645:_:bus:::615:::g100:::Marketing Management:::bus615:::bus615g100:::bus 615 g100 marketing management
+3646:_:engl:::114w:::d100:::Language and Purpose:::engl114w:::engl114wd100:::engl 114w d100 language and purpose
+3647:_:engl:::114w:::d101:::Language and Purpose:::engl114w:::engl114wd101:::engl 114w d101 language and purpose
+3648:_:engl:::114w:::d102:::Language and Purpose:::engl114w:::engl114wd102:::engl 114w d102 language and purpose
+3649:_:engl:::114w:::d103:::Language and Purpose:::engl114w:::engl114wd103:::engl 114w d103 language and purpose
+3650:_:engl:::114w:::d104:::Language and Purpose:::engl114w:::engl114wd104:::engl 114w d104 language and purpose
+3651:_:engl:::114w:::d105:::Language and Purpose:::engl114w:::engl114wd105:::engl 114w d105 language and purpose
+3652:_:engl:::114w:::d106:::Language and Purpose:::engl114w:::engl114wd106:::engl 114w d106 language and purpose
+3653:_:engl:::114w:::d107:::Language and Purpose:::engl114w:::engl114wd107:::engl 114w d107 language and purpose
+3654:_:engl:::114w:::d108:::Language and Purpose:::engl114w:::engl114wd108:::engl 114w d108 language and purpose
+3655:_:engl:::114w:::d109:::Language and Purpose:::engl114w:::engl114wd109:::engl 114w d109 language and purpose
+3656:_:engl:::114w:::d110:::Language and Purpose:::engl114w:::engl114wd110:::engl 114w d110 language and purpose
+3657:_:engl:::114w:::d900:::Language and Purpose:::engl114w:::engl114wd900:::engl 114w d900 language and purpose
+3658:_:engl:::114w:::d901:::Language and Purpose:::engl114w:::engl114wd901:::engl 114w d901 language and purpose
+3659:_:engl:::114w:::d902:::Language and Purpose:::engl114w:::engl114wd902:::engl 114w d902 language and purpose
+3660:_:engl:::114w:::d903:::Language and Purpose:::engl114w:::engl114wd903:::engl 114w d903 language and purpose
+3661:_:ling:::408:::d100:::Field Linguistics:::ling408:::ling408d100:::ling 408 d100 field linguistics
+3662:_:evsc:::380:::d100:::Practicum I:::evsc380:::evsc380d100:::evsc 380 d100 practicum i
+3663:_:evsc:::380:::d200:::Practicum I:::evsc380:::evsc380d200:::evsc 380 d200 practicum i
+3664:_:evsc:::380:::i100:::Practicum I:::evsc380:::evsc380i100:::evsc 380 i100 practicum i
+3665:_:ling:::898:::g100:::MA Thesis:::ling898:::ling898g100:::ling 898 g100 ma thesis
+3666:_:ling:::898:::g200:::MA Thesis:::ling898:::ling898g200:::ling 898 g200 ma thesis
+3667:_:ling:::898:::g300:::MA Thesis:::ling898:::ling898g300:::ling 898 g300 ma thesis
+3668:_:ling:::898:::g400:::MA Thesis:::ling898:::ling898g400:::ling 898 g400 ma thesis
+3669:_:ling:::898:::g500:::MA Thesis:::ling898:::ling898g500:::ling 898 g500 ma thesis
+3670:_:ling:::898:::g600:::MA Thesis:::ling898:::ling898g600:::ling 898 g600 ma thesis
+3671:_:ling:::898:::g700:::MA Thesis:::ling898:::ling898g700:::ling 898 g700 ma thesis
+3672:_:ling:::898:::g800:::MA Thesis:::ling898:::ling898g800:::ling 898 g800 ma thesis
+3673:_:ling:::898:::g900:::MA Thesis:::ling898:::ling898g900:::ling 898 g900 ma thesis
+3674:_:bus:::420:::d100:::Advanced Accounting:::bus420:::bus420d100:::bus 420 d100 advanced accounting
+3675:_:bus:::420:::d200:::Advanced Accounting:::bus420:::bus420d200:::bus 420 d200 advanced accounting
+3676:_:bus:::420:::e100:::Advanced Accounting:::bus420:::bus420e100:::bus 420 e100 advanced accounting
+3677:_:engl:::441:::d100:::Directed Studies A:::engl441:::engl441d100:::engl 441 d100 directed studies a
+3678:_:ling:::899:::g100:::PhD Thesis:::ling899:::ling899g100:::ling 899 g100 phd thesis
+3679:_:ling:::899:::g200:::PhD Thesis:::ling899:::ling899g200:::ling 899 g200 phd thesis
+3680:_:ling:::899:::g300:::PhD Thesis:::ling899:::ling899g300:::ling 899 g300 phd thesis
+3681:_:ling:::899:::g400:::PhD Thesis:::ling899:::ling899g400:::ling 899 g400 phd thesis
+3682:_:ling:::899:::g500:::PhD Thesis:::ling899:::ling899g500:::ling 899 g500 phd thesis
+3683:_:ling:::899:::g600:::PhD Thesis:::ling899:::ling899g600:::ling 899 g600 phd thesis
+3684:_:ling:::899:::g700:::PhD Thesis:::ling899:::ling899g700:::ling 899 g700 phd thesis
+3685:_:evsc:::381:::d100:::Practicum II:::evsc381:::evsc381d100:::evsc 381 d100 practicum ii
+3686:_:evsc:::381:::d200:::Practicum II:::evsc381:::evsc381d200:::evsc 381 d200 practicum ii
+3687:_:evsc:::381:::i100:::Practicum II:::evsc381:::evsc381i100:::evsc 381 i100 practicum ii
+3688:_:geog:::432:::d100:::Problems in Environmental History:::geog432:::geog432d100:::geog 432 d100 problems in environmental history
+3689:_:bus:::603:::g100:::Structure and Change in Organizations:::bus603:::bus603g100:::bus 603 g100 structure and change in organizations
+3690:_:fren:::998:::g100:::Extended Essays:::fren998:::fren998g100:::fren 998 g100 extended essays
+3691:_:fren:::896:::g100:::Thesis Proposal:::fren896:::fren896g100:::fren 896 g100 thesis proposal
+3692:_:mbb:::324:::d100:::Protein Biochemistry:::mbb324:::mbb324d100:::mbb 324 d100 protein biochemistry
+3693:_:mbb:::324:::d101:::Protein Biochemistry:::mbb324:::mbb324d101:::mbb 324 d101 protein biochemistry
+3694:_:mbb:::324:::d102:::Protein Biochemistry:::mbb324:::mbb324d102:::mbb 324 d102 protein biochemistry
+3695:_:mbb:::324:::d103:::Protein Biochemistry:::mbb324:::mbb324d103:::mbb 324 d103 protein biochemistry
+3696:_:mbb:::324:::d104:::Protein Biochemistry:::mbb324:::mbb324d104:::mbb 324 d104 protein biochemistry
