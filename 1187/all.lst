@@ -788,7 +788,7 @@
 788:_:ins:::893:::g100:::Directed Readings:::ins893:::ins893g100:::ins 893 g100 directed readings
 789:_:ins:::893:::g200:::Directed Readings:::ins893:::ins893g200:::ins 893 g200 directed readings
 790:_:psyc:::993:::g100:::Research Comprehensive Examination 3:::psyc993:::psyc993g100:::psyc 993 g100 research comprehensive examination 3
-791:_:chin:::300:::d100:::STT-Mandarin Chinese V:::chin300:::chin300d100:::chin 300 d100 stt-mandarin chinese v
+791:_:chin:::300:::d100:::STT-Mandarin Chinese V (Inactive):::chin300:::chin300d100:::chin 300 d100 stt-mandarin chinese v (inactive)
 792:_:edpr:::536:::g100:::Special Topics:::edpr536:::edpr536g100:::edpr 536 g100 special topics
 793:_:edpr:::536:::g200:::Special Topics:::edpr536:::edpr536g200:::edpr 536 g200 special topics
 794:_:cmns:::387:::d100:::Special Topics in Communication:::cmns387:::cmns387d100:::cmns 387 d100 special topics in communication
@@ -3390,7 +3390,7 @@
 3390:_:edpr:::547:::g100:::Advanced Field Studies in Curriculum Development I:::edpr547:::edpr547g100:::edpr 547 g100 advanced field studies in curriculum development i
 3391:_:ling:::893:::g100:::First Nations Linguistics MA Project:::ling893:::ling893g100:::ling 893 g100 first nations linguistics ma project
 3392:_:ling:::893:::g200:::First Nations Linguistics MA Project:::ling893:::ling893g200:::ling 893 g200 first nations linguistics ma project
-3393:_:fass:::120:::p100:::STT - Learning Strategies for Academic Success:::fass120:::fass120p100:::fass 120 p100 stt - learning strategies for academic success
+3393:_:fass:::120:::p100:::STT - Learning Strategies for Academic Success (Inactive):::fass120:::fass120p100:::fass 120 p100 stt - learning strategies for academic success (inactive)
 3394:_:math:::899:::g100:::PhD Thesis:::math899:::math899g100:::math 899 g100 phd thesis
 3395:_:math:::899:::g200:::PhD Thesis:::math899:::math899g200:::math 899 g200 phd thesis
 3396:_:math:::895:::g100:::Reading:::math895:::math895g100:::math 895 g100 reading
@@ -3409,9 +3409,9 @@
 3409:_:easc:::107:::d100:::Economic Geological Resources:::easc107:::easc107d100:::easc 107 d100 economic geological resources
 3410:_:bus:::705:::g100:::Financial/Managerial Accounting:::bus705:::bus705g100:::bus 705 g100 financial/managerial accounting
 3411:_:cmpt:::470:::e100:::Web-based Information Systems:::cmpt470:::cmpt470e100:::cmpt 470 e100 web-based information systems
-3412:_:fan:::x91:::p100:::STT-Foundations of Analytical/Quantitative Reasoning I:::fanx91:::fanx91p100:::fan x91 p100 stt-foundations of analytical/quantitative reasoning i
-3413:_:fan:::x91:::p101:::STT-Foundations of Analytical/Quantitative Reasoning I:::fanx91:::fanx91p101:::fan x91 p101 stt-foundations of analytical/quantitative reasoning i
-3414:_:fan:::x91:::rql:::STT-Foundations of Analytical/Quantitative Reasoning I:::fanx91:::fanx91rql:::fan x91 rql stt-foundations of analytical/quantitative reasoning i
+3412:_:fan:::x91:::p100:::STT-Foundations of Analytical/Quantitative Reasoning I (Inactive):::fanx91:::fanx91p100:::fan x91 p100 stt-foundations of analytical/quantitative reasoning i (inactive)
+3413:_:fan:::x91:::p101:::STT-Foundations of Analytical/Quantitative Reasoning I (Inactive):::fanx91:::fanx91p101:::fan x91 p101 stt-foundations of analytical/quantitative reasoning i (inactive)
+3414:_:fan:::x91:::rql:::STT-Foundations of Analytical/Quantitative Reasoning I (Inactive):::fanx91:::fanx91rql:::fan x91 rql stt-foundations of analytical/quantitative reasoning i (inactive)
 3415:_:hsci:::890:::g100:::Special Topics in Health Sciences:::hsci890:::hsci890g100:::hsci 890 g100 special topics in health sciences
 3416:_:edpr:::527:::g100:::Special Topics:::edpr527:::edpr527g100:::edpr 527 g100 special topics
 3417:_:edpr:::527:::g200:::Special Topics:::edpr527:::edpr527g200:::edpr 527 g200 special topics
@@ -3506,9 +3506,9 @@
 3506:_:hist:::899:::g200:::PhD Thesis:::hist899:::hist899g200:::hist 899 g200 phd thesis
 3507:_:nusc:::482:::d100:::Directed Study in Advanced Topics in Nuclear:::nusc482:::nusc482d100:::nusc 482 d100 directed study in advanced topics in nuclear
 3508:_:nusc:::482:::d200:::Directed Study in Advanced Topics in Nuclear:::nusc482:::nusc482d200:::nusc 482 d200 directed study in advanced topics in nuclear
-3509:_:rem:::202w:::d100:::STT - Technical Communication for Resource Professionals:::rem202w:::rem202wd100:::rem 202w d100 stt - technical communication for resource professionals
-3510:_:rem:::202w:::d101:::STT - Technical Communication for Resource Professionals:::rem202w:::rem202wd101:::rem 202w d101 stt - technical communication for resource professionals
-3511:_:rem:::202w:::d102:::STT - Technical Communication for Resource Professionals:::rem202w:::rem202wd102:::rem 202w d102 stt - technical communication for resource professionals
+3509:_:rem:::202w:::d100:::STT - Technical Communication for Resource Professionals (Inactive):::rem202w:::rem202wd100:::rem 202w d100 stt - technical communication for resource professionals (inactive)
+3510:_:rem:::202w:::d101:::STT - Technical Communication for Resource Professionals (Inactive):::rem202w:::rem202wd101:::rem 202w d101 stt - technical communication for resource professionals (inactive)
+3511:_:rem:::202w:::d102:::STT - Technical Communication for Resource Professionals (Inactive):::rem202w:::rem202wd102:::rem 202w d102 stt - technical communication for resource professionals (inactive)
 3512:_:bus:::494:::d100:::Selected Topics in Business Administration:::bus494:::bus494d100:::bus 494 d100 selected topics in business administration
 3513:_:educ:::400:::d001:::Foundations of Education and Schooling:::educ400:::educ400d001:::educ 400 d001 foundations of education and schooling
 3514:_:educ:::400:::d002:::Foundations of Education and Schooling:::educ400:::educ400d002:::educ 400 d002 foundations of education and schooling
@@ -5635,90 +5635,90 @@
 5635:_:hist:::224:::d104:::Europe from the French Revolution to the First World War:::hist224:::hist224d104:::hist 224 d104 europe from the french revolution to the first world war
 5636:_:bus:::487:::d100:::Organizational Development and Change Management:::bus487:::bus487d100:::bus 487 d100 organizational development and change management
 5637:_:educ:::835:::g021:::Graduate Study in Second Language Education:::educ835:::educ835g021:::educ 835 g021 graduate study in second language education
-5638:_:pol:::359:::f100:::Selected Topics in Governance:::pol359:::pol359f100:::pol 359 f100 selected topics in governance
-5639:_:ca:::350:::d100:::Acting V: Text in Dramatic Forms:::ca350:::ca350d100:::ca 350 d100 acting v: text in dramatic forms
-5640:_:hist:::367:::d100:::History of the People's Republic of China:::hist367:::hist367d100:::hist 367 d100 history of the people's republic of china
-5641:_:hist:::367:::d101:::History of the People's Republic of China:::hist367:::hist367d101:::hist 367 d101 history of the people's republic of china
-5642:_:hist:::367:::d102:::History of the People's Republic of China:::hist367:::hist367d102:::hist 367 d102 history of the people's republic of china
-5643:_:hist:::367:::d103:::History of the People's Republic of China:::hist367:::hist367d103:::hist 367 d103 history of the people's republic of china
-5644:_:hist:::425w:::d100:::Gender and History:::hist425w:::hist425wd100:::hist 425w d100 gender and history
-5645:_:fnst:::212:::d100:::Indigenous Perceptions of Landscape:::fnst212:::fnst212d100:::fnst 212 d100 indigenous perceptions of landscape
-5646:_:hs:::307:::d100:::Selected Topics in Hellenic Studies:::hs307:::hs307d100:::hs 307 d100 selected topics in hellenic studies
-5647:_:cmpt:::896:::g100:::MSc Course Option Portfolio:::cmpt896:::cmpt896g100:::cmpt 896 g100 msc course option portfolio
-5648:_:hs:::280:::d100:::War in the Balkans and the Making of the 21st Century:::hs280:::hs280d100:::hs 280 d100 war in the balkans and the making of the 21st century
-5649:_:hs:::280:::d101:::War in the Balkans and the Making of the 21st Century:::hs280:::hs280d101:::hs 280 d101 war in the balkans and the making of the 21st century
-5650:_:hs:::280:::d102:::War in the Balkans and the Making of the 21st Century:::hs280:::hs280d102:::hs 280 d102 war in the balkans and the making of the 21st century
-5651:_:is:::820:::g100:::Directed Readings:::is820:::is820g100:::is 820 g100 directed readings
-5652:_:is:::820:::g200:::Directed Readings:::is820:::is820g200:::is 820 g200 directed readings
-5653:_:crim:::870:::g100:::Directed Readings:::crim870:::crim870g100:::crim 870 g100 directed readings
-5654:_:crim:::870:::g200:::Directed Readings:::crim870:::crim870g200:::crim 870 g200 directed readings
-5655:_:hist:::445:::d100:::Problems in Modern Italian History:::hist445:::hist445d100:::hist 445 d100 problems in modern italian history
-5656:_:hist:::254:::d100:::China to 1800:::hist254:::hist254d100:::hist 254 d100 china to 1800
-5657:_:hist:::254:::d101:::China to 1800:::hist254:::hist254d101:::hist 254 d101 china to 1800
-5658:_:hist:::254:::d102:::China to 1800:::hist254:::hist254d102:::hist 254 d102 china to 1800
-5659:_:hist:::254:::d103:::China to 1800:::hist254:::hist254d103:::hist 254 d103 china to 1800
-5660:_:hist:::254:::d104:::China to 1800:::hist254:::hist254d104:::hist 254 d104 china to 1800
-5661:_:hist:::468w:::d100:::Problems in the History of Religion:::hist468w:::hist468wd100:::hist 468w d100 problems in the history of religion
-5662:_:hum:::803:::g100:::MA Thesis:::hum803:::hum803g100:::hum 803 g100 ma thesis
-5663:_:stat:::880:::g100:::Practicum I:::stat880:::stat880g100:::stat 880 g100 practicum i
-5664:_:stat:::880:::g200:::Practicum I:::stat880:::stat880g200:::stat 880 g200 practicum i
-5665:_:stat:::880:::i100:::Practicum I:::stat880:::stat880i100:::stat 880 i100 practicum i
-5666:_:stat:::812:::g100:::Statistical Consulting II:::stat812:::stat812g100:::stat 812 g100 statistical consulting ii
-5667:_:stat:::812:::g200:::Statistical Consulting II:::stat812:::stat812g200:::stat 812 g200 statistical consulting ii
-5668:_:stat:::811:::g200:::Statistical Consulting I:::stat811:::stat811g200:::stat 811 g200 statistical consulting i
-5669:_:hum:::804:::g100:::Directed Readings:::hum804:::hum804g100:::hum 804 g100 directed readings
-5670:_:bus:::870:::g100:::Final Project:::bus870:::bus870g100:::bus 870 g100 final project
-5671:_:bus:::870:::g200:::Final Project:::bus870:::bus870g200:::bus 870 g200 final project
-5672:_:cmns:::362:::d100:::Evaluation Methods for Applied Communication Research:::cmns362:::cmns362d100:::cmns 362 d100 evaluation methods for applied communication research
-5673:_:cmns:::362:::d101:::Evaluation Methods for Applied Communication Research:::cmns362:::cmns362d101:::cmns 362 d101 evaluation methods for applied communication research
-5674:_:cmns:::362:::d102:::Evaluation Methods for Applied Communication Research:::cmns362:::cmns362d102:::cmns 362 d102 evaluation methods for applied communication research
-5675:_:bisc:::298:::d100:::Introduction to Undergraduate Research in Biological Sciences:::bisc298:::bisc298d100:::bisc 298 d100 introduction to undergraduate research in biological sciences
-5676:_:stat:::285:::d100:::Intermediate Probability and Statistics:::stat285:::stat285d100:::stat 285 d100 intermediate probability and statistics
-5677:_:stat:::285:::d101:::Intermediate Probability and Statistics:::stat285:::stat285d101:::stat 285 d101 intermediate probability and statistics
-5678:_:stat:::285:::d102:::Intermediate Probability and Statistics:::stat285:::stat285d102:::stat 285 d102 intermediate probability and statistics
-5679:_:stat:::285:::d103:::Intermediate Probability and Statistics:::stat285:::stat285d103:::stat 285 d103 intermediate probability and statistics
-5680:_:cmpt:::732:::g100:::Programming for Big Data 1:::cmpt732:::cmpt732g100:::cmpt 732 g100 programming for big data 1
-5681:_:cmpt:::732:::g101:::Programming for Big Data 1:::cmpt732:::cmpt732g101:::cmpt 732 g101 programming for big data 1
-5682:_:cmpt:::732:::g102:::Programming for Big Data 1:::cmpt732:::cmpt732g102:::cmpt 732 g102 programming for big data 1
-5683:_:cmpt:::732:::g103:::Programming for Big Data 1:::cmpt732:::cmpt732g103:::cmpt 732 g103 programming for big data 1
-5684:_:stat:::270:::c100:::Introduction to Probability and Statistics:::stat270:::stat270c100:::stat 270 c100 introduction to probability and statistics
-5685:_:stat:::270:::d100:::Introduction to Probability and Statistics:::stat270:::stat270d100:::stat 270 d100 introduction to probability and statistics
-5686:_:stat:::270:::op01:::Introduction to Probability and Statistics:::stat270:::stat270op01:::stat 270 op01 introduction to probability and statistics
-5687:_:stat:::201:::c100:::Statistics for the Life Sciences:::stat201:::stat201c100:::stat 201 c100 statistics for the life sciences
-5688:_:stat:::201:::d100:::Statistics for the Life Sciences:::stat201:::stat201d100:::stat 201 d100 statistics for the life sciences
-5689:_:stat:::201:::op01:::Statistics for the Life Sciences:::stat201:::stat201op01:::stat 201 op01 statistics for the life sciences
-5690:_:cmpt:::127:::d100:::Computing Laboratory:::cmpt127:::cmpt127d100:::cmpt 127 d100 computing laboratory
-5691:_:cmpt:::127:::d200:::Computing Laboratory:::cmpt127:::cmpt127d200:::cmpt 127 d200 computing laboratory
-5692:_:cmpt:::127:::d300:::Computing Laboratory:::cmpt127:::cmpt127d300:::cmpt 127 d300 computing laboratory
-5693:_:stat:::203:::c100:::Introduction to Statistics for the Social Sciences:::stat203:::stat203c100:::stat 203 c100 introduction to statistics for the social sciences
-5694:_:stat:::203:::d900:::Introduction to Statistics for the Social Sciences:::stat203:::stat203d900:::stat 203 d900 introduction to statistics for the social sciences
-5695:_:stat:::203:::op09:::Introduction to Statistics for the Social Sciences:::stat203:::stat203op09:::stat 203 op09 introduction to statistics for the social sciences
-5696:_:cmpt:::307:::d100:::Data Structures and Algorithms:::cmpt307:::cmpt307d100:::cmpt 307 d100 data structures and algorithms
-5697:_:cmpt:::307:::d200:::Data Structures and Algorithms:::cmpt307:::cmpt307d200:::cmpt 307 d200 data structures and algorithms
-5698:_:psyc:::899:::g100:::PhD Thesis:::psyc899:::psyc899g100:::psyc 899 g100 phd thesis
-5699:_:stat:::100:::d100:::Chance and Data Analysis:::stat100:::stat100d100:::stat 100 d100 chance and data analysis
-5700:_:stat:::100:::d900:::Chance and Data Analysis:::stat100:::stat100d900:::stat 100 d900 chance and data analysis
-5701:_:stat:::100:::op01:::Chance and Data Analysis:::stat100:::stat100op01:::stat 100 op01 chance and data analysis
-5702:_:stat:::100:::op09:::Chance and Data Analysis:::stat100:::stat100op09:::stat 100 op09 chance and data analysis
-5703:_:psyc:::897:::g100:::Research Project/Law&Psyc/Forensic Psyc:::psyc897:::psyc897g100:::psyc 897 g100 research project/law&psyc/forensic psyc
-5704:_:psyc:::898:::g100:::MA Thesis:::psyc898:::psyc898g100:::psyc 898 g100 ma thesis
-5705:_:cmns:::326:::d100:::Applied Media Workshop: On the Hill:::cmns326:::cmns326d100:::cmns 326 d100 applied media workshop: on the hill
-5706:_:cmns:::326:::d101:::Applied Media Workshop: On the Hill:::cmns326:::cmns326d101:::cmns 326 d101 applied media workshop: on the hill
-5707:_:ca:::335:::d100:::Introduction to Film Theory:::ca335:::ca335d100:::ca 335 d100 introduction to film theory
-5708:_:bus:::468:::d100:::Managing Information Technology for Business Value:::bus468:::bus468d100:::bus 468 d100 managing information technology for business value
-5709:_:bus:::468:::d200:::Managing Information Technology for Business Value:::bus468:::bus468d200:::bus 468 d200 managing information technology for business value
-5710:_:bus:::466:::d100:::Web-Enabled Business:::bus466:::bus466d100:::bus 466 d100 web-enabled business
-5711:_:bus:::466:::d200:::Web-Enabled Business:::bus466:::bus466d200:::bus 466 d200 web-enabled business
-5712:_:bus:::464:::d100:::Business Data Management:::bus464:::bus464d100:::bus 464 d100 business data management
-5713:_:bus:::464:::d200:::Business Data Management:::bus464:::bus464d200:::bus 464 d200 business data management
-5714:_:bus:::462:::d100:::Business Analytics:::bus462:::bus462d100:::bus 462 d100 business analytics
-5715:_:bus:::462:::d200:::Business Analytics:::bus462:::bus462d200:::bus 462 d200 business analytics
-5716:_:bus:::449:::d100:::Ethical Issues in Marketing:::bus449:::bus449d100:::bus 449 d100 ethical issues in marketing
-5717:_:hist:::204:::d100:::The Social History of Canada:::hist204:::hist204d100:::hist 204 d100 the social history of canada
-5718:_:hist:::204:::d102:::The Social History of Canada:::hist204:::hist204d102:::hist 204 d102 the social history of canada
-5719:_:hist:::204:::d103:::The Social History of Canada:::hist204:::hist204d103:::hist 204 d103 the social history of canada
-5720:_:hist:::204:::d104:::The Social History of Canada:::hist204:::hist204d104:::hist 204 d104 the social history of canada
-5721:_:psyc:::890:::g100:::Practicum in Clinical Forensic Psychology:::psyc890:::psyc890g100:::psyc 890 g100 practicum in clinical forensic psychology
+5638:_:ca:::350:::d100:::Acting V: Text in Dramatic Forms:::ca350:::ca350d100:::ca 350 d100 acting v: text in dramatic forms
+5639:_:hist:::367:::d100:::History of the People's Republic of China:::hist367:::hist367d100:::hist 367 d100 history of the people's republic of china
+5640:_:hist:::367:::d101:::History of the People's Republic of China:::hist367:::hist367d101:::hist 367 d101 history of the people's republic of china
+5641:_:hist:::367:::d102:::History of the People's Republic of China:::hist367:::hist367d102:::hist 367 d102 history of the people's republic of china
+5642:_:hist:::367:::d103:::History of the People's Republic of China:::hist367:::hist367d103:::hist 367 d103 history of the people's republic of china
+5643:_:hist:::425w:::d100:::Gender and History:::hist425w:::hist425wd100:::hist 425w d100 gender and history
+5644:_:fnst:::212:::d100:::Indigenous Perceptions of Landscape:::fnst212:::fnst212d100:::fnst 212 d100 indigenous perceptions of landscape
+5645:_:hs:::307:::d100:::Selected Topics in Hellenic Studies:::hs307:::hs307d100:::hs 307 d100 selected topics in hellenic studies
+5646:_:cmpt:::896:::g100:::MSc Course Option Portfolio:::cmpt896:::cmpt896g100:::cmpt 896 g100 msc course option portfolio
+5647:_:hs:::280:::d100:::War in the Balkans and the Making of the 21st Century:::hs280:::hs280d100:::hs 280 d100 war in the balkans and the making of the 21st century
+5648:_:hs:::280:::d101:::War in the Balkans and the Making of the 21st Century:::hs280:::hs280d101:::hs 280 d101 war in the balkans and the making of the 21st century
+5649:_:hs:::280:::d102:::War in the Balkans and the Making of the 21st Century:::hs280:::hs280d102:::hs 280 d102 war in the balkans and the making of the 21st century
+5650:_:is:::820:::g100:::Directed Readings:::is820:::is820g100:::is 820 g100 directed readings
+5651:_:is:::820:::g200:::Directed Readings:::is820:::is820g200:::is 820 g200 directed readings
+5652:_:crim:::870:::g100:::Directed Readings:::crim870:::crim870g100:::crim 870 g100 directed readings
+5653:_:crim:::870:::g200:::Directed Readings:::crim870:::crim870g200:::crim 870 g200 directed readings
+5654:_:hist:::445:::d100:::Problems in Modern Italian History:::hist445:::hist445d100:::hist 445 d100 problems in modern italian history
+5655:_:hist:::254:::d100:::China to 1800:::hist254:::hist254d100:::hist 254 d100 china to 1800
+5656:_:hist:::254:::d101:::China to 1800:::hist254:::hist254d101:::hist 254 d101 china to 1800
+5657:_:hist:::254:::d102:::China to 1800:::hist254:::hist254d102:::hist 254 d102 china to 1800
+5658:_:hist:::254:::d103:::China to 1800:::hist254:::hist254d103:::hist 254 d103 china to 1800
+5659:_:hist:::254:::d104:::China to 1800:::hist254:::hist254d104:::hist 254 d104 china to 1800
+5660:_:hist:::468w:::d100:::Problems in the History of Religion:::hist468w:::hist468wd100:::hist 468w d100 problems in the history of religion
+5661:_:hum:::803:::g100:::MA Thesis:::hum803:::hum803g100:::hum 803 g100 ma thesis
+5662:_:stat:::880:::g100:::Practicum I:::stat880:::stat880g100:::stat 880 g100 practicum i
+5663:_:stat:::880:::g200:::Practicum I:::stat880:::stat880g200:::stat 880 g200 practicum i
+5664:_:stat:::880:::i100:::Practicum I:::stat880:::stat880i100:::stat 880 i100 practicum i
+5665:_:stat:::812:::g100:::Statistical Consulting II:::stat812:::stat812g100:::stat 812 g100 statistical consulting ii
+5666:_:stat:::812:::g200:::Statistical Consulting II:::stat812:::stat812g200:::stat 812 g200 statistical consulting ii
+5667:_:stat:::811:::g200:::Statistical Consulting I:::stat811:::stat811g200:::stat 811 g200 statistical consulting i
+5668:_:hum:::804:::g100:::Directed Readings:::hum804:::hum804g100:::hum 804 g100 directed readings
+5669:_:bus:::870:::g100:::Final Project:::bus870:::bus870g100:::bus 870 g100 final project
+5670:_:bus:::870:::g200:::Final Project:::bus870:::bus870g200:::bus 870 g200 final project
+5671:_:cmns:::362:::d100:::Evaluation Methods for Applied Communication Research:::cmns362:::cmns362d100:::cmns 362 d100 evaluation methods for applied communication research
+5672:_:cmns:::362:::d101:::Evaluation Methods for Applied Communication Research:::cmns362:::cmns362d101:::cmns 362 d101 evaluation methods for applied communication research
+5673:_:cmns:::362:::d102:::Evaluation Methods for Applied Communication Research:::cmns362:::cmns362d102:::cmns 362 d102 evaluation methods for applied communication research
+5674:_:bisc:::298:::d100:::Introduction to Undergraduate Research in Biological Sciences:::bisc298:::bisc298d100:::bisc 298 d100 introduction to undergraduate research in biological sciences
+5675:_:stat:::285:::d100:::Intermediate Probability and Statistics:::stat285:::stat285d100:::stat 285 d100 intermediate probability and statistics
+5676:_:stat:::285:::d101:::Intermediate Probability and Statistics:::stat285:::stat285d101:::stat 285 d101 intermediate probability and statistics
+5677:_:stat:::285:::d102:::Intermediate Probability and Statistics:::stat285:::stat285d102:::stat 285 d102 intermediate probability and statistics
+5678:_:stat:::285:::d103:::Intermediate Probability and Statistics:::stat285:::stat285d103:::stat 285 d103 intermediate probability and statistics
+5679:_:cmpt:::732:::g100:::Programming for Big Data 1:::cmpt732:::cmpt732g100:::cmpt 732 g100 programming for big data 1
+5680:_:cmpt:::732:::g101:::Programming for Big Data 1:::cmpt732:::cmpt732g101:::cmpt 732 g101 programming for big data 1
+5681:_:cmpt:::732:::g102:::Programming for Big Data 1:::cmpt732:::cmpt732g102:::cmpt 732 g102 programming for big data 1
+5682:_:cmpt:::732:::g103:::Programming for Big Data 1:::cmpt732:::cmpt732g103:::cmpt 732 g103 programming for big data 1
+5683:_:stat:::270:::c100:::Introduction to Probability and Statistics:::stat270:::stat270c100:::stat 270 c100 introduction to probability and statistics
+5684:_:stat:::270:::d100:::Introduction to Probability and Statistics:::stat270:::stat270d100:::stat 270 d100 introduction to probability and statistics
+5685:_:stat:::270:::op01:::Introduction to Probability and Statistics:::stat270:::stat270op01:::stat 270 op01 introduction to probability and statistics
+5686:_:stat:::201:::c100:::Statistics for the Life Sciences:::stat201:::stat201c100:::stat 201 c100 statistics for the life sciences
+5687:_:stat:::201:::d100:::Statistics for the Life Sciences:::stat201:::stat201d100:::stat 201 d100 statistics for the life sciences
+5688:_:stat:::201:::op01:::Statistics for the Life Sciences:::stat201:::stat201op01:::stat 201 op01 statistics for the life sciences
+5689:_:cmpt:::127:::d100:::Computing Laboratory:::cmpt127:::cmpt127d100:::cmpt 127 d100 computing laboratory
+5690:_:cmpt:::127:::d200:::Computing Laboratory:::cmpt127:::cmpt127d200:::cmpt 127 d200 computing laboratory
+5691:_:cmpt:::127:::d300:::Computing Laboratory:::cmpt127:::cmpt127d300:::cmpt 127 d300 computing laboratory
+5692:_:stat:::203:::c100:::Introduction to Statistics for the Social Sciences:::stat203:::stat203c100:::stat 203 c100 introduction to statistics for the social sciences
+5693:_:stat:::203:::d900:::Introduction to Statistics for the Social Sciences:::stat203:::stat203d900:::stat 203 d900 introduction to statistics for the social sciences
+5694:_:stat:::203:::op09:::Introduction to Statistics for the Social Sciences:::stat203:::stat203op09:::stat 203 op09 introduction to statistics for the social sciences
+5695:_:cmpt:::307:::d100:::Data Structures and Algorithms:::cmpt307:::cmpt307d100:::cmpt 307 d100 data structures and algorithms
+5696:_:cmpt:::307:::d200:::Data Structures and Algorithms:::cmpt307:::cmpt307d200:::cmpt 307 d200 data structures and algorithms
+5697:_:psyc:::899:::g100:::PhD Thesis:::psyc899:::psyc899g100:::psyc 899 g100 phd thesis
+5698:_:stat:::100:::d100:::Chance and Data Analysis:::stat100:::stat100d100:::stat 100 d100 chance and data analysis
+5699:_:stat:::100:::d900:::Chance and Data Analysis:::stat100:::stat100d900:::stat 100 d900 chance and data analysis
+5700:_:stat:::100:::op01:::Chance and Data Analysis:::stat100:::stat100op01:::stat 100 op01 chance and data analysis
+5701:_:stat:::100:::op09:::Chance and Data Analysis:::stat100:::stat100op09:::stat 100 op09 chance and data analysis
+5702:_:psyc:::897:::g100:::Research Project/Law&Psyc/Forensic Psyc:::psyc897:::psyc897g100:::psyc 897 g100 research project/law&psyc/forensic psyc
+5703:_:psyc:::898:::g100:::MA Thesis:::psyc898:::psyc898g100:::psyc 898 g100 ma thesis
+5704:_:cmns:::326:::d100:::Applied Media Workshop: On the Hill:::cmns326:::cmns326d100:::cmns 326 d100 applied media workshop: on the hill
+5705:_:cmns:::326:::d101:::Applied Media Workshop: On the Hill:::cmns326:::cmns326d101:::cmns 326 d101 applied media workshop: on the hill
+5706:_:ca:::335:::d100:::Introduction to Film Theory:::ca335:::ca335d100:::ca 335 d100 introduction to film theory
+5707:_:bus:::468:::d100:::Managing Information Technology for Business Value:::bus468:::bus468d100:::bus 468 d100 managing information technology for business value
+5708:_:bus:::468:::d200:::Managing Information Technology for Business Value:::bus468:::bus468d200:::bus 468 d200 managing information technology for business value
+5709:_:bus:::466:::d100:::Web-Enabled Business:::bus466:::bus466d100:::bus 466 d100 web-enabled business
+5710:_:bus:::466:::d200:::Web-Enabled Business:::bus466:::bus466d200:::bus 466 d200 web-enabled business
+5711:_:bus:::464:::d100:::Business Data Management:::bus464:::bus464d100:::bus 464 d100 business data management
+5712:_:bus:::464:::d200:::Business Data Management:::bus464:::bus464d200:::bus 464 d200 business data management
+5713:_:bus:::462:::d100:::Business Analytics:::bus462:::bus462d100:::bus 462 d100 business analytics
+5714:_:bus:::462:::d200:::Business Analytics:::bus462:::bus462d200:::bus 462 d200 business analytics
+5715:_:bus:::449:::d100:::Ethical Issues in Marketing:::bus449:::bus449d100:::bus 449 d100 ethical issues in marketing
+5716:_:hist:::204:::d100:::The Social History of Canada:::hist204:::hist204d100:::hist 204 d100 the social history of canada
+5717:_:hist:::204:::d102:::The Social History of Canada:::hist204:::hist204d102:::hist 204 d102 the social history of canada
+5718:_:hist:::204:::d103:::The Social History of Canada:::hist204:::hist204d103:::hist 204 d103 the social history of canada
+5719:_:hist:::204:::d104:::The Social History of Canada:::hist204:::hist204d104:::hist 204 d104 the social history of canada
+5720:_:psyc:::890:::g100:::Practicum in Clinical Forensic Psychology:::psyc890:::psyc890g100:::psyc 890 g100 practicum in clinical forensic psychology
+5721:_:psyc:::892:::g100:::Research/Policy Practicum in Law and Psychology:::psyc892:::psyc892g100:::psyc 892 g100 research/policy practicum in law and psychology
 5722:_:psyc:::886:::g100:::Internship:::psyc886:::psyc886g100:::psyc 886 g100 internship
 5723:_:cmpt:::300:::d100:::Operating Systems I:::cmpt300:::cmpt300d100:::cmpt 300 d100 operating systems i
 5724:_:cmpt:::300:::d200:::Operating Systems I:::cmpt300:::cmpt300d200:::cmpt 300 d200 operating systems i
