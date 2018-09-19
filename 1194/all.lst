@@ -1790,279 +1790,278 @@
 1790:_:cogs:::470:::d100:::Cognitive Science Practicum III:::cogs470:::cogs470d100:::cogs 470 d100 cognitive science practicum iii
 1791:_:cogs:::470:::d200:::Cognitive Science Practicum III:::cogs470:::cogs470d200:::cogs 470 d200 cognitive science practicum iii
 1792:_:cogs:::470:::i100:::Cognitive Science Practicum III:::cogs470:::cogs470i100:::cogs 470 i100 cognitive science practicum iii
-1793:_:ling:::821:::g100:::Phonetics:::ling821:::ling821g100:::ling 821 g100 phonetics
-1794:_:cmns:::428:::d100:::Media Analysis Project Group:::cmns428:::cmns428d100:::cmns 428 d100 media analysis project group
-1795:_:cmns:::428:::d200:::Media Analysis Project Group:::cmns428:::cmns428d200:::cmns 428 d200 media analysis project group
-1796:_:cmns:::428:::d300:::Media Analysis Project Group:::cmns428:::cmns428d300:::cmns 428 d300 media analysis project group
-1797:_:cogs:::370:::d100:::Cognitive Science Practicum I:::cogs370:::cogs370d100:::cogs 370 d100 cognitive science practicum i
-1798:_:cogs:::370:::d200:::Cognitive Science Practicum I:::cogs370:::cogs370d200:::cogs 370 d200 cognitive science practicum i
-1799:_:cogs:::370:::i100:::Cognitive Science Practicum I:::cogs370:::cogs370i100:::cogs 370 i100 cognitive science practicum i
-1800:_:math:::310:::d100:::Introduction to Ordinary Differential Equations:::math310:::math310d100:::math 310 d100 introduction to ordinary differential equations
-1801:_:math:::310:::d101:::Introduction to Ordinary Differential Equations:::math310:::math310d101:::math 310 d101 introduction to ordinary differential equations
-1802:_:math:::310:::d102:::Introduction to Ordinary Differential Equations:::math310:::math310d102:::math 310 d102 introduction to ordinary differential equations
-1803:_:math:::310:::d103:::Introduction to Ordinary Differential Equations:::math310:::math310d103:::math 310 d103 introduction to ordinary differential equations
-1804:_:math:::310:::d104:::Introduction to Ordinary Differential Equations:::math310:::math310d104:::math 310 d104 introduction to ordinary differential equations
-1805:_:math:::310:::d105:::Introduction to Ordinary Differential Equations:::math310:::math310d105:::math 310 d105 introduction to ordinary differential equations
-1806:_:math:::310:::d106:::Introduction to Ordinary Differential Equations:::math310:::math310d106:::math 310 d106 introduction to ordinary differential equations
-1807:_:math:::310:::d107:::Introduction to Ordinary Differential Equations:::math310:::math310d107:::math 310 d107 introduction to ordinary differential equations
-1808:_:math:::310:::d108:::Introduction to Ordinary Differential Equations:::math310:::math310d108:::math 310 d108 introduction to ordinary differential equations
-1809:_:math:::310:::d109:::Introduction to Ordinary Differential Equations:::math310:::math310d109:::math 310 d109 introduction to ordinary differential equations
-1810:_:cogs:::371:::d100:::Cognitive Science Practicum II:::cogs371:::cogs371d100:::cogs 371 d100 cognitive science practicum ii
-1811:_:cogs:::371:::d200:::Cognitive Science Practicum II:::cogs371:::cogs371d200:::cogs 371 d200 cognitive science practicum ii
-1812:_:cogs:::371:::i100:::Cognitive Science Practicum II:::cogs371:::cogs371i100:::cogs 371 i100 cognitive science practicum ii
-1813:_:bus:::471:::d100:::Strategic Decision Making:::bus471:::bus471d100:::bus 471 d100 strategic decision making
-1814:_:chem:::406:::d100:::Practicum III:::chem406:::chem406d100:::chem 406 d100 practicum iii
-1815:_:chem:::406:::d200:::Practicum III:::chem406:::chem406d200:::chem 406 d200 practicum iii
-1816:_:chem:::408:::d100:::Practicum V:::chem408:::chem408d100:::chem 408 d100 practicum v
-1817:_:chem:::408:::d200:::Practicum V:::chem408:::chem408d200:::chem 408 d200 practicum v
-1818:_:chem:::407:::d100:::Practicum IV:::chem407:::chem407d100:::chem 407 d100 practicum iv
-1819:_:chem:::407:::d200:::Practicum IV:::chem407:::chem407d200:::chem 407 d200 practicum iv
-1820:_:mse:::486:::d100:::Directed Studies in Mechatronic Systems Engineering:::mse486:::mse486d100:::mse 486 d100 directed studies in mechatronic systems engineering
-1821:_:mse:::486:::d200:::Directed Studies in Mechatronic Systems Engineering:::mse486:::mse486d200:::mse 486 d200 directed studies in mechatronic systems engineering
-1822:_:mse:::486:::d300:::Directed Studies in Mechatronic Systems Engineering:::mse486:::mse486d300:::mse 486 d300 directed studies in mechatronic systems engineering
-1823:_:mse:::487:::d100:::Directed Studies in Mechatronic Systems Engineering:::mse487:::mse487d100:::mse 487 d100 directed studies in mechatronic systems engineering
-1824:_:mse:::487:::d200:::Directed Studies in Mechatronic Systems Engineering:::mse487:::mse487d200:::mse 487 d200 directed studies in mechatronic systems engineering
-1825:_:mse:::487:::d300:::Directed Studies in Mechatronic Systems Engineering:::mse487:::mse487d300:::mse 487 d300 directed studies in mechatronic systems engineering
-1826:_:mse:::489:::d100:::Directed Studies in Mechatronic Systems Engineering:::mse489:::mse489d100:::mse 489 d100 directed studies in mechatronic systems engineering
-1827:_:mse:::489:::d200:::Directed Studies in Mechatronic Systems Engineering:::mse489:::mse489d200:::mse 489 d200 directed studies in mechatronic systems engineering
-1828:_:mse:::489:::d300:::Directed Studies in Mechatronic Systems Engineering:::mse489:::mse489d300:::mse 489 d300 directed studies in mechatronic systems engineering
-1829:_:mse:::489:::d400:::Directed Studies in Mechatronic Systems Engineering:::mse489:::mse489d400:::mse 489 d400 directed studies in mechatronic systems engineering
-1830:_:mse:::491:::d100:::Special Topic in Mechatronic Systems Engineering:::mse491:::mse491d100:::mse 491 d100 special topic in mechatronic systems engineering
-1831:_:hum:::101w:::d100:::Introduction to the Humanities:::hum101w:::hum101wd100:::hum 101w d100 introduction to the humanities
-1832:_:mse:::495:::d100:::Special Project Laboratory:::mse495:::mse495d100:::mse 495 d100 special project laboratory
-1833:_:mse:::495:::d200:::Special Project Laboratory:::mse495:::mse495d200:::mse 495 d200 special project laboratory
-1834:_:hum:::102w:::c100:::Classical Mythology:::hum102w:::hum102wc100:::hum 102w c100 classical mythology
-1835:_:hum:::102w:::j100:::Classical Mythology:::hum102w:::hum102wj100:::hum 102w j100 classical mythology
-1836:_:hsci:::485:::d100:::Senior Seminar in Mental Health and Addictions:::hsci485:::hsci485d100:::hsci 485 d100 senior seminar in mental health and addictions
-1837:_:hsci:::486:::d100:::Senior Seminar in Global Health:::hsci486:::hsci486d100:::hsci 486 d100 senior seminar in global health
-1838:_:math:::232:::d100:::Applied Linear Algebra:::math232:::math232d100:::math 232 d100 applied linear algebra
-1839:_:math:::232:::op01:::Applied Linear Algebra:::math232:::math232op01:::math 232 op01 applied linear algebra
-1840:_:stat:::337:::d100:::Job Practicum II:::stat337:::stat337d100:::stat 337 d100 job practicum ii
-1841:_:stat:::337:::d200:::Job Practicum II:::stat337:::stat337d200:::stat 337 d200 job practicum ii
-1842:_:stat:::337:::i100:::Job Practicum II:::stat337:::stat337i100:::stat 337 i100 job practicum ii
-1843:_:econ:::345:::d100:::International Finance:::econ345:::econ345d100:::econ 345 d100 international finance
-1844:_:econ:::345:::d101:::International Finance:::econ345:::econ345d101:::econ 345 d101 international finance
-1845:_:econ:::345:::d102:::International Finance:::econ345:::econ345d102:::econ 345 d102 international finance
-1846:_:econ:::345:::d103:::International Finance:::econ345:::econ345d103:::econ 345 d103 international finance
-1847:_:econ:::345:::d104:::International Finance:::econ345:::econ345d104:::econ 345 d104 international finance
-1848:_:econ:::345:::d105:::International Finance:::econ345:::econ345d105:::econ 345 d105 international finance
-1849:_:econ:::345:::d106:::International Finance:::econ345:::econ345d106:::econ 345 d106 international finance
-1850:_:econ:::345:::d107:::International Finance:::econ345:::econ345d107:::econ 345 d107 international finance
-1851:_:econ:::345:::d108:::International Finance:::econ345:::econ345d108:::econ 345 d108 international finance
-1852:_:econ:::345:::d109:::International Finance:::econ345:::econ345d109:::econ 345 d109 international finance
-1853:_:econ:::345:::d110:::International Finance:::econ345:::econ345d110:::econ 345 d110 international finance
-1854:_:stat:::336:::d100:::Job Practicum I:::stat336:::stat336d100:::stat 336 d100 job practicum i
-1855:_:stat:::336:::d200:::Job Practicum I:::stat336:::stat336d200:::stat 336 d200 job practicum i
-1856:_:stat:::336:::i100:::Job Practicum I:::stat336:::stat336i100:::stat 336 i100 job practicum i
-1857:_:bus:::640:::g100:::Managerial Accounting:::bus640:::bus640g100:::bus 640 g100 managerial accounting
-1858:_:iat:::487:::d100:::Directed Studies:::iat487:::iat487d100:::iat 487 d100 directed studies
-1859:_:iat:::487:::d200:::Directed Studies:::iat487:::iat487d200:::iat 487 d200 directed studies
-1860:_:iat:::487:::d300:::Directed Studies:::iat487:::iat487d300:::iat 487 d300 directed studies
-1861:_:iat:::487:::d400:::Directed Studies:::iat487:::iat487d400:::iat 487 d400 directed studies
-1862:_:ling:::309w:::d100:::Sociolinguistics:::ling309w:::ling309wd100:::ling 309w d100 sociolinguistics
-1863:_:iat:::486:::d100:::Directed Studies:::iat486:::iat486d100:::iat 486 d100 directed studies
-1864:_:iat:::486:::d200:::Directed Studies:::iat486:::iat486d200:::iat 486 d200 directed studies
-1865:_:iat:::486:::d300:::Directed Studies:::iat486:::iat486d300:::iat 486 d300 directed studies
-1866:_:iat:::486:::d400:::Directed Studies:::iat486:::iat486d400:::iat 486 d400 directed studies
-1867:_:bus:::636:::g100:::Corporate Finance:::bus636:::bus636g100:::bus 636 g100 corporate finance
-1868:_:stat:::302:::c100:::Analysis of Experimental and Observational Data:::stat302:::stat302c100:::stat 302 c100 analysis of experimental and observational data
-1869:_:stat:::302:::d100:::Analysis of Experimental and Observational Data:::stat302:::stat302d100:::stat 302 d100 analysis of experimental and observational data
-1870:_:stat:::302:::op01:::Analysis of Experimental and Observational Data:::stat302:::stat302op01:::stat 302 op01 analysis of experimental and observational data
-1871:_:math:::336:::d100:::Job Practicum I:::math336:::math336d100:::math 336 d100 job practicum i
-1872:_:math:::336:::d200:::Job Practicum I:::math336:::math336d200:::math 336 d200 job practicum i
-1873:_:chem:::336:::la01:::Advanced Inorganic Chemistry Laboratory:::chem336:::chem336la01:::chem 336 la01 advanced inorganic chemistry laboratory
-1874:_:chem:::336:::la02:::Advanced Inorganic Chemistry Laboratory:::chem336:::chem336la02:::chem 336 la02 advanced inorganic chemistry laboratory
-1875:_:math:::342:::d100:::Elementary Number Theory:::math342:::math342d100:::math 342 d100 elementary number theory
-1876:_:math:::342:::d101:::Elementary Number Theory:::math342:::math342d101:::math 342 d101 elementary number theory
-1877:_:math:::342:::d102:::Elementary Number Theory:::math342:::math342d102:::math 342 d102 elementary number theory
-1878:_:math:::342:::d103:::Elementary Number Theory:::math342:::math342d103:::math 342 d103 elementary number theory
-1879:_:econ:::342:::d100:::International Trade:::econ342:::econ342d100:::econ 342 d100 international trade
-1880:_:econ:::342:::d101:::International Trade:::econ342:::econ342d101:::econ 342 d101 international trade
-1881:_:econ:::342:::d102:::International Trade:::econ342:::econ342d102:::econ 342 d102 international trade
-1882:_:econ:::342:::d103:::International Trade:::econ342:::econ342d103:::econ 342 d103 international trade
-1883:_:econ:::342:::d104:::International Trade:::econ342:::econ342d104:::econ 342 d104 international trade
-1884:_:econ:::342:::d105:::International Trade:::econ342:::econ342d105:::econ 342 d105 international trade
-1885:_:econ:::342:::d106:::International Trade:::econ342:::econ342d106:::econ 342 d106 international trade
-1886:_:econ:::342:::d107:::International Trade:::econ342:::econ342d107:::econ 342 d107 international trade
-1887:_:econ:::342:::d108:::International Trade:::econ342:::econ342d108:::econ 342 d108 international trade
-1888:_:econ:::342:::d109:::International Trade:::econ342:::econ342d109:::econ 342 d109 international trade
-1889:_:econ:::342:::d110:::International Trade:::econ342:::econ342d110:::econ 342 d110 international trade
-1890:_:math:::337:::d100:::Job Practicum II:::math337:::math337d100:::math 337 d100 job practicum ii
-1891:_:math:::337:::d200:::Job Practicum II:::math337:::math337d200:::math 337 d200 job practicum ii
-1892:_:hum:::203:::d100:::Great Texts: Asian Thought and Literature:::hum203:::hum203d100:::hum 203 d100 great texts: asian thought and literature
-1893:_:math:::155:::d100:::Calculus II for the Biological Sciences:::math155:::math155d100:::math 155 d100 calculus ii for the biological sciences
-1894:_:math:::155:::opo1:::Calculus II for the Biological Sciences:::math155:::math155opo1:::math 155 opo1 calculus ii for the biological sciences
-1895:_:math:::152:::d100:::Calculus II:::math152:::math152d100:::math 152 d100 calculus ii
-1896:_:math:::152:::op01:::Calculus II:::math152:::math152op01:::math 152 op01 calculus ii
-1897:_:iat:::481:::d200:::Special Topics in Interactive Arts and Technology (Science):::iat481:::iat481d200:::iat 481 d200 special topics in interactive arts and technology (science)
-1898:_:iat:::482:::d100:::Special Topics in Performance and Media Arts:::iat482:::iat482d100:::iat 482 d100 special topics in performance and media arts
-1899:_:iat:::482:::d200:::Special Topics in Performance and Media Arts:::iat482:::iat482d200:::iat 482 d200 special topics in performance and media arts
-1900:_:stat:::203:::c100:::Introduction to Statistics for the Social Sciences:::stat203:::stat203c100:::stat 203 c100 introduction to statistics for the social sciences
-1901:_:stat:::203:::e100:::Introduction to Statistics for the Social Sciences:::stat203:::stat203e100:::stat 203 e100 introduction to statistics for the social sciences
-1902:_:stat:::203:::op01:::Introduction to Statistics for the Social Sciences:::stat203:::stat203op01:::stat 203 op01 introduction to statistics for the social sciences
-1903:_:stat:::201:::c100:::Statistics for the Life Sciences:::stat201:::stat201c100:::stat 201 c100 statistics for the life sciences
-1904:_:stat:::201:::d100:::Statistics for the Life Sciences:::stat201:::stat201d100:::stat 201 d100 statistics for the life sciences
-1905:_:stat:::201:::op01:::Statistics for the Life Sciences:::stat201:::stat201op01:::stat 201 op01 statistics for the life sciences
-1906:_:mse:::452:::d100:::Power Conversion in Alternative Energy Systems:::mse452:::mse452d100:::mse 452 d100 power conversion in alternative energy systems
-1907:_:mse:::452:::lab1:::Power Conversion in Alternative Energy Systems:::mse452:::mse452lab1:::mse 452 lab1 power conversion in alternative energy systems
-1908:_:mse:::452:::lab2:::Power Conversion in Alternative Energy Systems:::mse452:::mse452lab2:::mse 452 lab2 power conversion in alternative energy systems
-1909:_:econ:::378:::d100:::Economics Practicum III:::econ378:::econ378d100:::econ 378 d100 economics practicum iii
-1910:_:econ:::378:::d200:::Economics Practicum III:::econ378:::econ378d200:::econ 378 d200 economics practicum iii
-1911:_:econ:::378:::i100:::Economics Practicum III:::econ378:::econ378i100:::econ 378 i100 economics practicum iii
-1912:_:fren:::998:::g100:::Extended Essays:::fren998:::fren998g100:::fren 998 g100 extended essays
-1913:_:stat:::270:::c100:::Introduction to Probability and Statistics:::stat270:::stat270c100:::stat 270 c100 introduction to probability and statistics
-1914:_:stat:::270:::d100:::Introduction to Probability and Statistics:::stat270:::stat270d100:::stat 270 d100 introduction to probability and statistics
-1915:_:stat:::270:::op01:::Introduction to Probability and Statistics:::stat270:::stat270op01:::stat 270 op01 introduction to probability and statistics
-1916:_:fren:::896:::g100:::Thesis Proposal:::fren896:::fren896g100:::fren 896 g100 thesis proposal
-1917:_:econ:::379:::d100:::Economics Practicum IV:::econ379:::econ379d100:::econ 379 d100 economics practicum iv
-1918:_:econ:::379:::d200:::Economics Practicum IV:::econ379:::econ379d200:::econ 379 d200 economics practicum iv
-1919:_:econ:::379:::i100:::Economics Practicum IV:::econ379:::econ379i100:::econ 379 i100 economics practicum iv
-1920:_:bus:::330:::d100:::Income Taxation for Individuals:::bus330:::bus330d100:::bus 330 d100 income taxation for individuals
-1921:_:econ:::433:::d100:::Financial Econometrics & Trading:::econ433:::econ433d100:::econ 433 d100 financial econometrics & trading
-1922:_:math:::157:::d100:::Calculus I for the Social Sciences:::math157:::math157d100:::math 157 d100 calculus i for the social sciences
-1923:_:math:::157:::op01:::Calculus I for the Social Sciences:::math157:::math157op01:::math 157 op01 calculus i for the social sciences
-1924:_:math:::190:::c100:::Principles of Mathematics for Teachers:::math190:::math190c100:::math 190 c100 principles of mathematics for teachers
-1925:_:cmns:::860:::g100:::Graduate Colloquium in Global Communication:::cmns860:::cmns860g100:::cmns 860 g100 graduate colloquium in global communication
-1926:_:cmns:::860:::g101:::Graduate Colloquium in Global Communication:::cmns860:::cmns860g101:::cmns 860 g101 graduate colloquium in global communication
-1927:_:stat:::100:::d100:::Chance and Data Analysis:::stat100:::stat100d100:::stat 100 d100 chance and data analysis
-1928:_:stat:::100:::op01:::Chance and Data Analysis:::stat100:::stat100op01:::stat 100 op01 chance and data analysis
-1929:_:chem:::281:::d100:::Organic Chemistry I:::chem281:::chem281d100:::chem 281 d100 organic chemistry i
-1930:_:chem:::281:::d101:::Organic Chemistry I:::chem281:::chem281d101:::chem 281 d101 organic chemistry i
-1931:_:chem:::281:::d102:::Organic Chemistry I:::chem281:::chem281d102:::chem 281 d102 organic chemistry i
-1932:_:chem:::281:::d103:::Organic Chemistry I:::chem281:::chem281d103:::chem 281 d103 organic chemistry i
-1933:_:chem:::281:::d106:::Organic Chemistry I:::chem281:::chem281d106:::chem 281 d106 organic chemistry i
-1934:_:chem:::281:::d107:::Organic Chemistry I:::chem281:::chem281d107:::chem 281 d107 organic chemistry i
-1935:_:chem:::281:::d108:::Organic Chemistry I:::chem281:::chem281d108:::chem 281 d108 organic chemistry i
-1936:_:chem:::281:::d109:::Organic Chemistry I:::chem281:::chem281d109:::chem 281 d109 organic chemistry i
-1937:_:chem:::281:::la04:::Organic Chemistry I:::chem281:::chem281la04:::chem 281 la04 organic chemistry i
-1938:_:chem:::281:::la05:::Organic Chemistry I:::chem281:::chem281la05:::chem 281 la05 organic chemistry i
-1939:_:chem:::281:::lb04:::Organic Chemistry I:::chem281:::chem281lb04:::chem 281 lb04 organic chemistry i
-1940:_:chem:::281:::lb05:::Organic Chemistry I:::chem281:::chem281lb05:::chem 281 lb05 organic chemistry i
-1941:_:chem:::281:::le01:::Organic Chemistry I:::chem281:::chem281le01:::chem 281 le01 organic chemistry i
-1942:_:phys:::121:::d100:::Optics, Electricity and Magnetism:::phys121:::phys121d100:::phys 121 d100 optics, electricity and magnetism
-1943:_:phys:::121:::d101:::Optics, Electricity and Magnetism:::phys121:::phys121d101:::phys 121 d101 optics, electricity and magnetism
-1944:_:phys:::121:::d102:::Optics, Electricity and Magnetism:::phys121:::phys121d102:::phys 121 d102 optics, electricity and magnetism
-1945:_:phys:::121:::d103:::Optics, Electricity and Magnetism:::phys121:::phys121d103:::phys 121 d103 optics, electricity and magnetism
-1946:_:phys:::121:::d104:::Optics, Electricity and Magnetism:::phys121:::phys121d104:::phys 121 d104 optics, electricity and magnetism
-1947:_:phys:::121:::d105:::Optics, Electricity and Magnetism:::phys121:::phys121d105:::phys 121 d105 optics, electricity and magnetism
-1948:_:phys:::121:::d106:::Optics, Electricity and Magnetism:::phys121:::phys121d106:::phys 121 d106 optics, electricity and magnetism
-1949:_:phys:::121:::d107:::Optics, Electricity and Magnetism:::phys121:::phys121d107:::phys 121 d107 optics, electricity and magnetism
-1950:_:phys:::121:::d108:::Optics, Electricity and Magnetism:::phys121:::phys121d108:::phys 121 d108 optics, electricity and magnetism
-1951:_:chem:::282:::d100:::Organic Chemistry II:::chem282:::chem282d100:::chem 282 d100 organic chemistry ii
-1952:_:chem:::282:::d101:::Organic Chemistry II:::chem282:::chem282d101:::chem 282 d101 organic chemistry ii
-1953:_:chem:::282:::d102:::Organic Chemistry II:::chem282:::chem282d102:::chem 282 d102 organic chemistry ii
-1954:_:chem:::282:::d103:::Organic Chemistry II:::chem282:::chem282d103:::chem 282 d103 organic chemistry ii
-1955:_:chem:::282:::d104:::Organic Chemistry II:::chem282:::chem282d104:::chem 282 d104 organic chemistry ii
-1956:_:chem:::282:::d105:::Organic Chemistry II:::chem282:::chem282d105:::chem 282 d105 organic chemistry ii
-1957:_:chem:::286:::la05:::Organic Chemistry Laboratory II:::chem286:::chem286la05:::chem 286 la05 organic chemistry laboratory ii
-1958:_:chem:::286:::la07:::Organic Chemistry Laboratory II:::chem286:::chem286la07:::chem 286 la07 organic chemistry laboratory ii
-1959:_:cmns:::891:::g100:::Co-op Practicum I:::cmns891:::cmns891g100:::cmns 891 g100 co-op practicum i
-1960:_:cmns:::891:::g200:::Co-op Practicum I:::cmns891:::cmns891g200:::cmns 891 g200 co-op practicum i
-1961:_:cmns:::891:::i100:::Co-op Practicum I:::cmns891:::cmns891i100:::cmns 891 i100 co-op practicum i
-1962:_:cmns:::892:::g100:::Co-op Practicum II:::cmns892:::cmns892g100:::cmns 892 g100 co-op practicum ii
-1963:_:cmns:::892:::g200:::Co-op Practicum II:::cmns892:::cmns892g200:::cmns 892 g200 co-op practicum ii
-1964:_:cmns:::892:::i100:::Co-op Practicum II:::cmns892:::cmns892i100:::cmns 892 i100 co-op practicum ii
-1965:_:cmns:::880:::g100:::Directed Readings and Research:::cmns880:::cmns880g100:::cmns 880 g100 directed readings and research
-1966:_:cmns:::880:::g200:::Directed Readings and Research:::cmns880:::cmns880g200:::cmns 880 g200 directed readings and research
-1967:_:cmns:::880:::g300:::Directed Readings and Research:::cmns880:::cmns880g300:::cmns 880 g300 directed readings and research
-1968:_:cmns:::880:::g400:::Directed Readings and Research:::cmns880:::cmns880g400:::cmns 880 g400 directed readings and research
-1969:_:cmns:::880:::g500:::Directed Readings and Research:::cmns880:::cmns880g500:::cmns 880 g500 directed readings and research
-1970:_:cmns:::881:::g100:::Research Internship:::cmns881:::cmns881g100:::cmns 881 g100 research internship
-1971:_:cmns:::881:::g200:::Research Internship:::cmns881:::cmns881g200:::cmns 881 g200 research internship
-1972:_:cmns:::881:::g300:::Research Internship:::cmns881:::cmns881g300:::cmns 881 g300 research internship
-1973:_:cmns:::881:::g400:::Research Internship:::cmns881:::cmns881g400:::cmns 881 g400 research internship
-1974:_:cmns:::881:::g500:::Research Internship:::cmns881:::cmns881g500:::cmns 881 g500 research internship
-1975:_:cmns:::882:::g100:::Research Field Work:::cmns882:::cmns882g100:::cmns 882 g100 research field work
-1976:_:cmns:::882:::g200:::Research Field Work:::cmns882:::cmns882g200:::cmns 882 g200 research field work
-1977:_:cmns:::882:::g300:::Research Field Work:::cmns882:::cmns882g300:::cmns 882 g300 research field work
-1978:_:cmns:::882:::g400:::Research Field Work:::cmns882:::cmns882g400:::cmns 882 g400 research field work
-1979:_:cmns:::882:::g500:::Research Field Work:::cmns882:::cmns882g500:::cmns 882 g500 research field work
-1980:_:iat:::235:::d100:::Information Design:::iat235:::iat235d100:::iat 235 d100 information design
-1981:_:iat:::235:::d101:::Information Design:::iat235:::iat235d101:::iat 235 d101 information design
-1982:_:iat:::235:::d102:::Information Design:::iat235:::iat235d102:::iat 235 d102 information design
-1983:_:iat:::235:::d103:::Information Design:::iat235:::iat235d103:::iat 235 d103 information design
-1984:_:iat:::235:::d104:::Information Design:::iat235:::iat235d104:::iat 235 d104 information design
-1985:_:iat:::890:::g100:::PhD Comprehensive Exam:::iat890:::iat890g100:::iat 890 g100 phd comprehensive exam
-1986:_:stat:::604:::g100:::Analysis of Experimental and Observational Data:::stat604:::stat604g100:::stat 604 g100 analysis of experimental and observational data
-1987:_:chem:::307:::d100:::Practicum II:::chem307:::chem307d100:::chem 307 d100 practicum ii
-1988:_:chem:::307:::d200:::Practicum II:::chem307:::chem307d200:::chem 307 d200 practicum ii
-1989:_:econ:::986:::g100:::Comprehensive Examination in Macroeconomic Theory:::econ986:::econ986g100:::econ 986 g100 comprehensive examination in macroeconomic theory
-1990:_:educ:::935:::g001:::Learning Design Demonstration of Mastery:::educ935:::educ935g001:::educ 935 g001 learning design demonstration of mastery
-1991:_:educ:::934:::g001:::Learning Design Development Workshop:::educ934:::educ934g001:::educ 934 g001 learning design development workshop
-1992:_:cmns:::895:::g100:::Comprehensive Examination:::cmns895:::cmns895g100:::cmns 895 g100 comprehensive examination
-1993:_:cmns:::895:::g200:::Comprehensive Examination:::cmns895:::cmns895g200:::cmns 895 g200 comprehensive examination
-1994:_:cmns:::895:::g300:::Comprehensive Examination:::cmns895:::cmns895g300:::cmns 895 g300 comprehensive examination
-1995:_:iat:::222:::d100:::Interactive Arts:::iat222:::iat222d100:::iat 222 d100 interactive arts
-1996:_:iat:::222:::d101:::Interactive Arts:::iat222:::iat222d101:::iat 222 d101 interactive arts
-1997:_:iat:::222:::d102:::Interactive Arts:::iat222:::iat222d102:::iat 222 d102 interactive arts
-1998:_:cmns:::396:::d100:::Communication Practicum II:::cmns396:::cmns396d100:::cmns 396 d100 communication practicum ii
-1999:_:cmns:::396:::d200:::Communication Practicum II:::cmns396:::cmns396d200:::cmns 396 d200 communication practicum ii
-2000:_:cmns:::396:::i100:::Communication Practicum II:::cmns396:::cmns396i100:::cmns 396 i100 communication practicum ii
-2001:_:phys:::102:::d100:::Physics for the Life Sciences II:::phys102:::phys102d100:::phys 102 d100 physics for the life sciences ii
-2002:_:phys:::102:::d101:::Physics for the Life Sciences II:::phys102:::phys102d101:::phys 102 d101 physics for the life sciences ii
-2003:_:phys:::102:::d102:::Physics for the Life Sciences II:::phys102:::phys102d102:::phys 102 d102 physics for the life sciences ii
-2004:_:phys:::102:::d103:::Physics for the Life Sciences II:::phys102:::phys102d103:::phys 102 d103 physics for the life sciences ii
-2005:_:phys:::102:::d104:::Physics for the Life Sciences II:::phys102:::phys102d104:::phys 102 d104 physics for the life sciences ii
-2006:_:phys:::102:::d105:::Physics for the Life Sciences II:::phys102:::phys102d105:::phys 102 d105 physics for the life sciences ii
-2007:_:phys:::102:::d106:::Physics for the Life Sciences II:::phys102:::phys102d106:::phys 102 d106 physics for the life sciences ii
-2008:_:phys:::102:::d107:::Physics for the Life Sciences II:::phys102:::phys102d107:::phys 102 d107 physics for the life sciences ii
-2009:_:phys:::102:::d108:::Physics for the Life Sciences II:::phys102:::phys102d108:::phys 102 d108 physics for the life sciences ii
-2010:_:phys:::102:::d109:::Physics for the Life Sciences II:::phys102:::phys102d109:::phys 102 d109 physics for the life sciences ii
-2011:_:phys:::102:::d110:::Physics for the Life Sciences II:::phys102:::phys102d110:::phys 102 d110 physics for the life sciences ii
-2012:_:phys:::102:::d111:::Physics for the Life Sciences II:::phys102:::phys102d111:::phys 102 d111 physics for the life sciences ii
-2013:_:phys:::102:::opl:::Physics for the Life Sciences II:::phys102:::phys102opl:::phys 102 opl physics for the life sciences ii
-2014:_:cmns:::395:::d100:::Communication Practicum I:::cmns395:::cmns395d100:::cmns 395 d100 communication practicum i
-2015:_:cmns:::395:::d200:::Communication Practicum I:::cmns395:::cmns395d200:::cmns 395 d200 communication practicum i
-2016:_:cmns:::395:::i100:::Communication Practicum I:::cmns395:::cmns395i100:::cmns 395 i100 communication practicum i
-2017:_:iat:::343:::d100:::Animation:::iat343:::iat343d100:::iat 343 d100 animation
-2018:_:iat:::343:::d101:::Animation:::iat343:::iat343d101:::iat 343 d101 animation
-2019:_:iat:::343:::d102:::Animation:::iat343:::iat343d102:::iat 343 d102 animation
-2020:_:chem:::332:::d100:::The Chemistry of Transition Metals:::chem332:::chem332d100:::chem 332 d100 the chemistry of transition metals
-2021:_:phys:::101:::d100:::Physics for the Life Sciences I:::phys101:::phys101d100:::phys 101 d100 physics for the life sciences i
-2022:_:phys:::101:::d101:::Physics for the Life Sciences I:::phys101:::phys101d101:::phys 101 d101 physics for the life sciences i
-2023:_:phys:::101:::d102:::Physics for the Life Sciences I:::phys101:::phys101d102:::phys 101 d102 physics for the life sciences i
-2024:_:phys:::101:::d103:::Physics for the Life Sciences I:::phys101:::phys101d103:::phys 101 d103 physics for the life sciences i
-2025:_:phys:::101:::d104:::Physics for the Life Sciences I:::phys101:::phys101d104:::phys 101 d104 physics for the life sciences i
-2026:_:phys:::101:::d105:::Physics for the Life Sciences I:::phys101:::phys101d105:::phys 101 d105 physics for the life sciences i
-2027:_:phys:::101:::d106:::Physics for the Life Sciences I:::phys101:::phys101d106:::phys 101 d106 physics for the life sciences i
-2028:_:phys:::101:::d107:::Physics for the Life Sciences I:::phys101:::phys101d107:::phys 101 d107 physics for the life sciences i
-2029:_:phys:::101:::d108:::Physics for the Life Sciences I:::phys101:::phys101d108:::phys 101 d108 physics for the life sciences i
-2030:_:phys:::101:::d109:::Physics for the Life Sciences I:::phys101:::phys101d109:::phys 101 d109 physics for the life sciences i
-2031:_:phys:::101:::d110:::Physics for the Life Sciences I:::phys101:::phys101d110:::phys 101 d110 physics for the life sciences i
-2032:_:phys:::101:::op01:::Physics for the Life Sciences I:::phys101:::phys101op01:::phys 101 op01 physics for the life sciences i
-2033:_:phys:::100:::d100:::Introduction to Physics:::phys100:::phys100d100:::phys 100 d100 introduction to physics
-2034:_:phys:::100:::d101:::Introduction to Physics:::phys100:::phys100d101:::phys 100 d101 introduction to physics
-2035:_:phys:::100:::d102:::Introduction to Physics:::phys100:::phys100d102:::phys 100 d102 introduction to physics
-2036:_:phys:::100:::d103:::Introduction to Physics:::phys100:::phys100d103:::phys 100 d103 introduction to physics
-2037:_:phys:::100:::d104:::Introduction to Physics:::phys100:::phys100d104:::phys 100 d104 introduction to physics
-2038:_:phys:::100:::d105:::Introduction to Physics:::phys100:::phys100d105:::phys 100 d105 introduction to physics
-2039:_:phys:::100:::d106:::Introduction to Physics:::phys100:::phys100d106:::phys 100 d106 introduction to physics
-2040:_:phys:::100:::d107:::Introduction to Physics:::phys100:::phys100d107:::phys 100 d107 introduction to physics
-2041:_:phys:::100:::d108:::Introduction to Physics:::phys100:::phys100d108:::phys 100 d108 introduction to physics
-2042:_:phys:::100:::d109:::Introduction to Physics:::phys100:::phys100d109:::phys 100 d109 introduction to physics
-2043:_:phys:::100:::op01:::Introduction to Physics:::phys100:::phys100op01:::phys 100 op01 introduction to physics
-2044:_:ling:::899:::g100:::PhD Thesis:::ling899:::ling899g100:::ling 899 g100 phd thesis
-2045:_:ling:::899:::g200:::PhD Thesis:::ling899:::ling899g200:::ling 899 g200 phd thesis
-2046:_:ling:::899:::g300:::PhD Thesis:::ling899:::ling899g300:::ling 899 g300 phd thesis
-2047:_:ling:::899:::g400:::PhD Thesis:::ling899:::ling899g400:::ling 899 g400 phd thesis
-2048:_:ling:::899:::g500:::PhD Thesis:::ling899:::ling899g500:::ling 899 g500 phd thesis
-2049:_:ling:::899:::g600:::PhD Thesis:::ling899:::ling899g600:::ling 899 g600 phd thesis
-2050:_:ling:::899:::g700:::PhD Thesis:::ling899:::ling899g700:::ling 899 g700 phd thesis
-2051:_:ling:::899:::g800:::PhD Thesis:::ling899:::ling899g800:::ling 899 g800 phd thesis
-2052:_:chem:::306:::d100:::Practicum I:::chem306:::chem306d100:::chem 306 d100 practicum i
-2053:_:chem:::306:::d200:::Practicum I:::chem306:::chem306d200:::chem 306 d200 practicum i
-2054:_:cmns:::899:::g100:::PhD Thesis:::cmns899:::cmns899g100:::cmns 899 g100 phd thesis
-2055:_:cmns:::899:::g200:::PhD Thesis:::cmns899:::cmns899g200:::cmns 899 g200 phd thesis
-2056:_:cmns:::899:::g300:::PhD Thesis:::cmns899:::cmns899g300:::cmns 899 g300 phd thesis
-2057:_:ling:::898:::g100:::MA Thesis:::ling898:::ling898g100:::ling 898 g100 ma thesis
-2058:_:ling:::898:::g200:::MA Thesis:::ling898:::ling898g200:::ling 898 g200 ma thesis
-2059:_:ling:::898:::g300:::MA Thesis:::ling898:::ling898g300:::ling 898 g300 ma thesis
-2060:_:ling:::898:::g400:::MA Thesis:::ling898:::ling898g400:::ling 898 g400 ma thesis
-2061:_:ling:::898:::g500:::MA Thesis:::ling898:::ling898g500:::ling 898 g500 ma thesis
-2062:_:ling:::898:::g600:::MA Thesis:::ling898:::ling898g600:::ling 898 g600 ma thesis
-2063:_:ling:::898:::g700:::MA Thesis:::ling898:::ling898g700:::ling 898 g700 ma thesis
-2064:_:cmns:::898:::g100:::MA Thesis:::cmns898:::cmns898g100:::cmns 898 g100 ma thesis
-2065:_:cmns:::898:::g200:::MA Thesis:::cmns898:::cmns898g200:::cmns 898 g200 ma thesis
-2066:_:cmns:::898:::g300:::MA Thesis:::cmns898:::cmns898g300:::cmns 898 g300 ma thesis
-2067:_:econ:::985:::g100:::Comprehensive Examination in Microeconomic Theory:::econ985:::econ985g100:::econ 985 g100 comprehensive examination in microeconomic theory
-2068:_:stat:::205:::c100:::Introduction to Statistics:::stat205:::stat205c100:::stat 205 c100 introduction to statistics
+1793:_:cmns:::428:::d100:::Media Analysis Project Group:::cmns428:::cmns428d100:::cmns 428 d100 media analysis project group
+1794:_:cmns:::428:::d200:::Media Analysis Project Group:::cmns428:::cmns428d200:::cmns 428 d200 media analysis project group
+1795:_:cmns:::428:::d300:::Media Analysis Project Group:::cmns428:::cmns428d300:::cmns 428 d300 media analysis project group
+1796:_:cogs:::370:::d100:::Cognitive Science Practicum I:::cogs370:::cogs370d100:::cogs 370 d100 cognitive science practicum i
+1797:_:cogs:::370:::d200:::Cognitive Science Practicum I:::cogs370:::cogs370d200:::cogs 370 d200 cognitive science practicum i
+1798:_:cogs:::370:::i100:::Cognitive Science Practicum I:::cogs370:::cogs370i100:::cogs 370 i100 cognitive science practicum i
+1799:_:math:::310:::d100:::Introduction to Ordinary Differential Equations:::math310:::math310d100:::math 310 d100 introduction to ordinary differential equations
+1800:_:math:::310:::d101:::Introduction to Ordinary Differential Equations:::math310:::math310d101:::math 310 d101 introduction to ordinary differential equations
+1801:_:math:::310:::d102:::Introduction to Ordinary Differential Equations:::math310:::math310d102:::math 310 d102 introduction to ordinary differential equations
+1802:_:math:::310:::d103:::Introduction to Ordinary Differential Equations:::math310:::math310d103:::math 310 d103 introduction to ordinary differential equations
+1803:_:math:::310:::d104:::Introduction to Ordinary Differential Equations:::math310:::math310d104:::math 310 d104 introduction to ordinary differential equations
+1804:_:math:::310:::d105:::Introduction to Ordinary Differential Equations:::math310:::math310d105:::math 310 d105 introduction to ordinary differential equations
+1805:_:math:::310:::d106:::Introduction to Ordinary Differential Equations:::math310:::math310d106:::math 310 d106 introduction to ordinary differential equations
+1806:_:math:::310:::d107:::Introduction to Ordinary Differential Equations:::math310:::math310d107:::math 310 d107 introduction to ordinary differential equations
+1807:_:math:::310:::d108:::Introduction to Ordinary Differential Equations:::math310:::math310d108:::math 310 d108 introduction to ordinary differential equations
+1808:_:math:::310:::d109:::Introduction to Ordinary Differential Equations:::math310:::math310d109:::math 310 d109 introduction to ordinary differential equations
+1809:_:cogs:::371:::d100:::Cognitive Science Practicum II:::cogs371:::cogs371d100:::cogs 371 d100 cognitive science practicum ii
+1810:_:cogs:::371:::d200:::Cognitive Science Practicum II:::cogs371:::cogs371d200:::cogs 371 d200 cognitive science practicum ii
+1811:_:cogs:::371:::i100:::Cognitive Science Practicum II:::cogs371:::cogs371i100:::cogs 371 i100 cognitive science practicum ii
+1812:_:bus:::471:::d100:::Strategic Decision Making:::bus471:::bus471d100:::bus 471 d100 strategic decision making
+1813:_:chem:::406:::d100:::Practicum III:::chem406:::chem406d100:::chem 406 d100 practicum iii
+1814:_:chem:::406:::d200:::Practicum III:::chem406:::chem406d200:::chem 406 d200 practicum iii
+1815:_:chem:::408:::d100:::Practicum V:::chem408:::chem408d100:::chem 408 d100 practicum v
+1816:_:chem:::408:::d200:::Practicum V:::chem408:::chem408d200:::chem 408 d200 practicum v
+1817:_:chem:::407:::d100:::Practicum IV:::chem407:::chem407d100:::chem 407 d100 practicum iv
+1818:_:chem:::407:::d200:::Practicum IV:::chem407:::chem407d200:::chem 407 d200 practicum iv
+1819:_:mse:::486:::d100:::Directed Studies in Mechatronic Systems Engineering:::mse486:::mse486d100:::mse 486 d100 directed studies in mechatronic systems engineering
+1820:_:mse:::486:::d200:::Directed Studies in Mechatronic Systems Engineering:::mse486:::mse486d200:::mse 486 d200 directed studies in mechatronic systems engineering
+1821:_:mse:::486:::d300:::Directed Studies in Mechatronic Systems Engineering:::mse486:::mse486d300:::mse 486 d300 directed studies in mechatronic systems engineering
+1822:_:mse:::487:::d100:::Directed Studies in Mechatronic Systems Engineering:::mse487:::mse487d100:::mse 487 d100 directed studies in mechatronic systems engineering
+1823:_:mse:::487:::d200:::Directed Studies in Mechatronic Systems Engineering:::mse487:::mse487d200:::mse 487 d200 directed studies in mechatronic systems engineering
+1824:_:mse:::487:::d300:::Directed Studies in Mechatronic Systems Engineering:::mse487:::mse487d300:::mse 487 d300 directed studies in mechatronic systems engineering
+1825:_:mse:::489:::d100:::Directed Studies in Mechatronic Systems Engineering:::mse489:::mse489d100:::mse 489 d100 directed studies in mechatronic systems engineering
+1826:_:mse:::489:::d200:::Directed Studies in Mechatronic Systems Engineering:::mse489:::mse489d200:::mse 489 d200 directed studies in mechatronic systems engineering
+1827:_:mse:::489:::d300:::Directed Studies in Mechatronic Systems Engineering:::mse489:::mse489d300:::mse 489 d300 directed studies in mechatronic systems engineering
+1828:_:mse:::489:::d400:::Directed Studies in Mechatronic Systems Engineering:::mse489:::mse489d400:::mse 489 d400 directed studies in mechatronic systems engineering
+1829:_:mse:::491:::d100:::Special Topic in Mechatronic Systems Engineering:::mse491:::mse491d100:::mse 491 d100 special topic in mechatronic systems engineering
+1830:_:hum:::101w:::d100:::Introduction to the Humanities:::hum101w:::hum101wd100:::hum 101w d100 introduction to the humanities
+1831:_:mse:::495:::d100:::Special Project Laboratory:::mse495:::mse495d100:::mse 495 d100 special project laboratory
+1832:_:mse:::495:::d200:::Special Project Laboratory:::mse495:::mse495d200:::mse 495 d200 special project laboratory
+1833:_:hum:::102w:::c100:::Classical Mythology:::hum102w:::hum102wc100:::hum 102w c100 classical mythology
+1834:_:hum:::102w:::j100:::Classical Mythology:::hum102w:::hum102wj100:::hum 102w j100 classical mythology
+1835:_:hsci:::485:::d100:::Senior Seminar in Mental Health and Addictions:::hsci485:::hsci485d100:::hsci 485 d100 senior seminar in mental health and addictions
+1836:_:hsci:::486:::d100:::Senior Seminar in Global Health:::hsci486:::hsci486d100:::hsci 486 d100 senior seminar in global health
+1837:_:math:::232:::d100:::Applied Linear Algebra:::math232:::math232d100:::math 232 d100 applied linear algebra
+1838:_:math:::232:::op01:::Applied Linear Algebra:::math232:::math232op01:::math 232 op01 applied linear algebra
+1839:_:stat:::337:::d100:::Job Practicum II:::stat337:::stat337d100:::stat 337 d100 job practicum ii
+1840:_:stat:::337:::d200:::Job Practicum II:::stat337:::stat337d200:::stat 337 d200 job practicum ii
+1841:_:stat:::337:::i100:::Job Practicum II:::stat337:::stat337i100:::stat 337 i100 job practicum ii
+1842:_:econ:::345:::d100:::International Finance:::econ345:::econ345d100:::econ 345 d100 international finance
+1843:_:econ:::345:::d101:::International Finance:::econ345:::econ345d101:::econ 345 d101 international finance
+1844:_:econ:::345:::d102:::International Finance:::econ345:::econ345d102:::econ 345 d102 international finance
+1845:_:econ:::345:::d103:::International Finance:::econ345:::econ345d103:::econ 345 d103 international finance
+1846:_:econ:::345:::d104:::International Finance:::econ345:::econ345d104:::econ 345 d104 international finance
+1847:_:econ:::345:::d105:::International Finance:::econ345:::econ345d105:::econ 345 d105 international finance
+1848:_:econ:::345:::d106:::International Finance:::econ345:::econ345d106:::econ 345 d106 international finance
+1849:_:econ:::345:::d107:::International Finance:::econ345:::econ345d107:::econ 345 d107 international finance
+1850:_:econ:::345:::d108:::International Finance:::econ345:::econ345d108:::econ 345 d108 international finance
+1851:_:econ:::345:::d109:::International Finance:::econ345:::econ345d109:::econ 345 d109 international finance
+1852:_:econ:::345:::d110:::International Finance:::econ345:::econ345d110:::econ 345 d110 international finance
+1853:_:stat:::336:::d100:::Job Practicum I:::stat336:::stat336d100:::stat 336 d100 job practicum i
+1854:_:stat:::336:::d200:::Job Practicum I:::stat336:::stat336d200:::stat 336 d200 job practicum i
+1855:_:stat:::336:::i100:::Job Practicum I:::stat336:::stat336i100:::stat 336 i100 job practicum i
+1856:_:bus:::640:::g100:::Managerial Accounting:::bus640:::bus640g100:::bus 640 g100 managerial accounting
+1857:_:iat:::487:::d100:::Directed Studies:::iat487:::iat487d100:::iat 487 d100 directed studies
+1858:_:iat:::487:::d200:::Directed Studies:::iat487:::iat487d200:::iat 487 d200 directed studies
+1859:_:iat:::487:::d300:::Directed Studies:::iat487:::iat487d300:::iat 487 d300 directed studies
+1860:_:iat:::487:::d400:::Directed Studies:::iat487:::iat487d400:::iat 487 d400 directed studies
+1861:_:ling:::309w:::d100:::Sociolinguistics:::ling309w:::ling309wd100:::ling 309w d100 sociolinguistics
+1862:_:iat:::486:::d100:::Directed Studies:::iat486:::iat486d100:::iat 486 d100 directed studies
+1863:_:iat:::486:::d200:::Directed Studies:::iat486:::iat486d200:::iat 486 d200 directed studies
+1864:_:iat:::486:::d300:::Directed Studies:::iat486:::iat486d300:::iat 486 d300 directed studies
+1865:_:iat:::486:::d400:::Directed Studies:::iat486:::iat486d400:::iat 486 d400 directed studies
+1866:_:bus:::636:::g100:::Corporate Finance:::bus636:::bus636g100:::bus 636 g100 corporate finance
+1867:_:stat:::302:::c100:::Analysis of Experimental and Observational Data:::stat302:::stat302c100:::stat 302 c100 analysis of experimental and observational data
+1868:_:stat:::302:::d100:::Analysis of Experimental and Observational Data:::stat302:::stat302d100:::stat 302 d100 analysis of experimental and observational data
+1869:_:stat:::302:::op01:::Analysis of Experimental and Observational Data:::stat302:::stat302op01:::stat 302 op01 analysis of experimental and observational data
+1870:_:math:::336:::d100:::Job Practicum I:::math336:::math336d100:::math 336 d100 job practicum i
+1871:_:math:::336:::d200:::Job Practicum I:::math336:::math336d200:::math 336 d200 job practicum i
+1872:_:chem:::336:::la01:::Advanced Inorganic Chemistry Laboratory:::chem336:::chem336la01:::chem 336 la01 advanced inorganic chemistry laboratory
+1873:_:chem:::336:::la02:::Advanced Inorganic Chemistry Laboratory:::chem336:::chem336la02:::chem 336 la02 advanced inorganic chemistry laboratory
+1874:_:math:::342:::d100:::Elementary Number Theory:::math342:::math342d100:::math 342 d100 elementary number theory
+1875:_:math:::342:::d101:::Elementary Number Theory:::math342:::math342d101:::math 342 d101 elementary number theory
+1876:_:math:::342:::d102:::Elementary Number Theory:::math342:::math342d102:::math 342 d102 elementary number theory
+1877:_:math:::342:::d103:::Elementary Number Theory:::math342:::math342d103:::math 342 d103 elementary number theory
+1878:_:econ:::342:::d100:::International Trade:::econ342:::econ342d100:::econ 342 d100 international trade
+1879:_:econ:::342:::d101:::International Trade:::econ342:::econ342d101:::econ 342 d101 international trade
+1880:_:econ:::342:::d102:::International Trade:::econ342:::econ342d102:::econ 342 d102 international trade
+1881:_:econ:::342:::d103:::International Trade:::econ342:::econ342d103:::econ 342 d103 international trade
+1882:_:econ:::342:::d104:::International Trade:::econ342:::econ342d104:::econ 342 d104 international trade
+1883:_:econ:::342:::d105:::International Trade:::econ342:::econ342d105:::econ 342 d105 international trade
+1884:_:econ:::342:::d106:::International Trade:::econ342:::econ342d106:::econ 342 d106 international trade
+1885:_:econ:::342:::d107:::International Trade:::econ342:::econ342d107:::econ 342 d107 international trade
+1886:_:econ:::342:::d108:::International Trade:::econ342:::econ342d108:::econ 342 d108 international trade
+1887:_:econ:::342:::d109:::International Trade:::econ342:::econ342d109:::econ 342 d109 international trade
+1888:_:econ:::342:::d110:::International Trade:::econ342:::econ342d110:::econ 342 d110 international trade
+1889:_:math:::337:::d100:::Job Practicum II:::math337:::math337d100:::math 337 d100 job practicum ii
+1890:_:math:::337:::d200:::Job Practicum II:::math337:::math337d200:::math 337 d200 job practicum ii
+1891:_:hum:::203:::d100:::Great Texts: Asian Thought and Literature:::hum203:::hum203d100:::hum 203 d100 great texts: asian thought and literature
+1892:_:math:::155:::d100:::Calculus II for the Biological Sciences:::math155:::math155d100:::math 155 d100 calculus ii for the biological sciences
+1893:_:math:::155:::opo1:::Calculus II for the Biological Sciences:::math155:::math155opo1:::math 155 opo1 calculus ii for the biological sciences
+1894:_:math:::152:::d100:::Calculus II:::math152:::math152d100:::math 152 d100 calculus ii
+1895:_:math:::152:::op01:::Calculus II:::math152:::math152op01:::math 152 op01 calculus ii
+1896:_:iat:::481:::d200:::Special Topics in Interactive Arts and Technology (Science):::iat481:::iat481d200:::iat 481 d200 special topics in interactive arts and technology (science)
+1897:_:iat:::482:::d100:::Special Topics in Performance and Media Arts:::iat482:::iat482d100:::iat 482 d100 special topics in performance and media arts
+1898:_:iat:::482:::d200:::Special Topics in Performance and Media Arts:::iat482:::iat482d200:::iat 482 d200 special topics in performance and media arts
+1899:_:stat:::203:::c100:::Introduction to Statistics for the Social Sciences:::stat203:::stat203c100:::stat 203 c100 introduction to statistics for the social sciences
+1900:_:stat:::203:::e100:::Introduction to Statistics for the Social Sciences:::stat203:::stat203e100:::stat 203 e100 introduction to statistics for the social sciences
+1901:_:stat:::203:::op01:::Introduction to Statistics for the Social Sciences:::stat203:::stat203op01:::stat 203 op01 introduction to statistics for the social sciences
+1902:_:stat:::201:::c100:::Statistics for the Life Sciences:::stat201:::stat201c100:::stat 201 c100 statistics for the life sciences
+1903:_:stat:::201:::d100:::Statistics for the Life Sciences:::stat201:::stat201d100:::stat 201 d100 statistics for the life sciences
+1904:_:stat:::201:::op01:::Statistics for the Life Sciences:::stat201:::stat201op01:::stat 201 op01 statistics for the life sciences
+1905:_:mse:::452:::d100:::Power Conversion in Alternative Energy Systems:::mse452:::mse452d100:::mse 452 d100 power conversion in alternative energy systems
+1906:_:mse:::452:::lab1:::Power Conversion in Alternative Energy Systems:::mse452:::mse452lab1:::mse 452 lab1 power conversion in alternative energy systems
+1907:_:mse:::452:::lab2:::Power Conversion in Alternative Energy Systems:::mse452:::mse452lab2:::mse 452 lab2 power conversion in alternative energy systems
+1908:_:econ:::378:::d100:::Economics Practicum III:::econ378:::econ378d100:::econ 378 d100 economics practicum iii
+1909:_:econ:::378:::d200:::Economics Practicum III:::econ378:::econ378d200:::econ 378 d200 economics practicum iii
+1910:_:econ:::378:::i100:::Economics Practicum III:::econ378:::econ378i100:::econ 378 i100 economics practicum iii
+1911:_:fren:::998:::g100:::Extended Essays:::fren998:::fren998g100:::fren 998 g100 extended essays
+1912:_:stat:::270:::c100:::Introduction to Probability and Statistics:::stat270:::stat270c100:::stat 270 c100 introduction to probability and statistics
+1913:_:stat:::270:::d100:::Introduction to Probability and Statistics:::stat270:::stat270d100:::stat 270 d100 introduction to probability and statistics
+1914:_:stat:::270:::op01:::Introduction to Probability and Statistics:::stat270:::stat270op01:::stat 270 op01 introduction to probability and statistics
+1915:_:econ:::379:::d100:::Economics Practicum IV:::econ379:::econ379d100:::econ 379 d100 economics practicum iv
+1916:_:econ:::379:::d200:::Economics Practicum IV:::econ379:::econ379d200:::econ 379 d200 economics practicum iv
+1917:_:econ:::379:::i100:::Economics Practicum IV:::econ379:::econ379i100:::econ 379 i100 economics practicum iv
+1918:_:fren:::896:::g100:::Thesis Proposal:::fren896:::fren896g100:::fren 896 g100 thesis proposal
+1919:_:bus:::330:::d100:::Income Taxation for Individuals:::bus330:::bus330d100:::bus 330 d100 income taxation for individuals
+1920:_:econ:::433:::d100:::Financial Econometrics & Trading:::econ433:::econ433d100:::econ 433 d100 financial econometrics & trading
+1921:_:math:::157:::d100:::Calculus I for the Social Sciences:::math157:::math157d100:::math 157 d100 calculus i for the social sciences
+1922:_:math:::157:::op01:::Calculus I for the Social Sciences:::math157:::math157op01:::math 157 op01 calculus i for the social sciences
+1923:_:math:::190:::c100:::Principles of Mathematics for Teachers:::math190:::math190c100:::math 190 c100 principles of mathematics for teachers
+1924:_:cmns:::860:::g100:::Graduate Colloquium in Global Communication:::cmns860:::cmns860g100:::cmns 860 g100 graduate colloquium in global communication
+1925:_:cmns:::860:::g101:::Graduate Colloquium in Global Communication:::cmns860:::cmns860g101:::cmns 860 g101 graduate colloquium in global communication
+1926:_:stat:::100:::d100:::Chance and Data Analysis:::stat100:::stat100d100:::stat 100 d100 chance and data analysis
+1927:_:stat:::100:::op01:::Chance and Data Analysis:::stat100:::stat100op01:::stat 100 op01 chance and data analysis
+1928:_:chem:::281:::d100:::Organic Chemistry I:::chem281:::chem281d100:::chem 281 d100 organic chemistry i
+1929:_:chem:::281:::d101:::Organic Chemistry I:::chem281:::chem281d101:::chem 281 d101 organic chemistry i
+1930:_:chem:::281:::d102:::Organic Chemistry I:::chem281:::chem281d102:::chem 281 d102 organic chemistry i
+1931:_:chem:::281:::d103:::Organic Chemistry I:::chem281:::chem281d103:::chem 281 d103 organic chemistry i
+1932:_:chem:::281:::d106:::Organic Chemistry I:::chem281:::chem281d106:::chem 281 d106 organic chemistry i
+1933:_:chem:::281:::d107:::Organic Chemistry I:::chem281:::chem281d107:::chem 281 d107 organic chemistry i
+1934:_:chem:::281:::d108:::Organic Chemistry I:::chem281:::chem281d108:::chem 281 d108 organic chemistry i
+1935:_:chem:::281:::d109:::Organic Chemistry I:::chem281:::chem281d109:::chem 281 d109 organic chemistry i
+1936:_:chem:::281:::la04:::Organic Chemistry I:::chem281:::chem281la04:::chem 281 la04 organic chemistry i
+1937:_:chem:::281:::la05:::Organic Chemistry I:::chem281:::chem281la05:::chem 281 la05 organic chemistry i
+1938:_:chem:::281:::lb04:::Organic Chemistry I:::chem281:::chem281lb04:::chem 281 lb04 organic chemistry i
+1939:_:chem:::281:::lb05:::Organic Chemistry I:::chem281:::chem281lb05:::chem 281 lb05 organic chemistry i
+1940:_:chem:::281:::le01:::Organic Chemistry I:::chem281:::chem281le01:::chem 281 le01 organic chemistry i
+1941:_:phys:::121:::d100:::Optics, Electricity and Magnetism:::phys121:::phys121d100:::phys 121 d100 optics, electricity and magnetism
+1942:_:phys:::121:::d101:::Optics, Electricity and Magnetism:::phys121:::phys121d101:::phys 121 d101 optics, electricity and magnetism
+1943:_:phys:::121:::d102:::Optics, Electricity and Magnetism:::phys121:::phys121d102:::phys 121 d102 optics, electricity and magnetism
+1944:_:phys:::121:::d103:::Optics, Electricity and Magnetism:::phys121:::phys121d103:::phys 121 d103 optics, electricity and magnetism
+1945:_:phys:::121:::d104:::Optics, Electricity and Magnetism:::phys121:::phys121d104:::phys 121 d104 optics, electricity and magnetism
+1946:_:phys:::121:::d105:::Optics, Electricity and Magnetism:::phys121:::phys121d105:::phys 121 d105 optics, electricity and magnetism
+1947:_:phys:::121:::d106:::Optics, Electricity and Magnetism:::phys121:::phys121d106:::phys 121 d106 optics, electricity and magnetism
+1948:_:phys:::121:::d107:::Optics, Electricity and Magnetism:::phys121:::phys121d107:::phys 121 d107 optics, electricity and magnetism
+1949:_:phys:::121:::d108:::Optics, Electricity and Magnetism:::phys121:::phys121d108:::phys 121 d108 optics, electricity and magnetism
+1950:_:chem:::282:::d100:::Organic Chemistry II:::chem282:::chem282d100:::chem 282 d100 organic chemistry ii
+1951:_:chem:::282:::d101:::Organic Chemistry II:::chem282:::chem282d101:::chem 282 d101 organic chemistry ii
+1952:_:chem:::282:::d102:::Organic Chemistry II:::chem282:::chem282d102:::chem 282 d102 organic chemistry ii
+1953:_:chem:::282:::d103:::Organic Chemistry II:::chem282:::chem282d103:::chem 282 d103 organic chemistry ii
+1954:_:chem:::282:::d104:::Organic Chemistry II:::chem282:::chem282d104:::chem 282 d104 organic chemistry ii
+1955:_:chem:::282:::d105:::Organic Chemistry II:::chem282:::chem282d105:::chem 282 d105 organic chemistry ii
+1956:_:chem:::286:::la05:::Organic Chemistry Laboratory II:::chem286:::chem286la05:::chem 286 la05 organic chemistry laboratory ii
+1957:_:chem:::286:::la07:::Organic Chemistry Laboratory II:::chem286:::chem286la07:::chem 286 la07 organic chemistry laboratory ii
+1958:_:cmns:::891:::g100:::Co-op Practicum I:::cmns891:::cmns891g100:::cmns 891 g100 co-op practicum i
+1959:_:cmns:::891:::g200:::Co-op Practicum I:::cmns891:::cmns891g200:::cmns 891 g200 co-op practicum i
+1960:_:cmns:::891:::i100:::Co-op Practicum I:::cmns891:::cmns891i100:::cmns 891 i100 co-op practicum i
+1961:_:cmns:::892:::g100:::Co-op Practicum II:::cmns892:::cmns892g100:::cmns 892 g100 co-op practicum ii
+1962:_:cmns:::892:::g200:::Co-op Practicum II:::cmns892:::cmns892g200:::cmns 892 g200 co-op practicum ii
+1963:_:cmns:::892:::i100:::Co-op Practicum II:::cmns892:::cmns892i100:::cmns 892 i100 co-op practicum ii
+1964:_:cmns:::880:::g100:::Directed Readings and Research:::cmns880:::cmns880g100:::cmns 880 g100 directed readings and research
+1965:_:cmns:::880:::g200:::Directed Readings and Research:::cmns880:::cmns880g200:::cmns 880 g200 directed readings and research
+1966:_:cmns:::880:::g300:::Directed Readings and Research:::cmns880:::cmns880g300:::cmns 880 g300 directed readings and research
+1967:_:cmns:::880:::g400:::Directed Readings and Research:::cmns880:::cmns880g400:::cmns 880 g400 directed readings and research
+1968:_:cmns:::880:::g500:::Directed Readings and Research:::cmns880:::cmns880g500:::cmns 880 g500 directed readings and research
+1969:_:cmns:::881:::g100:::Research Internship:::cmns881:::cmns881g100:::cmns 881 g100 research internship
+1970:_:cmns:::881:::g200:::Research Internship:::cmns881:::cmns881g200:::cmns 881 g200 research internship
+1971:_:cmns:::881:::g300:::Research Internship:::cmns881:::cmns881g300:::cmns 881 g300 research internship
+1972:_:cmns:::881:::g400:::Research Internship:::cmns881:::cmns881g400:::cmns 881 g400 research internship
+1973:_:cmns:::881:::g500:::Research Internship:::cmns881:::cmns881g500:::cmns 881 g500 research internship
+1974:_:cmns:::882:::g100:::Research Field Work:::cmns882:::cmns882g100:::cmns 882 g100 research field work
+1975:_:cmns:::882:::g200:::Research Field Work:::cmns882:::cmns882g200:::cmns 882 g200 research field work
+1976:_:cmns:::882:::g300:::Research Field Work:::cmns882:::cmns882g300:::cmns 882 g300 research field work
+1977:_:cmns:::882:::g400:::Research Field Work:::cmns882:::cmns882g400:::cmns 882 g400 research field work
+1978:_:cmns:::882:::g500:::Research Field Work:::cmns882:::cmns882g500:::cmns 882 g500 research field work
+1979:_:iat:::235:::d100:::Information Design:::iat235:::iat235d100:::iat 235 d100 information design
+1980:_:iat:::235:::d101:::Information Design:::iat235:::iat235d101:::iat 235 d101 information design
+1981:_:iat:::235:::d102:::Information Design:::iat235:::iat235d102:::iat 235 d102 information design
+1982:_:iat:::235:::d103:::Information Design:::iat235:::iat235d103:::iat 235 d103 information design
+1983:_:iat:::235:::d104:::Information Design:::iat235:::iat235d104:::iat 235 d104 information design
+1984:_:iat:::890:::g100:::PhD Comprehensive Exam:::iat890:::iat890g100:::iat 890 g100 phd comprehensive exam
+1985:_:stat:::604:::g100:::Analysis of Experimental and Observational Data:::stat604:::stat604g100:::stat 604 g100 analysis of experimental and observational data
+1986:_:chem:::307:::d100:::Practicum II:::chem307:::chem307d100:::chem 307 d100 practicum ii
+1987:_:chem:::307:::d200:::Practicum II:::chem307:::chem307d200:::chem 307 d200 practicum ii
+1988:_:econ:::986:::g100:::Comprehensive Examination in Macroeconomic Theory:::econ986:::econ986g100:::econ 986 g100 comprehensive examination in macroeconomic theory
+1989:_:educ:::935:::g001:::Learning Design Demonstration of Mastery:::educ935:::educ935g001:::educ 935 g001 learning design demonstration of mastery
+1990:_:educ:::934:::g001:::Learning Design Development Workshop:::educ934:::educ934g001:::educ 934 g001 learning design development workshop
+1991:_:cmns:::895:::g100:::Comprehensive Examination:::cmns895:::cmns895g100:::cmns 895 g100 comprehensive examination
+1992:_:cmns:::895:::g200:::Comprehensive Examination:::cmns895:::cmns895g200:::cmns 895 g200 comprehensive examination
+1993:_:cmns:::895:::g300:::Comprehensive Examination:::cmns895:::cmns895g300:::cmns 895 g300 comprehensive examination
+1994:_:iat:::222:::d100:::Interactive Arts:::iat222:::iat222d100:::iat 222 d100 interactive arts
+1995:_:iat:::222:::d101:::Interactive Arts:::iat222:::iat222d101:::iat 222 d101 interactive arts
+1996:_:iat:::222:::d102:::Interactive Arts:::iat222:::iat222d102:::iat 222 d102 interactive arts
+1997:_:cmns:::396:::d100:::Communication Practicum II:::cmns396:::cmns396d100:::cmns 396 d100 communication practicum ii
+1998:_:cmns:::396:::d200:::Communication Practicum II:::cmns396:::cmns396d200:::cmns 396 d200 communication practicum ii
+1999:_:cmns:::396:::i100:::Communication Practicum II:::cmns396:::cmns396i100:::cmns 396 i100 communication practicum ii
+2000:_:phys:::102:::d100:::Physics for the Life Sciences II:::phys102:::phys102d100:::phys 102 d100 physics for the life sciences ii
+2001:_:phys:::102:::d101:::Physics for the Life Sciences II:::phys102:::phys102d101:::phys 102 d101 physics for the life sciences ii
+2002:_:phys:::102:::d102:::Physics for the Life Sciences II:::phys102:::phys102d102:::phys 102 d102 physics for the life sciences ii
+2003:_:phys:::102:::d103:::Physics for the Life Sciences II:::phys102:::phys102d103:::phys 102 d103 physics for the life sciences ii
+2004:_:phys:::102:::d104:::Physics for the Life Sciences II:::phys102:::phys102d104:::phys 102 d104 physics for the life sciences ii
+2005:_:phys:::102:::d105:::Physics for the Life Sciences II:::phys102:::phys102d105:::phys 102 d105 physics for the life sciences ii
+2006:_:phys:::102:::d106:::Physics for the Life Sciences II:::phys102:::phys102d106:::phys 102 d106 physics for the life sciences ii
+2007:_:phys:::102:::d107:::Physics for the Life Sciences II:::phys102:::phys102d107:::phys 102 d107 physics for the life sciences ii
+2008:_:phys:::102:::d108:::Physics for the Life Sciences II:::phys102:::phys102d108:::phys 102 d108 physics for the life sciences ii
+2009:_:phys:::102:::d109:::Physics for the Life Sciences II:::phys102:::phys102d109:::phys 102 d109 physics for the life sciences ii
+2010:_:phys:::102:::d110:::Physics for the Life Sciences II:::phys102:::phys102d110:::phys 102 d110 physics for the life sciences ii
+2011:_:phys:::102:::d111:::Physics for the Life Sciences II:::phys102:::phys102d111:::phys 102 d111 physics for the life sciences ii
+2012:_:phys:::102:::opl:::Physics for the Life Sciences II:::phys102:::phys102opl:::phys 102 opl physics for the life sciences ii
+2013:_:cmns:::395:::d100:::Communication Practicum I:::cmns395:::cmns395d100:::cmns 395 d100 communication practicum i
+2014:_:cmns:::395:::d200:::Communication Practicum I:::cmns395:::cmns395d200:::cmns 395 d200 communication practicum i
+2015:_:cmns:::395:::i100:::Communication Practicum I:::cmns395:::cmns395i100:::cmns 395 i100 communication practicum i
+2016:_:iat:::343:::d100:::Animation:::iat343:::iat343d100:::iat 343 d100 animation
+2017:_:iat:::343:::d101:::Animation:::iat343:::iat343d101:::iat 343 d101 animation
+2018:_:iat:::343:::d102:::Animation:::iat343:::iat343d102:::iat 343 d102 animation
+2019:_:chem:::332:::d100:::The Chemistry of Transition Metals:::chem332:::chem332d100:::chem 332 d100 the chemistry of transition metals
+2020:_:phys:::101:::d100:::Physics for the Life Sciences I:::phys101:::phys101d100:::phys 101 d100 physics for the life sciences i
+2021:_:phys:::101:::d101:::Physics for the Life Sciences I:::phys101:::phys101d101:::phys 101 d101 physics for the life sciences i
+2022:_:phys:::101:::d102:::Physics for the Life Sciences I:::phys101:::phys101d102:::phys 101 d102 physics for the life sciences i
+2023:_:phys:::101:::d103:::Physics for the Life Sciences I:::phys101:::phys101d103:::phys 101 d103 physics for the life sciences i
+2024:_:phys:::101:::d104:::Physics for the Life Sciences I:::phys101:::phys101d104:::phys 101 d104 physics for the life sciences i
+2025:_:phys:::101:::d105:::Physics for the Life Sciences I:::phys101:::phys101d105:::phys 101 d105 physics for the life sciences i
+2026:_:phys:::101:::d106:::Physics for the Life Sciences I:::phys101:::phys101d106:::phys 101 d106 physics for the life sciences i
+2027:_:phys:::101:::d107:::Physics for the Life Sciences I:::phys101:::phys101d107:::phys 101 d107 physics for the life sciences i
+2028:_:phys:::101:::d108:::Physics for the Life Sciences I:::phys101:::phys101d108:::phys 101 d108 physics for the life sciences i
+2029:_:phys:::101:::d109:::Physics for the Life Sciences I:::phys101:::phys101d109:::phys 101 d109 physics for the life sciences i
+2030:_:phys:::101:::d110:::Physics for the Life Sciences I:::phys101:::phys101d110:::phys 101 d110 physics for the life sciences i
+2031:_:phys:::101:::op01:::Physics for the Life Sciences I:::phys101:::phys101op01:::phys 101 op01 physics for the life sciences i
+2032:_:phys:::100:::d100:::Introduction to Physics:::phys100:::phys100d100:::phys 100 d100 introduction to physics
+2033:_:phys:::100:::d101:::Introduction to Physics:::phys100:::phys100d101:::phys 100 d101 introduction to physics
+2034:_:phys:::100:::d102:::Introduction to Physics:::phys100:::phys100d102:::phys 100 d102 introduction to physics
+2035:_:phys:::100:::d103:::Introduction to Physics:::phys100:::phys100d103:::phys 100 d103 introduction to physics
+2036:_:phys:::100:::d104:::Introduction to Physics:::phys100:::phys100d104:::phys 100 d104 introduction to physics
+2037:_:phys:::100:::d105:::Introduction to Physics:::phys100:::phys100d105:::phys 100 d105 introduction to physics
+2038:_:phys:::100:::d106:::Introduction to Physics:::phys100:::phys100d106:::phys 100 d106 introduction to physics
+2039:_:phys:::100:::d107:::Introduction to Physics:::phys100:::phys100d107:::phys 100 d107 introduction to physics
+2040:_:phys:::100:::d108:::Introduction to Physics:::phys100:::phys100d108:::phys 100 d108 introduction to physics
+2041:_:phys:::100:::d109:::Introduction to Physics:::phys100:::phys100d109:::phys 100 d109 introduction to physics
+2042:_:phys:::100:::op01:::Introduction to Physics:::phys100:::phys100op01:::phys 100 op01 introduction to physics
+2043:_:ling:::899:::g100:::PhD Thesis:::ling899:::ling899g100:::ling 899 g100 phd thesis
+2044:_:ling:::899:::g200:::PhD Thesis:::ling899:::ling899g200:::ling 899 g200 phd thesis
+2045:_:ling:::899:::g300:::PhD Thesis:::ling899:::ling899g300:::ling 899 g300 phd thesis
+2046:_:ling:::899:::g400:::PhD Thesis:::ling899:::ling899g400:::ling 899 g400 phd thesis
+2047:_:ling:::899:::g500:::PhD Thesis:::ling899:::ling899g500:::ling 899 g500 phd thesis
+2048:_:ling:::899:::g600:::PhD Thesis:::ling899:::ling899g600:::ling 899 g600 phd thesis
+2049:_:ling:::899:::g700:::PhD Thesis:::ling899:::ling899g700:::ling 899 g700 phd thesis
+2050:_:ling:::899:::g800:::PhD Thesis:::ling899:::ling899g800:::ling 899 g800 phd thesis
+2051:_:chem:::306:::d100:::Practicum I:::chem306:::chem306d100:::chem 306 d100 practicum i
+2052:_:chem:::306:::d200:::Practicum I:::chem306:::chem306d200:::chem 306 d200 practicum i
+2053:_:cmns:::899:::g100:::PhD Thesis:::cmns899:::cmns899g100:::cmns 899 g100 phd thesis
+2054:_:cmns:::899:::g200:::PhD Thesis:::cmns899:::cmns899g200:::cmns 899 g200 phd thesis
+2055:_:cmns:::899:::g300:::PhD Thesis:::cmns899:::cmns899g300:::cmns 899 g300 phd thesis
+2056:_:ling:::898:::g100:::MA Thesis:::ling898:::ling898g100:::ling 898 g100 ma thesis
+2057:_:ling:::898:::g200:::MA Thesis:::ling898:::ling898g200:::ling 898 g200 ma thesis
+2058:_:ling:::898:::g300:::MA Thesis:::ling898:::ling898g300:::ling 898 g300 ma thesis
+2059:_:ling:::898:::g400:::MA Thesis:::ling898:::ling898g400:::ling 898 g400 ma thesis
+2060:_:ling:::898:::g500:::MA Thesis:::ling898:::ling898g500:::ling 898 g500 ma thesis
+2061:_:ling:::898:::g600:::MA Thesis:::ling898:::ling898g600:::ling 898 g600 ma thesis
+2062:_:ling:::898:::g700:::MA Thesis:::ling898:::ling898g700:::ling 898 g700 ma thesis
+2063:_:cmns:::898:::g100:::MA Thesis:::cmns898:::cmns898g100:::cmns 898 g100 ma thesis
+2064:_:cmns:::898:::g200:::MA Thesis:::cmns898:::cmns898g200:::cmns 898 g200 ma thesis
+2065:_:cmns:::898:::g300:::MA Thesis:::cmns898:::cmns898g300:::cmns 898 g300 ma thesis
+2066:_:econ:::985:::g100:::Comprehensive Examination in Microeconomic Theory:::econ985:::econ985g100:::econ 985 g100 comprehensive examination in microeconomic theory
+2067:_:stat:::205:::c100:::Introduction to Statistics:::stat205:::stat205c100:::stat 205 c100 introduction to statistics
