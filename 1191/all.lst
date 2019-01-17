@@ -5623,86 +5623,87 @@
 5623:_:math:::157:::op01:::Calculus I for the Social Sciences:::math157:::math157op01:::math 157 op01 calculus i for the social sciences
 5624:_:math:::157:::op02:::Calculus I for the Social Sciences:::math157:::math157op02:::math 157 op02 calculus i for the social sciences
 5625:_:hist:::490:::d100:::Studies in History:::hist490:::hist490d100:::hist 490 d100 studies in history
-5626:_:math:::155:::d100:::Calculus II for the Biological Sciences:::math155:::math155d100:::math 155 d100 calculus ii for the biological sciences
-5627:_:math:::155:::d200:::Calculus II for the Biological Sciences:::math155:::math155d200:::math 155 d200 calculus ii for the biological sciences
-5628:_:math:::155:::op01:::Calculus II for the Biological Sciences:::math155:::math155op01:::math 155 op01 calculus ii for the biological sciences
-5629:_:math:::155:::op02:::Calculus II for the Biological Sciences:::math155:::math155op02:::math 155 op02 calculus ii for the biological sciences
-5630:_:ca:::355:::d100:::Voice/Movement IV:::ca355:::ca355d100:::ca 355 d100 voice/movement iv
-5631:_:math:::154:::d100:::Calculus I for the Biological Sciences:::math154:::math154d100:::math 154 d100 calculus i for the biological sciences
-5632:_:math:::154:::op01:::Calculus I for the Biological Sciences:::math154:::math154op01:::math 154 op01 calculus i for the biological sciences
-5633:_:ins:::898:::g100:::Master's Thesis:::ins898:::ins898g100:::ins 898 g100 master's thesis
-5634:_:ins:::898:::g200:::Master's Thesis:::ins898:::ins898g200:::ins 898 g200 master's thesis
-5635:_:ins:::898:::g300:::Master's Thesis:::ins898:::ins898g300:::ins 898 g300 master's thesis
-5636:_:math:::152:::d100:::Calculus II:::math152:::math152d100:::math 152 d100 calculus ii
-5637:_:math:::152:::d200:::Calculus II:::math152:::math152d200:::math 152 d200 calculus ii
-5638:_:math:::152:::d400:::Calculus II:::math152:::math152d400:::math 152 d400 calculus ii
-5639:_:math:::152:::op01:::Calculus II:::math152:::math152op01:::math 152 op01 calculus ii
-5640:_:math:::152:::op02:::Calculus II:::math152:::math152op02:::math 152 op02 calculus ii
-5641:_:math:::152:::op03:::Calculus II:::math152:::math152op03:::math 152 op03 calculus ii
-5642:_:ensc:::461:::d100:::Special Topics in Engineering Science:::ensc461:::ensc461d100:::ensc 461 d100 special topics in engineering science
-5643:_:ensc:::461:::la01:::Special Topics in Engineering Science:::ensc461:::ensc461la01:::ensc 461 la01 special topics in engineering science
-5644:_:ins:::899:::g100:::PhD Thesis:::ins899:::ins899g100:::ins 899 g100 phd thesis
-5645:_:ins:::899:::g200:::PhD Thesis:::ins899:::ins899g200:::ins 899 g200 phd thesis
-5646:_:ins:::899:::g300:::PhD Thesis:::ins899:::ins899g300:::ins 899 g300 phd thesis
-5647:_:ca:::243:::d100:::Gamelan I:::ca243:::ca243d100:::ca 243 d100 gamelan i
-5648:_:hist:::489:::d100:::Studies in History:::hist489:::hist489d100:::hist 489 d100 studies in history
-5649:_:hist:::489:::d200:::Studies in History:::hist489:::hist489d200:::hist 489 d200 studies in history
-5650:_:hist:::489:::d300:::Studies in History:::hist489:::hist489d300:::hist 489 d300 studies in history
-5651:_:hist:::489:::d400:::Studies in History:::hist489:::hist489d400:::hist 489 d400 studies in history
-5652:_:hist:::489:::d500:::Studies in History:::hist489:::hist489d500:::hist 489 d500 studies in history
-5653:_:ca:::353:::d100:::BlackBox Performance:::ca353:::ca353d100:::ca 353 d100 blackbox performance
-5654:_:mse:::211:::d100:::Computational Methods for Engineers:::mse211:::mse211d100:::mse 211 d100 computational methods for engineers
-5655:_:mse:::211:::lab1:::Computational Methods for Engineers:::mse211:::mse211lab1:::mse 211 lab1 computational methods for engineers
-5656:_:mse:::211:::lab2:::Computational Methods for Engineers:::mse211:::mse211lab2:::mse 211 lab2 computational methods for engineers
-5657:_:mse:::211:::lab3:::Computational Methods for Engineers:::mse211:::mse211lab3:::mse 211 lab3 computational methods for engineers
-5658:_:engl:::442:::d100:::Directed Studies B:::engl442:::engl442d100:::engl 442 d100 directed studies b
-5659:_:engl:::442:::d200:::Directed Studies B:::engl442:::engl442d200:::engl 442 d200 directed studies b
-5660:_:ca:::245:::d100:::Music Composition I:::ca245:::ca245d100:::ca 245 d100 music composition i
-5661:_:ca:::246:::d100:::Music Composition II:::ca246:::ca246d100:::ca 246 d100 music composition ii
-5662:_:iat:::499:::d100:::Graduation Project:::iat499:::iat499d100:::iat 499 d100 graduation project
-5663:_:engl:::111w:::d100:::Literary Classics in English:::engl111w:::engl111wd100:::engl 111w d100 literary classics in english
-5664:_:engl:::111w:::d101:::Literary Classics in English:::engl111w:::engl111wd101:::engl 111w d101 literary classics in english
-5665:_:engl:::111w:::d102:::Literary Classics in English:::engl111w:::engl111wd102:::engl 111w d102 literary classics in english
-5666:_:engl:::111w:::d103:::Literary Classics in English:::engl111w:::engl111wd103:::engl 111w d103 literary classics in english
-5667:_:engl:::111w:::d104:::Literary Classics in English:::engl111w:::engl111wd104:::engl 111w d104 literary classics in english
-5668:_:engl:::111w:::d105:::Literary Classics in English:::engl111w:::engl111wd105:::engl 111w d105 literary classics in english
-5669:_:engl:::111w:::d106:::Literary Classics in English:::engl111w:::engl111wd106:::engl 111w d106 literary classics in english
-5670:_:engl:::111w:::d107:::Literary Classics in English:::engl111w:::engl111wd107:::engl 111w d107 literary classics in english
-5671:_:engl:::111w:::d109:::Literary Classics in English:::engl111w:::engl111wd109:::engl 111w d109 literary classics in english
-5672:_:engl:::111w:::d110:::Literary Classics in English:::engl111w:::engl111wd110:::engl 111w d110 literary classics in english
-5673:_:engl:::111w:::j100:::Literary Classics in English:::engl111w:::engl111wj100:::engl 111w j100 literary classics in english
-5674:_:engl:::111w:::j101:::Literary Classics in English:::engl111w:::engl111wj101:::engl 111w j101 literary classics in english
-5675:_:engl:::113w:::d100:::Literature and Performance:::engl113w:::engl113wd100:::engl 113w d100 literature and performance
-5676:_:engl:::113w:::d101:::Literature and Performance:::engl113w:::engl113wd101:::engl 113w d101 literature and performance
-5677:_:engl:::113w:::d102:::Literature and Performance:::engl113w:::engl113wd102:::engl 113w d102 literature and performance
-5678:_:engl:::113w:::d103:::Literature and Performance:::engl113w:::engl113wd103:::engl 113w d103 literature and performance
-5679:_:engl:::113w:::d104:::Literature and Performance:::engl113w:::engl113wd104:::engl 113w d104 literature and performance
-5680:_:engl:::113w:::d105:::Literature and Performance:::engl113w:::engl113wd105:::engl 113w d105 literature and performance
-5681:_:engl:::113w:::d106:::Literature and Performance:::engl113w:::engl113wd106:::engl 113w d106 literature and performance
-5682:_:engl:::113w:::d107:::Literature and Performance:::engl113w:::engl113wd107:::engl 113w d107 literature and performance
-5683:_:engl:::113w:::d108:::Literature and Performance:::engl113w:::engl113wd108:::engl 113w d108 literature and performance
-5684:_:engl:::113w:::d109:::Literature and Performance:::engl113w:::engl113wd109:::engl 113w d109 literature and performance
-5685:_:engl:::113w:::d110:::Literature and Performance:::engl113w:::engl113wd110:::engl 113w d110 literature and performance
-5686:_:engl:::114w:::d900:::Language and Purpose:::engl114w:::engl114wd900:::engl 114w d900 language and purpose
-5687:_:engl:::114w:::d901:::Language and Purpose:::engl114w:::engl114wd901:::engl 114w d901 language and purpose
-5688:_:engl:::114w:::d902:::Language and Purpose:::engl114w:::engl114wd902:::engl 114w d902 language and purpose
-5689:_:engl:::114w:::d903:::Language and Purpose:::engl114w:::engl114wd903:::engl 114w d903 language and purpose
-5690:_:ling:::408:::a100:::Field Linguistics:::ling408:::ling408a100:::ling 408 a100 field linguistics
-5691:_:is:::300:::d100:::Research Methods in International Studies:::is300:::is300d100:::is 300 d100 research methods in international studies
-5692:_:engl:::441:::d100:::Directed Studies A:::engl441:::engl441d100:::engl 441 d100 directed studies a
-5693:_:hsci:::495:::d100:::Applied Health Science Project:::hsci495:::hsci495d100:::hsci 495 d100 applied health science project
-5694:_:pol:::315:::d100:::Intermediate Quantitative Methods:::pol315:::pol315d100:::pol 315 d100 intermediate quantitative methods
-5695:_:bus:::498:::d100:::Directed Studies:::bus498:::bus498d100:::bus 498 d100 directed studies
-5696:_:bus:::498:::d200:::Directed Studies:::bus498:::bus498d200:::bus 498 d200 directed studies
-5697:_:bus:::498:::d300:::Directed Studies:::bus498:::bus498d300:::bus 498 d300 directed studies
-5698:_:pol:::200:::d100:::Investigating Politics: Research Design and Qualitative Methods:::pol200:::pol200d100:::pol 200 d100 investigating politics: research design and qualitative methods
-5699:_:pol:::200:::d101:::Investigating Politics: Research Design and Qualitative Methods:::pol200:::pol200d101:::pol 200 d101 investigating politics: research design and qualitative methods
-5700:_:pol:::200:::d102:::Investigating Politics: Research Design and Qualitative Methods:::pol200:::pol200d102:::pol 200 d102 investigating politics: research design and qualitative methods
-5701:_:pol:::200:::d103:::Investigating Politics: Research Design and Qualitative Methods:::pol200:::pol200d103:::pol 200 d103 investigating politics: research design and qualitative methods
-5702:_:fren:::998:::g100:::Extended Essays:::fren998:::fren998g100:::fren 998 g100 extended essays
-5703:_:fren:::896:::g100:::Thesis Proposal:::fren896:::fren896g100:::fren 896 g100 thesis proposal
-5704:_:mbb:::324:::d100:::Protein Biochemistry:::mbb324:::mbb324d100:::mbb 324 d100 protein biochemistry
-5705:_:mbb:::324:::d101:::Protein Biochemistry:::mbb324:::mbb324d101:::mbb 324 d101 protein biochemistry
-5706:_:mbb:::324:::d102:::Protein Biochemistry:::mbb324:::mbb324d102:::mbb 324 d102 protein biochemistry
-5707:_:mbb:::324:::d103:::Protein Biochemistry:::mbb324:::mbb324d103:::mbb 324 d103 protein biochemistry
-5708:_:mbb:::324:::d104:::Protein Biochemistry:::mbb324:::mbb324d104:::mbb 324 d104 protein biochemistry
+5626:_:hist:::490:::d200:::Studies in History:::hist490:::hist490d200:::hist 490 d200 studies in history
+5627:_:math:::155:::d100:::Calculus II for the Biological Sciences:::math155:::math155d100:::math 155 d100 calculus ii for the biological sciences
+5628:_:math:::155:::d200:::Calculus II for the Biological Sciences:::math155:::math155d200:::math 155 d200 calculus ii for the biological sciences
+5629:_:math:::155:::op01:::Calculus II for the Biological Sciences:::math155:::math155op01:::math 155 op01 calculus ii for the biological sciences
+5630:_:math:::155:::op02:::Calculus II for the Biological Sciences:::math155:::math155op02:::math 155 op02 calculus ii for the biological sciences
+5631:_:ca:::355:::d100:::Voice/Movement IV:::ca355:::ca355d100:::ca 355 d100 voice/movement iv
+5632:_:math:::154:::d100:::Calculus I for the Biological Sciences:::math154:::math154d100:::math 154 d100 calculus i for the biological sciences
+5633:_:math:::154:::op01:::Calculus I for the Biological Sciences:::math154:::math154op01:::math 154 op01 calculus i for the biological sciences
+5634:_:ins:::898:::g100:::Master's Thesis:::ins898:::ins898g100:::ins 898 g100 master's thesis
+5635:_:ins:::898:::g200:::Master's Thesis:::ins898:::ins898g200:::ins 898 g200 master's thesis
+5636:_:ins:::898:::g300:::Master's Thesis:::ins898:::ins898g300:::ins 898 g300 master's thesis
+5637:_:math:::152:::d100:::Calculus II:::math152:::math152d100:::math 152 d100 calculus ii
+5638:_:math:::152:::d200:::Calculus II:::math152:::math152d200:::math 152 d200 calculus ii
+5639:_:math:::152:::d400:::Calculus II:::math152:::math152d400:::math 152 d400 calculus ii
+5640:_:math:::152:::op01:::Calculus II:::math152:::math152op01:::math 152 op01 calculus ii
+5641:_:math:::152:::op02:::Calculus II:::math152:::math152op02:::math 152 op02 calculus ii
+5642:_:math:::152:::op03:::Calculus II:::math152:::math152op03:::math 152 op03 calculus ii
+5643:_:ensc:::461:::d100:::Special Topics in Engineering Science:::ensc461:::ensc461d100:::ensc 461 d100 special topics in engineering science
+5644:_:ensc:::461:::la01:::Special Topics in Engineering Science:::ensc461:::ensc461la01:::ensc 461 la01 special topics in engineering science
+5645:_:ins:::899:::g100:::PhD Thesis:::ins899:::ins899g100:::ins 899 g100 phd thesis
+5646:_:ins:::899:::g200:::PhD Thesis:::ins899:::ins899g200:::ins 899 g200 phd thesis
+5647:_:ins:::899:::g300:::PhD Thesis:::ins899:::ins899g300:::ins 899 g300 phd thesis
+5648:_:ca:::243:::d100:::Gamelan I:::ca243:::ca243d100:::ca 243 d100 gamelan i
+5649:_:hist:::489:::d100:::Studies in History:::hist489:::hist489d100:::hist 489 d100 studies in history
+5650:_:hist:::489:::d200:::Studies in History:::hist489:::hist489d200:::hist 489 d200 studies in history
+5651:_:hist:::489:::d300:::Studies in History:::hist489:::hist489d300:::hist 489 d300 studies in history
+5652:_:hist:::489:::d400:::Studies in History:::hist489:::hist489d400:::hist 489 d400 studies in history
+5653:_:hist:::489:::d500:::Studies in History:::hist489:::hist489d500:::hist 489 d500 studies in history
+5654:_:ca:::353:::d100:::BlackBox Performance:::ca353:::ca353d100:::ca 353 d100 blackbox performance
+5655:_:mse:::211:::d100:::Computational Methods for Engineers:::mse211:::mse211d100:::mse 211 d100 computational methods for engineers
+5656:_:mse:::211:::lab1:::Computational Methods for Engineers:::mse211:::mse211lab1:::mse 211 lab1 computational methods for engineers
+5657:_:mse:::211:::lab2:::Computational Methods for Engineers:::mse211:::mse211lab2:::mse 211 lab2 computational methods for engineers
+5658:_:mse:::211:::lab3:::Computational Methods for Engineers:::mse211:::mse211lab3:::mse 211 lab3 computational methods for engineers
+5659:_:engl:::442:::d100:::Directed Studies B:::engl442:::engl442d100:::engl 442 d100 directed studies b
+5660:_:engl:::442:::d200:::Directed Studies B:::engl442:::engl442d200:::engl 442 d200 directed studies b
+5661:_:ca:::245:::d100:::Music Composition I:::ca245:::ca245d100:::ca 245 d100 music composition i
+5662:_:ca:::246:::d100:::Music Composition II:::ca246:::ca246d100:::ca 246 d100 music composition ii
+5663:_:iat:::499:::d100:::Graduation Project:::iat499:::iat499d100:::iat 499 d100 graduation project
+5664:_:engl:::111w:::d100:::Literary Classics in English:::engl111w:::engl111wd100:::engl 111w d100 literary classics in english
+5665:_:engl:::111w:::d101:::Literary Classics in English:::engl111w:::engl111wd101:::engl 111w d101 literary classics in english
+5666:_:engl:::111w:::d102:::Literary Classics in English:::engl111w:::engl111wd102:::engl 111w d102 literary classics in english
+5667:_:engl:::111w:::d103:::Literary Classics in English:::engl111w:::engl111wd103:::engl 111w d103 literary classics in english
+5668:_:engl:::111w:::d104:::Literary Classics in English:::engl111w:::engl111wd104:::engl 111w d104 literary classics in english
+5669:_:engl:::111w:::d105:::Literary Classics in English:::engl111w:::engl111wd105:::engl 111w d105 literary classics in english
+5670:_:engl:::111w:::d106:::Literary Classics in English:::engl111w:::engl111wd106:::engl 111w d106 literary classics in english
+5671:_:engl:::111w:::d107:::Literary Classics in English:::engl111w:::engl111wd107:::engl 111w d107 literary classics in english
+5672:_:engl:::111w:::d109:::Literary Classics in English:::engl111w:::engl111wd109:::engl 111w d109 literary classics in english
+5673:_:engl:::111w:::d110:::Literary Classics in English:::engl111w:::engl111wd110:::engl 111w d110 literary classics in english
+5674:_:engl:::111w:::j100:::Literary Classics in English:::engl111w:::engl111wj100:::engl 111w j100 literary classics in english
+5675:_:engl:::111w:::j101:::Literary Classics in English:::engl111w:::engl111wj101:::engl 111w j101 literary classics in english
+5676:_:engl:::113w:::d100:::Literature and Performance:::engl113w:::engl113wd100:::engl 113w d100 literature and performance
+5677:_:engl:::113w:::d101:::Literature and Performance:::engl113w:::engl113wd101:::engl 113w d101 literature and performance
+5678:_:engl:::113w:::d102:::Literature and Performance:::engl113w:::engl113wd102:::engl 113w d102 literature and performance
+5679:_:engl:::113w:::d103:::Literature and Performance:::engl113w:::engl113wd103:::engl 113w d103 literature and performance
+5680:_:engl:::113w:::d104:::Literature and Performance:::engl113w:::engl113wd104:::engl 113w d104 literature and performance
+5681:_:engl:::113w:::d105:::Literature and Performance:::engl113w:::engl113wd105:::engl 113w d105 literature and performance
+5682:_:engl:::113w:::d106:::Literature and Performance:::engl113w:::engl113wd106:::engl 113w d106 literature and performance
+5683:_:engl:::113w:::d107:::Literature and Performance:::engl113w:::engl113wd107:::engl 113w d107 literature and performance
+5684:_:engl:::113w:::d108:::Literature and Performance:::engl113w:::engl113wd108:::engl 113w d108 literature and performance
+5685:_:engl:::113w:::d109:::Literature and Performance:::engl113w:::engl113wd109:::engl 113w d109 literature and performance
+5686:_:engl:::113w:::d110:::Literature and Performance:::engl113w:::engl113wd110:::engl 113w d110 literature and performance
+5687:_:engl:::114w:::d900:::Language and Purpose:::engl114w:::engl114wd900:::engl 114w d900 language and purpose
+5688:_:engl:::114w:::d901:::Language and Purpose:::engl114w:::engl114wd901:::engl 114w d901 language and purpose
+5689:_:engl:::114w:::d902:::Language and Purpose:::engl114w:::engl114wd902:::engl 114w d902 language and purpose
+5690:_:engl:::114w:::d903:::Language and Purpose:::engl114w:::engl114wd903:::engl 114w d903 language and purpose
+5691:_:ling:::408:::a100:::Field Linguistics:::ling408:::ling408a100:::ling 408 a100 field linguistics
+5692:_:is:::300:::d100:::Research Methods in International Studies:::is300:::is300d100:::is 300 d100 research methods in international studies
+5693:_:engl:::441:::d100:::Directed Studies A:::engl441:::engl441d100:::engl 441 d100 directed studies a
+5694:_:hsci:::495:::d100:::Applied Health Science Project:::hsci495:::hsci495d100:::hsci 495 d100 applied health science project
+5695:_:pol:::315:::d100:::Intermediate Quantitative Methods:::pol315:::pol315d100:::pol 315 d100 intermediate quantitative methods
+5696:_:bus:::498:::d100:::Directed Studies:::bus498:::bus498d100:::bus 498 d100 directed studies
+5697:_:bus:::498:::d200:::Directed Studies:::bus498:::bus498d200:::bus 498 d200 directed studies
+5698:_:bus:::498:::d300:::Directed Studies:::bus498:::bus498d300:::bus 498 d300 directed studies
+5699:_:pol:::200:::d100:::Investigating Politics: Research Design and Qualitative Methods:::pol200:::pol200d100:::pol 200 d100 investigating politics: research design and qualitative methods
+5700:_:pol:::200:::d101:::Investigating Politics: Research Design and Qualitative Methods:::pol200:::pol200d101:::pol 200 d101 investigating politics: research design and qualitative methods
+5701:_:pol:::200:::d102:::Investigating Politics: Research Design and Qualitative Methods:::pol200:::pol200d102:::pol 200 d102 investigating politics: research design and qualitative methods
+5702:_:pol:::200:::d103:::Investigating Politics: Research Design and Qualitative Methods:::pol200:::pol200d103:::pol 200 d103 investigating politics: research design and qualitative methods
+5703:_:fren:::998:::g100:::Extended Essays:::fren998:::fren998g100:::fren 998 g100 extended essays
+5704:_:fren:::896:::g100:::Thesis Proposal:::fren896:::fren896g100:::fren 896 g100 thesis proposal
+5705:_:mbb:::324:::d100:::Protein Biochemistry:::mbb324:::mbb324d100:::mbb 324 d100 protein biochemistry
+5706:_:mbb:::324:::d101:::Protein Biochemistry:::mbb324:::mbb324d101:::mbb 324 d101 protein biochemistry
+5707:_:mbb:::324:::d102:::Protein Biochemistry:::mbb324:::mbb324d102:::mbb 324 d102 protein biochemistry
+5708:_:mbb:::324:::d103:::Protein Biochemistry:::mbb324:::mbb324d103:::mbb 324 d103 protein biochemistry
+5709:_:mbb:::324:::d104:::Protein Biochemistry:::mbb324:::mbb324d104:::mbb 324 d104 protein biochemistry
