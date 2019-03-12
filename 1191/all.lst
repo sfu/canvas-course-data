@@ -5691,14 +5691,15 @@
 5691:_:bus:::498:::d400:::Directed Studies:::bus498:::bus498d400:::bus 498 d400 directed studies
 5692:_:bus:::498:::d500:::Directed Studies:::bus498:::bus498d500:::bus 498 d500 directed studies
 5693:_:bus:::498:::d600:::Directed Studies:::bus498:::bus498d600:::bus 498 d600 directed studies
-5694:_:pol:::200:::d100:::Investigating Politics: Research Design and Qualitative Methods:::pol200:::pol200d100:::pol 200 d100 investigating politics: research design and qualitative methods
-5695:_:pol:::200:::d101:::Investigating Politics: Research Design and Qualitative Methods:::pol200:::pol200d101:::pol 200 d101 investigating politics: research design and qualitative methods
-5696:_:pol:::200:::d102:::Investigating Politics: Research Design and Qualitative Methods:::pol200:::pol200d102:::pol 200 d102 investigating politics: research design and qualitative methods
-5697:_:pol:::200:::d103:::Investigating Politics: Research Design and Qualitative Methods:::pol200:::pol200d103:::pol 200 d103 investigating politics: research design and qualitative methods
-5698:_:fren:::998:::g100:::Extended Essays:::fren998:::fren998g100:::fren 998 g100 extended essays
-5699:_:fren:::896:::g100:::Thesis Proposal:::fren896:::fren896g100:::fren 896 g100 thesis proposal
-5700:_:mbb:::324:::d100:::Protein Biochemistry:::mbb324:::mbb324d100:::mbb 324 d100 protein biochemistry
-5701:_:mbb:::324:::d101:::Protein Biochemistry:::mbb324:::mbb324d101:::mbb 324 d101 protein biochemistry
-5702:_:mbb:::324:::d102:::Protein Biochemistry:::mbb324:::mbb324d102:::mbb 324 d102 protein biochemistry
-5703:_:mbb:::324:::d103:::Protein Biochemistry:::mbb324:::mbb324d103:::mbb 324 d103 protein biochemistry
-5704:_:mbb:::324:::d104:::Protein Biochemistry:::mbb324:::mbb324d104:::mbb 324 d104 protein biochemistry
+5694:_:bus:::498:::d700:::Directed Studies:::bus498:::bus498d700:::bus 498 d700 directed studies
+5695:_:pol:::200:::d100:::Investigating Politics: Research Design and Qualitative Methods:::pol200:::pol200d100:::pol 200 d100 investigating politics: research design and qualitative methods
+5696:_:pol:::200:::d101:::Investigating Politics: Research Design and Qualitative Methods:::pol200:::pol200d101:::pol 200 d101 investigating politics: research design and qualitative methods
+5697:_:pol:::200:::d102:::Investigating Politics: Research Design and Qualitative Methods:::pol200:::pol200d102:::pol 200 d102 investigating politics: research design and qualitative methods
+5698:_:pol:::200:::d103:::Investigating Politics: Research Design and Qualitative Methods:::pol200:::pol200d103:::pol 200 d103 investigating politics: research design and qualitative methods
+5699:_:fren:::998:::g100:::Extended Essays:::fren998:::fren998g100:::fren 998 g100 extended essays
+5700:_:fren:::896:::g100:::Thesis Proposal:::fren896:::fren896g100:::fren 896 g100 thesis proposal
+5701:_:mbb:::324:::d100:::Protein Biochemistry:::mbb324:::mbb324d100:::mbb 324 d100 protein biochemistry
+5702:_:mbb:::324:::d101:::Protein Biochemistry:::mbb324:::mbb324d101:::mbb 324 d101 protein biochemistry
+5703:_:mbb:::324:::d102:::Protein Biochemistry:::mbb324:::mbb324d102:::mbb 324 d102 protein biochemistry
+5704:_:mbb:::324:::d103:::Protein Biochemistry:::mbb324:::mbb324d103:::mbb 324 d103 protein biochemistry
+5705:_:mbb:::324:::d104:::Protein Biochemistry:::mbb324:::mbb324d104:::mbb 324 d104 protein biochemistry
