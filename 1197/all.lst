@@ -2061,13 +2061,13 @@
 2061:_:cmns:::347:::j102:::Communication in Conflict and Intervention:::cmns347:::cmns347j102:::cmns 347 j102 communication in conflict and intervention
 2062:_:gsws:::210:::d100:::Gender Today:::gsws210:::gsws210d100:::gsws 210 d100 gender today
 2063:_:bus:::639:::g100:::Financial Statement Analysis:::bus639:::bus639g100:::bus 639 g100 financial statement analysis
-2064:_:fnlg:::335:::a380:::Topics in First Nations Language I:::fnlg335:::fnlg335a380:::fnlg 335 a380 topics in first nations language i
+2064:_:fnlg:::335:::a390:::Topics in First Nations Language I:::fnlg335:::fnlg335a390:::fnlg 335 a390 topics in first nations language i
 2065:_:fnlg:::435:::a320:::Topics in First Nations Language II:::fnlg435:::fnlg435a320:::fnlg 435 a320 topics in first nations language ii
-2066:_:fnlg:::435:::a380:::Topics in First Nations Language II:::fnlg435:::fnlg435a380:::fnlg 435 a380 topics in first nations language ii
+2066:_:fnlg:::435:::a390:::Topics in First Nations Language II:::fnlg435:::fnlg435a390:::fnlg 435 a390 topics in first nations language ii
 2067:_:fnlg:::435:::a900:::Topics in First Nations Language II:::fnlg435:::fnlg435a900:::fnlg 435 a900 topics in first nations language ii
 2068:_:fnlg:::158:::a900:::First Nations Language Immersion I:::fnlg158:::fnlg158a900:::fnlg 158 a900 first nations language immersion i
-2069:_:fnlg:::433:::a380:::First Nations Language Mentoring I:::fnlg433:::fnlg433a380:::fnlg 433 a380 first nations language mentoring i
-2070:_:fnlg:::434:::a380:::First Nations Language Mentoring II:::fnlg434:::fnlg434a380:::fnlg 434 a380 first nations language mentoring ii
+2069:_:fnlg:::433:::a370:::First Nations Language Mentoring I:::fnlg433:::fnlg433a370:::fnlg 433 a370 first nations language mentoring i
+2070:_:fnlg:::434:::a370:::First Nations Language Mentoring II:::fnlg434:::fnlg434a370:::fnlg 434 a370 first nations language mentoring ii
 2071:_:hist:::860:::g100:::Comprehensive Field 1:::hist860:::hist860g100:::hist 860 g100 comprehensive field 1
 2072:_:educ:::864:::g001:::Research Designs in Education:::educ864:::educ864g001:::educ 864 g001 research designs in education
 2073:_:educ:::864:::g031:::Research Designs in Education:::educ864:::educ864g031:::educ 864 g031 research designs in education
@@ -2614,158 +2614,158 @@
 2614:_:edpr:::503:::g100:::Special Topics:::edpr503:::edpr503g100:::edpr 503 g100 special topics
 2615:_:edpr:::503:::g200:::Special Topics:::edpr503:::edpr503g200:::edpr 503 g200 special topics
 2616:_:psyc:::960:::g100:::Seminar in Social Psychology:::psyc960:::psyc960g100:::psyc 960 g100 seminar in social psychology
-2617:_:bus:::764:::g100:::Financing the Organization:::bus764:::bus764g100:::bus 764 g100 financing the organization
-2618:_:bisc:::651:::g100:::Toxicity Tests I: Ecological Effects Based Tests:::bisc651:::bisc651g100:::bisc 651 g100 toxicity tests i: ecological effects based tests
-2619:_:iat:::481:::e100:::Special Topics in Interactive Arts and Technology (Science):::iat481:::iat481e100:::iat 481 e100 special topics in interactive arts and technology (science)
-2620:_:bisc:::650:::g100:::Environmental Risk Assessment:::bisc650:::bisc650g100:::bisc 650 g100 environmental risk assessment
-2621:_:phys:::465:::d100:::Solid State Physics:::phys465:::phys465d100:::phys 465 d100 solid state physics
-2622:_:phys:::465:::d101:::Solid State Physics:::phys465:::phys465d101:::phys 465 d101 solid state physics
-2623:_:math:::891:::g100:::Practicum II:::math891:::math891g100:::math 891 g100 practicum ii
-2624:_:math:::891:::g200:::Practicum II:::math891:::math891g200:::math 891 g200 practicum ii
-2625:_:phys:::455:::d100:::Modern Optics:::phys455:::phys455d100:::phys 455 d100 modern optics
-2626:_:phys:::455:::d101:::Modern Optics:::phys455:::phys455d101:::phys 455 d101 modern optics
-2627:_:math:::895:::g100:::Reading:::math895:::math895g100:::math 895 g100 reading
-2628:_:math:::895:::g200:::Reading:::math895:::math895g200:::math 895 g200 reading
-2629:_:math:::895:::g300:::Reading:::math895:::math895g300:::math 895 g300 reading
-2630:_:math:::895:::g400:::Reading:::math895:::math895g400:::math 895 g400 reading
-2631:_:math:::894:::g100:::Reading:::math894:::math894g100:::math 894 g100 reading
-2632:_:math:::894:::g200:::Reading:::math894:::math894g200:::math 894 g200 reading
-2633:_:math:::894:::g300:::Reading:::math894:::math894g300:::math 894 g300 reading
-2634:_:rem:::611:::g100:::Population and Community Ecology:::rem611:::rem611g100:::rem 611 g100 population and community ecology
-2635:_:math:::899:::g100:::PhD Thesis:::math899:::math899g100:::math 899 g100 phd thesis
-2636:_:math:::899:::g200:::PhD Thesis:::math899:::math899g200:::math 899 g200 phd thesis
-2637:_:math:::898:::g100:::MSc Thesis:::math898:::math898g100:::math 898 g100 msc thesis
-2638:_:math:::898:::g200:::MSc Thesis:::math898:::math898g200:::math 898 g200 msc thesis
-2639:_:iat:::486:::d100:::Directed Studies:::iat486:::iat486d100:::iat 486 d100 directed studies
-2640:_:iat:::486:::d200:::Directed Studies:::iat486:::iat486d200:::iat 486 d200 directed studies
-2641:_:iat:::486:::d300:::Directed Studies:::iat486:::iat486d300:::iat 486 d300 directed studies
-2642:_:iat:::486:::d400:::Directed Studies:::iat486:::iat486d400:::iat 486 d400 directed studies
-2643:_:easc:::101:::d100:::Dynamic Earth:::easc101:::easc101d100:::easc 101 d100 dynamic earth
-2644:_:easc:::101:::d101:::Dynamic Earth:::easc101:::easc101d101:::easc 101 d101 dynamic earth
-2645:_:easc:::101:::d102:::Dynamic Earth:::easc101:::easc101d102:::easc 101 d102 dynamic earth
-2646:_:easc:::101:::d103:::Dynamic Earth:::easc101:::easc101d103:::easc 101 d103 dynamic earth
-2647:_:easc:::101:::d104:::Dynamic Earth:::easc101:::easc101d104:::easc 101 d104 dynamic earth
-2648:_:easc:::101:::d200:::Dynamic Earth:::easc101:::easc101d200:::easc 101 d200 dynamic earth
-2649:_:easc:::101:::d201:::Dynamic Earth:::easc101:::easc101d201:::easc 101 d201 dynamic earth
-2650:_:easc:::103:::d100:::The Rise and Fall of the Dinosaurs:::easc103:::easc103d100:::easc 103 d100 the rise and fall of the dinosaurs
-2651:_:hsci:::305:::d100:::The Canadian Health System:::hsci305:::hsci305d100:::hsci 305 d100 the canadian health system
-2652:_:rem:::445:::d100:::Environmental Risk Assessment:::rem445:::rem445d100:::rem 445 d100 environmental risk assessment
-2653:_:rem:::445:::d101:::Environmental Risk Assessment:::rem445:::rem445d101:::rem 445 d101 environmental risk assessment
-2654:_:rem:::445:::d102:::Environmental Risk Assessment:::rem445:::rem445d102:::rem 445 d102 environmental risk assessment
-2655:_:rem:::445:::d103:::Environmental Risk Assessment:::rem445:::rem445d103:::rem 445 d103 environmental risk assessment
-2656:_:easc:::202:::d100:::Introduction to Mineralogy:::easc202:::easc202d100:::easc 202 d100 introduction to mineralogy
-2657:_:easc:::202:::d101:::Introduction to Mineralogy:::easc202:::easc202d101:::easc 202 d101 introduction to mineralogy
-2658:_:cmpt:::721:::g100:::Knowledge Representation and Reasoning:::cmpt721:::cmpt721g100:::cmpt 721 g100 knowledge representation and reasoning
-2659:_:bus:::498:::d100:::Directed Studies:::bus498:::bus498d100:::bus 498 d100 directed studies
-2660:_:bus:::498:::d200:::Directed Studies:::bus498:::bus498d200:::bus 498 d200 directed studies
-2661:_:bus:::498:::d300:::Directed Studies:::bus498:::bus498d300:::bus 498 d300 directed studies
-2662:_:bus:::498:::d400:::Directed Studies:::bus498:::bus498d400:::bus 498 d400 directed studies
-2663:_:iat:::487:::d100:::Directed Studies:::iat487:::iat487d100:::iat 487 d100 directed studies
-2664:_:iat:::487:::d200:::Directed Studies:::iat487:::iat487d200:::iat 487 d200 directed studies
-2665:_:iat:::487:::d300:::Directed Studies:::iat487:::iat487d300:::iat 487 d300 directed studies
-2666:_:iat:::487:::d400:::Directed Studies:::iat487:::iat487d400:::iat 487 d400 directed studies
-2667:_:hist:::300:::d100:::Historiography:::hist300:::hist300d100:::hist 300 d100 historiography
-2668:_:phys:::437:::d100:::Practicum V:::phys437:::phys437d100:::phys 437 d100 practicum v
-2669:_:phys:::437:::d200:::Practicum V:::phys437:::phys437d200:::phys 437 d200 practicum v
-2670:_:phys:::437:::i100:::Practicum V:::phys437:::phys437i100:::phys 437 i100 practicum v
-2671:_:phys:::432:::d100:::Undergraduate Honours Thesis:::phys432:::phys432d100:::phys 432 d100 undergraduate honours thesis
-2672:_:iat:::431:::d100:::Speculative Design:::iat431:::iat431d100:::iat 431 d100 speculative design
-2673:_:phys:::436:::d100:::Practicum IV:::phys436:::phys436d100:::phys 436 d100 practicum iv
-2674:_:phys:::436:::d200:::Practicum IV:::phys436:::phys436d200:::phys 436 d200 practicum iv
-2675:_:phys:::436:::i100:::Practicum IV:::phys436:::phys436i100:::phys 436 i100 practicum iv
-2676:_:phys:::435:::d100:::Practicum III:::phys435:::phys435d100:::phys 435 d100 practicum iii
-2677:_:phys:::435:::d200:::Practicum III:::phys435:::phys435d200:::phys 435 d200 practicum iii
-2678:_:phys:::435:::i100:::Practicum III:::phys435:::phys435i100:::phys 435 i100 practicum iii
-2679:_:iat:::445:::d100:::Immersive Environments:::iat445:::iat445d100:::iat 445 d100 immersive environments
-2680:_:iat:::445:::d101:::Immersive Environments:::iat445:::iat445d101:::iat 445 d101 immersive environments
-2681:_:iat:::445:::d102:::Immersive Environments:::iat445:::iat445d102:::iat 445 d102 immersive environments
-2682:_:geog:::352:::d100:::Spatial Analysis:::geog352:::geog352d100:::geog 352 d100 spatial analysis
-2683:_:geog:::352:::d101:::Spatial Analysis:::geog352:::geog352d101:::geog 352 d101 spatial analysis
-2684:_:geog:::352:::d102:::Spatial Analysis:::geog352:::geog352d102:::geog 352 d102 spatial analysis
-2685:_:geog:::352:::d103:::Spatial Analysis:::geog352:::geog352d103:::geog 352 d103 spatial analysis
-2686:_:geog:::352:::d104:::Spatial Analysis:::geog352:::geog352d104:::geog 352 d104 spatial analysis
-2687:_:phys:::431:::la01:::Advanced Physics Laboratory II:::phys431:::phys431la01:::phys 431 la01 advanced physics laboratory ii
-2688:_:arch:::450:::d100:::Practicum III:::arch450:::arch450d100:::arch 450 d100 practicum iii
-2689:_:hist:::299:::d100:::Problems in History:::hist299:::hist299d100:::hist 299 d100 problems in history
-2690:_:easc:::207:::d100:::Introduction to Applied Geophysics:::easc207:::easc207d100:::easc 207 d100 introduction to applied geophysics
-2691:_:easc:::207:::d101:::Introduction to Applied Geophysics:::easc207:::easc207d101:::easc 207 d101 introduction to applied geophysics
-2692:_:easc:::206:::d100:::Field Geology I:::easc206:::easc206d100:::easc 206 d100 field geology i
-2693:_:geog:::355:::d100:::Geographical Information Science II:::geog355:::geog355d100:::geog 355 d100 geographical information science ii
-2694:_:geog:::355:::d101:::Geographical Information Science II:::geog355:::geog355d101:::geog 355 d101 geographical information science ii
-2695:_:geog:::355:::d102:::Geographical Information Science II:::geog355:::geog355d102:::geog 355 d102 geographical information science ii
-2696:_:geog:::355:::d103:::Geographical Information Science II:::geog355:::geog355d103:::geog 355 d103 geographical information science ii
-2697:_:hsci:::330:::d100:::Exploratory Strategies in Epidemiology:::hsci330:::hsci330d100:::hsci 330 d100 exploratory strategies in epidemiology
-2698:_:rem:::621:::g100:::Ecological Economics:::rem621:::rem621g100:::rem 621 g100 ecological economics
-2699:_:easc:::302:::d100:::Sedimentary Petrology:::easc302:::easc302d100:::easc 302 d100 sedimentary petrology
-2700:_:easc:::302:::d101:::Sedimentary Petrology:::easc302:::easc302d101:::easc 302 d101 sedimentary petrology
-2701:_:phys:::413:::d100:::Advanced Mechanics:::phys413:::phys413d100:::phys 413 d100 advanced mechanics
-2702:_:phys:::413:::d101:::Advanced Mechanics:::phys413:::phys413d101:::phys 413 d101 advanced mechanics
-2703:_:edpr:::528:::g100:::Special Topics:::edpr528:::edpr528g100:::edpr 528 g100 special topics
-2704:_:easc:::421:::d100:::Volcanology:::easc421:::easc421d100:::easc 421 d100 volcanology
-2705:_:easc:::421:::d101:::Volcanology:::easc421:::easc421d101:::easc 421 d101 volcanology
-2706:_:hsci:::473:::d100:::Special Topics in Health Sciences III:::hsci473:::hsci473d100:::hsci 473 d100 special topics in health sciences iii
-2707:_:arch:::479:::d100:::Directed Readings:::arch479:::arch479d100:::arch 479 d100 directed readings
-2708:_:arch:::479:::d200:::Directed Readings:::arch479:::arch479d200:::arch 479 d200 directed readings
-2709:_:arch:::479:::d300:::Directed Readings:::arch479:::arch479d300:::arch 479 d300 directed readings
-2710:_:pub:::800:::g100:::Text & Context: Publishing in Contemporary Culture:::pub800:::pub800g100:::pub 800 g100 text & context: publishing in contemporary culture
-2711:_:bus:::553:::g100:::Business Analytics:::bus553:::bus553g100:::bus 553 g100 business analytics
-2712:_:hsci:::471:::d100:::Special Topics in Health Sciences I:::hsci471:::hsci471d100:::hsci 471 d100 special topics in health sciences i
-2713:_:hsci:::471:::d200:::Special Topics in Health Sciences I:::hsci471:::hsci471d200:::hsci 471 d200 special topics in health sciences i
-2714:_:bus:::552:::g100:::Managerial Economics:::bus552:::bus552g100:::bus 552 g100 managerial economics
-2715:_:bus:::552:::g200:::Managerial Economics:::bus552:::bus552g200:::bus 552 g200 managerial economics
-2716:_:math:::877:::g100:::Supplementary Reading:::math877:::math877g100:::math 877 g100 supplementary reading
-2717:_:hsci:::424:::d100:::Strategic Applications of GIS in Health:::hsci424:::hsci424d100:::hsci 424 d100 strategic applications of gis in health
-2718:_:pub:::605:::g100:::Book Publishing Project:::pub605:::pub605g100:::pub 605 g100 book publishing project
-2719:_:crim:::899:::g100:::PhD Thesis:::crim899:::crim899g100:::crim 899 g100 phd thesis
-2720:_:crim:::899:::g200:::PhD Thesis:::crim899:::crim899g200:::crim 899 g200 phd thesis
-2721:_:crim:::898:::g100:::MA Thesis:::crim898:::crim898g100:::crim 898 g100 ma thesis
-2722:_:crim:::898:::g200:::MA Thesis:::crim898:::crim898g200:::crim 898 g200 ma thesis
-2723:_:bus:::557:::g100:::Managing People and Organizations:::bus557:::bus557g100:::bus 557 g100 managing people and organizations
-2724:_:bus:::557:::g300:::Managing People and Organizations:::bus557:::bus557g300:::bus 557 g300 managing people and organizations
-2725:_:bus:::557:::g400:::Managing People and Organizations:::bus557:::bus557g400:::bus 557 g400 managing people and organizations
-2726:_:hsci:::472:::d100:::Special Topics in Health Sciences II:::hsci472:::hsci472d100:::hsci 472 d100 special topics in health sciences ii
-2727:_:bus:::555:::g100:::Managerial Finance:::bus555:::bus555g100:::bus 555 g100 managerial finance
-2728:_:bus:::555:::g200:::Managerial Finance:::bus555:::bus555g200:::bus 555 g200 managerial finance
-2729:_:bisc:::656:::g100:::Master of Environmental Toxicology Project:::bisc656:::bisc656g100:::bisc 656 g100 master of environmental toxicology project
-2730:_:bisc:::656:::g200:::Master of Environmental Toxicology Project:::bisc656:::bisc656g200:::bisc 656 g200 master of environmental toxicology project
-2731:_:bisc:::658:::g100:::Co-op Practicum II:::bisc658:::bisc658g100:::bisc 658 g100 co-op practicum ii
-2732:_:bisc:::658:::g200:::Co-op Practicum II:::bisc658:::bisc658g200:::bisc 658 g200 co-op practicum ii
-2733:_:bisc:::658:::i100:::Co-op Practicum II:::bisc658:::bisc658i100:::bisc 658 i100 co-op practicum ii
-2734:_:bisc:::657:::g100:::Co-Op Practicum I:::bisc657:::bisc657g100:::bisc 657 g100 co-op practicum i
-2735:_:bisc:::657:::g200:::Co-Op Practicum I:::bisc657:::bisc657g200:::bisc 657 g200 co-op practicum i
-2736:_:bisc:::657:::i100:::Co-Op Practicum I:::bisc657:::bisc657i100:::bisc 657 i100 co-op practicum i
-2737:_:hsci:::801:::g100:::Biostatistics for Population Health Practice I:::hsci801:::hsci801g100:::hsci 801 g100 biostatistics for population health practice i
-2738:_:hsci:::801:::g101:::Biostatistics for Population Health Practice I:::hsci801:::hsci801g101:::hsci 801 g101 biostatistics for population health practice i
-2739:_:hsci:::801:::g102:::Biostatistics for Population Health Practice I:::hsci801:::hsci801g102:::hsci 801 g102 biostatistics for population health practice i
-2740:_:phys:::385:::d100:::Quantum Mechanics I:::phys385:::phys385d100:::phys 385 d100 quantum mechanics i
-2741:_:phys:::385:::d101:::Quantum Mechanics I:::phys385:::phys385d101:::phys 385 d101 quantum mechanics i
-2742:_:phys:::384:::d100:::Methods of Theoretical Physics I:::phys384:::phys384d100:::phys 384 d100 methods of theoretical physics i
-2743:_:phys:::384:::d101:::Methods of Theoretical Physics I:::phys384:::phys384d101:::phys 384 d101 methods of theoretical physics i
-2744:_:hsci:::891:::g100:::Special Topics in Health Sciences:::hsci891:::hsci891g100:::hsci 891 g100 special topics in health sciences
-2745:_:psyc:::807a:::g100:::Advanced Topics in Intervention: Child Therapy:::psyc807a:::psyc807ag100:::psyc 807a g100 advanced topics in intervention: child therapy
-2746:_:arch:::498:::d100:::Honours Reading:::arch498:::arch498d100:::arch 498 d100 honours reading
-2747:_:arch:::498:::d200:::Honours Reading:::arch498:::arch498d200:::arch 498 d200 honours reading
-2748:_:arch:::498:::d300:::Honours Reading:::arch498:::arch498d300:::arch 498 d300 honours reading
-2749:_:arch:::498:::d400:::Honours Reading:::arch498:::arch498d400:::arch 498 d400 honours reading
-2750:_:arch:::499:::d100:::Honours Thesis:::arch499:::arch499d100:::arch 499 d100 honours thesis
-2751:_:arch:::499:::d200:::Honours Thesis:::arch499:::arch499d200:::arch 499 d200 honours thesis
-2752:_:arch:::499:::d300:::Honours Thesis:::arch499:::arch499d300:::arch 499 d300 honours thesis
-2753:_:arch:::871:::g200:::Archaeological Theory:::arch871:::arch871g200:::arch 871 g200 archaeological theory
-2754:_:arch:::873:::g100:::Graduate Seminar in Archaeology and Prehistory:::arch873:::arch873g100:::arch 873 g100 graduate seminar in archaeology and prehistory
-2755:_:arch:::872:::g100:::Graduate Seminar in Archaeology and Prehistory:::arch872:::arch872g100:::arch 872 g100 graduate seminar in archaeology and prehistory
-2756:_:arch:::480:::d100:::Directed Laboratory/Library/Field Research:::arch480:::arch480d100:::arch 480 d100 directed laboratory/library/field research
-2757:_:rem:::311:::d100:::Applied Ecology and Sustainable Environments:::rem311:::rem311d100:::rem 311 d100 applied ecology and sustainable environments
-2758:_:rem:::311:::d101:::Applied Ecology and Sustainable Environments:::rem311:::rem311d101:::rem 311 d101 applied ecology and sustainable environments
-2759:_:rem:::311:::d102:::Applied Ecology and Sustainable Environments:::rem311:::rem311d102:::rem 311 d102 applied ecology and sustainable environments
-2760:_:hist:::467:::d100:::Modern Egypt:::hist467:::hist467d100:::hist 467 d100 modern egypt
-2761:_:rem:::100:::c100:::Global Change:::rem100:::rem100c100:::rem 100 c100 global change
-2762:_:rem:::100:::d100:::Global Change:::rem100:::rem100d100:::rem 100 d100 global change
-2763:_:rem:::100:::d101:::Global Change:::rem100:::rem100d101:::rem 100 d101 global change
-2764:_:rem:::100:::d102:::Global Change:::rem100:::rem100d102:::rem 100 d102 global change
-2765:_:rem:::100:::d103:::Global Change:::rem100:::rem100d103:::rem 100 d103 global change
-2766:_:rem:::100:::d104:::Global Change:::rem100:::rem100d104:::rem 100 d104 global change
-2767:_:rem:::100:::d105:::Global Change:::rem100:::rem100d105:::rem 100 d105 global change
-2768:_:rem:::100:::d106:::Global Change:::rem100:::rem100d106:::rem 100 d106 global change
+2617:_:psyc:::960:::g200:::Seminar in Social Psychology:::psyc960:::psyc960g200:::psyc 960 g200 seminar in social psychology
+2618:_:bus:::764:::g100:::Financing the Organization:::bus764:::bus764g100:::bus 764 g100 financing the organization
+2619:_:bisc:::651:::g100:::Toxicity Tests I: Ecological Effects Based Tests:::bisc651:::bisc651g100:::bisc 651 g100 toxicity tests i: ecological effects based tests
+2620:_:iat:::481:::e100:::Special Topics in Interactive Arts and Technology (Science):::iat481:::iat481e100:::iat 481 e100 special topics in interactive arts and technology (science)
+2621:_:bisc:::650:::g100:::Environmental Risk Assessment:::bisc650:::bisc650g100:::bisc 650 g100 environmental risk assessment
+2622:_:phys:::465:::d100:::Solid State Physics:::phys465:::phys465d100:::phys 465 d100 solid state physics
+2623:_:phys:::465:::d101:::Solid State Physics:::phys465:::phys465d101:::phys 465 d101 solid state physics
+2624:_:math:::891:::g100:::Practicum II:::math891:::math891g100:::math 891 g100 practicum ii
+2625:_:math:::891:::g200:::Practicum II:::math891:::math891g200:::math 891 g200 practicum ii
+2626:_:phys:::455:::d100:::Modern Optics:::phys455:::phys455d100:::phys 455 d100 modern optics
+2627:_:phys:::455:::d101:::Modern Optics:::phys455:::phys455d101:::phys 455 d101 modern optics
+2628:_:math:::895:::g100:::Reading:::math895:::math895g100:::math 895 g100 reading
+2629:_:math:::895:::g200:::Reading:::math895:::math895g200:::math 895 g200 reading
+2630:_:math:::895:::g300:::Reading:::math895:::math895g300:::math 895 g300 reading
+2631:_:math:::895:::g400:::Reading:::math895:::math895g400:::math 895 g400 reading
+2632:_:math:::894:::g100:::Reading:::math894:::math894g100:::math 894 g100 reading
+2633:_:math:::894:::g200:::Reading:::math894:::math894g200:::math 894 g200 reading
+2634:_:math:::894:::g300:::Reading:::math894:::math894g300:::math 894 g300 reading
+2635:_:rem:::611:::g100:::Population and Community Ecology:::rem611:::rem611g100:::rem 611 g100 population and community ecology
+2636:_:math:::899:::g100:::PhD Thesis:::math899:::math899g100:::math 899 g100 phd thesis
+2637:_:math:::899:::g200:::PhD Thesis:::math899:::math899g200:::math 899 g200 phd thesis
+2638:_:math:::898:::g100:::MSc Thesis:::math898:::math898g100:::math 898 g100 msc thesis
+2639:_:math:::898:::g200:::MSc Thesis:::math898:::math898g200:::math 898 g200 msc thesis
+2640:_:iat:::486:::d100:::Directed Studies:::iat486:::iat486d100:::iat 486 d100 directed studies
+2641:_:iat:::486:::d200:::Directed Studies:::iat486:::iat486d200:::iat 486 d200 directed studies
+2642:_:iat:::486:::d300:::Directed Studies:::iat486:::iat486d300:::iat 486 d300 directed studies
+2643:_:iat:::486:::d400:::Directed Studies:::iat486:::iat486d400:::iat 486 d400 directed studies
+2644:_:easc:::101:::d100:::Dynamic Earth:::easc101:::easc101d100:::easc 101 d100 dynamic earth
+2645:_:easc:::101:::d101:::Dynamic Earth:::easc101:::easc101d101:::easc 101 d101 dynamic earth
+2646:_:easc:::101:::d102:::Dynamic Earth:::easc101:::easc101d102:::easc 101 d102 dynamic earth
+2647:_:easc:::101:::d103:::Dynamic Earth:::easc101:::easc101d103:::easc 101 d103 dynamic earth
+2648:_:easc:::101:::d104:::Dynamic Earth:::easc101:::easc101d104:::easc 101 d104 dynamic earth
+2649:_:easc:::101:::d200:::Dynamic Earth:::easc101:::easc101d200:::easc 101 d200 dynamic earth
+2650:_:easc:::101:::d201:::Dynamic Earth:::easc101:::easc101d201:::easc 101 d201 dynamic earth
+2651:_:easc:::103:::d100:::The Rise and Fall of the Dinosaurs:::easc103:::easc103d100:::easc 103 d100 the rise and fall of the dinosaurs
+2652:_:hsci:::305:::d100:::The Canadian Health System:::hsci305:::hsci305d100:::hsci 305 d100 the canadian health system
+2653:_:rem:::445:::d100:::Environmental Risk Assessment:::rem445:::rem445d100:::rem 445 d100 environmental risk assessment
+2654:_:rem:::445:::d101:::Environmental Risk Assessment:::rem445:::rem445d101:::rem 445 d101 environmental risk assessment
+2655:_:rem:::445:::d102:::Environmental Risk Assessment:::rem445:::rem445d102:::rem 445 d102 environmental risk assessment
+2656:_:rem:::445:::d103:::Environmental Risk Assessment:::rem445:::rem445d103:::rem 445 d103 environmental risk assessment
+2657:_:easc:::202:::d100:::Introduction to Mineralogy:::easc202:::easc202d100:::easc 202 d100 introduction to mineralogy
+2658:_:easc:::202:::d101:::Introduction to Mineralogy:::easc202:::easc202d101:::easc 202 d101 introduction to mineralogy
+2659:_:cmpt:::721:::g100:::Knowledge Representation and Reasoning:::cmpt721:::cmpt721g100:::cmpt 721 g100 knowledge representation and reasoning
+2660:_:bus:::498:::d100:::Directed Studies:::bus498:::bus498d100:::bus 498 d100 directed studies
+2661:_:bus:::498:::d200:::Directed Studies:::bus498:::bus498d200:::bus 498 d200 directed studies
+2662:_:bus:::498:::d300:::Directed Studies:::bus498:::bus498d300:::bus 498 d300 directed studies
+2663:_:bus:::498:::d400:::Directed Studies:::bus498:::bus498d400:::bus 498 d400 directed studies
+2664:_:iat:::487:::d100:::Directed Studies:::iat487:::iat487d100:::iat 487 d100 directed studies
+2665:_:iat:::487:::d200:::Directed Studies:::iat487:::iat487d200:::iat 487 d200 directed studies
+2666:_:iat:::487:::d300:::Directed Studies:::iat487:::iat487d300:::iat 487 d300 directed studies
+2667:_:iat:::487:::d400:::Directed Studies:::iat487:::iat487d400:::iat 487 d400 directed studies
+2668:_:hist:::300:::d100:::Historiography:::hist300:::hist300d100:::hist 300 d100 historiography
+2669:_:phys:::437:::d100:::Practicum V:::phys437:::phys437d100:::phys 437 d100 practicum v
+2670:_:phys:::437:::d200:::Practicum V:::phys437:::phys437d200:::phys 437 d200 practicum v
+2671:_:phys:::437:::i100:::Practicum V:::phys437:::phys437i100:::phys 437 i100 practicum v
+2672:_:phys:::432:::d100:::Undergraduate Honours Thesis:::phys432:::phys432d100:::phys 432 d100 undergraduate honours thesis
+2673:_:iat:::431:::d100:::Speculative Design:::iat431:::iat431d100:::iat 431 d100 speculative design
+2674:_:phys:::436:::d100:::Practicum IV:::phys436:::phys436d100:::phys 436 d100 practicum iv
+2675:_:phys:::436:::d200:::Practicum IV:::phys436:::phys436d200:::phys 436 d200 practicum iv
+2676:_:phys:::436:::i100:::Practicum IV:::phys436:::phys436i100:::phys 436 i100 practicum iv
+2677:_:phys:::435:::d100:::Practicum III:::phys435:::phys435d100:::phys 435 d100 practicum iii
+2678:_:phys:::435:::d200:::Practicum III:::phys435:::phys435d200:::phys 435 d200 practicum iii
+2679:_:phys:::435:::i100:::Practicum III:::phys435:::phys435i100:::phys 435 i100 practicum iii
+2680:_:iat:::445:::d100:::Immersive Environments:::iat445:::iat445d100:::iat 445 d100 immersive environments
+2681:_:iat:::445:::d101:::Immersive Environments:::iat445:::iat445d101:::iat 445 d101 immersive environments
+2682:_:iat:::445:::d102:::Immersive Environments:::iat445:::iat445d102:::iat 445 d102 immersive environments
+2683:_:geog:::352:::d100:::Spatial Analysis:::geog352:::geog352d100:::geog 352 d100 spatial analysis
+2684:_:geog:::352:::d101:::Spatial Analysis:::geog352:::geog352d101:::geog 352 d101 spatial analysis
+2685:_:geog:::352:::d102:::Spatial Analysis:::geog352:::geog352d102:::geog 352 d102 spatial analysis
+2686:_:geog:::352:::d103:::Spatial Analysis:::geog352:::geog352d103:::geog 352 d103 spatial analysis
+2687:_:geog:::352:::d104:::Spatial Analysis:::geog352:::geog352d104:::geog 352 d104 spatial analysis
+2688:_:phys:::431:::la01:::Advanced Physics Laboratory II:::phys431:::phys431la01:::phys 431 la01 advanced physics laboratory ii
+2689:_:arch:::450:::d100:::Practicum III:::arch450:::arch450d100:::arch 450 d100 practicum iii
+2690:_:hist:::299:::d100:::Problems in History:::hist299:::hist299d100:::hist 299 d100 problems in history
+2691:_:easc:::207:::d100:::Introduction to Applied Geophysics:::easc207:::easc207d100:::easc 207 d100 introduction to applied geophysics
+2692:_:easc:::207:::d101:::Introduction to Applied Geophysics:::easc207:::easc207d101:::easc 207 d101 introduction to applied geophysics
+2693:_:easc:::206:::d100:::Field Geology I:::easc206:::easc206d100:::easc 206 d100 field geology i
+2694:_:geog:::355:::d100:::Geographical Information Science II:::geog355:::geog355d100:::geog 355 d100 geographical information science ii
+2695:_:geog:::355:::d101:::Geographical Information Science II:::geog355:::geog355d101:::geog 355 d101 geographical information science ii
+2696:_:geog:::355:::d102:::Geographical Information Science II:::geog355:::geog355d102:::geog 355 d102 geographical information science ii
+2697:_:geog:::355:::d103:::Geographical Information Science II:::geog355:::geog355d103:::geog 355 d103 geographical information science ii
+2698:_:hsci:::330:::d100:::Exploratory Strategies in Epidemiology:::hsci330:::hsci330d100:::hsci 330 d100 exploratory strategies in epidemiology
+2699:_:rem:::621:::g100:::Ecological Economics:::rem621:::rem621g100:::rem 621 g100 ecological economics
+2700:_:easc:::302:::d100:::Sedimentary Petrology:::easc302:::easc302d100:::easc 302 d100 sedimentary petrology
+2701:_:easc:::302:::d101:::Sedimentary Petrology:::easc302:::easc302d101:::easc 302 d101 sedimentary petrology
+2702:_:phys:::413:::d100:::Advanced Mechanics:::phys413:::phys413d100:::phys 413 d100 advanced mechanics
+2703:_:phys:::413:::d101:::Advanced Mechanics:::phys413:::phys413d101:::phys 413 d101 advanced mechanics
+2704:_:edpr:::528:::g100:::Special Topics:::edpr528:::edpr528g100:::edpr 528 g100 special topics
+2705:_:easc:::421:::d100:::Volcanology:::easc421:::easc421d100:::easc 421 d100 volcanology
+2706:_:easc:::421:::d101:::Volcanology:::easc421:::easc421d101:::easc 421 d101 volcanology
+2707:_:hsci:::473:::d100:::Special Topics in Health Sciences III:::hsci473:::hsci473d100:::hsci 473 d100 special topics in health sciences iii
+2708:_:arch:::479:::d100:::Directed Readings:::arch479:::arch479d100:::arch 479 d100 directed readings
+2709:_:arch:::479:::d200:::Directed Readings:::arch479:::arch479d200:::arch 479 d200 directed readings
+2710:_:arch:::479:::d300:::Directed Readings:::arch479:::arch479d300:::arch 479 d300 directed readings
+2711:_:pub:::800:::g100:::Text & Context: Publishing in Contemporary Culture:::pub800:::pub800g100:::pub 800 g100 text & context: publishing in contemporary culture
+2712:_:bus:::553:::g100:::Business Analytics:::bus553:::bus553g100:::bus 553 g100 business analytics
+2713:_:hsci:::471:::d100:::Special Topics in Health Sciences I:::hsci471:::hsci471d100:::hsci 471 d100 special topics in health sciences i
+2714:_:hsci:::471:::d200:::Special Topics in Health Sciences I:::hsci471:::hsci471d200:::hsci 471 d200 special topics in health sciences i
+2715:_:bus:::552:::g100:::Managerial Economics:::bus552:::bus552g100:::bus 552 g100 managerial economics
+2716:_:bus:::552:::g200:::Managerial Economics:::bus552:::bus552g200:::bus 552 g200 managerial economics
+2717:_:math:::877:::g100:::Supplementary Reading:::math877:::math877g100:::math 877 g100 supplementary reading
+2718:_:hsci:::424:::d100:::Strategic Applications of GIS in Health:::hsci424:::hsci424d100:::hsci 424 d100 strategic applications of gis in health
+2719:_:pub:::605:::g100:::Book Publishing Project:::pub605:::pub605g100:::pub 605 g100 book publishing project
+2720:_:crim:::899:::g100:::PhD Thesis:::crim899:::crim899g100:::crim 899 g100 phd thesis
+2721:_:crim:::899:::g200:::PhD Thesis:::crim899:::crim899g200:::crim 899 g200 phd thesis
+2722:_:crim:::898:::g100:::MA Thesis:::crim898:::crim898g100:::crim 898 g100 ma thesis
+2723:_:crim:::898:::g200:::MA Thesis:::crim898:::crim898g200:::crim 898 g200 ma thesis
+2724:_:bus:::557:::g100:::Managing People and Organizations:::bus557:::bus557g100:::bus 557 g100 managing people and organizations
+2725:_:bus:::557:::g300:::Managing People and Organizations:::bus557:::bus557g300:::bus 557 g300 managing people and organizations
+2726:_:bus:::557:::g400:::Managing People and Organizations:::bus557:::bus557g400:::bus 557 g400 managing people and organizations
+2727:_:hsci:::472:::d100:::Special Topics in Health Sciences II:::hsci472:::hsci472d100:::hsci 472 d100 special topics in health sciences ii
+2728:_:bus:::555:::g100:::Managerial Finance:::bus555:::bus555g100:::bus 555 g100 managerial finance
+2729:_:bus:::555:::g200:::Managerial Finance:::bus555:::bus555g200:::bus 555 g200 managerial finance
+2730:_:bisc:::656:::g100:::Master of Environmental Toxicology Project:::bisc656:::bisc656g100:::bisc 656 g100 master of environmental toxicology project
+2731:_:bisc:::656:::g200:::Master of Environmental Toxicology Project:::bisc656:::bisc656g200:::bisc 656 g200 master of environmental toxicology project
+2732:_:bisc:::658:::g100:::Co-op Practicum II:::bisc658:::bisc658g100:::bisc 658 g100 co-op practicum ii
+2733:_:bisc:::658:::g200:::Co-op Practicum II:::bisc658:::bisc658g200:::bisc 658 g200 co-op practicum ii
+2734:_:bisc:::658:::i100:::Co-op Practicum II:::bisc658:::bisc658i100:::bisc 658 i100 co-op practicum ii
+2735:_:bisc:::657:::g100:::Co-Op Practicum I:::bisc657:::bisc657g100:::bisc 657 g100 co-op practicum i
+2736:_:bisc:::657:::g200:::Co-Op Practicum I:::bisc657:::bisc657g200:::bisc 657 g200 co-op practicum i
+2737:_:bisc:::657:::i100:::Co-Op Practicum I:::bisc657:::bisc657i100:::bisc 657 i100 co-op practicum i
+2738:_:hsci:::801:::g100:::Biostatistics for Population Health Practice I:::hsci801:::hsci801g100:::hsci 801 g100 biostatistics for population health practice i
+2739:_:hsci:::801:::g101:::Biostatistics for Population Health Practice I:::hsci801:::hsci801g101:::hsci 801 g101 biostatistics for population health practice i
+2740:_:hsci:::801:::g102:::Biostatistics for Population Health Practice I:::hsci801:::hsci801g102:::hsci 801 g102 biostatistics for population health practice i
+2741:_:phys:::385:::d100:::Quantum Mechanics I:::phys385:::phys385d100:::phys 385 d100 quantum mechanics i
+2742:_:phys:::385:::d101:::Quantum Mechanics I:::phys385:::phys385d101:::phys 385 d101 quantum mechanics i
+2743:_:phys:::384:::d100:::Methods of Theoretical Physics I:::phys384:::phys384d100:::phys 384 d100 methods of theoretical physics i
+2744:_:phys:::384:::d101:::Methods of Theoretical Physics I:::phys384:::phys384d101:::phys 384 d101 methods of theoretical physics i
+2745:_:hsci:::891:::g100:::Special Topics in Health Sciences:::hsci891:::hsci891g100:::hsci 891 g100 special topics in health sciences
+2746:_:psyc:::807a:::g100:::Advanced Topics in Intervention: Child Therapy:::psyc807a:::psyc807ag100:::psyc 807a g100 advanced topics in intervention: child therapy
+2747:_:arch:::498:::d100:::Honours Reading:::arch498:::arch498d100:::arch 498 d100 honours reading
+2748:_:arch:::498:::d200:::Honours Reading:::arch498:::arch498d200:::arch 498 d200 honours reading
+2749:_:arch:::498:::d300:::Honours Reading:::arch498:::arch498d300:::arch 498 d300 honours reading
+2750:_:arch:::498:::d400:::Honours Reading:::arch498:::arch498d400:::arch 498 d400 honours reading
+2751:_:arch:::499:::d100:::Honours Thesis:::arch499:::arch499d100:::arch 499 d100 honours thesis
+2752:_:arch:::499:::d200:::Honours Thesis:::arch499:::arch499d200:::arch 499 d200 honours thesis
+2753:_:arch:::499:::d300:::Honours Thesis:::arch499:::arch499d300:::arch 499 d300 honours thesis
+2754:_:arch:::871:::g200:::Archaeological Theory:::arch871:::arch871g200:::arch 871 g200 archaeological theory
+2755:_:arch:::873:::g100:::Graduate Seminar in Archaeology and Prehistory:::arch873:::arch873g100:::arch 873 g100 graduate seminar in archaeology and prehistory
+2756:_:arch:::872:::g100:::Graduate Seminar in Archaeology and Prehistory:::arch872:::arch872g100:::arch 872 g100 graduate seminar in archaeology and prehistory
+2757:_:arch:::480:::d100:::Directed Laboratory/Library/Field Research:::arch480:::arch480d100:::arch 480 d100 directed laboratory/library/field research
+2758:_:rem:::311:::d100:::Applied Ecology and Sustainable Environments:::rem311:::rem311d100:::rem 311 d100 applied ecology and sustainable environments
+2759:_:rem:::311:::d101:::Applied Ecology and Sustainable Environments:::rem311:::rem311d101:::rem 311 d101 applied ecology and sustainable environments
+2760:_:rem:::311:::d102:::Applied Ecology and Sustainable Environments:::rem311:::rem311d102:::rem 311 d102 applied ecology and sustainable environments
+2761:_:hist:::467:::d100:::Modern Egypt:::hist467:::hist467d100:::hist 467 d100 modern egypt
+2762:_:rem:::100:::c100:::Global Change:::rem100:::rem100c100:::rem 100 c100 global change
+2763:_:rem:::100:::d100:::Global Change:::rem100:::rem100d100:::rem 100 d100 global change
+2764:_:rem:::100:::d101:::Global Change:::rem100:::rem100d101:::rem 100 d101 global change
+2765:_:rem:::100:::d102:::Global Change:::rem100:::rem100d102:::rem 100 d102 global change
+2766:_:rem:::100:::d103:::Global Change:::rem100:::rem100d103:::rem 100 d103 global change
+2767:_:rem:::100:::d104:::Global Change:::rem100:::rem100d104:::rem 100 d104 global change
+2768:_:rem:::100:::d105:::Global Change:::rem100:::rem100d105:::rem 100 d105 global change
 2769:_:rem:::100:::d107:::Global Change:::rem100:::rem100d107:::rem 100 d107 global change
 2770:_:rem:::100:::d108:::Global Change:::rem100:::rem100d108:::rem 100 d108 global change
 2771:_:rem:::100:::d109:::Global Change:::rem100:::rem100d109:::rem 100 d109 global change
@@ -3139,7 +3139,7 @@
 3139:_:sa:::101:::d903:::Introduction to Anthropology (A):::sa101:::sa101d903:::sa 101 d903 introduction to anthropology (a)
 3140:_:sa:::101:::d904:::Introduction to Anthropology (A):::sa101:::sa101d904:::sa 101 d904 introduction to anthropology (a)
 3141:_:sa:::101:::j100:::Introduction to Anthropology (A):::sa101:::sa101j100:::sa 101 j100 introduction to anthropology (a)
-3142:_:fnlg:::134:::a380:::Introduction to FNLG II:::fnlg134:::fnlg134a380:::fnlg 134 a380 introduction to fnlg ii
+3142:_:fnlg:::134:::a370:::Introduction to FNLG II:::fnlg134:::fnlg134a370:::fnlg 134 a370 introduction to fnlg ii
 3143:_:fnlg:::134:::a900:::Introduction to FNLG II:::fnlg134:::fnlg134a900:::fnlg 134 a900 introduction to fnlg ii
 3144:_:fren:::307:::d100:::The Right Word: Advanced Vocabulary and Translation:::fren307:::fren307d100:::fren 307 d100 the right word: advanced vocabulary and translation
 3145:_:hsci:::847:::g100:::Risk Assessment and Communication for Human Health:::hsci847:::hsci847g100:::hsci 847 g100 risk assessment and communication for human health
@@ -4916,27 +4916,27 @@
 4916:_:mse:::794:::g100:::Graduate Co-op Practicum II:::mse794:::mse794g100:::mse 794 g100 graduate co-op practicum ii
 4917:_:mse:::794:::g200:::Graduate Co-op Practicum II:::mse794:::mse794g200:::mse 794 g200 graduate co-op practicum ii
 4918:_:mse:::794:::i100:::Graduate Co-op Practicum II:::mse794:::mse794i100:::mse 794 i100 graduate co-op practicum ii
-4919:_:phil:::326:::d100:::Topics in Law and Philosophy:::phil326:::phil326d100:::phil 326 d100 topics in law and philosophy
-4920:_:stat:::605:::g100:::Biostatistical Methods:::stat605:::stat605g100:::stat 605 g100 biostatistical methods
-4921:_:mse:::812:::g100:::Advanced 3D Printing:::mse812:::mse812g100:::mse 812 g100 advanced 3d printing
-4922:_:stat:::311:::d100:::Data Science Laboratory for the Social Sciences:::stat311:::stat311d100:::stat 311 d100 data science laboratory for the social sciences
-4923:_:stat:::311:::d200:::Data Science Laboratory for the Social Sciences:::stat311:::stat311d200:::stat 311 d200 data science laboratory for the social sciences
-4924:_:stat:::311:::d300:::Data Science Laboratory for the Social Sciences:::stat311:::stat311d300:::stat 311 d300 data science laboratory for the social sciences
-4925:_:stat:::311:::d400:::Data Science Laboratory for the Social Sciences:::stat311:::stat311d400:::stat 311 d400 data science laboratory for the social sciences
-4926:_:apma:::923:::g100:::Numerical Methods in Continuous Optimization:::apma923:::apma923g100:::apma 923 g100 numerical methods in continuous optimization
-4927:_:stat:::310:::d100:::Introduction to Data Science for the Social Sciences:::stat310:::stat310d100:::stat 310 d100 introduction to data science for the social sciences
-4928:_:sa:::322:::d100:::Religion and Society (SA):::sa322:::sa322d100:::sa 322 d100 religion and society (sa)
-4929:_:sa:::325:::d100:::Political Sociology (S):::sa325:::sa325d100:::sa 325 d100 political sociology (s)
-4930:_:ca:::390:::d100:::Filmmaking IV:::ca390:::ca390d100:::ca 390 d100 filmmaking iv
-4931:_:ca:::390:::d101:::Filmmaking IV:::ca390:::ca390d101:::ca 390 d101 filmmaking iv
-4932:_:apma:::922:::g100:::Numerical Solution of Partial Differential Equations:::apma922:::apma922g100:::apma 922 g100 numerical solution of partial differential equations
-4933:_:mbb:::761:::g100:::Comparative Genomics:::mbb761:::mbb761g100:::mbb 761 g100 comparative genomics
-4934:_:bisc:::316:::d100:::Vertebrate Biology:::bisc316:::bisc316d100:::bisc 316 d100 vertebrate biology
-4935:_:bisc:::316:::lab1:::Vertebrate Biology:::bisc316:::bisc316lab1:::bisc 316 lab1 vertebrate biology
-4936:_:bisc:::316:::lab2:::Vertebrate Biology:::bisc316:::bisc316lab2:::bisc 316 lab2 vertebrate biology
-4937:_:bisc:::316:::lab3:::Vertebrate Biology:::bisc316:::bisc316lab3:::bisc 316 lab3 vertebrate biology
-4938:_:bisc:::316:::lab4:::Vertebrate Biology:::bisc316:::bisc316lab4:::bisc 316 lab4 vertebrate biology
-4939:_:hist:::237:::d100:::STT-History of Scotland, 1707-present (Inactive):::hist237:::hist237d100:::hist 237 d100 stt-history of scotland, 1707-present (inactive)
+4919:_:mse:::901:::g100:::Becoming a Professional Engineer:::mse901:::mse901g100:::mse 901 g100 becoming a professional engineer
+4920:_:phil:::326:::d100:::Topics in Law and Philosophy:::phil326:::phil326d100:::phil 326 d100 topics in law and philosophy
+4921:_:stat:::605:::g100:::Biostatistical Methods:::stat605:::stat605g100:::stat 605 g100 biostatistical methods
+4922:_:mse:::812:::g100:::Advanced 3D Printing:::mse812:::mse812g100:::mse 812 g100 advanced 3d printing
+4923:_:stat:::311:::d100:::Data Science Laboratory for the Social Sciences:::stat311:::stat311d100:::stat 311 d100 data science laboratory for the social sciences
+4924:_:stat:::311:::d200:::Data Science Laboratory for the Social Sciences:::stat311:::stat311d200:::stat 311 d200 data science laboratory for the social sciences
+4925:_:stat:::311:::d300:::Data Science Laboratory for the Social Sciences:::stat311:::stat311d300:::stat 311 d300 data science laboratory for the social sciences
+4926:_:stat:::311:::d400:::Data Science Laboratory for the Social Sciences:::stat311:::stat311d400:::stat 311 d400 data science laboratory for the social sciences
+4927:_:apma:::923:::g100:::Numerical Methods in Continuous Optimization:::apma923:::apma923g100:::apma 923 g100 numerical methods in continuous optimization
+4928:_:stat:::310:::d100:::Introduction to Data Science for the Social Sciences:::stat310:::stat310d100:::stat 310 d100 introduction to data science for the social sciences
+4929:_:sa:::322:::d100:::Religion and Society (SA):::sa322:::sa322d100:::sa 322 d100 religion and society (sa)
+4930:_:sa:::325:::d100:::Political Sociology (S):::sa325:::sa325d100:::sa 325 d100 political sociology (s)
+4931:_:ca:::390:::d100:::Filmmaking IV:::ca390:::ca390d100:::ca 390 d100 filmmaking iv
+4932:_:ca:::390:::d101:::Filmmaking IV:::ca390:::ca390d101:::ca 390 d101 filmmaking iv
+4933:_:apma:::922:::g100:::Numerical Solution of Partial Differential Equations:::apma922:::apma922g100:::apma 922 g100 numerical solution of partial differential equations
+4934:_:mbb:::761:::g100:::Comparative Genomics:::mbb761:::mbb761g100:::mbb 761 g100 comparative genomics
+4935:_:bisc:::316:::d100:::Vertebrate Biology:::bisc316:::bisc316d100:::bisc 316 d100 vertebrate biology
+4936:_:bisc:::316:::lab1:::Vertebrate Biology:::bisc316:::bisc316lab1:::bisc 316 lab1 vertebrate biology
+4937:_:bisc:::316:::lab2:::Vertebrate Biology:::bisc316:::bisc316lab2:::bisc 316 lab2 vertebrate biology
+4938:_:bisc:::316:::lab3:::Vertebrate Biology:::bisc316:::bisc316lab3:::bisc 316 lab3 vertebrate biology
+4939:_:bisc:::316:::lab4:::Vertebrate Biology:::bisc316:::bisc316lab4:::bisc 316 lab4 vertebrate biology
 4940:_:cmns:::8cc:::g100:::Communications Graduate Dual Degree - First term -  CUC:::cmns8cc:::cmns8ccg100:::cmns 8cc g100 communications graduate dual degree - first term -  cuc
 4941:_:ca:::401:::d100:::Directed Studies (Theory/History):::ca401:::ca401d100:::ca 401 d100 directed studies (theory/history)
 4942:_:ca:::401:::d200:::Directed Studies (Theory/History):::ca401:::ca401d200:::ca 401 d200 directed studies (theory/history)
@@ -5273,7 +5273,7 @@
 5273:_:bisc:::342:::d100:::Practicum II:::bisc342:::bisc342d100:::bisc 342 d100 practicum ii
 5274:_:bisc:::342:::d200:::Practicum II:::bisc342:::bisc342d200:::bisc 342 d200 practicum ii
 5275:_:bisc:::342:::i100:::Practicum II:::bisc342:::bisc342i100:::bisc 342 i100 practicum ii
-5276:_:fnlg:::133:::a380:::Introduction to First Nations Language I:::fnlg133:::fnlg133a380:::fnlg 133 a380 introduction to first nations language i
+5276:_:fnlg:::133:::a370:::Introduction to First Nations Language I:::fnlg133:::fnlg133a370:::fnlg 133 a370 introduction to first nations language i
 5277:_:fnlg:::133:::a900:::Introduction to First Nations Language I:::fnlg133:::fnlg133a900:::fnlg 133 a900 introduction to first nations language i
 5278:_:hs:::100:::d100:::The Greek World:::hs100:::hs100d100:::hs 100 d100 the greek world
 5279:_:ensc:::385:::d100:::Statics and Strength of Materials:::ensc385:::ensc385d100:::ensc 385 d100 statics and strength of materials
@@ -5586,54 +5586,52 @@
 5586:_:educ:::710:::g002:::Special Topics:::educ710:::educ710g002:::educ 710 g002 special topics
 5587:_:ca:::227:::e100:::History of Dance: From the 20th Century to the Present:::ca227:::ca227e100:::ca 227 e100 history of dance: from the 20th century to the present
 5588:_:iat:::355:::d100:::Introduction to Visual Analytics:::iat355:::iat355d100:::iat 355 d100 introduction to visual analytics
-5589:_:iat:::235:::d100:::Information Design:::iat235:::iat235d100:::iat 235 d100 information design
-5590:_:iat:::235:::d101:::Information Design:::iat235:::iat235d101:::iat 235 d101 information design
-5591:_:iat:::235:::d102:::Information Design:::iat235:::iat235d102:::iat 235 d102 information design
-5592:_:iat:::235:::d103:::Information Design:::iat235:::iat235d103:::iat 235 d103 information design
-5593:_:iat:::235:::d104:::Information Design:::iat235:::iat235d104:::iat 235 d104 information design
-5594:_:chem:::110:::d100:::Introductory Chemistry:::chem110:::chem110d100:::chem 110 d100 introductory chemistry
-5595:_:chem:::110:::d101:::Introductory Chemistry:::chem110:::chem110d101:::chem 110 d101 introductory chemistry
-5596:_:chem:::110:::d102:::Introductory Chemistry:::chem110:::chem110d102:::chem 110 d102 introductory chemistry
-5597:_:chem:::110:::d103:::Introductory Chemistry:::chem110:::chem110d103:::chem 110 d103 introductory chemistry
-5598:_:chem:::110:::d104:::Introductory Chemistry:::chem110:::chem110d104:::chem 110 d104 introductory chemistry
-5599:_:chem:::110:::d105:::Introductory Chemistry:::chem110:::chem110d105:::chem 110 d105 introductory chemistry
-5600:_:chem:::110:::d106:::Introductory Chemistry:::chem110:::chem110d106:::chem 110 d106 introductory chemistry
-5601:_:chem:::110:::d107:::Introductory Chemistry:::chem110:::chem110d107:::chem 110 d107 introductory chemistry
-5602:_:chem:::110:::d108:::Introductory Chemistry:::chem110:::chem110d108:::chem 110 d108 introductory chemistry
-5603:_:iat:::344:::d100:::Moving Images:::iat344:::iat344d100:::iat 344 d100 moving images
-5604:_:iat:::344:::d101:::Moving Images:::iat344:::iat344d101:::iat 344 d101 moving images
-5605:_:iat:::344:::d102:::Moving Images:::iat344:::iat344d102:::iat 344 d102 moving images
-5606:_:chem:::111:::d100:::Introductory Chemistry and Laboratory:::chem111:::chem111d100:::chem 111 d100 introductory chemistry and laboratory
-5607:_:chem:::111:::d101:::Introductory Chemistry and Laboratory:::chem111:::chem111d101:::chem 111 d101 introductory chemistry and laboratory
-5608:_:chem:::111:::d102:::Introductory Chemistry and Laboratory:::chem111:::chem111d102:::chem 111 d102 introductory chemistry and laboratory
-5609:_:chem:::111:::d103:::Introductory Chemistry and Laboratory:::chem111:::chem111d103:::chem 111 d103 introductory chemistry and laboratory
-5610:_:chem:::111:::d104:::Introductory Chemistry and Laboratory:::chem111:::chem111d104:::chem 111 d104 introductory chemistry and laboratory
-5611:_:chem:::111:::d105:::Introductory Chemistry and Laboratory:::chem111:::chem111d105:::chem 111 d105 introductory chemistry and laboratory
-5612:_:chem:::111:::d106:::Introductory Chemistry and Laboratory:::chem111:::chem111d106:::chem 111 d106 introductory chemistry and laboratory
-5613:_:chem:::111:::d107:::Introductory Chemistry and Laboratory:::chem111:::chem111d107:::chem 111 d107 introductory chemistry and laboratory
-5614:_:chem:::111:::d108:::Introductory Chemistry and Laboratory:::chem111:::chem111d108:::chem 111 d108 introductory chemistry and laboratory
-5615:_:chem:::111:::la01:::Introductory Chemistry and Laboratory:::chem111:::chem111la01:::chem 111 la01 introductory chemistry and laboratory
-5616:_:educ:::921:::g001:::Seminar in Philosophy and Educational Theory:::educ921:::educ921g001:::educ 921 g001 seminar in philosophy and educational theory
-5617:_:iat:::343:::d100:::Animation:::iat343:::iat343d100:::iat 343 d100 animation
-5618:_:iat:::343:::d101:::Animation:::iat343:::iat343d101:::iat 343 d101 animation
-5619:_:iat:::343:::d102:::Animation:::iat343:::iat343d102:::iat 343 d102 animation
-5620:_:engl:::420w:::d100:::Topics in Eighteenth Century Literature:::engl420w:::engl420wd100:::engl 420w d100 topics in eighteenth century literature
-5621:_:engl:::427w:::e100:::Topics in the Romantic Period:::engl427w:::engl427we100:::engl 427w e100 topics in the romantic period
-5622:_:engl:::434w:::d100:::Topics in the Victorian Period:::engl434w:::engl434wd100:::engl 434w d100 topics in the victorian period
-5623:_:engl:::486w:::d100:::Topics in Gender, Sexuality and Literature:::engl486w:::engl486wd100:::engl 486w d100 topics in gender, sexuality and literature
-5624:_:psyc:::363:::d100:::Intergroup Relations:::psyc363:::psyc363d100:::psyc 363 d100 intergroup relations
-5625:_:psyc:::376:::c100:::Experimental Psychology and Law:::psyc376:::psyc376c100:::psyc 376 c100 experimental psychology and law
-5626:_:engl:::470w:::d100:::Studies in the English Language:::engl470w:::engl470wd100:::engl 470w d100 studies in the english language
-5627:_:gero:::410:::e100:::Special Topics in Gerontology I:::gero410:::gero410e100:::gero 410 e100 special topics in gerontology i
-5628:_:ca:::230:::d100:::Filmmaking II:::ca230:::ca230d100:::ca 230 d100 filmmaking ii
-5629:_:ca:::230:::d101:::Filmmaking II:::ca230:::ca230d101:::ca 230 d101 filmmaking ii
-5630:_:ca:::230:::d102:::Filmmaking II:::ca230:::ca230d102:::ca 230 d102 filmmaking ii
-5631:_:cogs:::310:::d100:::Consciousness:::cogs310:::cogs310d100:::cogs 310 d100 consciousness
-5632:_:ca:::232:::d100:::Film Sound:::ca232:::ca232d100:::ca 232 d100 film sound
-5633:_:ca:::232:::d101:::Film Sound:::ca232:::ca232d101:::ca 232 d101 film sound
-5634:_:ca:::232:::d102:::Film Sound:::ca232:::ca232d102:::ca 232 d102 film sound
-5635:_:ca:::233:::d100:::The Techniques of Film:::ca233:::ca233d100:::ca 233 d100 the techniques of film
-5636:_:educ:::371w:::e100:::School Health Education:::educ371w:::educ371we100:::educ 371w e100 school health education
-5637:_:gsws:::312:::c100:::Immigrants, Women and Transnational Migration:::gsws312:::gsws312c100:::gsws 312 c100 immigrants, women and transnational migration
-5638:_:bpk:::420:::d100:::Selected Topics in Kinesiology I:::bpk420:::bpk420d100:::bpk 420 d100 selected topics in kinesiology i
-5639:_:engl:::465w:::d100:::Topics in Critical Theory:::engl465w:::engl465wd100:::engl 465w d100 topics in critical theory
+5589:_:chem:::110:::d100:::Introductory Chemistry:::chem110:::chem110d100:::chem 110 d100 introductory chemistry
+5590:_:chem:::110:::d101:::Introductory Chemistry:::chem110:::chem110d101:::chem 110 d101 introductory chemistry
+5591:_:chem:::110:::d102:::Introductory Chemistry:::chem110:::chem110d102:::chem 110 d102 introductory chemistry
+5592:_:chem:::110:::d103:::Introductory Chemistry:::chem110:::chem110d103:::chem 110 d103 introductory chemistry
+5593:_:chem:::110:::d105:::Introductory Chemistry:::chem110:::chem110d105:::chem 110 d105 introductory chemistry
+5594:_:chem:::110:::d106:::Introductory Chemistry:::chem110:::chem110d106:::chem 110 d106 introductory chemistry
+5595:_:chem:::110:::d107:::Introductory Chemistry:::chem110:::chem110d107:::chem 110 d107 introductory chemistry
+5596:_:chem:::110:::d108:::Introductory Chemistry:::chem110:::chem110d108:::chem 110 d108 introductory chemistry
+5597:_:iat:::235:::d100:::Information Design:::iat235:::iat235d100:::iat 235 d100 information design
+5598:_:iat:::235:::d101:::Information Design:::iat235:::iat235d101:::iat 235 d101 information design
+5599:_:iat:::235:::d102:::Information Design:::iat235:::iat235d102:::iat 235 d102 information design
+5600:_:iat:::235:::d103:::Information Design:::iat235:::iat235d103:::iat 235 d103 information design
+5601:_:iat:::235:::d104:::Information Design:::iat235:::iat235d104:::iat 235 d104 information design
+5602:_:iat:::344:::d100:::Moving Images:::iat344:::iat344d100:::iat 344 d100 moving images
+5603:_:iat:::344:::d101:::Moving Images:::iat344:::iat344d101:::iat 344 d101 moving images
+5604:_:iat:::344:::d102:::Moving Images:::iat344:::iat344d102:::iat 344 d102 moving images
+5605:_:chem:::111:::d100:::Introductory Chemistry and Laboratory:::chem111:::chem111d100:::chem 111 d100 introductory chemistry and laboratory
+5606:_:chem:::111:::d101:::Introductory Chemistry and Laboratory:::chem111:::chem111d101:::chem 111 d101 introductory chemistry and laboratory
+5607:_:chem:::111:::d102:::Introductory Chemistry and Laboratory:::chem111:::chem111d102:::chem 111 d102 introductory chemistry and laboratory
+5608:_:chem:::111:::d103:::Introductory Chemistry and Laboratory:::chem111:::chem111d103:::chem 111 d103 introductory chemistry and laboratory
+5609:_:chem:::111:::d105:::Introductory Chemistry and Laboratory:::chem111:::chem111d105:::chem 111 d105 introductory chemistry and laboratory
+5610:_:chem:::111:::d106:::Introductory Chemistry and Laboratory:::chem111:::chem111d106:::chem 111 d106 introductory chemistry and laboratory
+5611:_:chem:::111:::d107:::Introductory Chemistry and Laboratory:::chem111:::chem111d107:::chem 111 d107 introductory chemistry and laboratory
+5612:_:chem:::111:::d108:::Introductory Chemistry and Laboratory:::chem111:::chem111d108:::chem 111 d108 introductory chemistry and laboratory
+5613:_:chem:::111:::la01:::Introductory Chemistry and Laboratory:::chem111:::chem111la01:::chem 111 la01 introductory chemistry and laboratory
+5614:_:educ:::921:::g001:::Seminar in Philosophy and Educational Theory:::educ921:::educ921g001:::educ 921 g001 seminar in philosophy and educational theory
+5615:_:iat:::343:::d100:::Animation:::iat343:::iat343d100:::iat 343 d100 animation
+5616:_:iat:::343:::d101:::Animation:::iat343:::iat343d101:::iat 343 d101 animation
+5617:_:iat:::343:::d102:::Animation:::iat343:::iat343d102:::iat 343 d102 animation
+5618:_:engl:::420w:::d100:::Topics in Eighteenth Century Literature:::engl420w:::engl420wd100:::engl 420w d100 topics in eighteenth century literature
+5619:_:engl:::427w:::e100:::Topics in the Romantic Period:::engl427w:::engl427we100:::engl 427w e100 topics in the romantic period
+5620:_:engl:::434w:::d100:::Topics in the Victorian Period:::engl434w:::engl434wd100:::engl 434w d100 topics in the victorian period
+5621:_:engl:::486w:::d100:::Topics in Gender, Sexuality and Literature:::engl486w:::engl486wd100:::engl 486w d100 topics in gender, sexuality and literature
+5622:_:psyc:::363:::d100:::Intergroup Relations:::psyc363:::psyc363d100:::psyc 363 d100 intergroup relations
+5623:_:psyc:::376:::c100:::Experimental Psychology and Law:::psyc376:::psyc376c100:::psyc 376 c100 experimental psychology and law
+5624:_:engl:::470w:::d100:::Studies in the English Language:::engl470w:::engl470wd100:::engl 470w d100 studies in the english language
+5625:_:gero:::410:::e100:::Special Topics in Gerontology I:::gero410:::gero410e100:::gero 410 e100 special topics in gerontology i
+5626:_:ca:::230:::d100:::Filmmaking II:::ca230:::ca230d100:::ca 230 d100 filmmaking ii
+5627:_:ca:::230:::d101:::Filmmaking II:::ca230:::ca230d101:::ca 230 d101 filmmaking ii
+5628:_:ca:::230:::d102:::Filmmaking II:::ca230:::ca230d102:::ca 230 d102 filmmaking ii
+5629:_:cogs:::310:::d100:::Consciousness:::cogs310:::cogs310d100:::cogs 310 d100 consciousness
+5630:_:ca:::232:::d100:::Film Sound:::ca232:::ca232d100:::ca 232 d100 film sound
+5631:_:ca:::232:::d101:::Film Sound:::ca232:::ca232d101:::ca 232 d101 film sound
+5632:_:ca:::232:::d102:::Film Sound:::ca232:::ca232d102:::ca 232 d102 film sound
+5633:_:ca:::233:::d100:::The Techniques of Film:::ca233:::ca233d100:::ca 233 d100 the techniques of film
+5634:_:educ:::371w:::e100:::School Health Education:::educ371w:::educ371we100:::educ 371w e100 school health education
+5635:_:gsws:::312:::c100:::Immigrants, Women and Transnational Migration:::gsws312:::gsws312c100:::gsws 312 c100 immigrants, women and transnational migration
+5636:_:bpk:::420:::d100:::Selected Topics in Kinesiology I:::bpk420:::bpk420d100:::bpk 420 d100 selected topics in kinesiology i
+5637:_:engl:::465w:::d100:::Topics in Critical Theory:::engl465w:::engl465wd100:::engl 465w d100 topics in critical theory
