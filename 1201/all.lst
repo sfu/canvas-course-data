@@ -5249,10 +5249,10 @@
 5249:_:psyc:::330:::d100:::Attention:::psyc330:::psyc330d100:::psyc 330 d100 attention
 5250:_:psyc:::325:::d100:::Learning and Memory:::psyc325:::psyc325d100:::psyc 325 d100 learning and memory
 5251:_:phil:::201:::d100:::Epistemology:::phil201:::phil201d100:::phil 201 d100 epistemology
-5252:_:bus:::652:::g100:::Special Topics in Business Administration:::bus652:::bus652g100:::bus 652 g100 special topics in business administration
+5252:_:bus:::652:::g200:::Special Topics in Business Administration:::bus652:::bus652g200:::bus 652 g200 special topics in business administration
 5253:_:rem:::658:::g100:::Energy and Materials Systems Modeling:::rem658:::rem658g100:::rem 658 g100 energy and materials systems modeling
 5254:_:bus:::655:::g100:::Special Topics in Business Administration:::bus655:::bus655g100:::bus 655 g100 special topics in business administration
-5255:_:bus:::653:::g100:::Special Topics in Business Administration:::bus653:::bus653g100:::bus 653 g100 special topics in business administration
+5255:_:bus:::653:::g200:::Special Topics in Business Administration:::bus653:::bus653g200:::bus 653 g200 special topics in business administration
 5256:_:educ:::423:::e100:::Helping Relationships:::educ423:::educ423e100:::educ 423 e100 helping relationships
 5257:_:educ:::423:::e200:::Helping Relationships:::educ423:::educ423e200:::educ 423 e200 helping relationships
 5258:_:edpr:::504:::g100:::Special Topics:::edpr504:::edpr504g100:::edpr 504 g100 special topics
