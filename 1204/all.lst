@@ -2645,604 +2645,605 @@
 2645:_:educ:::401w:::d001:::Introduction to Classroom Teaching:::educ401w:::educ401wd001:::educ 401w d001 introduction to classroom teaching
 2646:_:edpr:::539:::g100:::Special Topics:::edpr539:::edpr539g100:::edpr 539 g100 special topics
 2647:_:hist:::897:::g100:::Supervised Readings:::hist897:::hist897g100:::hist 897 g100 supervised readings
-2648:_:crim:::485:::d100:::Professional Development - Criminal Justice Practice:::crim485:::crim485d100:::crim 485 d100 professional development - criminal justice practice
-2649:_:hsci:::893:::g100:::Directed Studies in Health Sciences:::hsci893:::hsci893g100:::hsci 893 g100 directed studies in health sciences
-2650:_:engl:::398:::d100:::Major Authors for Non-Majors:::engl398:::engl398d100:::engl 398 d100 major authors for non-majors
-2651:_:hsci:::894:::g100:::Directed Studies in Health Sciences:::hsci894:::hsci894g100:::hsci 894 g100 directed studies in health sciences
-2652:_:hum:::130:::c900:::Introduction to Religious Studies:::hum130:::hum130c900:::hum 130 c900 introduction to religious studies
-2653:_:bus:::494:::d800:::Selected Topics in Business Administration:::bus494:::bus494d800:::bus 494 d800 selected topics in business administration
-2654:_:crim:::486:::d100:::Field Placement - Agency - Part Time:::crim486:::crim486d100:::crim 486 d100 field placement - agency - part time
-2655:_:nusc:::482:::d100:::Directed Study in Advanced Topics in Nuclear:::nusc482:::nusc482d100:::nusc 482 d100 directed study in advanced topics in nuclear
-2656:_:nusc:::482:::d200:::Directed Study in Advanced Topics in Nuclear:::nusc482:::nusc482d200:::nusc 482 d200 directed study in advanced topics in nuclear
-2657:_:engl:::894:::g100:::PhD Thesis Prospectus:::engl894:::engl894g100:::engl 894 g100 phd thesis prospectus
-2658:_:pol:::448:::d100:::Selected Topics in International Relations:::pol448:::pol448d100:::pol 448 d100 selected topics in international relations
-2659:_:mbb:::806:::g100:::PhD Graduate Research Candidacy Examination:::mbb806:::mbb806g100:::mbb 806 g100 phd graduate research candidacy examination
-2660:_:educ:::984:::g001:::Qualifying Examination:::educ984:::educ984g001:::educ 984 g001 qualifying examination
-2661:_:mbb:::452:::d100:::Practicum V:::mbb452:::mbb452d100:::mbb 452 d100 practicum v
-2662:_:mbb:::452:::d200:::Practicum V:::mbb452:::mbb452d200:::mbb 452 d200 practicum v
-2663:_:mbb:::452:::i100:::Practicum V:::mbb452:::mbb452i100:::mbb 452 i100 practicum v
-2664:_:psyc:::280:::c100:::Introduction to Biological Psychology:::psyc280:::psyc280c100:::psyc 280 c100 introduction to biological psychology
-2665:_:psyc:::280:::d100:::Introduction to Biological Psychology:::psyc280:::psyc280d100:::psyc 280 d100 introduction to biological psychology
-2666:_:psyc:::280:::j100:::Introduction to Biological Psychology:::psyc280:::psyc280j100:::psyc 280 j100 introduction to biological psychology
-2667:_:mbb:::490:::d100:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d100:::mbb 490 d100 directed readings in molecular biology and biochemistry
-2668:_:mbb:::490:::d200:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d200:::mbb 490 d200 directed readings in molecular biology and biochemistry
-2669:_:mbb:::490:::d300:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d300:::mbb 490 d300 directed readings in molecular biology and biochemistry
-2670:_:mbb:::490:::d400:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d400:::mbb 490 d400 directed readings in molecular biology and biochemistry
-2671:_:mbb:::490:::d500:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d500:::mbb 490 d500 directed readings in molecular biology and biochemistry
-2672:_:mbb:::491:::d100:::Directed Research I:::mbb491:::mbb491d100:::mbb 491 d100 directed research i
-2673:_:mbb:::491:::d200:::Directed Research I:::mbb491:::mbb491d200:::mbb 491 d200 directed research i
-2674:_:mbb:::491:::d300:::Directed Research I:::mbb491:::mbb491d300:::mbb 491 d300 directed research i
-2675:_:mbb:::491:::d400:::Directed Research I:::mbb491:::mbb491d400:::mbb 491 d400 directed research i
-2676:_:mbb:::491:::d500:::Directed Research I:::mbb491:::mbb491d500:::mbb 491 d500 directed research i
-2677:_:mbb:::491:::d600:::Directed Research I:::mbb491:::mbb491d600:::mbb 491 d600 directed research i
-2678:_:mbb:::491:::d700:::Directed Research I:::mbb491:::mbb491d700:::mbb 491 d700 directed research i
-2679:_:mbb:::491:::d800:::Directed Research I:::mbb491:::mbb491d800:::mbb 491 d800 directed research i
-2680:_:mbb:::492:::d100:::Directed Research II:::mbb492:::mbb492d100:::mbb 492 d100 directed research ii
-2681:_:mbb:::492:::d200:::Directed Research II:::mbb492:::mbb492d200:::mbb 492 d200 directed research ii
-2682:_:mbb:::492:::d300:::Directed Research II:::mbb492:::mbb492d300:::mbb 492 d300 directed research ii
-2683:_:mbb:::492:::d400:::Directed Research II:::mbb492:::mbb492d400:::mbb 492 d400 directed research ii
-2684:_:mbb:::492:::d500:::Directed Research II:::mbb492:::mbb492d500:::mbb 492 d500 directed research ii
-2685:_:easc:::104:::c100:::Geohazards - Earth in Turmoil:::easc104:::easc104c100:::easc 104 c100 geohazards - earth in turmoil
-2686:_:sa:::499:::d100:::Honours Essay (SA):::sa499:::sa499d100:::sa 499 d100 honours essay (sa)
-2687:_:educ:::414:::d100:::Designs for Learning: Secondary Social Studies:::educ414:::educ414d100:::educ 414 d100 designs for learning: secondary social studies
-2688:_:educ:::414:::e100:::Designs for Learning: Secondary Social Studies:::educ414:::educ414e100:::educ 414 e100 designs for learning: secondary social studies
-2689:_:educ:::414:::f100:::Designs for Learning: Secondary Social Studies:::educ414:::educ414f100:::educ 414 f100 designs for learning: secondary social studies
-2690:_:ling:::812:::g100:::Topics in Linguistics III:::ling812:::ling812g100:::ling 812 g100 topics in linguistics iii
-2691:_:bus:::221:::d100:::Personal Finance:::bus221:::bus221d100:::bus 221 d100 personal finance
-2692:_:bus:::221:::d200:::Personal Finance:::bus221:::bus221d200:::bus 221 d200 personal finance
-2693:_:educ:::415:::d100:::Designs for Learning: Secondary Mathematics:::educ415:::educ415d100:::educ 415 d100 designs for learning: secondary mathematics
-2694:_:educ:::415:::e100:::Designs for Learning: Secondary Mathematics:::educ415:::educ415e100:::educ 415 e100 designs for learning: secondary mathematics
-2695:_:educ:::415:::f100:::Designs for Learning: Secondary Mathematics:::educ415:::educ415f100:::educ 415 f100 designs for learning: secondary mathematics
-2696:_:econ:::484:::d100:::Selected Topics in Economics:::econ484:::econ484d100:::econ 484 d100 selected topics in economics
-2697:_:educ:::416:::d100:::Designs for Learning: Secondary Science:::educ416:::educ416d100:::educ 416 d100 designs for learning: secondary science
-2698:_:educ:::416:::e100:::Designs for Learning: Secondary Science:::educ416:::educ416e100:::educ 416 e100 designs for learning: secondary science
-2699:_:educ:::416:::f100:::Designs for Learning: Secondary Science:::educ416:::educ416f100:::educ 416 f100 designs for learning: secondary science
-2700:_:educ:::416:::f200:::Designs for Learning: Secondary Science:::educ416:::educ416f200:::educ 416 f200 designs for learning: secondary science
-2701:_:sa:::359:::d100:::Special Topics in Anthropology (A):::sa359:::sa359d100:::sa 359 d100 special topics in anthropology (a)
-2702:_:sa:::359:::d200:::Special Topics in Anthropology (A):::sa359:::sa359d200:::sa 359 d200 special topics in anthropology (a)
-2703:_:easc:::810:::g100:::MSc Thesis Proposal:::easc810:::easc810g100:::easc 810 g100 msc thesis proposal
-2704:_:mbb:::498:::d001:::Directed Research:::mbb498:::mbb498d001:::mbb 498 d001 directed research
-2705:_:mbb:::498:::d002:::Directed Research:::mbb498:::mbb498d002:::mbb 498 d002 directed research
-2706:_:mbb:::498:::d003:::Directed Research:::mbb498:::mbb498d003:::mbb 498 d003 directed research
-2707:_:mbb:::498:::d004:::Directed Research:::mbb498:::mbb498d004:::mbb 498 d004 directed research
-2708:_:mbb:::498:::d005:::Directed Research:::mbb498:::mbb498d005:::mbb 498 d005 directed research
-2709:_:phil:::331:::e100:::Selected Topics:::phil331:::phil331e100:::phil 331 e100 selected topics
-2710:_:bus:::492:::d800:::Selected Topics in Business Administration:::bus492:::bus492d800:::bus 492 d800 selected topics in business administration
-2711:_:educ:::422:::c900:::Learning Disabilities:::educ422:::educ422c900:::educ 422 c900 learning disabilities
-2712:_:bus:::495:::d800:::Selected Topics in Business Administration:::bus495:::bus495d800:::bus 495 d800 selected topics in business administration
-2713:_:educ:::423:::e100:::Helping Relationships:::educ423:::educ423e100:::educ 423 e100 helping relationships
-2714:_:educ:::423:::e200:::Helping Relationships:::educ423:::educ423e200:::educ 423 e200 helping relationships
-2715:_:educ:::423:::e300:::Helping Relationships:::educ423:::educ423e300:::educ 423 e300 helping relationships
-2716:_:sa:::318:::d100:::Technologies of Health and Expectation (A):::sa318:::sa318d100:::sa 318 d100 technologies of health and expectation (a)
-2717:_:sa:::316:::c100:::Tourism and Social Policy (S):::sa316:::sa316c100:::sa 316 c100 tourism and social policy (s)
-2718:_:sa:::498:::d100:::Field Study in Sociology and/or Anthropology (SA):::sa498:::sa498d100:::sa 498 d100 field study in sociology and/or anthropology (sa)
-2719:_:acma:::337:::d100:::Job Practicum II:::acma337:::acma337d100:::acma 337 d100 job practicum ii
-2720:_:acma:::337:::d200:::Job Practicum II:::acma337:::acma337d200:::acma 337 d200 job practicum ii
-2721:_:acma:::337:::i100:::Job Practicum II:::acma337:::acma337i100:::acma 337 i100 job practicum ii
-2722:_:bpk:::141:::c100:::Theory of Exercise Program Design:::bpk141:::bpk141c100:::bpk 141 c100 theory of exercise program design
-2723:_:bpk:::141:::c200:::Theory of Exercise Program Design:::bpk141:::bpk141c200:::bpk 141 c200 theory of exercise program design
-2724:_:educ:::411:::d100:::Investigations in Mathematics for Secondary Teachers:::educ411:::educ411d100:::educ 411 d100 investigations in mathematics for secondary teachers
-2725:_:acma:::437:::d100:::Job Practicum IV:::acma437:::acma437d100:::acma 437 d100 job practicum iv
-2726:_:acma:::437:::d200:::Job Practicum IV:::acma437:::acma437d200:::acma 437 d200 job practicum iv
-2727:_:acma:::437:::i100:::Job Practicum IV:::acma437:::acma437i100:::acma 437 i100 job practicum iv
-2728:_:sa:::304:::j100:::Social Control (S):::sa304:::sa304j100:::sa 304 j100 social control (s)
-2729:_:sa:::315:::d900:::New Information Technology and Society (SA):::sa315:::sa315d900:::sa 315 d900 new information technology and society (sa)
-2730:_:sa:::497:::d100:::Directed Readings in Sociology (S):::sa497:::sa497d100:::sa 497 d100 directed readings in sociology (s)
-2731:_:sa:::496:::d100:::Directed Readings in Anthropology (A):::sa496:::sa496d100:::sa 496 d100 directed readings in anthropology (a)
-2732:_:cmns:::349:::d100:::Environment, Media and Communication:::cmns349:::cmns349d100:::cmns 349 d100 environment, media and communication
-2733:_:cmns:::349:::d101:::Environment, Media and Communication:::cmns349:::cmns349d101:::cmns 349 d101 environment, media and communication
-2734:_:cmns:::349:::d102:::Environment, Media and Communication:::cmns349:::cmns349d102:::cmns 349 d102 environment, media and communication
-2735:_:cmns:::349:::d103:::Environment, Media and Communication:::cmns349:::cmns349d103:::cmns 349 d103 environment, media and communication
-2736:_:cmns:::349:::d104:::Environment, Media and Communication:::cmns349:::cmns349d104:::cmns 349 d104 environment, media and communication
-2737:_:geog:::409:::d100:::Geography Practicum V:::geog409:::geog409d100:::geog 409 d100 geography practicum v
-2738:_:geog:::409:::d200:::Geography Practicum V:::geog409:::geog409d200:::geog 409 d200 geography practicum v
-2739:_:geog:::409:::i100:::Geography Practicum V:::geog409:::geog409i100:::geog 409 i100 geography practicum v
-2740:_:math:::254:::d100:::Vector and Complex Analysis for Applied Sciences:::math254:::math254d100:::math 254 d100 vector and complex analysis for applied sciences
-2741:_:math:::254:::d101:::Vector and Complex Analysis for Applied Sciences:::math254:::math254d101:::math 254 d101 vector and complex analysis for applied sciences
-2742:_:math:::254:::d102:::Vector and Complex Analysis for Applied Sciences:::math254:::math254d102:::math 254 d102 vector and complex analysis for applied sciences
-2743:_:math:::254:::d103:::Vector and Complex Analysis for Applied Sciences:::math254:::math254d103:::math 254 d103 vector and complex analysis for applied sciences
-2744:_:engl:::832:::g100:::Studies in Eighteenth-Century Literature:::engl832:::engl832g100:::engl 832 g100 studies in eighteenth-century literature
-2745:_:iat:::271:::d100:::Co-op Practicum I:::iat271:::iat271d100:::iat 271 d100 co-op practicum i
-2746:_:iat:::271:::d200:::Co-op Practicum I:::iat271:::iat271d200:::iat 271 d200 co-op practicum i
-2747:_:iat:::271:::i100:::Co-op Practicum I:::iat271:::iat271i100:::iat 271 i100 co-op practicum i
-2748:_:pub:::484:::d100:::Directed Readings in Publishing:::pub484:::pub484d100:::pub 484 d100 directed readings in publishing
-2749:_:bus:::401:::d100:::Developing Organizational Opportunities:::bus401:::bus401d100:::bus 401 d100 developing organizational opportunities
-2750:_:bus:::655:::g100:::Special Topics in Business Administration:::bus655:::bus655g100:::bus 655 g100 special topics in business administration
-2751:_:educ:::412w:::d100:::Designs for Learning: Secondary Language Arts:::educ412w:::educ412wd100:::educ 412w d100 designs for learning: secondary language arts
-2752:_:educ:::412w:::e100:::Designs for Learning: Secondary Language Arts:::educ412w:::educ412we100:::educ 412w e100 designs for learning: secondary language arts
-2753:_:engl:::833:::d100:::Studies in Nineteenth-Century Literature:::engl833:::engl833d100:::engl 833 d100 studies in nineteenth-century literature
-2754:_:iat:::272:::d100:::Co-op Practicum II:::iat272:::iat272d100:::iat 272 d100 co-op practicum ii
-2755:_:iat:::272:::d200:::Co-op Practicum II:::iat272:::iat272d200:::iat 272 d200 co-op practicum ii
-2756:_:iat:::272:::i100:::Co-op Practicum II:::iat272:::iat272i100:::iat 272 i100 co-op practicum ii
-2757:_:bus:::233:::d100:::Introduction to Business Law and Ethics:::bus233:::bus233d100:::bus 233 d100 introduction to business law and ethics
-2758:_:econ:::811:::g100:::Advanced Monetary Theory:::econ811:::econ811g100:::econ 811 g100 advanced monetary theory
-2759:_:engl:::834:::d100:::Studies in Twentieth-Century Literature:::engl834:::engl834d100:::engl 834 d100 studies in twentieth-century literature
-2760:_:iat:::373:::d100:::Co-op Practicum III:::iat373:::iat373d100:::iat 373 d100 co-op practicum iii
-2761:_:iat:::373:::d200:::Co-op Practicum III:::iat373:::iat373d200:::iat 373 d200 co-op practicum iii
-2762:_:iat:::373:::i100:::Co-op Practicum III:::iat373:::iat373i100:::iat 373 i100 co-op practicum iii
-2763:_:iat:::374:::d100:::Co-op Practicum IV:::iat374:::iat374d100:::iat 374 d100 co-op practicum iv
-2764:_:iat:::374:::d200:::Co-op Practicum IV:::iat374:::iat374d200:::iat 374 d200 co-op practicum iv
-2765:_:iat:::374:::i100:::Co-op Practicum IV:::iat374:::iat374i100:::iat 374 i100 co-op practicum iv
-2766:_:phil:::823:::g100:::Selected Topics Meta-Ethics:::phil823:::phil823g100:::phil 823 g100 selected topics meta-ethics
-2767:_:urb:::695:::g100:::Selected Topics in Urban Studies:::urb695:::urb695g100:::urb 695 g100 selected topics in urban studies
-2768:_:urb:::695:::g200:::Selected Topics in Urban Studies:::urb695:::urb695g200:::urb 695 g200 selected topics in urban studies
-2769:_:cmpt:::376w:::d100:::Technical Writing and Group Dynamics:::cmpt376w:::cmpt376wd100:::cmpt 376w d100 technical writing and group dynamics
-2770:_:cmpt:::376w:::d200:::Technical Writing and Group Dynamics:::cmpt376w:::cmpt376wd200:::cmpt 376w d200 technical writing and group dynamics
-2771:_:pub:::438:::d100:::Design Awareness in Publishing Processes and Products:::pub438:::pub438d100:::pub 438 d100 design awareness in publishing processes and products
-2772:_:pub:::438:::d101:::Design Awareness in Publishing Processes and Products:::pub438:::pub438d101:::pub 438 d101 design awareness in publishing processes and products
-2773:_:pub:::438:::d102:::Design Awareness in Publishing Processes and Products:::pub438:::pub438d102:::pub 438 d102 design awareness in publishing processes and products
-2774:_:gsws:::831:::g100:::Selected Topics Graduate Seminar II:::gsws831:::gsws831g100:::gsws 831 g100 selected topics graduate seminar ii
-2775:_:pub:::480:::d100:::Special Topics in Publishing:::pub480:::pub480d100:::pub 480 d100 special topics in publishing
-2776:_:pub:::480:::d200:::Special Topics in Publishing:::pub480:::pub480d200:::pub 480 d200 special topics in publishing
-2777:_:hist:::371:::d100:::The Asia-Pacific War in Modern Japanese History:::hist371:::hist371d100:::hist 371 d100 the asia-pacific war in modern japanese history
-2778:_:phil:::435:::e100:::Selected Topics:::phil435:::phil435e100:::phil 435 e100 selected topics
-2779:_:mbb:::702:::g100:::Developmental Biology of Cell Signalling:::mbb702:::mbb702g100:::mbb 702 g100 developmental biology of cell signalling
-2780:_:educ:::885:::g001:::MEd Extended Essays:::educ885:::educ885g001:::educ 885 g001 med extended essays
-2781:_:ensc:::891:::g100:::Directed Studies I:::ensc891:::ensc891g100:::ensc 891 g100 directed studies i
-2782:_:ensc:::891:::g200:::Directed Studies I:::ensc891:::ensc891g200:::ensc 891 g200 directed studies i
-2783:_:geog:::403:::d100:::Geography Practicum IV:::geog403:::geog403d100:::geog 403 d100 geography practicum iv
-2784:_:geog:::403:::d200:::Geography Practicum IV:::geog403:::geog403d200:::geog 403 d200 geography practicum iv
-2785:_:geog:::403:::i100:::Geography Practicum IV:::geog403:::geog403i100:::geog 403 i100 geography practicum iv
-2786:_:ensc:::892:::g100:::Directed Studies II:::ensc892:::ensc892g100:::ensc 892 g100 directed studies ii
-2787:_:ensc:::892:::g200:::Directed Studies II:::ensc892:::ensc892g200:::ensc 892 g200 directed studies ii
-2788:_:geog:::404:::d100:::Directed Readings:::geog404:::geog404d100:::geog 404 d100 directed readings
-2789:_:geog:::404:::d200:::Directed Readings:::geog404:::geog404d200:::geog 404 d200 directed readings
-2790:_:geog:::405:::d100:::Directed Readings:::geog405:::geog405d100:::geog 405 d100 directed readings
-2791:_:geog:::405:::d200:::Directed Readings:::geog405:::geog405d200:::geog 405 d200 directed readings
-2792:_:cmns:::423:::d100:::Globalization: Cultural Issues:::cmns423:::cmns423d100:::cmns 423 d100 globalization: cultural issues
-2793:_:arch:::431:::d100:::Historical Ecology & Coastal Archaeology:::arch431:::arch431d100:::arch 431 d100 historical ecology & coastal archaeology
-2794:_:engl:::407w:::d100:::Topics in Early English Drama:::engl407w:::engl407wd100:::engl 407w d100 topics in early english drama
-2795:_:mse:::720:::g100:::Introduction to Biomechanical Engineering:::mse720:::mse720g100:::mse 720 g100 introduction to biomechanical engineering
-2796:_:sci:::190:::d100:::Special Topics in Science Interdisciplinarity:::sci190:::sci190d100:::sci 190 d100 special topics in science interdisciplinarity
-2797:_:cmns:::453:::c100:::Issues in the Information Society:::cmns453:::cmns453c100:::cmns 453 c100 issues in the information society
-2798:_:cmns:::453:::c200:::Issues in the Information Society:::cmns453:::cmns453c200:::cmns 453 c200 issues in the information society
-2799:_:mbb:::481:::d001:::Directed Research - Honours Thesis:::mbb481:::mbb481d001:::mbb 481 d001 directed research - honours thesis
-2800:_:mbb:::481:::d002:::Directed Research - Honours Thesis:::mbb481:::mbb481d002:::mbb 481 d002 directed research - honours thesis
-2801:_:mbb:::481:::d003:::Directed Research - Honours Thesis:::mbb481:::mbb481d003:::mbb 481 d003 directed research - honours thesis
-2802:_:mbb:::481:::d004:::Directed Research - Honours Thesis:::mbb481:::mbb481d004:::mbb 481 d004 directed research - honours thesis
-2803:_:mbb:::481:::d005:::Directed Research - Honours Thesis:::mbb481:::mbb481d005:::mbb 481 d005 directed research - honours thesis
-2804:_:mbb:::481:::d006:::Directed Research - Honours Thesis:::mbb481:::mbb481d006:::mbb 481 d006 directed research - honours thesis
-2805:_:mbb:::481:::d007:::Directed Research - Honours Thesis:::mbb481:::mbb481d007:::mbb 481 d007 directed research - honours thesis
-2806:_:mbb:::482:::d001:::Directed Research - Honours Research Performance:::mbb482:::mbb482d001:::mbb 482 d001 directed research - honours research performance
-2807:_:mbb:::482:::d002:::Directed Research - Honours Research Performance:::mbb482:::mbb482d002:::mbb 482 d002 directed research - honours research performance
-2808:_:mbb:::482:::d003:::Directed Research - Honours Research Performance:::mbb482:::mbb482d003:::mbb 482 d003 directed research - honours research performance
-2809:_:mbb:::482:::d004:::Directed Research - Honours Research Performance:::mbb482:::mbb482d004:::mbb 482 d004 directed research - honours research performance
-2810:_:mbb:::482:::d005:::Directed Research - Honours Research Performance:::mbb482:::mbb482d005:::mbb 482 d005 directed research - honours research performance
-2811:_:mbb:::482:::d006:::Directed Research - Honours Research Performance:::mbb482:::mbb482d006:::mbb 482 d006 directed research - honours research performance
-2812:_:mbb:::482:::d007:::Directed Research - Honours Research Performance:::mbb482:::mbb482d007:::mbb 482 d007 directed research - honours research performance
-2813:_:mse:::811:::g100:::Microdevice Engineering and Characterization:::mse811:::mse811g100:::mse 811 g100 microdevice engineering and characterization
-2814:_:urb:::602:::g100:::Urban Professional Development II:::urb602:::urb602g100:::urb 602 g100 urban professional development ii
-2815:_:crim:::131:::c900:::Introduction to the Criminal Justice System - A Total System Approach:::crim131:::crim131c900:::crim 131 c900 introduction to the criminal justice system - a total system approach
-2816:_:edpr:::563:::g100:::Advanced Field Studies in Educational Practice I:::edpr563:::edpr563g100:::edpr 563 g100 advanced field studies in educational practice i
-2817:_:bus:::374:::d100:::Organization Theory:::bus374:::bus374d100:::bus 374 d100 organization theory
-2818:_:educ:::811:::g011:::Fieldwork I:::educ811:::educ811g011:::educ 811 g011 fieldwork i
-2819:_:educ:::811:::g012:::Fieldwork I:::educ811:::educ811g012:::educ 811 g012 fieldwork i
-2820:_:bus:::381:::d200:::Introduction to Human Resource Management:::bus381:::bus381d200:::bus 381 d200 introduction to human resource management
-2821:_:bus:::381:::e100:::Introduction to Human Resource Management:::bus381:::bus381e100:::bus 381 e100 introduction to human resource management
-2822:_:cmns:::458:::d100:::Information Technology Project Group:::cmns458:::cmns458d100:::cmns 458 d100 information technology project group
-2823:_:cmns:::458:::d200:::Information Technology Project Group:::cmns458:::cmns458d200:::cmns 458 d200 information technology project group
-2824:_:edpr:::561:::g100:::Advanced Field Studies in Educational Practice I:::edpr561:::edpr561g100:::edpr 561 g100 advanced field studies in educational practice i
-2825:_:mbb:::201:::d100:::Biochemistry of the Cell:::mbb201:::mbb201d100:::mbb 201 d100 biochemistry of the cell
-2826:_:mbb:::201:::d101:::Biochemistry of the Cell:::mbb201:::mbb201d101:::mbb 201 d101 biochemistry of the cell
-2827:_:mbb:::201:::d102:::Biochemistry of the Cell:::mbb201:::mbb201d102:::mbb 201 d102 biochemistry of the cell
-2828:_:mbb:::201:::d103:::Biochemistry of the Cell:::mbb201:::mbb201d103:::mbb 201 d103 biochemistry of the cell
-2829:_:mbb:::201:::d104:::Biochemistry of the Cell:::mbb201:::mbb201d104:::mbb 201 d104 biochemistry of the cell
-2830:_:mbb:::201:::d105:::Biochemistry of the Cell:::mbb201:::mbb201d105:::mbb 201 d105 biochemistry of the cell
-2831:_:edpr:::562:::g100:::Advanced Field Studies in Educational Practice I:::edpr562:::edpr562g100:::edpr 562 g100 advanced field studies in educational practice i
-2832:_:educ:::806:::g031:::Selected Problems in Higher Education:::educ806:::educ806g031:::educ 806 g031 selected problems in higher education
-2833:_:hsci:::880:::g100:::Practicum:::hsci880:::hsci880g100:::hsci 880 g100 practicum
-2834:_:hsci:::880:::g200:::Practicum:::hsci880:::hsci880g200:::hsci 880 g200 practicum
-2835:_:hsci:::880:::g300:::Practicum:::hsci880:::hsci880g300:::hsci 880 g300 practicum
-2836:_:hsci:::880:::g400:::Practicum:::hsci880:::hsci880g400:::hsci 880 g400 practicum
-2837:_:ensc:::893:::g100:::Special Topics I:::ensc893:::ensc893g100:::ensc 893 g100 special topics i
-2838:_:sci:::390:::d100:::Sepcial Topics in Science Interdisciplinarity:::sci390:::sci390d100:::sci 390 d100 sepcial topics in science interdisciplinarity
-2839:_:bus:::345:::d100:::Marketing Research:::bus345:::bus345d100:::bus 345 d100 marketing research
-2840:_:bus:::345:::d200:::Marketing Research:::bus345:::bus345d200:::bus 345 d200 marketing research
-2841:_:mse:::405w:::d100:::The Business of Engineering II, Entrepreneurship for Engineers:::mse405w:::mse405wd100:::mse 405w d100 the business of engineering ii, entrepreneurship for engineers
-2842:_:mse:::405w:::d101:::The Business of Engineering II, Entrepreneurship for Engineers:::mse405w:::mse405wd101:::mse 405w d101 the business of engineering ii, entrepreneurship for engineers
-2843:_:mse:::405w:::d200:::The Business of Engineering II, Entrepreneurship for Engineers:::mse405w:::mse405wd200:::mse 405w d200 the business of engineering ii, entrepreneurship for engineers
-2844:_:mse:::405w:::d201:::The Business of Engineering II, Entrepreneurship for Engineers:::mse405w:::mse405wd201:::mse 405w d201 the business of engineering ii, entrepreneurship for engineers
-2845:_:mbb:::483:::d001:::Directed Research - Honours Thesis Defense:::mbb483:::mbb483d001:::mbb 483 d001 directed research - honours thesis defense
-2846:_:mbb:::483:::d002:::Directed Research - Honours Thesis Defense:::mbb483:::mbb483d002:::mbb 483 d002 directed research - honours thesis defense
-2847:_:mbb:::483:::d003:::Directed Research - Honours Thesis Defense:::mbb483:::mbb483d003:::mbb 483 d003 directed research - honours thesis defense
-2848:_:mbb:::483:::d004:::Directed Research - Honours Thesis Defense:::mbb483:::mbb483d004:::mbb 483 d004 directed research - honours thesis defense
-2849:_:mbb:::483:::d005:::Directed Research - Honours Thesis Defense:::mbb483:::mbb483d005:::mbb 483 d005 directed research - honours thesis defense
-2850:_:mbb:::483:::d006:::Directed Research - Honours Thesis Defense:::mbb483:::mbb483d006:::mbb 483 d006 directed research - honours thesis defense
-2851:_:mbb:::483:::d007:::Directed Research - Honours Thesis Defense:::mbb483:::mbb483d007:::mbb 483 d007 directed research - honours thesis defense
-2852:_:ensc:::405w:::d100:::Capstone A: Project Design, Management, and Documentation:::ensc405w:::ensc405wd100:::ensc 405w d100 capstone a: project design, management, and documentation
-2853:_:ensc:::405w:::la01:::Capstone A: Project Design, Management, and Documentation:::ensc405w:::ensc405wla01:::ensc 405w la01 capstone a: project design, management, and documentation
-2854:_:evsc:::490w:::d100:::Environmental Science Thesis:::evsc490w:::evsc490wd100:::evsc 490w d100 environmental science thesis
-2855:_:hsci:::897:::g100:::MPH Project:::hsci897:::hsci897g100:::hsci 897 g100 mph project
-2856:_:hsci:::897:::g200:::MPH Project:::hsci897:::hsci897g200:::hsci 897 g200 mph project
-2857:_:hsci:::897:::g300:::MPH Project:::hsci897:::hsci897g300:::hsci 897 g300 mph project
-2858:_:hsci:::897:::g400:::MPH Project:::hsci897:::hsci897g400:::hsci 897 g400 mph project
-2859:_:fep:::224:::d100:::FEP Formal Exchange Program - Not Included in GPA:::fep224:::fep224d100:::fep 224 d100 fep formal exchange program - not included in gpa
-2860:_:bus:::347:::d100:::Consumer Behaviour:::bus347:::bus347d100:::bus 347 d100 consumer behaviour
-2861:_:bus:::347:::d101:::Consumer Behaviour:::bus347:::bus347d101:::bus 347 d101 consumer behaviour
-2862:_:bus:::347:::d103:::Consumer Behaviour:::bus347:::bus347d103:::bus 347 d103 consumer behaviour
-2863:_:bus:::347:::d104:::Consumer Behaviour:::bus347:::bus347d104:::bus 347 d104 consumer behaviour
-2864:_:crim:::103:::c100:::Psychological Explanations of Criminal and Deviant Behavior:::crim103:::crim103c100:::crim 103 c100 psychological explanations of criminal and deviant behavior
-2865:_:bus:::362:::d100:::Business Process Analysis:::bus362:::bus362d100:::bus 362 d100 business process analysis
-2866:_:bus:::362:::d101:::Business Process Analysis:::bus362:::bus362d101:::bus 362 d101 business process analysis
-2867:_:bus:::362:::d102:::Business Process Analysis:::bus362:::bus362d102:::bus 362 d102 business process analysis
-2868:_:bus:::362:::d103:::Business Process Analysis:::bus362:::bus362d103:::bus 362 d103 business process analysis
-2869:_:cmns:::448:::d100:::International Communication Project Group:::cmns448:::cmns448d100:::cmns 448 d100 international communication project group
-2870:_:cmns:::448:::d200:::International Communication Project Group:::cmns448:::cmns448d200:::cmns 448 d200 international communication project group
-2871:_:crim:::101:::c100:::Introduction to Criminology:::crim101:::crim101c100:::crim 101 c100 introduction to criminology
-2872:_:crim:::101:::e100:::Introduction to Criminology:::crim101:::crim101e100:::crim 101 e100 introduction to criminology
-2873:_:crim:::101:::j100:::Introduction to Criminology:::crim101:::crim101j100:::crim 101 j100 introduction to criminology
-2874:_:hist:::338:::c900:::World War II:::hist338:::hist338c900:::hist 338 c900 world war ii
-2875:_:mse:::420:::d100:::Introduction to Biomechanical Engineering:::mse420:::mse420d100:::mse 420 d100 introduction to biomechanical engineering
-2876:_:trss:::731:::g100:::Policy Making and Decision Analysis in Security Studies:::trss731:::trss731g100:::trss 731 g100 policy making and decision analysis in security studies
-2877:_:cmpt:::276:::d100:::Introduction to Software Engineering:::cmpt276:::cmpt276d100:::cmpt 276 d100 introduction to software engineering
-2878:_:cmpt:::276:::e100:::Introduction to Software Engineering:::cmpt276:::cmpt276e100:::cmpt 276 e100 introduction to software engineering
-2879:_:crim:::720:::g100:::Fundamentals of Security Risk Management:::crim720:::crim720g100:::crim 720 g100 fundamentals of security risk management
-2880:_:ensc:::870:::g100:::MEng Course Option Portfolio:::ensc870:::ensc870g100:::ensc 870 g100 meng course option portfolio
-2881:_:hist:::330w:::d100:::Controversies in Canadian History:::hist330w:::hist330wd100:::hist 330w d100 controversies in canadian history
-2882:_:bus:::453:::d800:::Sustainable Innovation:::bus453:::bus453d800:::bus 453 d800 sustainable innovation
-2883:_:cmpt:::631:::g100:::Industrial Internship:::cmpt631:::cmpt631g100:::cmpt 631 g100 industrial internship
-2884:_:urb:::701:::g100:::Co-operative Education I:::urb701:::urb701g100:::urb 701 g100 co-operative education i
-2885:_:urb:::701:::g200:::Co-operative Education I:::urb701:::urb701g200:::urb 701 g200 co-operative education i
-2886:_:urb:::701:::i100:::Co-operative Education I:::urb701:::urb701i100:::urb 701 i100 co-operative education i
-2887:_:urb:::702:::g100:::Co-operative Education II:::urb702:::urb702g100:::urb 702 g100 co-operative education ii
-2888:_:urb:::702:::g200:::Co-operative Education II:::urb702:::urb702g200:::urb 702 g200 co-operative education ii
-2889:_:urb:::702:::i100:::Co-operative Education II:::urb702:::urb702i100:::urb 702 i100 co-operative education ii
-2890:_:educ:::820:::g031:::Current Issues in Curriculum and Pedagogy:::educ820:::educ820g031:::educ 820 g031 current issues in curriculum and pedagogy
-2891:_:math:::190:::c900:::Principles of Mathematics for Teachers:::math190:::math190c900:::math 190 c900 principles of mathematics for teachers
-2892:_:crim:::220:::d100:::Research Methods in Criminology:::crim220:::crim220d100:::crim 220 d100 research methods in criminology
-2893:_:crim:::220:::d101:::Research Methods in Criminology:::crim220:::crim220d101:::crim 220 d101 research methods in criminology
-2894:_:crim:::220:::d102:::Research Methods in Criminology:::crim220:::crim220d102:::crim 220 d102 research methods in criminology
-2895:_:crim:::220:::d103:::Research Methods in Criminology:::crim220:::crim220d103:::crim 220 d103 research methods in criminology
-2896:_:crim:::220:::d104:::Research Methods in Criminology:::crim220:::crim220d104:::crim 220 d104 research methods in criminology
-2897:_:crim:::220:::d105:::Research Methods in Criminology:::crim220:::crim220d105:::crim 220 d105 research methods in criminology
-2898:_:phil:::110:::d100:::Introduction to Logic and Reasoning:::phil110:::phil110d100:::phil 110 d100 introduction to logic and reasoning
-2899:_:phil:::110:::d101:::Introduction to Logic and Reasoning:::phil110:::phil110d101:::phil 110 d101 introduction to logic and reasoning
-2900:_:phil:::110:::d102:::Introduction to Logic and Reasoning:::phil110:::phil110d102:::phil 110 d102 introduction to logic and reasoning
-2901:_:phil:::110:::d103:::Introduction to Logic and Reasoning:::phil110:::phil110d103:::phil 110 d103 introduction to logic and reasoning
-2902:_:phil:::110:::d104:::Introduction to Logic and Reasoning:::phil110:::phil110d104:::phil 110 d104 introduction to logic and reasoning
-2903:_:phil:::110:::d105:::Introduction to Logic and Reasoning:::phil110:::phil110d105:::phil 110 d105 introduction to logic and reasoning
-2904:_:phil:::110:::d106:::Introduction to Logic and Reasoning:::phil110:::phil110d106:::phil 110 d106 introduction to logic and reasoning
-2905:_:phil:::110:::d107:::Introduction to Logic and Reasoning:::phil110:::phil110d107:::phil 110 d107 introduction to logic and reasoning
-2906:_:phil:::110:::d111:::Introduction to Logic and Reasoning:::phil110:::phil110d111:::phil 110 d111 introduction to logic and reasoning
-2907:_:phil:::110:::d112:::Introduction to Logic and Reasoning:::phil110:::phil110d112:::phil 110 d112 introduction to logic and reasoning
-2908:_:phil:::110:::d114:::Introduction to Logic and Reasoning:::phil110:::phil110d114:::phil 110 d114 introduction to logic and reasoning
-2909:_:phil:::110:::d115:::Introduction to Logic and Reasoning:::phil110:::phil110d115:::phil 110 d115 introduction to logic and reasoning
-2910:_:phil:::110:::d116:::Introduction to Logic and Reasoning:::phil110:::phil110d116:::phil 110 d116 introduction to logic and reasoning
-2911:_:cmns:::482:::d001:::Directed Study:::cmns482:::cmns482d001:::cmns 482 d001 directed study
-2912:_:cmns:::482:::d002:::Directed Study:::cmns482:::cmns482d002:::cmns 482 d002 directed study
-2913:_:cmns:::482:::d003:::Directed Study:::cmns482:::cmns482d003:::cmns 482 d003 directed study
-2914:_:cmns:::482:::d004:::Directed Study:::cmns482:::cmns482d004:::cmns 482 d004 directed study
-2915:_:cmns:::482:::d005:::Directed Study:::cmns482:::cmns482d005:::cmns 482 d005 directed study
-2916:_:cmns:::482:::d006:::Directed Study:::cmns482:::cmns482d006:::cmns 482 d006 directed study
-2917:_:cmns:::482:::d007:::Directed Study:::cmns482:::cmns482d007:::cmns 482 d007 directed study
-2918:_:cmns:::482:::d008:::Directed Study:::cmns482:::cmns482d008:::cmns 482 d008 directed study
-2919:_:cmns:::482:::d009:::Directed Study:::cmns482:::cmns482d009:::cmns 482 d009 directed study
-2920:_:cmns:::483:::d001:::Directed Study:::cmns483:::cmns483d001:::cmns 483 d001 directed study
-2921:_:cmns:::483:::d002:::Directed Study:::cmns483:::cmns483d002:::cmns 483 d002 directed study
-2922:_:cmns:::483:::d003:::Directed Study:::cmns483:::cmns483d003:::cmns 483 d003 directed study
-2923:_:cmns:::483:::d004:::Directed Study:::cmns483:::cmns483d004:::cmns 483 d004 directed study
-2924:_:cmns:::483:::d005:::Directed Study:::cmns483:::cmns483d005:::cmns 483 d005 directed study
-2925:_:cmns:::483:::d006:::Directed Study:::cmns483:::cmns483d006:::cmns 483 d006 directed study
-2926:_:cmns:::483:::d007:::Directed Study:::cmns483:::cmns483d007:::cmns 483 d007 directed study
-2927:_:cmns:::483:::d008:::Directed Study:::cmns483:::cmns483d008:::cmns 483 d008 directed study
-2928:_:cmns:::483:::d009:::Directed Study:::cmns483:::cmns483d009:::cmns 483 d009 directed study
-2929:_:crim:::230:::c900:::Criminal Law:::crim230:::crim230c900:::crim 230 c900 criminal law
-2930:_:cmns:::480:::d001:::Directed Study:::cmns480:::cmns480d001:::cmns 480 d001 directed study
-2931:_:cmns:::480:::d002:::Directed Study:::cmns480:::cmns480d002:::cmns 480 d002 directed study
-2932:_:cmns:::480:::d003:::Directed Study:::cmns480:::cmns480d003:::cmns 480 d003 directed study
-2933:_:cmns:::480:::d004:::Directed Study:::cmns480:::cmns480d004:::cmns 480 d004 directed study
-2934:_:cmns:::480:::d005:::Directed Study:::cmns480:::cmns480d005:::cmns 480 d005 directed study
-2935:_:cmns:::480:::d006:::Directed Study:::cmns480:::cmns480d006:::cmns 480 d006 directed study
-2936:_:cmns:::480:::d007:::Directed Study:::cmns480:::cmns480d007:::cmns 480 d007 directed study
-2937:_:cmns:::480:::d008:::Directed Study:::cmns480:::cmns480d008:::cmns 480 d008 directed study
-2938:_:cmns:::480:::d009:::Directed Study:::cmns480:::cmns480d009:::cmns 480 d009 directed study
-2939:_:educ:::816:::g031:::Developing Educational Programs and Practices for Diverse Educational Settings:::educ816:::educ816g031:::educ 816 g031 developing educational programs and practices for diverse educational settings
-2940:_:cmns:::481:::d001:::Directed Study:::cmns481:::cmns481d001:::cmns 481 d001 directed study
-2941:_:cmns:::481:::d002:::Directed Study:::cmns481:::cmns481d002:::cmns 481 d002 directed study
-2942:_:cmns:::481:::d003:::Directed Study:::cmns481:::cmns481d003:::cmns 481 d003 directed study
-2943:_:cmns:::481:::d004:::Directed Study:::cmns481:::cmns481d004:::cmns 481 d004 directed study
-2944:_:cmns:::481:::d005:::Directed Study:::cmns481:::cmns481d005:::cmns 481 d005 directed study
-2945:_:cmns:::481:::d006:::Directed Study:::cmns481:::cmns481d006:::cmns 481 d006 directed study
-2946:_:cmns:::481:::d007:::Directed Study:::cmns481:::cmns481d007:::cmns 481 d007 directed study
-2947:_:cmns:::481:::d008:::Directed Study:::cmns481:::cmns481d008:::cmns 481 d008 directed study
-2948:_:cmns:::481:::d009:::Directed Study:::cmns481:::cmns481d009:::cmns 481 d009 directed study
-2949:_:educ:::817:::g031:::Policy Processes:::educ817:::educ817g031:::educ 817 g031 policy processes
-2950:_:bus:::474:::d100:::Supply Chain Management:::bus474:::bus474d100:::bus 474 d100 supply chain management
-2951:_:mse:::822:::g100:::Advanced Convection Heat Transfer:::mse822:::mse822g100:::mse 822 g100 advanced convection heat transfer
-2952:_:engl:::203:::d900:::Early Modern Literature:::engl203:::engl203d900:::engl 203 d900 early modern literature
-2953:_:engl:::203:::d901:::Early Modern Literature:::engl203:::engl203d901:::engl 203 d901 early modern literature
-2954:_:engl:::203:::d902:::Early Modern Literature:::engl203:::engl203d902:::engl 203 d902 early modern literature
-2955:_:engl:::203:::d903:::Early Modern Literature:::engl203:::engl203d903:::engl 203 d903 early modern literature
-2956:_:engl:::203:::d904:::Early Modern Literature:::engl203:::engl203d904:::engl 203 d904 early modern literature
-2957:_:engl:::203:::d905:::Early Modern Literature:::engl203:::engl203d905:::engl 203 d905 early modern literature
-2958:_:engl:::203:::d906:::Early Modern Literature:::engl203:::engl203d906:::engl 203 d906 early modern literature
-2959:_:engl:::203:::d907:::Early Modern Literature:::engl203:::engl203d907:::engl 203 d907 early modern literature
-2960:_:mse:::711:::g100:::Introduction to MEMS:::mse711:::mse711g100:::mse 711 g100 introduction to mems
-2961:_:bus:::361:::d100:::Project Management:::bus361:::bus361d100:::bus 361 d100 project management
-2962:_:bus:::361:::e100:::Project Management:::bus361:::bus361e100:::bus 361 e100 project management
-2963:_:econ:::310:::d100:::Money and Banking:::econ310:::econ310d100:::econ 310 d100 money and banking
-2964:_:econ:::310:::d101:::Money and Banking:::econ310:::econ310d101:::econ 310 d101 money and banking
-2965:_:econ:::310:::d102:::Money and Banking:::econ310:::econ310d102:::econ 310 d102 money and banking
-2966:_:econ:::310:::d103:::Money and Banking:::econ310:::econ310d103:::econ 310 d103 money and banking
-2967:_:econ:::310:::d104:::Money and Banking:::econ310:::econ310d104:::econ 310 d104 money and banking
-2968:_:econ:::310:::d105:::Money and Banking:::econ310:::econ310d105:::econ 310 d105 money and banking
-2969:_:econ:::310:::d106:::Money and Banking:::econ310:::econ310d106:::econ 310 d106 money and banking
-2970:_:econ:::310:::d107:::Money and Banking:::econ310:::econ310d107:::econ 310 d107 money and banking
-2971:_:econ:::310:::d108:::Money and Banking:::econ310:::econ310d108:::econ 310 d108 money and banking
-2972:_:bus:::338:::d100:::Foundations of Innovation:::bus338:::bus338d100:::bus 338 d100 foundations of innovation
-2973:_:iat:::309w:::d100:::Writing Methods for Research:::iat309w:::iat309wd100:::iat 309w d100 writing methods for research
-2974:_:iat:::309w:::d200:::Writing Methods for Research:::iat309w:::iat309wd200:::iat 309w d200 writing methods for research
-2975:_:crim:::135:::c100:::Introduction to Canadian Law and Legal Institutions: A Criminal Justice Perspective:::crim135:::crim135c100:::crim 135 c100 introduction to canadian law and legal institutions: a criminal justice perspective
-2976:_:crim:::135:::d100:::Introduction to Canadian Law and Legal Institutions: A Criminal Justice Perspective:::crim135:::crim135d100:::crim 135 d100 introduction to canadian law and legal institutions: a criminal justice perspective
-2977:_:crim:::135:::d101:::Introduction to Canadian Law and Legal Institutions: A Criminal Justice Perspective:::crim135:::crim135d101:::crim 135 d101 introduction to canadian law and legal institutions: a criminal justice perspective
-2978:_:crim:::135:::d102:::Introduction to Canadian Law and Legal Institutions: A Criminal Justice Perspective:::crim135:::crim135d102:::crim 135 d102 introduction to canadian law and legal institutions: a criminal justice perspective
-2979:_:crim:::135:::d103:::Introduction to Canadian Law and Legal Institutions: A Criminal Justice Perspective:::crim135:::crim135d103:::crim 135 d103 introduction to canadian law and legal institutions: a criminal justice perspective
-2980:_:crim:::135:::d104:::Introduction to Canadian Law and Legal Institutions: A Criminal Justice Perspective:::crim135:::crim135d104:::crim 135 d104 introduction to canadian law and legal institutions: a criminal justice perspective
-2981:_:masc:::417:::d100:::Crustacean Biology:::masc417:::masc417d100:::masc 417 d100 crustacean biology
-2982:_:ca:::401:::d100:::Directed Studies (Theory/History):::ca401:::ca401d100:::ca 401 d100 directed studies (theory/history)
-2983:_:ca:::401:::d200:::Directed Studies (Theory/History):::ca401:::ca401d200:::ca 401 d200 directed studies (theory/history)
-2984:_:ca:::401:::d300:::Directed Studies (Theory/History):::ca401:::ca401d300:::ca 401 d300 directed studies (theory/history)
-2985:_:ca:::401:::d400:::Directed Studies (Theory/History):::ca401:::ca401d400:::ca 401 d400 directed studies (theory/history)
-2986:_:ca:::401:::d500:::Directed Studies (Theory/History):::ca401:::ca401d500:::ca 401 d500 directed studies (theory/history)
-2987:_:math:::157:::d100:::Calculus I for the Social Sciences:::math157:::math157d100:::math 157 d100 calculus i for the social sciences
-2988:_:math:::157:::op01:::Calculus I for the Social Sciences:::math157:::math157op01:::math 157 op01 calculus i for the social sciences
-2989:_:math:::155:::d100:::Calculus II for the Biological Sciences:::math155:::math155d100:::math 155 d100 calculus ii for the biological sciences
-2990:_:math:::155:::opo1:::Calculus II for the Biological Sciences:::math155:::math155opo1:::math 155 opo1 calculus ii for the biological sciences
-2991:_:bus:::393:::d100:::Commercial Law:::bus393:::bus393d100:::bus 393 d100 commercial law
-2992:_:bus:::393:::d101:::Commercial Law:::bus393:::bus393d101:::bus 393 d101 commercial law
-2993:_:bus:::393:::d102:::Commercial Law:::bus393:::bus393d102:::bus 393 d102 commercial law
-2994:_:bus:::393:::d103:::Commercial Law:::bus393:::bus393d103:::bus 393 d103 commercial law
-2995:_:bus:::393:::d104:::Commercial Law:::bus393:::bus393d104:::bus 393 d104 commercial law
-2996:_:bus:::393:::d200:::Commercial Law:::bus393:::bus393d200:::bus 393 d200 commercial law
-2997:_:bus:::393:::d201:::Commercial Law:::bus393:::bus393d201:::bus 393 d201 commercial law
-2998:_:bus:::393:::d202:::Commercial Law:::bus393:::bus393d202:::bus 393 d202 commercial law
-2999:_:bus:::393:::d203:::Commercial Law:::bus393:::bus393d203:::bus 393 d203 commercial law
-3000:_:bus:::393:::d204:::Commercial Law:::bus393:::bus393d204:::bus 393 d204 commercial law
-3001:_:bus:::393:::e100:::Commercial Law:::bus393:::bus393e100:::bus 393 e100 commercial law
-3002:_:bus:::393:::e101:::Commercial Law:::bus393:::bus393e101:::bus 393 e101 commercial law
-3003:_:bus:::393:::e102:::Commercial Law:::bus393:::bus393e102:::bus 393 e102 commercial law
-3004:_:bus:::393:::e103:::Commercial Law:::bus393:::bus393e103:::bus 393 e103 commercial law
-3005:_:bus:::393:::e104:::Commercial Law:::bus393:::bus393e104:::bus 393 e104 commercial law
-3006:_:educ:::813:::g031:::Organizational Theory and Analyses:::educ813:::educ813g031:::educ 813 g031 organizational theory and analyses
-3007:_:math:::152:::d100:::Calculus II:::math152:::math152d100:::math 152 d100 calculus ii
-3008:_:math:::152:::op01:::Calculus II:::math152:::math152op01:::math 152 op01 calculus ii
-3009:_:ca:::400:::d100:::Directed Studies (Studio):::ca400:::ca400d100:::ca 400 d100 directed studies (studio)
-3010:_:ca:::400:::d200:::Directed Studies (Studio):::ca400:::ca400d200:::ca 400 d200 directed studies (studio)
-3011:_:ca:::400:::d300:::Directed Studies (Studio):::ca400:::ca400d300:::ca 400 d300 directed studies (studio)
-3012:_:ca:::400:::d400:::Directed Studies (Studio):::ca400:::ca400d400:::ca 400 d400 directed studies (studio)
-3013:_:ca:::400:::d500:::Directed Studies (Studio):::ca400:::ca400d500:::ca 400 d500 directed studies (studio)
-3014:_:cmns:::8dd:::g100:::Communication MA Dual Degree  Year at  CUC:::cmns8dd:::cmns8ddg100:::cmns 8dd g100 communication ma dual degree  year at  cuc
-3015:_:crim:::380:::c100:::Introduction to Cybercrime:::crim380:::crim380c100:::crim 380 c100 introduction to cybercrime
-3016:_:crim:::458:::c100:::Community Policing:::crim458:::crim458c100:::crim 458 c100 community policing
-3017:_:econ:::355w:::d100:::Economic Development:::econ355w:::econ355wd100:::econ 355w d100 economic development
-3018:_:econ:::355w:::d101:::Economic Development:::econ355w:::econ355wd101:::econ 355w d101 economic development
-3019:_:econ:::355w:::d102:::Economic Development:::econ355w:::econ355wd102:::econ 355w d102 economic development
-3020:_:econ:::355w:::d103:::Economic Development:::econ355w:::econ355wd103:::econ 355w d103 economic development
-3021:_:econ:::355w:::d104:::Economic Development:::econ355w:::econ355wd104:::econ 355w d104 economic development
-3022:_:econ:::355w:::d105:::Economic Development:::econ355w:::econ355wd105:::econ 355w d105 economic development
-3023:_:econ:::355w:::d106:::Economic Development:::econ355w:::econ355wd106:::econ 355w d106 economic development
-3024:_:econ:::355w:::d107:::Economic Development:::econ355w:::econ355wd107:::econ 355w d107 economic development
-3025:_:econ:::355w:::d108:::Economic Development:::econ355w:::econ355wd108:::econ 355w d108 economic development
-3026:_:econ:::355w:::d109:::Economic Development:::econ355w:::econ355wd109:::econ 355w d109 economic development
-3027:_:econ:::355w:::d110:::Economic Development:::econ355w:::econ355wd110:::econ 355w d110 economic development
-3028:_:econ:::355w:::d111:::Economic Development:::econ355w:::econ355wd111:::econ 355w d111 economic development
-3029:_:econ:::355w:::d112:::Economic Development:::econ355w:::econ355wd112:::econ 355w d112 economic development
-3030:_:ensc:::895:::g100:::Special Topics III:::ensc895:::ensc895g100:::ensc 895 g100 special topics iii
-3031:_:ensc:::895:::g200:::Special Topics III:::ensc895:::ensc895g200:::ensc 895 g200 special topics iii
-3032:_:ensc:::895:::g300:::Special Topics III:::ensc895:::ensc895g300:::ensc 895 g300 special topics iii
-3033:_:ensc:::895:::g400:::Special Topics III:::ensc895:::ensc895g400:::ensc 895 g400 special topics iii
-3034:_:ensc:::895:::g500:::Special Topics III:::ensc895:::ensc895g500:::ensc 895 g500 special topics iii
-3035:_:ensc:::895:::lb03:::Special Topics III:::ensc895:::ensc895lb03:::ensc 895 lb03 special topics iii
-3036:_:ensc:::895:::lb04:::Special Topics III:::ensc895:::ensc895lb04:::ensc 895 lb04 special topics iii
-3037:_:ensc:::894:::g100:::Special Topics II:::ensc894:::ensc894g100:::ensc 894 g100 special topics ii
-3038:_:ensc:::894:::g200:::Special Topics II:::ensc894:::ensc894g200:::ensc 894 g200 special topics ii
-3039:_:ensc:::894:::g300:::Special Topics II:::ensc894:::ensc894g300:::ensc 894 g300 special topics ii
-3040:_:ensc:::894:::la01:::Special Topics II:::ensc894:::ensc894la01:::ensc 894 la01 special topics ii
-3041:_:ensc:::894:::la02:::Special Topics II:::ensc894:::ensc894la02:::ensc 894 la02 special topics ii
-3042:_:ensc:::894:::la03:::Special Topics II:::ensc894:::ensc894la03:::ensc 894 la03 special topics ii
-3043:_:bot:::150:::d100:::Back on Track Student Success:::bot150:::bot150d100:::bot 150 d100 back on track student success
-3044:_:bus:::360w:::d100:::Business Communication:::bus360w:::bus360wd100:::bus 360w d100 business communication
-3045:_:bus:::360w:::d200:::Business Communication:::bus360w:::bus360wd200:::bus 360w d200 business communication
-3046:_:bus:::360w:::d300:::Business Communication:::bus360w:::bus360wd300:::bus 360w d300 business communication
-3047:_:bus:::360w:::d500:::Business Communication:::bus360w:::bus360wd500:::bus 360w d500 business communication
-3048:_:bus:::360w:::d600:::Business Communication:::bus360w:::bus360wd600:::bus 360w d600 business communication
-3049:_:bus:::360w:::e100:::Business Communication:::bus360w:::bus360we100:::bus 360w e100 business communication
-3050:_:bus:::360w:::e200:::Business Communication:::bus360w:::bus360we200:::bus 360w e200 business communication
-3051:_:engl:::114w:::d900:::Language and Purpose:::engl114w:::engl114wd900:::engl 114w d900 language and purpose
-3052:_:engl:::114w:::d901:::Language and Purpose:::engl114w:::engl114wd901:::engl 114w d901 language and purpose
-3053:_:engl:::114w:::d902:::Language and Purpose:::engl114w:::engl114wd902:::engl 114w d902 language and purpose
-3054:_:engl:::114w:::d903:::Language and Purpose:::engl114w:::engl114wd903:::engl 114w d903 language and purpose
-3055:_:engl:::114w:::d904:::Language and Purpose:::engl114w:::engl114wd904:::engl 114w d904 language and purpose
-3056:_:engl:::114w:::d905:::Language and Purpose:::engl114w:::engl114wd905:::engl 114w d905 language and purpose
-3057:_:ensc:::280:::d100:::Engineering Measurement and Data Analysis:::ensc280:::ensc280d100:::ensc 280 d100 engineering measurement and data analysis
-3058:_:ensc:::280:::d101:::Engineering Measurement and Data Analysis:::ensc280:::ensc280d101:::ensc 280 d101 engineering measurement and data analysis
-3059:_:ensc:::280:::la01:::Engineering Measurement and Data Analysis:::ensc280:::ensc280la01:::ensc 280 la01 engineering measurement and data analysis
-3060:_:educ:::473w:::e100:::Designs for Learning: Reading:::educ473w:::educ473we100:::educ 473w e100 designs for learning: reading
-3061:_:educ:::473w:::e200:::Designs for Learning: Reading:::educ473w:::educ473we200:::educ 473w e200 designs for learning: reading
-3062:_:educ:::473w:::e300:::Designs for Learning: Reading:::educ473w:::educ473we300:::educ 473w e300 designs for learning: reading
-3063:_:educ:::891:::g001:::Learning Design in Technology-Mediated Environments:::educ891:::educ891g001:::educ 891 g001 learning design in technology-mediated environments
-3064:_:mbb:::231:::d100:::Cellular Biology and Biochemistry:::mbb231:::mbb231d100:::mbb 231 d100 cellular biology and biochemistry
-3065:_:mbb:::231:::d101:::Cellular Biology and Biochemistry:::mbb231:::mbb231d101:::mbb 231 d101 cellular biology and biochemistry
-3066:_:mbb:::231:::d102:::Cellular Biology and Biochemistry:::mbb231:::mbb231d102:::mbb 231 d102 cellular biology and biochemistry
-3067:_:mbb:::231:::d103:::Cellular Biology and Biochemistry:::mbb231:::mbb231d103:::mbb 231 d103 cellular biology and biochemistry
-3068:_:mbb:::231:::d104:::Cellular Biology and Biochemistry:::mbb231:::mbb231d104:::mbb 231 d104 cellular biology and biochemistry
-3069:_:mbb:::231:::d105:::Cellular Biology and Biochemistry:::mbb231:::mbb231d105:::mbb 231 d105 cellular biology and biochemistry
-3070:_:mbb:::231:::d106:::Cellular Biology and Biochemistry:::mbb231:::mbb231d106:::mbb 231 d106 cellular biology and biochemistry
-3071:_:bpk:::457:::d100:::Behavioural Neuroscience Undergraduate Honours Thesis Proposal:::bpk457:::bpk457d100:::bpk 457 d100 behavioural neuroscience undergraduate honours thesis proposal
-3072:_:is:::309:::d100:::Special Topics in International Security and Conflict:::is309:::is309d100:::is 309 d100 special topics in international security and conflict
-3073:_:bpk:::459:::d100:::Behavioural Neuroscience Undergraduate Honours Thesis:::bpk459:::bpk459d100:::bpk 459 d100 behavioural neuroscience undergraduate honours thesis
-3074:_:gero:::300:::c100:::Introduction to Gerontology:::gero300:::gero300c100:::gero 300 c100 introduction to gerontology
-3075:_:math:::251:::d100:::Calculus III:::math251:::math251d100:::math 251 d100 calculus iii
-3076:_:math:::251:::d200:::Calculus III:::math251:::math251d200:::math 251 d200 calculus iii
-3077:_:math:::251:::op01:::Calculus III:::math251:::math251op01:::math 251 op01 calculus iii
-3078:_:math:::251:::op02:::Calculus III:::math251:::math251op02:::math 251 op02 calculus iii
-3079:_:geog:::491:::d100:::Honours Essay:::geog491:::geog491d100:::geog 491 d100 honours essay
-3080:_:geog:::491:::d200:::Honours Essay:::geog491:::geog491d200:::geog 491 d200 honours essay
-3081:_:gero:::301:::c100:::Research Methods in Gerontology:::gero301:::gero301c100:::gero 301 c100 research methods in gerontology
-3082:_:educ:::830:::g001:::Implementation of Educational Programs:::educ830:::educ830g001:::educ 830 g001 implementation of educational programs
-3083:_:math:::232:::d200:::Applied Linear Algebra:::math232:::math232d200:::math 232 d200 applied linear algebra
-3084:_:math:::232:::op01:::Applied Linear Algebra:::math232:::math232op01:::math 232 op01 applied linear algebra
-3085:_:fep:::206:::d100:::Exchange Study I - No GPA:::fep206:::fep206d100:::fep 206 d100 exchange study i - no gpa
-3086:_:bus:::430:::d100:::Cross-Cultural Management:::bus430:::bus430d100:::bus 430 d100 cross-cultural management
-3087:_:ca:::412w:::d100:::Advanced Seminar in Art and Culture Studies:::ca412w:::ca412wd100:::ca 412w d100 advanced seminar in art and culture studies
-3088:_:bisc:::113:::c100:::Biology in Everyday Life:::bisc113:::bisc113c100:::bisc 113 c100 biology in everyday life
-3089:_:ca:::827:::g100:::Practicum in Contemporary Arts:::ca827:::ca827g100:::ca 827 g100 practicum in contemporary arts
-3090:_:crim:::251:::j100:::Introduction to Policing:::crim251:::crim251j100:::crim 251 j100 introduction to policing
-3091:_:ca:::829:::g100:::Extended Essays in Contemporary Arts:::ca829:::ca829g100:::ca 829 g100 extended essays in contemporary arts
-3092:_:hsci:::319w:::d100:::Applied Health Ethics:::hsci319w:::hsci319wd100:::hsci 319w d100 applied health ethics
-3093:_:hsci:::319w:::d101:::Applied Health Ethics:::hsci319w:::hsci319wd101:::hsci 319w d101 applied health ethics
-3094:_:hsci:::319w:::d102:::Applied Health Ethics:::hsci319w:::hsci319wd102:::hsci 319w d102 applied health ethics
-3095:_:hsci:::319w:::d103:::Applied Health Ethics:::hsci319w:::hsci319wd103:::hsci 319w d103 applied health ethics
-3096:_:hsci:::319w:::d104:::Applied Health Ethics:::hsci319w:::hsci319wd104:::hsci 319w d104 applied health ethics
-3097:_:hsci:::319w:::d105:::Applied Health Ethics:::hsci319w:::hsci319wd105:::hsci 319w d105 applied health ethics
-3098:_:hsci:::319w:::d106:::Applied Health Ethics:::hsci319w:::hsci319wd106:::hsci 319w d106 applied health ethics
-3099:_:hsci:::319w:::d107:::Applied Health Ethics:::hsci319w:::hsci319wd107:::hsci 319w d107 applied health ethics
-3100:_:hsci:::319w:::d108:::Applied Health Ethics:::hsci319w:::hsci319wd108:::hsci 319w d108 applied health ethics
-3101:_:phil:::150:::e100:::Great Works in the History of Philosophy:::phil150:::phil150e100:::phil 150 e100 great works in the history of philosophy
-3102:_:ling:::899:::g100:::PhD Thesis:::ling899:::ling899g100:::ling 899 g100 phd thesis
-3103:_:ling:::899:::g200:::PhD Thesis:::ling899:::ling899g200:::ling 899 g200 phd thesis
-3104:_:ling:::899:::g300:::PhD Thesis:::ling899:::ling899g300:::ling 899 g300 phd thesis
-3105:_:ling:::899:::g400:::PhD Thesis:::ling899:::ling899g400:::ling 899 g400 phd thesis
-3106:_:ling:::899:::g500:::PhD Thesis:::ling899:::ling899g500:::ling 899 g500 phd thesis
-3107:_:ling:::899:::g700:::PhD Thesis:::ling899:::ling899g700:::ling 899 g700 phd thesis
-3108:_:ling:::899:::g800:::PhD Thesis:::ling899:::ling899g800:::ling 899 g800 phd thesis
-3109:_:ling:::898:::g100:::MA Thesis:::ling898:::ling898g100:::ling 898 g100 ma thesis
-3110:_:ling:::898:::g200:::MA Thesis:::ling898:::ling898g200:::ling 898 g200 ma thesis
-3111:_:ling:::898:::g300:::MA Thesis:::ling898:::ling898g300:::ling 898 g300 ma thesis
-3112:_:ling:::898:::g320:::MA Thesis:::ling898:::ling898g320:::ling 898 g320 ma thesis
-3113:_:ling:::898:::g400:::MA Thesis:::ling898:::ling898g400:::ling 898 g400 ma thesis
-3114:_:ling:::898:::g500:::MA Thesis:::ling898:::ling898g500:::ling 898 g500 ma thesis
-3115:_:ling:::898:::g600:::MA Thesis:::ling898:::ling898g600:::ling 898 g600 ma thesis
-3116:_:ling:::898:::g800:::MA Thesis:::ling898:::ling898g800:::ling 898 g800 ma thesis
-3117:_:educ:::822:::g031:::Evaluation of Educational Programs:::educ822:::educ822g031:::educ 822 g031 evaluation of educational programs
-3118:_:masc:::476:::d100:::Special Topics in Marine Biology:::masc476:::masc476d100:::masc 476 d100 special topics in marine biology
-3119:_:gsws:::398w:::c100:::Feminist Currents:::gsws398w:::gsws398wc100:::gsws 398w c100 feminist currents
-3120:_:ensc:::702:::g100:::Graduate Co-op II:::ensc702:::ensc702g100:::ensc 702 g100 graduate co-op ii
-3121:_:ensc:::702:::g200:::Graduate Co-op II:::ensc702:::ensc702g200:::ensc 702 g200 graduate co-op ii
-3122:_:ensc:::702:::i100:::Graduate Co-op II:::ensc702:::ensc702i100:::ensc 702 i100 graduate co-op ii
-3123:_:gsws:::316:::j100:::Disciplining Sex: Feminist Science Studies and Sociobiology:::gsws316:::gsws316j100:::gsws 316 j100 disciplining sex: feminist science studies and sociobiology
-3124:_:psyc:::359:::d100:::Developmental Disabilities:::psyc359:::psyc359d100:::psyc 359 d100 developmental disabilities
-3125:_:sa:::257:::j100:::Understanding Quantitative Research in Sociology and Anthropology (SA):::sa257:::sa257j100:::sa 257 j100 understanding quantitative research in sociology and anthropology (sa)
-3126:_:ensc:::701:::g100:::Graduate Co-op I:::ensc701:::ensc701g100:::ensc 701 g100 graduate co-op i
-3127:_:ensc:::701:::g200:::Graduate Co-op I:::ensc701:::ensc701g200:::ensc 701 g200 graduate co-op i
-3128:_:ensc:::701:::i100:::Graduate Co-op I:::ensc701:::ensc701i100:::ensc 701 i100 graduate co-op i
-3129:_:arch:::895:::g100:::Special Topics:::arch895:::arch895g100:::arch 895 g100 special topics
-3130:_:masc:::477:::d100:::Special Topics in Marine Biology:::masc477:::masc477d100:::masc 477 d100 special topics in marine biology
-3131:_:lbst:::306:::d100:::The Political Economy of Labour Markets: Critical and Radical Approaches:::lbst306:::lbst306d100:::lbst 306 d100 the political economy of labour markets: critical and radical approaches
-3132:_:pol:::317:::j100:::Migration, Identity, and Citizenship:::pol317:::pol317j100:::pol 317 j100 migration, identity, and citizenship
-3133:_:ca:::369:::d100:::Methods and Concepts: Selected Topics:::ca369:::ca369d100:::ca 369 d100 methods and concepts: selected topics
-3134:_:lbst:::230:::d100:::Special Topics in Labour Studies:::lbst230:::lbst230d100:::lbst 230 d100 special topics in labour studies
-3135:_:pol:::150:::d100:::Science, Policy, and Innovation:::pol150:::pol150d100:::pol 150 d100 science, policy, and innovation
-3136:_:pol:::150:::d101:::Science, Policy, and Innovation:::pol150:::pol150d101:::pol 150 d101 science, policy, and innovation
-3137:_:pol:::150:::d102:::Science, Policy, and Innovation:::pol150:::pol150d102:::pol 150 d102 science, policy, and innovation
-3138:_:pol:::150:::d103:::Science, Policy, and Innovation:::pol150:::pol150d103:::pol 150 d103 science, policy, and innovation
-3139:_:psyc:::300w:::d100:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd100:::psyc 300w d100 critical analysis of issues in psychology
-3140:_:psyc:::300w:::d101:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd101:::psyc 300w d101 critical analysis of issues in psychology
-3141:_:psyc:::300w:::d102:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd102:::psyc 300w d102 critical analysis of issues in psychology
-3142:_:psyc:::300w:::d103:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd103:::psyc 300w d103 critical analysis of issues in psychology
-3143:_:psyc:::300w:::d104:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd104:::psyc 300w d104 critical analysis of issues in psychology
-3144:_:psyc:::300w:::d105:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd105:::psyc 300w d105 critical analysis of issues in psychology
-3145:_:psyc:::300w:::d106:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd106:::psyc 300w d106 critical analysis of issues in psychology
-3146:_:psyc:::300w:::d107:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd107:::psyc 300w d107 critical analysis of issues in psychology
-3147:_:psyc:::300w:::d108:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd108:::psyc 300w d108 critical analysis of issues in psychology
-3148:_:psyc:::300w:::d109:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd109:::psyc 300w d109 critical analysis of issues in psychology
-3149:_:psyc:::300w:::d110:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd110:::psyc 300w d110 critical analysis of issues in psychology
-3150:_:psyc:::300w:::d111:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd111:::psyc 300w d111 critical analysis of issues in psychology
-3151:_:psyc:::300w:::d112:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd112:::psyc 300w d112 critical analysis of issues in psychology
-3152:_:mse:::793:::g100:::Graduate Co-op I:::mse793:::mse793g100:::mse 793 g100 graduate co-op i
-3153:_:mse:::793:::g200:::Graduate Co-op I:::mse793:::mse793g200:::mse 793 g200 graduate co-op i
-3154:_:mse:::793:::i100:::Graduate Co-op I:::mse793:::mse793i100:::mse 793 i100 graduate co-op i
-3155:_:ensc:::252:::d100:::Fundamentals of Digital Logic & Design:::ensc252:::ensc252d100:::ensc 252 d100 fundamentals of digital logic & design
-3156:_:ensc:::252:::d101:::Fundamentals of Digital Logic & Design:::ensc252:::ensc252d101:::ensc 252 d101 fundamentals of digital logic & design
-3157:_:ensc:::252:::la01:::Fundamentals of Digital Logic & Design:::ensc252:::ensc252la01:::ensc 252 la01 fundamentals of digital logic & design
-3158:_:ensc:::252:::la02:::Fundamentals of Digital Logic & Design:::ensc252:::ensc252la02:::ensc 252 la02 fundamentals of digital logic & design
-3159:_:ensc:::252:::la03:::Fundamentals of Digital Logic & Design:::ensc252:::ensc252la03:::ensc 252 la03 fundamentals of digital logic & design
-3160:_:crim:::897:::g100:::Comprehensive Exam:::crim897:::crim897g100:::crim 897 g100 comprehensive exam
-3161:_:crim:::897:::g200:::Comprehensive Exam:::crim897:::crim897g200:::crim 897 g200 comprehensive exam
-3162:_:ensc:::251:::d100:::Software Design and Analysis for Engineers:::ensc251:::ensc251d100:::ensc 251 d100 software design and analysis for engineers
-3163:_:ensc:::251:::d101:::Software Design and Analysis for Engineers:::ensc251:::ensc251d101:::ensc 251 d101 software design and analysis for engineers
-3164:_:ensc:::251:::la01:::Software Design and Analysis for Engineers:::ensc251:::ensc251la01:::ensc 251 la01 software design and analysis for engineers
-3165:_:ensc:::251:::la02:::Software Design and Analysis for Engineers:::ensc251:::ensc251la02:::ensc 251 la02 software design and analysis for engineers
-3166:_:ensc:::251:::la03:::Software Design and Analysis for Engineers:::ensc251:::ensc251la03:::ensc 251 la03 software design and analysis for engineers
-3167:_:pol:::311:::d100:::Contemporary Perspectives on Ancient Political Thought:::pol311:::pol311d100:::pol 311 d100 contemporary perspectives on ancient political thought
-3168:_:fnst:::447:::d100:::Directed Studies in First Nations Studies:::fnst447:::fnst447d100:::fnst 447 d100 directed studies in first nations studies
-3169:_:pol:::141:::d100:::War, International Cooperation and Development:::pol141:::pol141d100:::pol 141 d100 war, international cooperation and development
-3170:_:sd:::281:::d100:::Sustainable Communities, Sustainable World:::sd281:::sd281d100:::sd 281 d100 sustainable communities, sustainable world
-3171:_:sd:::281:::d101:::Sustainable Communities, Sustainable World:::sd281:::sd281d101:::sd 281 d101 sustainable communities, sustainable world
-3172:_:sd:::281:::d102:::Sustainable Communities, Sustainable World:::sd281:::sd281d102:::sd 281 d102 sustainable communities, sustainable world
-3173:_:ensc:::254:::d100:::Introduction to Computer Organization:::ensc254:::ensc254d100:::ensc 254 d100 introduction to computer organization
-3174:_:ensc:::254:::d101:::Introduction to Computer Organization:::ensc254:::ensc254d101:::ensc 254 d101 introduction to computer organization
-3175:_:ensc:::254:::la04:::Introduction to Computer Organization:::ensc254:::ensc254la04:::ensc 254 la04 introduction to computer organization
-3176:_:ensc:::254:::la05:::Introduction to Computer Organization:::ensc254:::ensc254la05:::ensc 254 la05 introduction to computer organization
-3177:_:ensc:::254:::la06:::Introduction to Computer Organization:::ensc254:::ensc254la06:::ensc 254 la06 introduction to computer organization
-3178:_:ensc:::254:::la07:::Introduction to Computer Organization:::ensc254:::ensc254la07:::ensc 254 la07 introduction to computer organization
-3179:_:ling:::362:::d100:::Introduction to Teaching English as a Second Language to Adults:::ling362:::ling362d100:::ling 362 d100 introduction to teaching english as a second language to adults
-3180:_:mse:::111:::d100:::Mechatronics for non-Engineers:::mse111:::mse111d100:::mse 111 d100 mechatronics for non-engineers
-3181:_:mse:::111:::lab1:::Mechatronics for non-Engineers:::mse111:::mse111lab1:::mse 111 lab1 mechatronics for non-engineers
-3182:_:mse:::111:::lab2:::Mechatronics for non-Engineers:::mse111:::mse111lab2:::mse 111 lab2 mechatronics for non-engineers
-3183:_:econ:::990:::g100:::PhD Thesis:::econ990:::econ990g100:::econ 990 g100 phd thesis
-3184:_:econ:::990:::g200:::PhD Thesis:::econ990:::econ990g200:::econ 990 g200 phd thesis
-3185:_:gero:::407:::c100:::Nutrition and Aging:::gero407:::gero407c100:::gero 407 c100 nutrition and aging
-3186:_:crim:::335:::c100:::Human Rights and Civil Liberties:::crim335:::crim335c100:::crim 335 c100 human rights and civil liberties
-3187:_:crim:::335:::d100:::Human Rights and Civil Liberties:::crim335:::crim335d100:::crim 335 d100 human rights and civil liberties
-3188:_:crim:::335:::d101:::Human Rights and Civil Liberties:::crim335:::crim335d101:::crim 335 d101 human rights and civil liberties
-3189:_:crim:::335:::d102:::Human Rights and Civil Liberties:::crim335:::crim335d102:::crim 335 d102 human rights and civil liberties
-3190:_:crim:::335:::d103:::Human Rights and Civil Liberties:::crim335:::crim335d103:::crim 335 d103 human rights and civil liberties
-3191:_:crim:::335:::d104:::Human Rights and Civil Liberties:::crim335:::crim335d104:::crim 335 d104 human rights and civil liberties
-3192:_:educ:::845:::g001:::Learning Mathematics with Computers:::educ845:::educ845g001:::educ 845 g001 learning mathematics with computers
-3193:_:hist:::814:::g100:::Historical Methods:::hist814:::hist814g100:::hist 814 g100 historical methods
-3194:_:bus:::493:::d100:::Selected Topics in Business Administration:::bus493:::bus493d100:::bus 493 d100 selected topics in business administration
-3195:_:econ:::455w:::d100:::Seminar in Economic Development:::econ455w:::econ455wd100:::econ 455w d100 seminar in economic development
-3196:_:bus:::825:::g100:::Financial Statement Analysis:::bus825:::bus825g100:::bus 825 g100 financial statement analysis
-3197:_:hum:::360:::d100:::Special Topics: Great Themes in the Humanistic Tradition:::hum360:::hum360d100:::hum 360 d100 special topics: great themes in the humanistic tradition
-3198:_:bus:::200:::d200:::Business Fundamentals:::bus200:::bus200d200:::bus 200 d200 business fundamentals
-3199:_:bus:::200:::e100:::Business Fundamentals:::bus200:::bus200e100:::bus 200 e100 business fundamentals
-3200:_:fep:::209:::d100:::Exchange Study - No GPA:::fep209:::fep209d100:::fep 209 d100 exchange study - no gpa
-3201:_:phil:::802:::g100:::Selected Topics in Epistemology:::phil802:::phil802g100:::phil 802 g100 selected topics in epistemology
-3202:_:ensc:::462:::d100:::Special Topics in Engineering Science:::ensc462:::ensc462d100:::ensc 462 d100 special topics in engineering science
-3203:_:ensc:::462:::d101:::Special Topics in Engineering Science:::ensc462:::ensc462d101:::ensc 462 d101 special topics in engineering science
-3204:_:ensc:::462:::la01:::Special Topics in Engineering Science:::ensc462:::ensc462la01:::ensc 462 la01 special topics in engineering science
-3205:_:ensc:::462:::la02:::Special Topics in Engineering Science:::ensc462:::ensc462la02:::ensc 462 la02 special topics in engineering science
-3206:_:cmns:::452:::d100:::Race and the Media:::cmns452:::cmns452d100:::cmns 452 d100 race and the media
-3207:_:grad:::850:::g100:::Dual Degree Enrollment:::grad850:::grad850g100:::grad 850 g100 dual degree enrollment
-3208:_:mbb:::430:::d100:::Mechanisms of Secretory Transport:::mbb430:::mbb430d100:::mbb 430 d100 mechanisms of secretory transport
-3209:_:crim:::332:::c100:::Sociology of Law:::crim332:::crim332c100:::crim 332 c100 sociology of law
-3210:_:japn:::201:::d100:::Advanced Beginners' Japanese II:::japn201:::japn201d100:::japn 201 d100 advanced beginners' japanese ii
-3211:_:crim:::330:::c100:::Criminal Procedure and Evidence:::crim330:::crim330c100:::crim 330 c100 criminal procedure and evidence
-3212:_:crim:::330:::d100:::Criminal Procedure and Evidence:::crim330:::crim330d100:::crim 330 d100 criminal procedure and evidence
-3213:_:crim:::330:::d101:::Criminal Procedure and Evidence:::crim330:::crim330d101:::crim 330 d101 criminal procedure and evidence
-3214:_:crim:::330:::d102:::Criminal Procedure and Evidence:::crim330:::crim330d102:::crim 330 d102 criminal procedure and evidence
-3215:_:crim:::330:::d103:::Criminal Procedure and Evidence:::crim330:::crim330d103:::crim 330 d103 criminal procedure and evidence
-3216:_:crim:::330:::d104:::Criminal Procedure and Evidence:::crim330:::crim330d104:::crim 330 d104 criminal procedure and evidence
-3217:_:crim:::330:::d105:::Criminal Procedure and Evidence:::crim330:::crim330d105:::crim 330 d105 criminal procedure and evidence
-3218:_:crim:::330:::d106:::Criminal Procedure and Evidence:::crim330:::crim330d106:::crim 330 d106 criminal procedure and evidence
-3219:_:crim:::330:::d107:::Criminal Procedure and Evidence:::crim330:::crim330d107:::crim 330 d107 criminal procedure and evidence
-3220:_:crim:::330:::d108:::Criminal Procedure and Evidence:::crim330:::crim330d108:::crim 330 d108 criminal procedure and evidence
-3221:_:crim:::330:::d109:::Criminal Procedure and Evidence:::crim330:::crim330d109:::crim 330 d109 criminal procedure and evidence
-3222:_:ling:::350:::d100:::First Language Acquisition:::ling350:::ling350d100:::ling 350 d100 first language acquisition
-3223:_:crim:::321:::c100:::Qualitative Research Methods in Criminology:::crim321:::crim321c100:::crim 321 c100 qualitative research methods in criminology
-3224:_:crim:::321:::d900:::Qualitative Research Methods in Criminology:::crim321:::crim321d900:::crim 321 d900 qualitative research methods in criminology
-3225:_:crim:::321:::d901:::Qualitative Research Methods in Criminology:::crim321:::crim321d901:::crim 321 d901 qualitative research methods in criminology
-3226:_:crim:::321:::d902:::Qualitative Research Methods in Criminology:::crim321:::crim321d902:::crim 321 d902 qualitative research methods in criminology
-3227:_:crim:::321:::d903:::Qualitative Research Methods in Criminology:::crim321:::crim321d903:::crim 321 d903 qualitative research methods in criminology
-3228:_:crim:::321:::d904:::Qualitative Research Methods in Criminology:::crim321:::crim321d904:::crim 321 d904 qualitative research methods in criminology
-3229:_:crim:::321:::d905:::Qualitative Research Methods in Criminology:::crim321:::crim321d905:::crim 321 d905 qualitative research methods in criminology
-3230:_:crim:::321:::d906:::Qualitative Research Methods in Criminology:::crim321:::crim321d906:::crim 321 d906 qualitative research methods in criminology
-3231:_:crim:::321:::d907:::Qualitative Research Methods in Criminology:::crim321:::crim321d907:::crim 321 d907 qualitative research methods in criminology
-3232:_:crim:::321:::d908:::Qualitative Research Methods in Criminology:::crim321:::crim321d908:::crim 321 d908 qualitative research methods in criminology
-3233:_:crim:::320:::c100:::Quantitative Research Methods in Criminology:::crim320:::crim320c100:::crim 320 c100 quantitative research methods in criminology
-3234:_:japn:::100:::d100:::Introduction to Japanese I:::japn100:::japn100d100:::japn 100 d100 introduction to japanese i
-3235:_:japn:::100:::d200:::Introduction to Japanese I:::japn100:::japn100d200:::japn 100 d200 introduction to japanese i
-3236:_:japn:::100:::d300:::Introduction to Japanese I:::japn100:::japn100d300:::japn 100 d300 introduction to japanese i
-3237:_:japn:::100:::d400:::Introduction to Japanese I:::japn100:::japn100d400:::japn 100 d400 introduction to japanese i
-3238:_:japn:::100:::e100:::Introduction to Japanese I:::japn100:::japn100e100:::japn 100 e100 introduction to japanese i
-3239:_:ling:::323:::d100:::Morphology:::ling323:::ling323d100:::ling 323 d100 morphology
-3240:_:econ:::921:::g100:::Directed Readings:::econ921:::econ921g100:::econ 921 g100 directed readings
-3241:_:econ:::921:::g200:::Directed Readings:::econ921:::econ921g200:::econ 921 g200 directed readings
-3242:_:econ:::921:::g300:::Directed Readings:::econ921:::econ921g300:::econ 921 g300 directed readings
-3243:_:econ:::921:::g400:::Directed Readings:::econ921:::econ921g400:::econ 921 g400 directed readings
-3244:_:econ:::921:::g500:::Directed Readings:::econ921:::econ921g500:::econ 921 g500 directed readings
-3245:_:japn:::200:::d100:::Advanced Beginners' Japanese I:::japn200:::japn200d100:::japn 200 d100 advanced beginners' japanese i
-3246:_:japn:::101:::d100:::Introduction to Japanese II:::japn101:::japn101d100:::japn 101 d100 introduction to japanese ii
-3247:_:japn:::101:::d200:::Introduction to Japanese II:::japn101:::japn101d200:::japn 101 d200 introduction to japanese ii
-3248:_:japn:::101:::d300:::Introduction to Japanese II:::japn101:::japn101d300:::japn 101 d300 introduction to japanese ii
+2648:_:hist:::896:::g100:::Race and Ethnicity:::hist896:::hist896g100:::hist 896 g100 race and ethnicity
+2649:_:crim:::485:::d100:::Professional Development - Criminal Justice Practice:::crim485:::crim485d100:::crim 485 d100 professional development - criminal justice practice
+2650:_:hsci:::893:::g100:::Directed Studies in Health Sciences:::hsci893:::hsci893g100:::hsci 893 g100 directed studies in health sciences
+2651:_:engl:::398:::d100:::Major Authors for Non-Majors:::engl398:::engl398d100:::engl 398 d100 major authors for non-majors
+2652:_:hsci:::894:::g100:::Directed Studies in Health Sciences:::hsci894:::hsci894g100:::hsci 894 g100 directed studies in health sciences
+2653:_:hum:::130:::c900:::Introduction to Religious Studies:::hum130:::hum130c900:::hum 130 c900 introduction to religious studies
+2654:_:bus:::494:::d800:::Selected Topics in Business Administration:::bus494:::bus494d800:::bus 494 d800 selected topics in business administration
+2655:_:crim:::486:::d100:::Field Placement - Agency - Part Time:::crim486:::crim486d100:::crim 486 d100 field placement - agency - part time
+2656:_:nusc:::482:::d100:::Directed Study in Advanced Topics in Nuclear:::nusc482:::nusc482d100:::nusc 482 d100 directed study in advanced topics in nuclear
+2657:_:nusc:::482:::d200:::Directed Study in Advanced Topics in Nuclear:::nusc482:::nusc482d200:::nusc 482 d200 directed study in advanced topics in nuclear
+2658:_:engl:::894:::g100:::PhD Thesis Prospectus:::engl894:::engl894g100:::engl 894 g100 phd thesis prospectus
+2659:_:pol:::448:::d100:::Selected Topics in International Relations:::pol448:::pol448d100:::pol 448 d100 selected topics in international relations
+2660:_:mbb:::806:::g100:::PhD Graduate Research Candidacy Examination:::mbb806:::mbb806g100:::mbb 806 g100 phd graduate research candidacy examination
+2661:_:educ:::984:::g001:::Qualifying Examination:::educ984:::educ984g001:::educ 984 g001 qualifying examination
+2662:_:mbb:::452:::d100:::Practicum V:::mbb452:::mbb452d100:::mbb 452 d100 practicum v
+2663:_:mbb:::452:::d200:::Practicum V:::mbb452:::mbb452d200:::mbb 452 d200 practicum v
+2664:_:mbb:::452:::i100:::Practicum V:::mbb452:::mbb452i100:::mbb 452 i100 practicum v
+2665:_:psyc:::280:::c100:::Introduction to Biological Psychology:::psyc280:::psyc280c100:::psyc 280 c100 introduction to biological psychology
+2666:_:psyc:::280:::d100:::Introduction to Biological Psychology:::psyc280:::psyc280d100:::psyc 280 d100 introduction to biological psychology
+2667:_:psyc:::280:::j100:::Introduction to Biological Psychology:::psyc280:::psyc280j100:::psyc 280 j100 introduction to biological psychology
+2668:_:mbb:::490:::d100:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d100:::mbb 490 d100 directed readings in molecular biology and biochemistry
+2669:_:mbb:::490:::d200:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d200:::mbb 490 d200 directed readings in molecular biology and biochemistry
+2670:_:mbb:::490:::d300:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d300:::mbb 490 d300 directed readings in molecular biology and biochemistry
+2671:_:mbb:::490:::d400:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d400:::mbb 490 d400 directed readings in molecular biology and biochemistry
+2672:_:mbb:::490:::d500:::Directed Readings in Molecular Biology and Biochemistry:::mbb490:::mbb490d500:::mbb 490 d500 directed readings in molecular biology and biochemistry
+2673:_:mbb:::491:::d100:::Directed Research I:::mbb491:::mbb491d100:::mbb 491 d100 directed research i
+2674:_:mbb:::491:::d200:::Directed Research I:::mbb491:::mbb491d200:::mbb 491 d200 directed research i
+2675:_:mbb:::491:::d300:::Directed Research I:::mbb491:::mbb491d300:::mbb 491 d300 directed research i
+2676:_:mbb:::491:::d400:::Directed Research I:::mbb491:::mbb491d400:::mbb 491 d400 directed research i
+2677:_:mbb:::491:::d500:::Directed Research I:::mbb491:::mbb491d500:::mbb 491 d500 directed research i
+2678:_:mbb:::491:::d600:::Directed Research I:::mbb491:::mbb491d600:::mbb 491 d600 directed research i
+2679:_:mbb:::491:::d700:::Directed Research I:::mbb491:::mbb491d700:::mbb 491 d700 directed research i
+2680:_:mbb:::491:::d800:::Directed Research I:::mbb491:::mbb491d800:::mbb 491 d800 directed research i
+2681:_:mbb:::492:::d100:::Directed Research II:::mbb492:::mbb492d100:::mbb 492 d100 directed research ii
+2682:_:mbb:::492:::d200:::Directed Research II:::mbb492:::mbb492d200:::mbb 492 d200 directed research ii
+2683:_:mbb:::492:::d300:::Directed Research II:::mbb492:::mbb492d300:::mbb 492 d300 directed research ii
+2684:_:mbb:::492:::d400:::Directed Research II:::mbb492:::mbb492d400:::mbb 492 d400 directed research ii
+2685:_:mbb:::492:::d500:::Directed Research II:::mbb492:::mbb492d500:::mbb 492 d500 directed research ii
+2686:_:easc:::104:::c100:::Geohazards - Earth in Turmoil:::easc104:::easc104c100:::easc 104 c100 geohazards - earth in turmoil
+2687:_:sa:::499:::d100:::Honours Essay (SA):::sa499:::sa499d100:::sa 499 d100 honours essay (sa)
+2688:_:educ:::414:::d100:::Designs for Learning: Secondary Social Studies:::educ414:::educ414d100:::educ 414 d100 designs for learning: secondary social studies
+2689:_:educ:::414:::e100:::Designs for Learning: Secondary Social Studies:::educ414:::educ414e100:::educ 414 e100 designs for learning: secondary social studies
+2690:_:educ:::414:::f100:::Designs for Learning: Secondary Social Studies:::educ414:::educ414f100:::educ 414 f100 designs for learning: secondary social studies
+2691:_:ling:::812:::g100:::Topics in Linguistics III:::ling812:::ling812g100:::ling 812 g100 topics in linguistics iii
+2692:_:bus:::221:::d100:::Personal Finance:::bus221:::bus221d100:::bus 221 d100 personal finance
+2693:_:bus:::221:::d200:::Personal Finance:::bus221:::bus221d200:::bus 221 d200 personal finance
+2694:_:educ:::415:::d100:::Designs for Learning: Secondary Mathematics:::educ415:::educ415d100:::educ 415 d100 designs for learning: secondary mathematics
+2695:_:educ:::415:::e100:::Designs for Learning: Secondary Mathematics:::educ415:::educ415e100:::educ 415 e100 designs for learning: secondary mathematics
+2696:_:educ:::415:::f100:::Designs for Learning: Secondary Mathematics:::educ415:::educ415f100:::educ 415 f100 designs for learning: secondary mathematics
+2697:_:econ:::484:::d100:::Selected Topics in Economics:::econ484:::econ484d100:::econ 484 d100 selected topics in economics
+2698:_:educ:::416:::d100:::Designs for Learning: Secondary Science:::educ416:::educ416d100:::educ 416 d100 designs for learning: secondary science
+2699:_:educ:::416:::e100:::Designs for Learning: Secondary Science:::educ416:::educ416e100:::educ 416 e100 designs for learning: secondary science
+2700:_:educ:::416:::f100:::Designs for Learning: Secondary Science:::educ416:::educ416f100:::educ 416 f100 designs for learning: secondary science
+2701:_:educ:::416:::f200:::Designs for Learning: Secondary Science:::educ416:::educ416f200:::educ 416 f200 designs for learning: secondary science
+2702:_:sa:::359:::d100:::Special Topics in Anthropology (A):::sa359:::sa359d100:::sa 359 d100 special topics in anthropology (a)
+2703:_:sa:::359:::d200:::Special Topics in Anthropology (A):::sa359:::sa359d200:::sa 359 d200 special topics in anthropology (a)
+2704:_:easc:::810:::g100:::MSc Thesis Proposal:::easc810:::easc810g100:::easc 810 g100 msc thesis proposal
+2705:_:mbb:::498:::d001:::Directed Research:::mbb498:::mbb498d001:::mbb 498 d001 directed research
+2706:_:mbb:::498:::d002:::Directed Research:::mbb498:::mbb498d002:::mbb 498 d002 directed research
+2707:_:mbb:::498:::d003:::Directed Research:::mbb498:::mbb498d003:::mbb 498 d003 directed research
+2708:_:mbb:::498:::d004:::Directed Research:::mbb498:::mbb498d004:::mbb 498 d004 directed research
+2709:_:mbb:::498:::d005:::Directed Research:::mbb498:::mbb498d005:::mbb 498 d005 directed research
+2710:_:phil:::331:::e100:::Selected Topics:::phil331:::phil331e100:::phil 331 e100 selected topics
+2711:_:bus:::492:::d800:::Selected Topics in Business Administration:::bus492:::bus492d800:::bus 492 d800 selected topics in business administration
+2712:_:educ:::422:::c900:::Learning Disabilities:::educ422:::educ422c900:::educ 422 c900 learning disabilities
+2713:_:bus:::495:::d800:::Selected Topics in Business Administration:::bus495:::bus495d800:::bus 495 d800 selected topics in business administration
+2714:_:educ:::423:::e100:::Helping Relationships:::educ423:::educ423e100:::educ 423 e100 helping relationships
+2715:_:educ:::423:::e200:::Helping Relationships:::educ423:::educ423e200:::educ 423 e200 helping relationships
+2716:_:educ:::423:::e300:::Helping Relationships:::educ423:::educ423e300:::educ 423 e300 helping relationships
+2717:_:sa:::318:::d100:::Technologies of Health and Expectation (A):::sa318:::sa318d100:::sa 318 d100 technologies of health and expectation (a)
+2718:_:sa:::316:::c100:::Tourism and Social Policy (S):::sa316:::sa316c100:::sa 316 c100 tourism and social policy (s)
+2719:_:sa:::498:::d100:::Field Study in Sociology and/or Anthropology (SA):::sa498:::sa498d100:::sa 498 d100 field study in sociology and/or anthropology (sa)
+2720:_:acma:::337:::d100:::Job Practicum II:::acma337:::acma337d100:::acma 337 d100 job practicum ii
+2721:_:acma:::337:::d200:::Job Practicum II:::acma337:::acma337d200:::acma 337 d200 job practicum ii
+2722:_:acma:::337:::i100:::Job Practicum II:::acma337:::acma337i100:::acma 337 i100 job practicum ii
+2723:_:bpk:::141:::c100:::Theory of Exercise Program Design:::bpk141:::bpk141c100:::bpk 141 c100 theory of exercise program design
+2724:_:bpk:::141:::c200:::Theory of Exercise Program Design:::bpk141:::bpk141c200:::bpk 141 c200 theory of exercise program design
+2725:_:educ:::411:::d100:::Investigations in Mathematics for Secondary Teachers:::educ411:::educ411d100:::educ 411 d100 investigations in mathematics for secondary teachers
+2726:_:acma:::437:::d100:::Job Practicum IV:::acma437:::acma437d100:::acma 437 d100 job practicum iv
+2727:_:acma:::437:::d200:::Job Practicum IV:::acma437:::acma437d200:::acma 437 d200 job practicum iv
+2728:_:acma:::437:::i100:::Job Practicum IV:::acma437:::acma437i100:::acma 437 i100 job practicum iv
+2729:_:sa:::304:::j100:::Social Control (S):::sa304:::sa304j100:::sa 304 j100 social control (s)
+2730:_:sa:::315:::d900:::New Information Technology and Society (SA):::sa315:::sa315d900:::sa 315 d900 new information technology and society (sa)
+2731:_:sa:::497:::d100:::Directed Readings in Sociology (S):::sa497:::sa497d100:::sa 497 d100 directed readings in sociology (s)
+2732:_:sa:::496:::d100:::Directed Readings in Anthropology (A):::sa496:::sa496d100:::sa 496 d100 directed readings in anthropology (a)
+2733:_:cmns:::349:::d100:::Environment, Media and Communication:::cmns349:::cmns349d100:::cmns 349 d100 environment, media and communication
+2734:_:cmns:::349:::d101:::Environment, Media and Communication:::cmns349:::cmns349d101:::cmns 349 d101 environment, media and communication
+2735:_:cmns:::349:::d102:::Environment, Media and Communication:::cmns349:::cmns349d102:::cmns 349 d102 environment, media and communication
+2736:_:cmns:::349:::d103:::Environment, Media and Communication:::cmns349:::cmns349d103:::cmns 349 d103 environment, media and communication
+2737:_:cmns:::349:::d104:::Environment, Media and Communication:::cmns349:::cmns349d104:::cmns 349 d104 environment, media and communication
+2738:_:geog:::409:::d100:::Geography Practicum V:::geog409:::geog409d100:::geog 409 d100 geography practicum v
+2739:_:geog:::409:::d200:::Geography Practicum V:::geog409:::geog409d200:::geog 409 d200 geography practicum v
+2740:_:geog:::409:::i100:::Geography Practicum V:::geog409:::geog409i100:::geog 409 i100 geography practicum v
+2741:_:math:::254:::d100:::Vector and Complex Analysis for Applied Sciences:::math254:::math254d100:::math 254 d100 vector and complex analysis for applied sciences
+2742:_:math:::254:::d101:::Vector and Complex Analysis for Applied Sciences:::math254:::math254d101:::math 254 d101 vector and complex analysis for applied sciences
+2743:_:math:::254:::d102:::Vector and Complex Analysis for Applied Sciences:::math254:::math254d102:::math 254 d102 vector and complex analysis for applied sciences
+2744:_:math:::254:::d103:::Vector and Complex Analysis for Applied Sciences:::math254:::math254d103:::math 254 d103 vector and complex analysis for applied sciences
+2745:_:engl:::832:::g100:::Studies in Eighteenth-Century Literature:::engl832:::engl832g100:::engl 832 g100 studies in eighteenth-century literature
+2746:_:iat:::271:::d100:::Co-op Practicum I:::iat271:::iat271d100:::iat 271 d100 co-op practicum i
+2747:_:iat:::271:::d200:::Co-op Practicum I:::iat271:::iat271d200:::iat 271 d200 co-op practicum i
+2748:_:iat:::271:::i100:::Co-op Practicum I:::iat271:::iat271i100:::iat 271 i100 co-op practicum i
+2749:_:pub:::484:::d100:::Directed Readings in Publishing:::pub484:::pub484d100:::pub 484 d100 directed readings in publishing
+2750:_:bus:::401:::d100:::Developing Organizational Opportunities:::bus401:::bus401d100:::bus 401 d100 developing organizational opportunities
+2751:_:bus:::655:::g100:::Special Topics in Business Administration:::bus655:::bus655g100:::bus 655 g100 special topics in business administration
+2752:_:educ:::412w:::d100:::Designs for Learning: Secondary Language Arts:::educ412w:::educ412wd100:::educ 412w d100 designs for learning: secondary language arts
+2753:_:educ:::412w:::e100:::Designs for Learning: Secondary Language Arts:::educ412w:::educ412we100:::educ 412w e100 designs for learning: secondary language arts
+2754:_:engl:::833:::d100:::Studies in Nineteenth-Century Literature:::engl833:::engl833d100:::engl 833 d100 studies in nineteenth-century literature
+2755:_:iat:::272:::d100:::Co-op Practicum II:::iat272:::iat272d100:::iat 272 d100 co-op practicum ii
+2756:_:iat:::272:::d200:::Co-op Practicum II:::iat272:::iat272d200:::iat 272 d200 co-op practicum ii
+2757:_:iat:::272:::i100:::Co-op Practicum II:::iat272:::iat272i100:::iat 272 i100 co-op practicum ii
+2758:_:bus:::233:::d100:::Introduction to Business Law and Ethics:::bus233:::bus233d100:::bus 233 d100 introduction to business law and ethics
+2759:_:econ:::811:::g100:::Advanced Monetary Theory:::econ811:::econ811g100:::econ 811 g100 advanced monetary theory
+2760:_:engl:::834:::d100:::Studies in Twentieth-Century Literature:::engl834:::engl834d100:::engl 834 d100 studies in twentieth-century literature
+2761:_:iat:::373:::d100:::Co-op Practicum III:::iat373:::iat373d100:::iat 373 d100 co-op practicum iii
+2762:_:iat:::373:::d200:::Co-op Practicum III:::iat373:::iat373d200:::iat 373 d200 co-op practicum iii
+2763:_:iat:::373:::i100:::Co-op Practicum III:::iat373:::iat373i100:::iat 373 i100 co-op practicum iii
+2764:_:iat:::374:::d100:::Co-op Practicum IV:::iat374:::iat374d100:::iat 374 d100 co-op practicum iv
+2765:_:iat:::374:::d200:::Co-op Practicum IV:::iat374:::iat374d200:::iat 374 d200 co-op practicum iv
+2766:_:iat:::374:::i100:::Co-op Practicum IV:::iat374:::iat374i100:::iat 374 i100 co-op practicum iv
+2767:_:phil:::823:::g100:::Selected Topics Meta-Ethics:::phil823:::phil823g100:::phil 823 g100 selected topics meta-ethics
+2768:_:urb:::695:::g100:::Selected Topics in Urban Studies:::urb695:::urb695g100:::urb 695 g100 selected topics in urban studies
+2769:_:urb:::695:::g200:::Selected Topics in Urban Studies:::urb695:::urb695g200:::urb 695 g200 selected topics in urban studies
+2770:_:cmpt:::376w:::d100:::Technical Writing and Group Dynamics:::cmpt376w:::cmpt376wd100:::cmpt 376w d100 technical writing and group dynamics
+2771:_:cmpt:::376w:::d200:::Technical Writing and Group Dynamics:::cmpt376w:::cmpt376wd200:::cmpt 376w d200 technical writing and group dynamics
+2772:_:pub:::438:::d100:::Design Awareness in Publishing Processes and Products:::pub438:::pub438d100:::pub 438 d100 design awareness in publishing processes and products
+2773:_:pub:::438:::d101:::Design Awareness in Publishing Processes and Products:::pub438:::pub438d101:::pub 438 d101 design awareness in publishing processes and products
+2774:_:pub:::438:::d102:::Design Awareness in Publishing Processes and Products:::pub438:::pub438d102:::pub 438 d102 design awareness in publishing processes and products
+2775:_:gsws:::831:::g100:::Selected Topics Graduate Seminar II:::gsws831:::gsws831g100:::gsws 831 g100 selected topics graduate seminar ii
+2776:_:pub:::480:::d100:::Special Topics in Publishing:::pub480:::pub480d100:::pub 480 d100 special topics in publishing
+2777:_:pub:::480:::d200:::Special Topics in Publishing:::pub480:::pub480d200:::pub 480 d200 special topics in publishing
+2778:_:hist:::371:::d100:::The Asia-Pacific War in Modern Japanese History:::hist371:::hist371d100:::hist 371 d100 the asia-pacific war in modern japanese history
+2779:_:phil:::435:::e100:::Selected Topics:::phil435:::phil435e100:::phil 435 e100 selected topics
+2780:_:mbb:::702:::g100:::Developmental Biology of Cell Signalling:::mbb702:::mbb702g100:::mbb 702 g100 developmental biology of cell signalling
+2781:_:educ:::885:::g001:::MEd Extended Essays:::educ885:::educ885g001:::educ 885 g001 med extended essays
+2782:_:ensc:::891:::g100:::Directed Studies I:::ensc891:::ensc891g100:::ensc 891 g100 directed studies i
+2783:_:ensc:::891:::g200:::Directed Studies I:::ensc891:::ensc891g200:::ensc 891 g200 directed studies i
+2784:_:geog:::403:::d100:::Geography Practicum IV:::geog403:::geog403d100:::geog 403 d100 geography practicum iv
+2785:_:geog:::403:::d200:::Geography Practicum IV:::geog403:::geog403d200:::geog 403 d200 geography practicum iv
+2786:_:geog:::403:::i100:::Geography Practicum IV:::geog403:::geog403i100:::geog 403 i100 geography practicum iv
+2787:_:ensc:::892:::g100:::Directed Studies II:::ensc892:::ensc892g100:::ensc 892 g100 directed studies ii
+2788:_:ensc:::892:::g200:::Directed Studies II:::ensc892:::ensc892g200:::ensc 892 g200 directed studies ii
+2789:_:geog:::404:::d100:::Directed Readings:::geog404:::geog404d100:::geog 404 d100 directed readings
+2790:_:geog:::404:::d200:::Directed Readings:::geog404:::geog404d200:::geog 404 d200 directed readings
+2791:_:geog:::405:::d100:::Directed Readings:::geog405:::geog405d100:::geog 405 d100 directed readings
+2792:_:geog:::405:::d200:::Directed Readings:::geog405:::geog405d200:::geog 405 d200 directed readings
+2793:_:cmns:::423:::d100:::Globalization: Cultural Issues:::cmns423:::cmns423d100:::cmns 423 d100 globalization: cultural issues
+2794:_:arch:::431:::d100:::Historical Ecology & Coastal Archaeology:::arch431:::arch431d100:::arch 431 d100 historical ecology & coastal archaeology
+2795:_:engl:::407w:::d100:::Topics in Early English Drama:::engl407w:::engl407wd100:::engl 407w d100 topics in early english drama
+2796:_:mse:::720:::g100:::Introduction to Biomechanical Engineering:::mse720:::mse720g100:::mse 720 g100 introduction to biomechanical engineering
+2797:_:sci:::190:::d100:::Special Topics in Science Interdisciplinarity:::sci190:::sci190d100:::sci 190 d100 special topics in science interdisciplinarity
+2798:_:cmns:::453:::c100:::Issues in the Information Society:::cmns453:::cmns453c100:::cmns 453 c100 issues in the information society
+2799:_:cmns:::453:::c200:::Issues in the Information Society:::cmns453:::cmns453c200:::cmns 453 c200 issues in the information society
+2800:_:mbb:::481:::d001:::Directed Research - Honours Thesis:::mbb481:::mbb481d001:::mbb 481 d001 directed research - honours thesis
+2801:_:mbb:::481:::d002:::Directed Research - Honours Thesis:::mbb481:::mbb481d002:::mbb 481 d002 directed research - honours thesis
+2802:_:mbb:::481:::d003:::Directed Research - Honours Thesis:::mbb481:::mbb481d003:::mbb 481 d003 directed research - honours thesis
+2803:_:mbb:::481:::d004:::Directed Research - Honours Thesis:::mbb481:::mbb481d004:::mbb 481 d004 directed research - honours thesis
+2804:_:mbb:::481:::d005:::Directed Research - Honours Thesis:::mbb481:::mbb481d005:::mbb 481 d005 directed research - honours thesis
+2805:_:mbb:::481:::d006:::Directed Research - Honours Thesis:::mbb481:::mbb481d006:::mbb 481 d006 directed research - honours thesis
+2806:_:mbb:::481:::d007:::Directed Research - Honours Thesis:::mbb481:::mbb481d007:::mbb 481 d007 directed research - honours thesis
+2807:_:mbb:::482:::d001:::Directed Research - Honours Research Performance:::mbb482:::mbb482d001:::mbb 482 d001 directed research - honours research performance
+2808:_:mbb:::482:::d002:::Directed Research - Honours Research Performance:::mbb482:::mbb482d002:::mbb 482 d002 directed research - honours research performance
+2809:_:mbb:::482:::d003:::Directed Research - Honours Research Performance:::mbb482:::mbb482d003:::mbb 482 d003 directed research - honours research performance
+2810:_:mbb:::482:::d004:::Directed Research - Honours Research Performance:::mbb482:::mbb482d004:::mbb 482 d004 directed research - honours research performance
+2811:_:mbb:::482:::d005:::Directed Research - Honours Research Performance:::mbb482:::mbb482d005:::mbb 482 d005 directed research - honours research performance
+2812:_:mbb:::482:::d006:::Directed Research - Honours Research Performance:::mbb482:::mbb482d006:::mbb 482 d006 directed research - honours research performance
+2813:_:mbb:::482:::d007:::Directed Research - Honours Research Performance:::mbb482:::mbb482d007:::mbb 482 d007 directed research - honours research performance
+2814:_:mse:::811:::g100:::Microdevice Engineering and Characterization:::mse811:::mse811g100:::mse 811 g100 microdevice engineering and characterization
+2815:_:urb:::602:::g100:::Urban Professional Development II:::urb602:::urb602g100:::urb 602 g100 urban professional development ii
+2816:_:crim:::131:::c900:::Introduction to the Criminal Justice System - A Total System Approach:::crim131:::crim131c900:::crim 131 c900 introduction to the criminal justice system - a total system approach
+2817:_:edpr:::563:::g100:::Advanced Field Studies in Educational Practice I:::edpr563:::edpr563g100:::edpr 563 g100 advanced field studies in educational practice i
+2818:_:bus:::374:::d100:::Organization Theory:::bus374:::bus374d100:::bus 374 d100 organization theory
+2819:_:educ:::811:::g011:::Fieldwork I:::educ811:::educ811g011:::educ 811 g011 fieldwork i
+2820:_:educ:::811:::g012:::Fieldwork I:::educ811:::educ811g012:::educ 811 g012 fieldwork i
+2821:_:bus:::381:::d200:::Introduction to Human Resource Management:::bus381:::bus381d200:::bus 381 d200 introduction to human resource management
+2822:_:bus:::381:::e100:::Introduction to Human Resource Management:::bus381:::bus381e100:::bus 381 e100 introduction to human resource management
+2823:_:cmns:::458:::d100:::Information Technology Project Group:::cmns458:::cmns458d100:::cmns 458 d100 information technology project group
+2824:_:cmns:::458:::d200:::Information Technology Project Group:::cmns458:::cmns458d200:::cmns 458 d200 information technology project group
+2825:_:edpr:::561:::g100:::Advanced Field Studies in Educational Practice I:::edpr561:::edpr561g100:::edpr 561 g100 advanced field studies in educational practice i
+2826:_:mbb:::201:::d100:::Biochemistry of the Cell:::mbb201:::mbb201d100:::mbb 201 d100 biochemistry of the cell
+2827:_:mbb:::201:::d101:::Biochemistry of the Cell:::mbb201:::mbb201d101:::mbb 201 d101 biochemistry of the cell
+2828:_:mbb:::201:::d102:::Biochemistry of the Cell:::mbb201:::mbb201d102:::mbb 201 d102 biochemistry of the cell
+2829:_:mbb:::201:::d103:::Biochemistry of the Cell:::mbb201:::mbb201d103:::mbb 201 d103 biochemistry of the cell
+2830:_:mbb:::201:::d104:::Biochemistry of the Cell:::mbb201:::mbb201d104:::mbb 201 d104 biochemistry of the cell
+2831:_:mbb:::201:::d105:::Biochemistry of the Cell:::mbb201:::mbb201d105:::mbb 201 d105 biochemistry of the cell
+2832:_:edpr:::562:::g100:::Advanced Field Studies in Educational Practice I:::edpr562:::edpr562g100:::edpr 562 g100 advanced field studies in educational practice i
+2833:_:educ:::806:::g031:::Selected Problems in Higher Education:::educ806:::educ806g031:::educ 806 g031 selected problems in higher education
+2834:_:hsci:::880:::g100:::Practicum:::hsci880:::hsci880g100:::hsci 880 g100 practicum
+2835:_:hsci:::880:::g200:::Practicum:::hsci880:::hsci880g200:::hsci 880 g200 practicum
+2836:_:hsci:::880:::g300:::Practicum:::hsci880:::hsci880g300:::hsci 880 g300 practicum
+2837:_:hsci:::880:::g400:::Practicum:::hsci880:::hsci880g400:::hsci 880 g400 practicum
+2838:_:ensc:::893:::g100:::Special Topics I:::ensc893:::ensc893g100:::ensc 893 g100 special topics i
+2839:_:sci:::390:::d100:::Sepcial Topics in Science Interdisciplinarity:::sci390:::sci390d100:::sci 390 d100 sepcial topics in science interdisciplinarity
+2840:_:bus:::345:::d100:::Marketing Research:::bus345:::bus345d100:::bus 345 d100 marketing research
+2841:_:bus:::345:::d200:::Marketing Research:::bus345:::bus345d200:::bus 345 d200 marketing research
+2842:_:mse:::405w:::d100:::The Business of Engineering II, Entrepreneurship for Engineers:::mse405w:::mse405wd100:::mse 405w d100 the business of engineering ii, entrepreneurship for engineers
+2843:_:mse:::405w:::d101:::The Business of Engineering II, Entrepreneurship for Engineers:::mse405w:::mse405wd101:::mse 405w d101 the business of engineering ii, entrepreneurship for engineers
+2844:_:mse:::405w:::d200:::The Business of Engineering II, Entrepreneurship for Engineers:::mse405w:::mse405wd200:::mse 405w d200 the business of engineering ii, entrepreneurship for engineers
+2845:_:mse:::405w:::d201:::The Business of Engineering II, Entrepreneurship for Engineers:::mse405w:::mse405wd201:::mse 405w d201 the business of engineering ii, entrepreneurship for engineers
+2846:_:mbb:::483:::d001:::Directed Research - Honours Thesis Defense:::mbb483:::mbb483d001:::mbb 483 d001 directed research - honours thesis defense
+2847:_:mbb:::483:::d002:::Directed Research - Honours Thesis Defense:::mbb483:::mbb483d002:::mbb 483 d002 directed research - honours thesis defense
+2848:_:mbb:::483:::d003:::Directed Research - Honours Thesis Defense:::mbb483:::mbb483d003:::mbb 483 d003 directed research - honours thesis defense
+2849:_:mbb:::483:::d004:::Directed Research - Honours Thesis Defense:::mbb483:::mbb483d004:::mbb 483 d004 directed research - honours thesis defense
+2850:_:mbb:::483:::d005:::Directed Research - Honours Thesis Defense:::mbb483:::mbb483d005:::mbb 483 d005 directed research - honours thesis defense
+2851:_:mbb:::483:::d006:::Directed Research - Honours Thesis Defense:::mbb483:::mbb483d006:::mbb 483 d006 directed research - honours thesis defense
+2852:_:mbb:::483:::d007:::Directed Research - Honours Thesis Defense:::mbb483:::mbb483d007:::mbb 483 d007 directed research - honours thesis defense
+2853:_:ensc:::405w:::d100:::Capstone A: Project Design, Management, and Documentation:::ensc405w:::ensc405wd100:::ensc 405w d100 capstone a: project design, management, and documentation
+2854:_:ensc:::405w:::la01:::Capstone A: Project Design, Management, and Documentation:::ensc405w:::ensc405wla01:::ensc 405w la01 capstone a: project design, management, and documentation
+2855:_:evsc:::490w:::d100:::Environmental Science Thesis:::evsc490w:::evsc490wd100:::evsc 490w d100 environmental science thesis
+2856:_:hsci:::897:::g100:::MPH Project:::hsci897:::hsci897g100:::hsci 897 g100 mph project
+2857:_:hsci:::897:::g200:::MPH Project:::hsci897:::hsci897g200:::hsci 897 g200 mph project
+2858:_:hsci:::897:::g300:::MPH Project:::hsci897:::hsci897g300:::hsci 897 g300 mph project
+2859:_:hsci:::897:::g400:::MPH Project:::hsci897:::hsci897g400:::hsci 897 g400 mph project
+2860:_:fep:::224:::d100:::FEP Formal Exchange Program - Not Included in GPA:::fep224:::fep224d100:::fep 224 d100 fep formal exchange program - not included in gpa
+2861:_:bus:::347:::d100:::Consumer Behaviour:::bus347:::bus347d100:::bus 347 d100 consumer behaviour
+2862:_:bus:::347:::d101:::Consumer Behaviour:::bus347:::bus347d101:::bus 347 d101 consumer behaviour
+2863:_:bus:::347:::d103:::Consumer Behaviour:::bus347:::bus347d103:::bus 347 d103 consumer behaviour
+2864:_:bus:::347:::d104:::Consumer Behaviour:::bus347:::bus347d104:::bus 347 d104 consumer behaviour
+2865:_:hist:::882:::g100:::Oral History:::hist882:::hist882g100:::hist 882 g100 oral history
+2866:_:crim:::103:::c100:::Psychological Explanations of Criminal and Deviant Behavior:::crim103:::crim103c100:::crim 103 c100 psychological explanations of criminal and deviant behavior
+2867:_:bus:::362:::d100:::Business Process Analysis:::bus362:::bus362d100:::bus 362 d100 business process analysis
+2868:_:bus:::362:::d101:::Business Process Analysis:::bus362:::bus362d101:::bus 362 d101 business process analysis
+2869:_:bus:::362:::d102:::Business Process Analysis:::bus362:::bus362d102:::bus 362 d102 business process analysis
+2870:_:bus:::362:::d103:::Business Process Analysis:::bus362:::bus362d103:::bus 362 d103 business process analysis
+2871:_:cmns:::448:::d100:::International Communication Project Group:::cmns448:::cmns448d100:::cmns 448 d100 international communication project group
+2872:_:cmns:::448:::d200:::International Communication Project Group:::cmns448:::cmns448d200:::cmns 448 d200 international communication project group
+2873:_:crim:::101:::c100:::Introduction to Criminology:::crim101:::crim101c100:::crim 101 c100 introduction to criminology
+2874:_:crim:::101:::e100:::Introduction to Criminology:::crim101:::crim101e100:::crim 101 e100 introduction to criminology
+2875:_:crim:::101:::j100:::Introduction to Criminology:::crim101:::crim101j100:::crim 101 j100 introduction to criminology
+2876:_:hist:::338:::c900:::World War II:::hist338:::hist338c900:::hist 338 c900 world war ii
+2877:_:mse:::420:::d100:::Introduction to Biomechanical Engineering:::mse420:::mse420d100:::mse 420 d100 introduction to biomechanical engineering
+2878:_:trss:::731:::g100:::Policy Making and Decision Analysis in Security Studies:::trss731:::trss731g100:::trss 731 g100 policy making and decision analysis in security studies
+2879:_:cmpt:::276:::d100:::Introduction to Software Engineering:::cmpt276:::cmpt276d100:::cmpt 276 d100 introduction to software engineering
+2880:_:cmpt:::276:::e100:::Introduction to Software Engineering:::cmpt276:::cmpt276e100:::cmpt 276 e100 introduction to software engineering
+2881:_:crim:::720:::g100:::Fundamentals of Security Risk Management:::crim720:::crim720g100:::crim 720 g100 fundamentals of security risk management
+2882:_:ensc:::870:::g100:::MEng Course Option Portfolio:::ensc870:::ensc870g100:::ensc 870 g100 meng course option portfolio
+2883:_:hist:::330w:::d100:::Controversies in Canadian History:::hist330w:::hist330wd100:::hist 330w d100 controversies in canadian history
+2884:_:bus:::453:::d800:::Sustainable Innovation:::bus453:::bus453d800:::bus 453 d800 sustainable innovation
+2885:_:cmpt:::631:::g100:::Industrial Internship:::cmpt631:::cmpt631g100:::cmpt 631 g100 industrial internship
+2886:_:urb:::701:::g100:::Co-operative Education I:::urb701:::urb701g100:::urb 701 g100 co-operative education i
+2887:_:urb:::701:::g200:::Co-operative Education I:::urb701:::urb701g200:::urb 701 g200 co-operative education i
+2888:_:urb:::701:::i100:::Co-operative Education I:::urb701:::urb701i100:::urb 701 i100 co-operative education i
+2889:_:urb:::702:::g100:::Co-operative Education II:::urb702:::urb702g100:::urb 702 g100 co-operative education ii
+2890:_:urb:::702:::g200:::Co-operative Education II:::urb702:::urb702g200:::urb 702 g200 co-operative education ii
+2891:_:urb:::702:::i100:::Co-operative Education II:::urb702:::urb702i100:::urb 702 i100 co-operative education ii
+2892:_:educ:::820:::g031:::Current Issues in Curriculum and Pedagogy:::educ820:::educ820g031:::educ 820 g031 current issues in curriculum and pedagogy
+2893:_:math:::190:::c900:::Principles of Mathematics for Teachers:::math190:::math190c900:::math 190 c900 principles of mathematics for teachers
+2894:_:crim:::220:::d100:::Research Methods in Criminology:::crim220:::crim220d100:::crim 220 d100 research methods in criminology
+2895:_:crim:::220:::d101:::Research Methods in Criminology:::crim220:::crim220d101:::crim 220 d101 research methods in criminology
+2896:_:crim:::220:::d102:::Research Methods in Criminology:::crim220:::crim220d102:::crim 220 d102 research methods in criminology
+2897:_:crim:::220:::d103:::Research Methods in Criminology:::crim220:::crim220d103:::crim 220 d103 research methods in criminology
+2898:_:crim:::220:::d104:::Research Methods in Criminology:::crim220:::crim220d104:::crim 220 d104 research methods in criminology
+2899:_:crim:::220:::d105:::Research Methods in Criminology:::crim220:::crim220d105:::crim 220 d105 research methods in criminology
+2900:_:phil:::110:::d100:::Introduction to Logic and Reasoning:::phil110:::phil110d100:::phil 110 d100 introduction to logic and reasoning
+2901:_:phil:::110:::d101:::Introduction to Logic and Reasoning:::phil110:::phil110d101:::phil 110 d101 introduction to logic and reasoning
+2902:_:phil:::110:::d102:::Introduction to Logic and Reasoning:::phil110:::phil110d102:::phil 110 d102 introduction to logic and reasoning
+2903:_:phil:::110:::d103:::Introduction to Logic and Reasoning:::phil110:::phil110d103:::phil 110 d103 introduction to logic and reasoning
+2904:_:phil:::110:::d104:::Introduction to Logic and Reasoning:::phil110:::phil110d104:::phil 110 d104 introduction to logic and reasoning
+2905:_:phil:::110:::d105:::Introduction to Logic and Reasoning:::phil110:::phil110d105:::phil 110 d105 introduction to logic and reasoning
+2906:_:phil:::110:::d106:::Introduction to Logic and Reasoning:::phil110:::phil110d106:::phil 110 d106 introduction to logic and reasoning
+2907:_:phil:::110:::d107:::Introduction to Logic and Reasoning:::phil110:::phil110d107:::phil 110 d107 introduction to logic and reasoning
+2908:_:phil:::110:::d111:::Introduction to Logic and Reasoning:::phil110:::phil110d111:::phil 110 d111 introduction to logic and reasoning
+2909:_:phil:::110:::d112:::Introduction to Logic and Reasoning:::phil110:::phil110d112:::phil 110 d112 introduction to logic and reasoning
+2910:_:phil:::110:::d114:::Introduction to Logic and Reasoning:::phil110:::phil110d114:::phil 110 d114 introduction to logic and reasoning
+2911:_:phil:::110:::d115:::Introduction to Logic and Reasoning:::phil110:::phil110d115:::phil 110 d115 introduction to logic and reasoning
+2912:_:cmns:::482:::d001:::Directed Study:::cmns482:::cmns482d001:::cmns 482 d001 directed study
+2913:_:cmns:::482:::d002:::Directed Study:::cmns482:::cmns482d002:::cmns 482 d002 directed study
+2914:_:cmns:::482:::d003:::Directed Study:::cmns482:::cmns482d003:::cmns 482 d003 directed study
+2915:_:cmns:::482:::d004:::Directed Study:::cmns482:::cmns482d004:::cmns 482 d004 directed study
+2916:_:cmns:::482:::d005:::Directed Study:::cmns482:::cmns482d005:::cmns 482 d005 directed study
+2917:_:cmns:::482:::d006:::Directed Study:::cmns482:::cmns482d006:::cmns 482 d006 directed study
+2918:_:cmns:::482:::d007:::Directed Study:::cmns482:::cmns482d007:::cmns 482 d007 directed study
+2919:_:cmns:::482:::d008:::Directed Study:::cmns482:::cmns482d008:::cmns 482 d008 directed study
+2920:_:cmns:::482:::d009:::Directed Study:::cmns482:::cmns482d009:::cmns 482 d009 directed study
+2921:_:cmns:::483:::d001:::Directed Study:::cmns483:::cmns483d001:::cmns 483 d001 directed study
+2922:_:cmns:::483:::d002:::Directed Study:::cmns483:::cmns483d002:::cmns 483 d002 directed study
+2923:_:cmns:::483:::d003:::Directed Study:::cmns483:::cmns483d003:::cmns 483 d003 directed study
+2924:_:cmns:::483:::d004:::Directed Study:::cmns483:::cmns483d004:::cmns 483 d004 directed study
+2925:_:cmns:::483:::d005:::Directed Study:::cmns483:::cmns483d005:::cmns 483 d005 directed study
+2926:_:cmns:::483:::d006:::Directed Study:::cmns483:::cmns483d006:::cmns 483 d006 directed study
+2927:_:cmns:::483:::d007:::Directed Study:::cmns483:::cmns483d007:::cmns 483 d007 directed study
+2928:_:cmns:::483:::d008:::Directed Study:::cmns483:::cmns483d008:::cmns 483 d008 directed study
+2929:_:cmns:::483:::d009:::Directed Study:::cmns483:::cmns483d009:::cmns 483 d009 directed study
+2930:_:crim:::230:::c900:::Criminal Law:::crim230:::crim230c900:::crim 230 c900 criminal law
+2931:_:cmns:::480:::d001:::Directed Study:::cmns480:::cmns480d001:::cmns 480 d001 directed study
+2932:_:cmns:::480:::d002:::Directed Study:::cmns480:::cmns480d002:::cmns 480 d002 directed study
+2933:_:cmns:::480:::d003:::Directed Study:::cmns480:::cmns480d003:::cmns 480 d003 directed study
+2934:_:cmns:::480:::d004:::Directed Study:::cmns480:::cmns480d004:::cmns 480 d004 directed study
+2935:_:cmns:::480:::d005:::Directed Study:::cmns480:::cmns480d005:::cmns 480 d005 directed study
+2936:_:cmns:::480:::d006:::Directed Study:::cmns480:::cmns480d006:::cmns 480 d006 directed study
+2937:_:cmns:::480:::d007:::Directed Study:::cmns480:::cmns480d007:::cmns 480 d007 directed study
+2938:_:cmns:::480:::d008:::Directed Study:::cmns480:::cmns480d008:::cmns 480 d008 directed study
+2939:_:cmns:::480:::d009:::Directed Study:::cmns480:::cmns480d009:::cmns 480 d009 directed study
+2940:_:educ:::816:::g031:::Developing Educational Programs and Practices for Diverse Educational Settings:::educ816:::educ816g031:::educ 816 g031 developing educational programs and practices for diverse educational settings
+2941:_:cmns:::481:::d001:::Directed Study:::cmns481:::cmns481d001:::cmns 481 d001 directed study
+2942:_:cmns:::481:::d002:::Directed Study:::cmns481:::cmns481d002:::cmns 481 d002 directed study
+2943:_:cmns:::481:::d003:::Directed Study:::cmns481:::cmns481d003:::cmns 481 d003 directed study
+2944:_:cmns:::481:::d004:::Directed Study:::cmns481:::cmns481d004:::cmns 481 d004 directed study
+2945:_:cmns:::481:::d005:::Directed Study:::cmns481:::cmns481d005:::cmns 481 d005 directed study
+2946:_:cmns:::481:::d006:::Directed Study:::cmns481:::cmns481d006:::cmns 481 d006 directed study
+2947:_:cmns:::481:::d007:::Directed Study:::cmns481:::cmns481d007:::cmns 481 d007 directed study
+2948:_:cmns:::481:::d008:::Directed Study:::cmns481:::cmns481d008:::cmns 481 d008 directed study
+2949:_:cmns:::481:::d009:::Directed Study:::cmns481:::cmns481d009:::cmns 481 d009 directed study
+2950:_:educ:::817:::g031:::Policy Processes:::educ817:::educ817g031:::educ 817 g031 policy processes
+2951:_:bus:::474:::d100:::Supply Chain Management:::bus474:::bus474d100:::bus 474 d100 supply chain management
+2952:_:mse:::822:::g100:::Advanced Convection Heat Transfer:::mse822:::mse822g100:::mse 822 g100 advanced convection heat transfer
+2953:_:engl:::203:::d900:::Early Modern Literature:::engl203:::engl203d900:::engl 203 d900 early modern literature
+2954:_:engl:::203:::d901:::Early Modern Literature:::engl203:::engl203d901:::engl 203 d901 early modern literature
+2955:_:engl:::203:::d902:::Early Modern Literature:::engl203:::engl203d902:::engl 203 d902 early modern literature
+2956:_:engl:::203:::d903:::Early Modern Literature:::engl203:::engl203d903:::engl 203 d903 early modern literature
+2957:_:engl:::203:::d904:::Early Modern Literature:::engl203:::engl203d904:::engl 203 d904 early modern literature
+2958:_:engl:::203:::d905:::Early Modern Literature:::engl203:::engl203d905:::engl 203 d905 early modern literature
+2959:_:engl:::203:::d906:::Early Modern Literature:::engl203:::engl203d906:::engl 203 d906 early modern literature
+2960:_:engl:::203:::d907:::Early Modern Literature:::engl203:::engl203d907:::engl 203 d907 early modern literature
+2961:_:mse:::711:::g100:::Introduction to MEMS:::mse711:::mse711g100:::mse 711 g100 introduction to mems
+2962:_:bus:::361:::d100:::Project Management:::bus361:::bus361d100:::bus 361 d100 project management
+2963:_:bus:::361:::e100:::Project Management:::bus361:::bus361e100:::bus 361 e100 project management
+2964:_:econ:::310:::d100:::Money and Banking:::econ310:::econ310d100:::econ 310 d100 money and banking
+2965:_:econ:::310:::d101:::Money and Banking:::econ310:::econ310d101:::econ 310 d101 money and banking
+2966:_:econ:::310:::d102:::Money and Banking:::econ310:::econ310d102:::econ 310 d102 money and banking
+2967:_:econ:::310:::d103:::Money and Banking:::econ310:::econ310d103:::econ 310 d103 money and banking
+2968:_:econ:::310:::d104:::Money and Banking:::econ310:::econ310d104:::econ 310 d104 money and banking
+2969:_:econ:::310:::d105:::Money and Banking:::econ310:::econ310d105:::econ 310 d105 money and banking
+2970:_:econ:::310:::d106:::Money and Banking:::econ310:::econ310d106:::econ 310 d106 money and banking
+2971:_:econ:::310:::d107:::Money and Banking:::econ310:::econ310d107:::econ 310 d107 money and banking
+2972:_:econ:::310:::d108:::Money and Banking:::econ310:::econ310d108:::econ 310 d108 money and banking
+2973:_:bus:::338:::d100:::Foundations of Innovation:::bus338:::bus338d100:::bus 338 d100 foundations of innovation
+2974:_:iat:::309w:::d100:::Writing Methods for Research:::iat309w:::iat309wd100:::iat 309w d100 writing methods for research
+2975:_:iat:::309w:::d200:::Writing Methods for Research:::iat309w:::iat309wd200:::iat 309w d200 writing methods for research
+2976:_:crim:::135:::c100:::Introduction to Canadian Law and Legal Institutions: A Criminal Justice Perspective:::crim135:::crim135c100:::crim 135 c100 introduction to canadian law and legal institutions: a criminal justice perspective
+2977:_:crim:::135:::d100:::Introduction to Canadian Law and Legal Institutions: A Criminal Justice Perspective:::crim135:::crim135d100:::crim 135 d100 introduction to canadian law and legal institutions: a criminal justice perspective
+2978:_:crim:::135:::d101:::Introduction to Canadian Law and Legal Institutions: A Criminal Justice Perspective:::crim135:::crim135d101:::crim 135 d101 introduction to canadian law and legal institutions: a criminal justice perspective
+2979:_:crim:::135:::d102:::Introduction to Canadian Law and Legal Institutions: A Criminal Justice Perspective:::crim135:::crim135d102:::crim 135 d102 introduction to canadian law and legal institutions: a criminal justice perspective
+2980:_:crim:::135:::d103:::Introduction to Canadian Law and Legal Institutions: A Criminal Justice Perspective:::crim135:::crim135d103:::crim 135 d103 introduction to canadian law and legal institutions: a criminal justice perspective
+2981:_:crim:::135:::d104:::Introduction to Canadian Law and Legal Institutions: A Criminal Justice Perspective:::crim135:::crim135d104:::crim 135 d104 introduction to canadian law and legal institutions: a criminal justice perspective
+2982:_:masc:::417:::d100:::Crustacean Biology:::masc417:::masc417d100:::masc 417 d100 crustacean biology
+2983:_:ca:::401:::d100:::Directed Studies (Theory/History):::ca401:::ca401d100:::ca 401 d100 directed studies (theory/history)
+2984:_:ca:::401:::d200:::Directed Studies (Theory/History):::ca401:::ca401d200:::ca 401 d200 directed studies (theory/history)
+2985:_:ca:::401:::d300:::Directed Studies (Theory/History):::ca401:::ca401d300:::ca 401 d300 directed studies (theory/history)
+2986:_:ca:::401:::d400:::Directed Studies (Theory/History):::ca401:::ca401d400:::ca 401 d400 directed studies (theory/history)
+2987:_:ca:::401:::d500:::Directed Studies (Theory/History):::ca401:::ca401d500:::ca 401 d500 directed studies (theory/history)
+2988:_:math:::157:::d100:::Calculus I for the Social Sciences:::math157:::math157d100:::math 157 d100 calculus i for the social sciences
+2989:_:math:::157:::op01:::Calculus I for the Social Sciences:::math157:::math157op01:::math 157 op01 calculus i for the social sciences
+2990:_:math:::155:::d100:::Calculus II for the Biological Sciences:::math155:::math155d100:::math 155 d100 calculus ii for the biological sciences
+2991:_:math:::155:::opo1:::Calculus II for the Biological Sciences:::math155:::math155opo1:::math 155 opo1 calculus ii for the biological sciences
+2992:_:bus:::393:::d100:::Commercial Law:::bus393:::bus393d100:::bus 393 d100 commercial law
+2993:_:bus:::393:::d101:::Commercial Law:::bus393:::bus393d101:::bus 393 d101 commercial law
+2994:_:bus:::393:::d102:::Commercial Law:::bus393:::bus393d102:::bus 393 d102 commercial law
+2995:_:bus:::393:::d103:::Commercial Law:::bus393:::bus393d103:::bus 393 d103 commercial law
+2996:_:bus:::393:::d104:::Commercial Law:::bus393:::bus393d104:::bus 393 d104 commercial law
+2997:_:bus:::393:::d200:::Commercial Law:::bus393:::bus393d200:::bus 393 d200 commercial law
+2998:_:bus:::393:::d201:::Commercial Law:::bus393:::bus393d201:::bus 393 d201 commercial law
+2999:_:bus:::393:::d202:::Commercial Law:::bus393:::bus393d202:::bus 393 d202 commercial law
+3000:_:bus:::393:::d203:::Commercial Law:::bus393:::bus393d203:::bus 393 d203 commercial law
+3001:_:bus:::393:::d204:::Commercial Law:::bus393:::bus393d204:::bus 393 d204 commercial law
+3002:_:bus:::393:::e100:::Commercial Law:::bus393:::bus393e100:::bus 393 e100 commercial law
+3003:_:bus:::393:::e101:::Commercial Law:::bus393:::bus393e101:::bus 393 e101 commercial law
+3004:_:bus:::393:::e102:::Commercial Law:::bus393:::bus393e102:::bus 393 e102 commercial law
+3005:_:bus:::393:::e103:::Commercial Law:::bus393:::bus393e103:::bus 393 e103 commercial law
+3006:_:bus:::393:::e104:::Commercial Law:::bus393:::bus393e104:::bus 393 e104 commercial law
+3007:_:educ:::813:::g031:::Organizational Theory and Analyses:::educ813:::educ813g031:::educ 813 g031 organizational theory and analyses
+3008:_:math:::152:::d100:::Calculus II:::math152:::math152d100:::math 152 d100 calculus ii
+3009:_:math:::152:::op01:::Calculus II:::math152:::math152op01:::math 152 op01 calculus ii
+3010:_:ca:::400:::d100:::Directed Studies (Studio):::ca400:::ca400d100:::ca 400 d100 directed studies (studio)
+3011:_:ca:::400:::d200:::Directed Studies (Studio):::ca400:::ca400d200:::ca 400 d200 directed studies (studio)
+3012:_:ca:::400:::d300:::Directed Studies (Studio):::ca400:::ca400d300:::ca 400 d300 directed studies (studio)
+3013:_:ca:::400:::d400:::Directed Studies (Studio):::ca400:::ca400d400:::ca 400 d400 directed studies (studio)
+3014:_:ca:::400:::d500:::Directed Studies (Studio):::ca400:::ca400d500:::ca 400 d500 directed studies (studio)
+3015:_:cmns:::8dd:::g100:::Communication MA Dual Degree  Year at  CUC:::cmns8dd:::cmns8ddg100:::cmns 8dd g100 communication ma dual degree  year at  cuc
+3016:_:crim:::380:::c100:::Introduction to Cybercrime:::crim380:::crim380c100:::crim 380 c100 introduction to cybercrime
+3017:_:crim:::458:::c100:::Community Policing:::crim458:::crim458c100:::crim 458 c100 community policing
+3018:_:econ:::355w:::d100:::Economic Development:::econ355w:::econ355wd100:::econ 355w d100 economic development
+3019:_:econ:::355w:::d101:::Economic Development:::econ355w:::econ355wd101:::econ 355w d101 economic development
+3020:_:econ:::355w:::d102:::Economic Development:::econ355w:::econ355wd102:::econ 355w d102 economic development
+3021:_:econ:::355w:::d103:::Economic Development:::econ355w:::econ355wd103:::econ 355w d103 economic development
+3022:_:econ:::355w:::d104:::Economic Development:::econ355w:::econ355wd104:::econ 355w d104 economic development
+3023:_:econ:::355w:::d105:::Economic Development:::econ355w:::econ355wd105:::econ 355w d105 economic development
+3024:_:econ:::355w:::d106:::Economic Development:::econ355w:::econ355wd106:::econ 355w d106 economic development
+3025:_:econ:::355w:::d107:::Economic Development:::econ355w:::econ355wd107:::econ 355w d107 economic development
+3026:_:econ:::355w:::d108:::Economic Development:::econ355w:::econ355wd108:::econ 355w d108 economic development
+3027:_:econ:::355w:::d109:::Economic Development:::econ355w:::econ355wd109:::econ 355w d109 economic development
+3028:_:econ:::355w:::d110:::Economic Development:::econ355w:::econ355wd110:::econ 355w d110 economic development
+3029:_:econ:::355w:::d111:::Economic Development:::econ355w:::econ355wd111:::econ 355w d111 economic development
+3030:_:econ:::355w:::d112:::Economic Development:::econ355w:::econ355wd112:::econ 355w d112 economic development
+3031:_:ensc:::895:::g100:::Special Topics III:::ensc895:::ensc895g100:::ensc 895 g100 special topics iii
+3032:_:ensc:::895:::g200:::Special Topics III:::ensc895:::ensc895g200:::ensc 895 g200 special topics iii
+3033:_:ensc:::895:::g300:::Special Topics III:::ensc895:::ensc895g300:::ensc 895 g300 special topics iii
+3034:_:ensc:::895:::g400:::Special Topics III:::ensc895:::ensc895g400:::ensc 895 g400 special topics iii
+3035:_:ensc:::895:::g500:::Special Topics III:::ensc895:::ensc895g500:::ensc 895 g500 special topics iii
+3036:_:ensc:::895:::lb03:::Special Topics III:::ensc895:::ensc895lb03:::ensc 895 lb03 special topics iii
+3037:_:ensc:::895:::lb04:::Special Topics III:::ensc895:::ensc895lb04:::ensc 895 lb04 special topics iii
+3038:_:ensc:::894:::g100:::Special Topics II:::ensc894:::ensc894g100:::ensc 894 g100 special topics ii
+3039:_:ensc:::894:::g200:::Special Topics II:::ensc894:::ensc894g200:::ensc 894 g200 special topics ii
+3040:_:ensc:::894:::g300:::Special Topics II:::ensc894:::ensc894g300:::ensc 894 g300 special topics ii
+3041:_:ensc:::894:::la01:::Special Topics II:::ensc894:::ensc894la01:::ensc 894 la01 special topics ii
+3042:_:ensc:::894:::la02:::Special Topics II:::ensc894:::ensc894la02:::ensc 894 la02 special topics ii
+3043:_:ensc:::894:::la03:::Special Topics II:::ensc894:::ensc894la03:::ensc 894 la03 special topics ii
+3044:_:bot:::150:::d100:::Back on Track Student Success:::bot150:::bot150d100:::bot 150 d100 back on track student success
+3045:_:bus:::360w:::d100:::Business Communication:::bus360w:::bus360wd100:::bus 360w d100 business communication
+3046:_:bus:::360w:::d200:::Business Communication:::bus360w:::bus360wd200:::bus 360w d200 business communication
+3047:_:bus:::360w:::d300:::Business Communication:::bus360w:::bus360wd300:::bus 360w d300 business communication
+3048:_:bus:::360w:::d500:::Business Communication:::bus360w:::bus360wd500:::bus 360w d500 business communication
+3049:_:bus:::360w:::d600:::Business Communication:::bus360w:::bus360wd600:::bus 360w d600 business communication
+3050:_:bus:::360w:::e100:::Business Communication:::bus360w:::bus360we100:::bus 360w e100 business communication
+3051:_:bus:::360w:::e200:::Business Communication:::bus360w:::bus360we200:::bus 360w e200 business communication
+3052:_:engl:::114w:::d900:::Language and Purpose:::engl114w:::engl114wd900:::engl 114w d900 language and purpose
+3053:_:engl:::114w:::d901:::Language and Purpose:::engl114w:::engl114wd901:::engl 114w d901 language and purpose
+3054:_:engl:::114w:::d902:::Language and Purpose:::engl114w:::engl114wd902:::engl 114w d902 language and purpose
+3055:_:engl:::114w:::d903:::Language and Purpose:::engl114w:::engl114wd903:::engl 114w d903 language and purpose
+3056:_:engl:::114w:::d904:::Language and Purpose:::engl114w:::engl114wd904:::engl 114w d904 language and purpose
+3057:_:engl:::114w:::d905:::Language and Purpose:::engl114w:::engl114wd905:::engl 114w d905 language and purpose
+3058:_:ensc:::280:::d100:::Engineering Measurement and Data Analysis:::ensc280:::ensc280d100:::ensc 280 d100 engineering measurement and data analysis
+3059:_:ensc:::280:::d101:::Engineering Measurement and Data Analysis:::ensc280:::ensc280d101:::ensc 280 d101 engineering measurement and data analysis
+3060:_:ensc:::280:::la01:::Engineering Measurement and Data Analysis:::ensc280:::ensc280la01:::ensc 280 la01 engineering measurement and data analysis
+3061:_:educ:::473w:::e100:::Designs for Learning: Reading:::educ473w:::educ473we100:::educ 473w e100 designs for learning: reading
+3062:_:educ:::473w:::e200:::Designs for Learning: Reading:::educ473w:::educ473we200:::educ 473w e200 designs for learning: reading
+3063:_:educ:::473w:::e300:::Designs for Learning: Reading:::educ473w:::educ473we300:::educ 473w e300 designs for learning: reading
+3064:_:educ:::891:::g001:::Learning Design in Technology-Mediated Environments:::educ891:::educ891g001:::educ 891 g001 learning design in technology-mediated environments
+3065:_:mbb:::231:::d100:::Cellular Biology and Biochemistry:::mbb231:::mbb231d100:::mbb 231 d100 cellular biology and biochemistry
+3066:_:mbb:::231:::d101:::Cellular Biology and Biochemistry:::mbb231:::mbb231d101:::mbb 231 d101 cellular biology and biochemistry
+3067:_:mbb:::231:::d102:::Cellular Biology and Biochemistry:::mbb231:::mbb231d102:::mbb 231 d102 cellular biology and biochemistry
+3068:_:mbb:::231:::d103:::Cellular Biology and Biochemistry:::mbb231:::mbb231d103:::mbb 231 d103 cellular biology and biochemistry
+3069:_:mbb:::231:::d104:::Cellular Biology and Biochemistry:::mbb231:::mbb231d104:::mbb 231 d104 cellular biology and biochemistry
+3070:_:mbb:::231:::d105:::Cellular Biology and Biochemistry:::mbb231:::mbb231d105:::mbb 231 d105 cellular biology and biochemistry
+3071:_:mbb:::231:::d106:::Cellular Biology and Biochemistry:::mbb231:::mbb231d106:::mbb 231 d106 cellular biology and biochemistry
+3072:_:bpk:::457:::d100:::Behavioural Neuroscience Undergraduate Honours Thesis Proposal:::bpk457:::bpk457d100:::bpk 457 d100 behavioural neuroscience undergraduate honours thesis proposal
+3073:_:is:::309:::d100:::Special Topics in International Security and Conflict:::is309:::is309d100:::is 309 d100 special topics in international security and conflict
+3074:_:bpk:::459:::d100:::Behavioural Neuroscience Undergraduate Honours Thesis:::bpk459:::bpk459d100:::bpk 459 d100 behavioural neuroscience undergraduate honours thesis
+3075:_:gero:::300:::c100:::Introduction to Gerontology:::gero300:::gero300c100:::gero 300 c100 introduction to gerontology
+3076:_:math:::251:::d100:::Calculus III:::math251:::math251d100:::math 251 d100 calculus iii
+3077:_:math:::251:::d200:::Calculus III:::math251:::math251d200:::math 251 d200 calculus iii
+3078:_:math:::251:::op01:::Calculus III:::math251:::math251op01:::math 251 op01 calculus iii
+3079:_:math:::251:::op02:::Calculus III:::math251:::math251op02:::math 251 op02 calculus iii
+3080:_:geog:::491:::d100:::Honours Essay:::geog491:::geog491d100:::geog 491 d100 honours essay
+3081:_:geog:::491:::d200:::Honours Essay:::geog491:::geog491d200:::geog 491 d200 honours essay
+3082:_:gero:::301:::c100:::Research Methods in Gerontology:::gero301:::gero301c100:::gero 301 c100 research methods in gerontology
+3083:_:educ:::830:::g001:::Implementation of Educational Programs:::educ830:::educ830g001:::educ 830 g001 implementation of educational programs
+3084:_:math:::232:::d200:::Applied Linear Algebra:::math232:::math232d200:::math 232 d200 applied linear algebra
+3085:_:math:::232:::op01:::Applied Linear Algebra:::math232:::math232op01:::math 232 op01 applied linear algebra
+3086:_:fep:::206:::d100:::Exchange Study I - No GPA:::fep206:::fep206d100:::fep 206 d100 exchange study i - no gpa
+3087:_:bus:::430:::d100:::Cross-Cultural Management:::bus430:::bus430d100:::bus 430 d100 cross-cultural management
+3088:_:ca:::412w:::d100:::Advanced Seminar in Art and Culture Studies:::ca412w:::ca412wd100:::ca 412w d100 advanced seminar in art and culture studies
+3089:_:bisc:::113:::c100:::Biology in Everyday Life:::bisc113:::bisc113c100:::bisc 113 c100 biology in everyday life
+3090:_:ca:::827:::g100:::Practicum in Contemporary Arts:::ca827:::ca827g100:::ca 827 g100 practicum in contemporary arts
+3091:_:crim:::251:::j100:::Introduction to Policing:::crim251:::crim251j100:::crim 251 j100 introduction to policing
+3092:_:ca:::829:::g100:::Extended Essays in Contemporary Arts:::ca829:::ca829g100:::ca 829 g100 extended essays in contemporary arts
+3093:_:hsci:::319w:::d100:::Applied Health Ethics:::hsci319w:::hsci319wd100:::hsci 319w d100 applied health ethics
+3094:_:hsci:::319w:::d101:::Applied Health Ethics:::hsci319w:::hsci319wd101:::hsci 319w d101 applied health ethics
+3095:_:hsci:::319w:::d102:::Applied Health Ethics:::hsci319w:::hsci319wd102:::hsci 319w d102 applied health ethics
+3096:_:hsci:::319w:::d103:::Applied Health Ethics:::hsci319w:::hsci319wd103:::hsci 319w d103 applied health ethics
+3097:_:hsci:::319w:::d104:::Applied Health Ethics:::hsci319w:::hsci319wd104:::hsci 319w d104 applied health ethics
+3098:_:hsci:::319w:::d105:::Applied Health Ethics:::hsci319w:::hsci319wd105:::hsci 319w d105 applied health ethics
+3099:_:hsci:::319w:::d106:::Applied Health Ethics:::hsci319w:::hsci319wd106:::hsci 319w d106 applied health ethics
+3100:_:hsci:::319w:::d107:::Applied Health Ethics:::hsci319w:::hsci319wd107:::hsci 319w d107 applied health ethics
+3101:_:hsci:::319w:::d108:::Applied Health Ethics:::hsci319w:::hsci319wd108:::hsci 319w d108 applied health ethics
+3102:_:phil:::150:::e100:::Great Works in the History of Philosophy:::phil150:::phil150e100:::phil 150 e100 great works in the history of philosophy
+3103:_:ling:::899:::g100:::PhD Thesis:::ling899:::ling899g100:::ling 899 g100 phd thesis
+3104:_:ling:::899:::g200:::PhD Thesis:::ling899:::ling899g200:::ling 899 g200 phd thesis
+3105:_:ling:::899:::g300:::PhD Thesis:::ling899:::ling899g300:::ling 899 g300 phd thesis
+3106:_:ling:::899:::g400:::PhD Thesis:::ling899:::ling899g400:::ling 899 g400 phd thesis
+3107:_:ling:::899:::g500:::PhD Thesis:::ling899:::ling899g500:::ling 899 g500 phd thesis
+3108:_:ling:::899:::g700:::PhD Thesis:::ling899:::ling899g700:::ling 899 g700 phd thesis
+3109:_:ling:::899:::g800:::PhD Thesis:::ling899:::ling899g800:::ling 899 g800 phd thesis
+3110:_:ling:::898:::g100:::MA Thesis:::ling898:::ling898g100:::ling 898 g100 ma thesis
+3111:_:ling:::898:::g200:::MA Thesis:::ling898:::ling898g200:::ling 898 g200 ma thesis
+3112:_:ling:::898:::g300:::MA Thesis:::ling898:::ling898g300:::ling 898 g300 ma thesis
+3113:_:ling:::898:::g320:::MA Thesis:::ling898:::ling898g320:::ling 898 g320 ma thesis
+3114:_:ling:::898:::g400:::MA Thesis:::ling898:::ling898g400:::ling 898 g400 ma thesis
+3115:_:ling:::898:::g500:::MA Thesis:::ling898:::ling898g500:::ling 898 g500 ma thesis
+3116:_:ling:::898:::g600:::MA Thesis:::ling898:::ling898g600:::ling 898 g600 ma thesis
+3117:_:ling:::898:::g800:::MA Thesis:::ling898:::ling898g800:::ling 898 g800 ma thesis
+3118:_:educ:::822:::g031:::Evaluation of Educational Programs:::educ822:::educ822g031:::educ 822 g031 evaluation of educational programs
+3119:_:masc:::476:::d100:::Special Topics in Marine Biology:::masc476:::masc476d100:::masc 476 d100 special topics in marine biology
+3120:_:gsws:::398w:::c100:::Feminist Currents:::gsws398w:::gsws398wc100:::gsws 398w c100 feminist currents
+3121:_:ensc:::702:::g100:::Graduate Co-op II:::ensc702:::ensc702g100:::ensc 702 g100 graduate co-op ii
+3122:_:ensc:::702:::g200:::Graduate Co-op II:::ensc702:::ensc702g200:::ensc 702 g200 graduate co-op ii
+3123:_:ensc:::702:::i100:::Graduate Co-op II:::ensc702:::ensc702i100:::ensc 702 i100 graduate co-op ii
+3124:_:gsws:::316:::j100:::Disciplining Sex: Feminist Science Studies and Sociobiology:::gsws316:::gsws316j100:::gsws 316 j100 disciplining sex: feminist science studies and sociobiology
+3125:_:psyc:::359:::d100:::Developmental Disabilities:::psyc359:::psyc359d100:::psyc 359 d100 developmental disabilities
+3126:_:sa:::257:::j100:::Understanding Quantitative Research in Sociology and Anthropology (SA):::sa257:::sa257j100:::sa 257 j100 understanding quantitative research in sociology and anthropology (sa)
+3127:_:ensc:::701:::g100:::Graduate Co-op I:::ensc701:::ensc701g100:::ensc 701 g100 graduate co-op i
+3128:_:ensc:::701:::g200:::Graduate Co-op I:::ensc701:::ensc701g200:::ensc 701 g200 graduate co-op i
+3129:_:ensc:::701:::i100:::Graduate Co-op I:::ensc701:::ensc701i100:::ensc 701 i100 graduate co-op i
+3130:_:arch:::895:::g100:::Special Topics:::arch895:::arch895g100:::arch 895 g100 special topics
+3131:_:masc:::477:::d100:::Special Topics in Marine Biology:::masc477:::masc477d100:::masc 477 d100 special topics in marine biology
+3132:_:lbst:::306:::d100:::The Political Economy of Labour Markets: Critical and Radical Approaches:::lbst306:::lbst306d100:::lbst 306 d100 the political economy of labour markets: critical and radical approaches
+3133:_:pol:::317:::j100:::Migration, Identity, and Citizenship:::pol317:::pol317j100:::pol 317 j100 migration, identity, and citizenship
+3134:_:ca:::369:::d100:::Methods and Concepts: Selected Topics:::ca369:::ca369d100:::ca 369 d100 methods and concepts: selected topics
+3135:_:lbst:::230:::d100:::Special Topics in Labour Studies:::lbst230:::lbst230d100:::lbst 230 d100 special topics in labour studies
+3136:_:pol:::150:::d100:::Science, Policy, and Innovation:::pol150:::pol150d100:::pol 150 d100 science, policy, and innovation
+3137:_:pol:::150:::d101:::Science, Policy, and Innovation:::pol150:::pol150d101:::pol 150 d101 science, policy, and innovation
+3138:_:pol:::150:::d102:::Science, Policy, and Innovation:::pol150:::pol150d102:::pol 150 d102 science, policy, and innovation
+3139:_:pol:::150:::d103:::Science, Policy, and Innovation:::pol150:::pol150d103:::pol 150 d103 science, policy, and innovation
+3140:_:psyc:::300w:::d100:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd100:::psyc 300w d100 critical analysis of issues in psychology
+3141:_:psyc:::300w:::d101:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd101:::psyc 300w d101 critical analysis of issues in psychology
+3142:_:psyc:::300w:::d102:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd102:::psyc 300w d102 critical analysis of issues in psychology
+3143:_:psyc:::300w:::d103:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd103:::psyc 300w d103 critical analysis of issues in psychology
+3144:_:psyc:::300w:::d104:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd104:::psyc 300w d104 critical analysis of issues in psychology
+3145:_:psyc:::300w:::d105:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd105:::psyc 300w d105 critical analysis of issues in psychology
+3146:_:psyc:::300w:::d106:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd106:::psyc 300w d106 critical analysis of issues in psychology
+3147:_:psyc:::300w:::d107:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd107:::psyc 300w d107 critical analysis of issues in psychology
+3148:_:psyc:::300w:::d108:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd108:::psyc 300w d108 critical analysis of issues in psychology
+3149:_:psyc:::300w:::d109:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd109:::psyc 300w d109 critical analysis of issues in psychology
+3150:_:psyc:::300w:::d110:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd110:::psyc 300w d110 critical analysis of issues in psychology
+3151:_:psyc:::300w:::d111:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd111:::psyc 300w d111 critical analysis of issues in psychology
+3152:_:psyc:::300w:::d112:::Critical Analysis of Issues in Psychology:::psyc300w:::psyc300wd112:::psyc 300w d112 critical analysis of issues in psychology
+3153:_:mse:::793:::g100:::Graduate Co-op I:::mse793:::mse793g100:::mse 793 g100 graduate co-op i
+3154:_:mse:::793:::g200:::Graduate Co-op I:::mse793:::mse793g200:::mse 793 g200 graduate co-op i
+3155:_:mse:::793:::i100:::Graduate Co-op I:::mse793:::mse793i100:::mse 793 i100 graduate co-op i
+3156:_:ensc:::252:::d100:::Fundamentals of Digital Logic & Design:::ensc252:::ensc252d100:::ensc 252 d100 fundamentals of digital logic & design
+3157:_:ensc:::252:::d101:::Fundamentals of Digital Logic & Design:::ensc252:::ensc252d101:::ensc 252 d101 fundamentals of digital logic & design
+3158:_:ensc:::252:::la01:::Fundamentals of Digital Logic & Design:::ensc252:::ensc252la01:::ensc 252 la01 fundamentals of digital logic & design
+3159:_:ensc:::252:::la02:::Fundamentals of Digital Logic & Design:::ensc252:::ensc252la02:::ensc 252 la02 fundamentals of digital logic & design
+3160:_:ensc:::252:::la03:::Fundamentals of Digital Logic & Design:::ensc252:::ensc252la03:::ensc 252 la03 fundamentals of digital logic & design
+3161:_:crim:::897:::g100:::Comprehensive Exam:::crim897:::crim897g100:::crim 897 g100 comprehensive exam
+3162:_:crim:::897:::g200:::Comprehensive Exam:::crim897:::crim897g200:::crim 897 g200 comprehensive exam
+3163:_:ensc:::251:::d100:::Software Design and Analysis for Engineers:::ensc251:::ensc251d100:::ensc 251 d100 software design and analysis for engineers
+3164:_:ensc:::251:::d101:::Software Design and Analysis for Engineers:::ensc251:::ensc251d101:::ensc 251 d101 software design and analysis for engineers
+3165:_:ensc:::251:::la01:::Software Design and Analysis for Engineers:::ensc251:::ensc251la01:::ensc 251 la01 software design and analysis for engineers
+3166:_:ensc:::251:::la02:::Software Design and Analysis for Engineers:::ensc251:::ensc251la02:::ensc 251 la02 software design and analysis for engineers
+3167:_:ensc:::251:::la03:::Software Design and Analysis for Engineers:::ensc251:::ensc251la03:::ensc 251 la03 software design and analysis for engineers
+3168:_:pol:::311:::d100:::Contemporary Perspectives on Ancient Political Thought:::pol311:::pol311d100:::pol 311 d100 contemporary perspectives on ancient political thought
+3169:_:fnst:::447:::d100:::Directed Studies in First Nations Studies:::fnst447:::fnst447d100:::fnst 447 d100 directed studies in first nations studies
+3170:_:pol:::141:::d100:::War, International Cooperation and Development:::pol141:::pol141d100:::pol 141 d100 war, international cooperation and development
+3171:_:sd:::281:::d100:::Sustainable Communities, Sustainable World:::sd281:::sd281d100:::sd 281 d100 sustainable communities, sustainable world
+3172:_:sd:::281:::d101:::Sustainable Communities, Sustainable World:::sd281:::sd281d101:::sd 281 d101 sustainable communities, sustainable world
+3173:_:sd:::281:::d102:::Sustainable Communities, Sustainable World:::sd281:::sd281d102:::sd 281 d102 sustainable communities, sustainable world
+3174:_:ensc:::254:::d100:::Introduction to Computer Organization:::ensc254:::ensc254d100:::ensc 254 d100 introduction to computer organization
+3175:_:ensc:::254:::d101:::Introduction to Computer Organization:::ensc254:::ensc254d101:::ensc 254 d101 introduction to computer organization
+3176:_:ensc:::254:::la04:::Introduction to Computer Organization:::ensc254:::ensc254la04:::ensc 254 la04 introduction to computer organization
+3177:_:ensc:::254:::la05:::Introduction to Computer Organization:::ensc254:::ensc254la05:::ensc 254 la05 introduction to computer organization
+3178:_:ensc:::254:::la06:::Introduction to Computer Organization:::ensc254:::ensc254la06:::ensc 254 la06 introduction to computer organization
+3179:_:ensc:::254:::la07:::Introduction to Computer Organization:::ensc254:::ensc254la07:::ensc 254 la07 introduction to computer organization
+3180:_:ling:::362:::d100:::Introduction to Teaching English as a Second Language to Adults:::ling362:::ling362d100:::ling 362 d100 introduction to teaching english as a second language to adults
+3181:_:mse:::111:::d100:::Mechatronics for non-Engineers:::mse111:::mse111d100:::mse 111 d100 mechatronics for non-engineers
+3182:_:mse:::111:::lab1:::Mechatronics for non-Engineers:::mse111:::mse111lab1:::mse 111 lab1 mechatronics for non-engineers
+3183:_:mse:::111:::lab2:::Mechatronics for non-Engineers:::mse111:::mse111lab2:::mse 111 lab2 mechatronics for non-engineers
+3184:_:econ:::990:::g100:::PhD Thesis:::econ990:::econ990g100:::econ 990 g100 phd thesis
+3185:_:econ:::990:::g200:::PhD Thesis:::econ990:::econ990g200:::econ 990 g200 phd thesis
+3186:_:gero:::407:::c100:::Nutrition and Aging:::gero407:::gero407c100:::gero 407 c100 nutrition and aging
+3187:_:crim:::335:::c100:::Human Rights and Civil Liberties:::crim335:::crim335c100:::crim 335 c100 human rights and civil liberties
+3188:_:crim:::335:::d100:::Human Rights and Civil Liberties:::crim335:::crim335d100:::crim 335 d100 human rights and civil liberties
+3189:_:crim:::335:::d101:::Human Rights and Civil Liberties:::crim335:::crim335d101:::crim 335 d101 human rights and civil liberties
+3190:_:crim:::335:::d102:::Human Rights and Civil Liberties:::crim335:::crim335d102:::crim 335 d102 human rights and civil liberties
+3191:_:crim:::335:::d103:::Human Rights and Civil Liberties:::crim335:::crim335d103:::crim 335 d103 human rights and civil liberties
+3192:_:crim:::335:::d104:::Human Rights and Civil Liberties:::crim335:::crim335d104:::crim 335 d104 human rights and civil liberties
+3193:_:educ:::845:::g001:::Learning Mathematics with Computers:::educ845:::educ845g001:::educ 845 g001 learning mathematics with computers
+3194:_:hist:::814:::g100:::Historical Methods:::hist814:::hist814g100:::hist 814 g100 historical methods
+3195:_:bus:::493:::d100:::Selected Topics in Business Administration:::bus493:::bus493d100:::bus 493 d100 selected topics in business administration
+3196:_:econ:::455w:::d100:::Seminar in Economic Development:::econ455w:::econ455wd100:::econ 455w d100 seminar in economic development
+3197:_:bus:::825:::g100:::Financial Statement Analysis:::bus825:::bus825g100:::bus 825 g100 financial statement analysis
+3198:_:hum:::360:::d100:::Special Topics: Great Themes in the Humanistic Tradition:::hum360:::hum360d100:::hum 360 d100 special topics: great themes in the humanistic tradition
+3199:_:bus:::200:::d200:::Business Fundamentals:::bus200:::bus200d200:::bus 200 d200 business fundamentals
+3200:_:bus:::200:::e100:::Business Fundamentals:::bus200:::bus200e100:::bus 200 e100 business fundamentals
+3201:_:fep:::209:::d100:::Exchange Study - No GPA:::fep209:::fep209d100:::fep 209 d100 exchange study - no gpa
+3202:_:phil:::802:::g100:::Selected Topics in Epistemology:::phil802:::phil802g100:::phil 802 g100 selected topics in epistemology
+3203:_:ensc:::462:::d100:::Special Topics in Engineering Science:::ensc462:::ensc462d100:::ensc 462 d100 special topics in engineering science
+3204:_:ensc:::462:::d101:::Special Topics in Engineering Science:::ensc462:::ensc462d101:::ensc 462 d101 special topics in engineering science
+3205:_:ensc:::462:::la01:::Special Topics in Engineering Science:::ensc462:::ensc462la01:::ensc 462 la01 special topics in engineering science
+3206:_:ensc:::462:::la02:::Special Topics in Engineering Science:::ensc462:::ensc462la02:::ensc 462 la02 special topics in engineering science
+3207:_:cmns:::452:::d100:::Race and the Media:::cmns452:::cmns452d100:::cmns 452 d100 race and the media
+3208:_:grad:::850:::g100:::Dual Degree Enrollment:::grad850:::grad850g100:::grad 850 g100 dual degree enrollment
+3209:_:mbb:::430:::d100:::Mechanisms of Secretory Transport:::mbb430:::mbb430d100:::mbb 430 d100 mechanisms of secretory transport
+3210:_:crim:::332:::c100:::Sociology of Law:::crim332:::crim332c100:::crim 332 c100 sociology of law
+3211:_:japn:::201:::d100:::Advanced Beginners' Japanese II:::japn201:::japn201d100:::japn 201 d100 advanced beginners' japanese ii
+3212:_:crim:::330:::c100:::Criminal Procedure and Evidence:::crim330:::crim330c100:::crim 330 c100 criminal procedure and evidence
+3213:_:crim:::330:::d100:::Criminal Procedure and Evidence:::crim330:::crim330d100:::crim 330 d100 criminal procedure and evidence
+3214:_:crim:::330:::d101:::Criminal Procedure and Evidence:::crim330:::crim330d101:::crim 330 d101 criminal procedure and evidence
+3215:_:crim:::330:::d102:::Criminal Procedure and Evidence:::crim330:::crim330d102:::crim 330 d102 criminal procedure and evidence
+3216:_:crim:::330:::d103:::Criminal Procedure and Evidence:::crim330:::crim330d103:::crim 330 d103 criminal procedure and evidence
+3217:_:crim:::330:::d104:::Criminal Procedure and Evidence:::crim330:::crim330d104:::crim 330 d104 criminal procedure and evidence
+3218:_:crim:::330:::d105:::Criminal Procedure and Evidence:::crim330:::crim330d105:::crim 330 d105 criminal procedure and evidence
+3219:_:crim:::330:::d106:::Criminal Procedure and Evidence:::crim330:::crim330d106:::crim 330 d106 criminal procedure and evidence
+3220:_:crim:::330:::d107:::Criminal Procedure and Evidence:::crim330:::crim330d107:::crim 330 d107 criminal procedure and evidence
+3221:_:crim:::330:::d108:::Criminal Procedure and Evidence:::crim330:::crim330d108:::crim 330 d108 criminal procedure and evidence
+3222:_:crim:::330:::d109:::Criminal Procedure and Evidence:::crim330:::crim330d109:::crim 330 d109 criminal procedure and evidence
+3223:_:ling:::350:::d100:::First Language Acquisition:::ling350:::ling350d100:::ling 350 d100 first language acquisition
+3224:_:crim:::321:::c100:::Qualitative Research Methods in Criminology:::crim321:::crim321c100:::crim 321 c100 qualitative research methods in criminology
+3225:_:crim:::321:::d900:::Qualitative Research Methods in Criminology:::crim321:::crim321d900:::crim 321 d900 qualitative research methods in criminology
+3226:_:crim:::321:::d901:::Qualitative Research Methods in Criminology:::crim321:::crim321d901:::crim 321 d901 qualitative research methods in criminology
+3227:_:crim:::321:::d902:::Qualitative Research Methods in Criminology:::crim321:::crim321d902:::crim 321 d902 qualitative research methods in criminology
+3228:_:crim:::321:::d903:::Qualitative Research Methods in Criminology:::crim321:::crim321d903:::crim 321 d903 qualitative research methods in criminology
+3229:_:crim:::321:::d904:::Qualitative Research Methods in Criminology:::crim321:::crim321d904:::crim 321 d904 qualitative research methods in criminology
+3230:_:crim:::321:::d905:::Qualitative Research Methods in Criminology:::crim321:::crim321d905:::crim 321 d905 qualitative research methods in criminology
+3231:_:crim:::321:::d906:::Qualitative Research Methods in Criminology:::crim321:::crim321d906:::crim 321 d906 qualitative research methods in criminology
+3232:_:crim:::321:::d907:::Qualitative Research Methods in Criminology:::crim321:::crim321d907:::crim 321 d907 qualitative research methods in criminology
+3233:_:crim:::321:::d908:::Qualitative Research Methods in Criminology:::crim321:::crim321d908:::crim 321 d908 qualitative research methods in criminology
+3234:_:crim:::320:::c100:::Quantitative Research Methods in Criminology:::crim320:::crim320c100:::crim 320 c100 quantitative research methods in criminology
+3235:_:japn:::100:::d100:::Introduction to Japanese I:::japn100:::japn100d100:::japn 100 d100 introduction to japanese i
+3236:_:japn:::100:::d200:::Introduction to Japanese I:::japn100:::japn100d200:::japn 100 d200 introduction to japanese i
+3237:_:japn:::100:::d300:::Introduction to Japanese I:::japn100:::japn100d300:::japn 100 d300 introduction to japanese i
+3238:_:japn:::100:::d400:::Introduction to Japanese I:::japn100:::japn100d400:::japn 100 d400 introduction to japanese i
+3239:_:japn:::100:::e100:::Introduction to Japanese I:::japn100:::japn100e100:::japn 100 e100 introduction to japanese i
+3240:_:ling:::323:::d100:::Morphology:::ling323:::ling323d100:::ling 323 d100 morphology
+3241:_:econ:::921:::g100:::Directed Readings:::econ921:::econ921g100:::econ 921 g100 directed readings
+3242:_:econ:::921:::g200:::Directed Readings:::econ921:::econ921g200:::econ 921 g200 directed readings
+3243:_:econ:::921:::g300:::Directed Readings:::econ921:::econ921g300:::econ 921 g300 directed readings
+3244:_:econ:::921:::g400:::Directed Readings:::econ921:::econ921g400:::econ 921 g400 directed readings
+3245:_:econ:::921:::g500:::Directed Readings:::econ921:::econ921g500:::econ 921 g500 directed readings
+3246:_:japn:::200:::d100:::Advanced Beginners' Japanese I:::japn200:::japn200d100:::japn 200 d100 advanced beginners' japanese i
+3247:_:japn:::101:::d100:::Introduction to Japanese II:::japn101:::japn101d100:::japn 101 d100 introduction to japanese ii
+3248:_:japn:::101:::d200:::Introduction to Japanese II:::japn101:::japn101d200:::japn 101 d200 introduction to japanese ii
+3249:_:japn:::101:::d300:::Introduction to Japanese II:::japn101:::japn101d300:::japn 101 d300 introduction to japanese ii
