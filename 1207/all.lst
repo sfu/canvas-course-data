@@ -227,10 +227,10 @@
 227:_:ca:::349:::d100:::Selected Topics in Music II:::ca349:::ca349d100:::ca 349 d100 selected topics in music ii
 228:_:ca:::249:::d100:::Selected Topics in Music I:::ca249:::ca249d100:::ca 249 d100 selected topics in music i
 229:_:gsws:::831:::g100:::Selected Topics Graduate Seminar II:::gsws831:::gsws831g100:::gsws 831 g100 selected topics graduate seminar ii
-230:_:rem:::356w:::d100:::Institutional Arrangements for Sustainable Environmental Management:::rem356w:::rem356wd100:::rem 356w d100 institutional arrangements for sustainable environmental management
-231:_:rem:::356w:::d101:::Institutional Arrangements for Sustainable Environmental Management:::rem356w:::rem356wd101:::rem 356w d101 institutional arrangements for sustainable environmental management
-232:_:rem:::356w:::d102:::Institutional Arrangements for Sustainable Environmental Management:::rem356w:::rem356wd102:::rem 356w d102 institutional arrangements for sustainable environmental management
-233:_:rem:::356w:::d103:::Institutional Arrangements for Sustainable Environmental Management:::rem356w:::rem356wd103:::rem 356w d103 institutional arrangements for sustainable environmental management
+230:_:rem:::356w:::d100:::Environmental Policy:::rem356w:::rem356wd100:::rem 356w d100 environmental policy
+231:_:rem:::356w:::d101:::Environmental Policy:::rem356w:::rem356wd101:::rem 356w d101 environmental policy
+232:_:rem:::356w:::d102:::Environmental Policy:::rem356w:::rem356wd102:::rem 356w d102 environmental policy
+233:_:rem:::356w:::d103:::Environmental Policy:::rem356w:::rem356wd103:::rem 356w d103 environmental policy
 234:_:geog:::404:::d100:::Directed Readings:::geog404:::geog404d100:::geog 404 d100 directed readings
 235:_:geog:::404:::d200:::Directed Readings:::geog404:::geog404d200:::geog 404 d200 directed readings
 236:_:geog:::405:::d100:::Directed Readings:::geog405:::geog405d100:::geog 405 d100 directed readings
@@ -2040,9 +2040,9 @@
 2040:_:bisc:::650:::g100:::Environmental Risk Assessment:::bisc650:::bisc650g100:::bisc 650 g100 environmental risk assessment
 2041:_:chin:::180:::d100:::Intensive Mandarin Chinese for Beginners I:::chin180:::chin180d100:::chin 180 d100 intensive mandarin chinese for beginners i
 2042:_:chin:::181:::d100:::Intensive Mandarin Chinese for Beginners II:::chin181:::chin181d100:::chin 181 d100 intensive mandarin chinese for beginners ii
-2043:_:fnst:::301:::d100:::Issues in Applied First Nations Studies Research:::fnst301:::fnst301d100:::fnst 301 d100 issues in applied first nations studies research
+2043:_:fnst:::301:::d100:::Issues in Applied Indigenous Studies Research:::fnst301:::fnst301d100:::fnst 301 d100 issues in applied indigenous studies research
 2044:_:germ:::103:::d100:::Introductory German II:::germ103:::germ103d100:::germ 103 d100 introductory german ii
-2045:_:fnst:::322:::d100:::Special Topics in First Nations Studies:::fnst322:::fnst322d100:::fnst 322 d100 special topics in first nations studies
+2045:_:fnst:::322:::d100:::Special Topics in Indigenous Studies:::fnst322:::fnst322d100:::fnst 322 d100 special topics in indigenous studies
 2046:_:germ:::102:::d100:::Introductory German I:::germ102:::germ102d100:::germ 102 d100 introductory german i
 2047:_:germ:::102:::d200:::Introductory German I:::germ102:::germ102d200:::germ 102 d200 introductory german i
 2048:_:germ:::102:::d300:::Introductory German I:::germ102:::germ102d300:::germ 102 d300 introductory german i
@@ -2076,7 +2076,7 @@
 2076:_:pol:::131:::d104:::Politics of Prosperity and Inequality:::pol131:::pol131d104:::pol 131 d104 politics of prosperity and inequality
 2077:_:hsci:::805:::g100:::Intermediate Epidemiologic Methods:::hsci805:::hsci805g100:::hsci 805 g100 intermediate epidemiologic methods
 2078:_:urb:::605:::g100:::Great Urban Thinkers:::urb605:::urb605g100:::urb 605 g100 great urban thinkers
-2079:_:fnst:::442:::d100:::Directed Readings in First Nations Studies:::fnst442:::fnst442d100:::fnst 442 d100 directed readings in first nations studies
+2079:_:fnst:::442:::d100:::Directed Readings in Indigenous Studies:::fnst442:::fnst442d100:::fnst 442 d100 directed readings in indigenous studies
 2080:_:fnst:::403:::d100:::Indigenous Knowledge in the Modern World:::fnst403:::fnst403d100:::fnst 403 d100 indigenous knowledge in the modern world
 2081:_:germ:::201:::d100:::Intermediate German I:::germ201:::germ201d100:::germ 201 d100 intermediate german i
 2082:_:ca:::104:::e100:::Music Fundamentals:::ca104:::ca104e100:::ca 104 e100 music fundamentals
@@ -2239,7 +2239,7 @@
 2239:_:pol:::898:::g100:::MA Thesis:::pol898:::pol898g100:::pol 898 g100 ma thesis
 2240:_:pol:::897:::g100:::Field Exam in Major Areas of MA Concentration:::pol897:::pol897g100:::pol 897 g100 field exam in major areas of ma concentration
 2241:_:pol:::896:::g100:::PhD Comprehensive Exam:::pol896:::pol896g100:::pol 896 g100 phd comprehensive exam
-2242:_:pol:::895:::g100:::Extended Essays:::pol895:::pol895g100:::pol 895 g100 extended essays
+2242:_:pol:::895:::g100:::Extended Essays (Inactive):::pol895:::pol895g100:::pol 895 g100 extended essays (inactive)
 2243:_:dial:::390w:::d100:::Semester: Dialogue:::dial390w:::dial390wd100:::dial 390w d100 semester: dialogue
 2244:_:ensc:::880:::g100:::PhD Qualifying Examination:::ensc880:::ensc880g100:::ensc 880 g100 phd qualifying examination
 2245:_:bisc:::413:::d100:::Fisheries Ecology:::bisc413:::bisc413d100:::bisc 413 d100 fisheries ecology
@@ -2284,11 +2284,11 @@
 2284:_:evsc:::481:::d100:::Practicum IV:::evsc481:::evsc481d100:::evsc 481 d100 practicum iv
 2285:_:evsc:::481:::d200:::Practicum IV:::evsc481:::evsc481d200:::evsc 481 d200 practicum iv
 2286:_:evsc:::481:::i100:::Practicum IV:::evsc481:::evsc481i100:::evsc 481 i100 practicum iv
-2287:_:fnst:::101:::c100:::Introduction to First Nations Studies:::fnst101:::fnst101c100:::fnst 101 c100 introduction to first nations studies
-2288:_:fnst:::101:::d100:::Introduction to First Nations Studies:::fnst101:::fnst101d100:::fnst 101 d100 introduction to first nations studies
-2289:_:fnst:::101:::d900:::Introduction to First Nations Studies:::fnst101:::fnst101d900:::fnst 101 d900 introduction to first nations studies
-2290:_:fnst:::101:::e100:::Introduction to First Nations Studies:::fnst101:::fnst101e100:::fnst 101 e100 introduction to first nations studies
-2291:_:fnst:::101:::p100:::Introduction to First Nations Studies:::fnst101:::fnst101p100:::fnst 101 p100 introduction to first nations studies
+2287:_:fnst:::101:::c100:::Introduction to Indigenous Studies:::fnst101:::fnst101c100:::fnst 101 c100 introduction to indigenous studies
+2288:_:fnst:::101:::d100:::Introduction to Indigenous Studies:::fnst101:::fnst101d100:::fnst 101 d100 introduction to indigenous studies
+2289:_:fnst:::101:::d900:::Introduction to Indigenous Studies:::fnst101:::fnst101d900:::fnst 101 d900 introduction to indigenous studies
+2290:_:fnst:::101:::e100:::Introduction to Indigenous Studies:::fnst101:::fnst101e100:::fnst 101 e100 introduction to indigenous studies
+2291:_:fnst:::101:::p100:::Introduction to Indigenous Studies:::fnst101:::fnst101p100:::fnst 101 p100 introduction to indigenous studies
 2292:_:fep:::205:::d100:::Exchange Study I - Not Included in GPA:::fep205:::fep205d100:::fep 205 d100 exchange study i - not included in gpa
 2293:_:fep:::200:::d100:::Exchange Study I - Not included in GPA:::fep200:::fep200d100:::fep 200 d100 exchange study i - not included in gpa
 2294:_:ling:::806:::g100:::Sociolinguistics:::ling806:::ling806g100:::ling 806 g100 sociolinguistics
@@ -2755,9 +2755,9 @@
 2755:_:rem:::100:::d110:::Global Change:::rem100:::rem100d110:::rem 100 d110 global change
 2756:_:stat:::898:::g100:::MSc Project:::stat898:::stat898g100:::stat 898 g100 msc project
 2757:_:stat:::898:::g200:::MSc Project:::stat898:::stat898g200:::stat 898 g200 msc project
-2758:_:rem:::311:::d100:::Applied Ecology and Sustainable Environments:::rem311:::rem311d100:::rem 311 d100 applied ecology and sustainable environments
-2759:_:rem:::311:::d101:::Applied Ecology and Sustainable Environments:::rem311:::rem311d101:::rem 311 d101 applied ecology and sustainable environments
-2760:_:rem:::311:::d102:::Applied Ecology and Sustainable Environments:::rem311:::rem311d102:::rem 311 d102 applied ecology and sustainable environments
+2758:_:rem:::311:::d100:::Applied Ecology:::rem311:::rem311d100:::rem 311 d100 applied ecology
+2759:_:rem:::311:::d101:::Applied Ecology:::rem311:::rem311d101:::rem 311 d101 applied ecology
+2760:_:rem:::311:::d102:::Applied Ecology:::rem311:::rem311d102:::rem 311 d102 applied ecology
 2761:_:stat:::899:::g100:::PhD Thesis:::stat899:::stat899g100:::stat 899 g100 phd thesis
 2762:_:stat:::899:::g200:::PhD Thesis:::stat899:::stat899g200:::stat 899 g200 phd thesis
 2763:_:educ:::406:::d001:::Supervised Observation and Teaching:::educ406:::educ406d001:::educ 406 d001 supervised observation and teaching
@@ -3174,7 +3174,7 @@
 3174:_:bus:::606:::g400:::Finance:::bus606:::bus606g400:::bus 606 g400 finance
 3175:_:sa:::355:::d100:::Quantitative Methods (S):::sa355:::sa355d100:::sa 355 d100 quantitative methods (s)
 3176:_:sa:::355:::d101:::Quantitative Methods (S):::sa355:::sa355d101:::sa 355 d101 quantitative methods (s)
-3177:_:math:::310:::d100:::Introduction to Ordinary Differential Equations:::math310:::math310d100:::math 310 d100 introduction to ordinary differential equations
+3177:_:math:::310:::d100:::Introduction to Ordinary Differential Equations (Inactive):::math310:::math310d100:::math 310 d100 introduction to ordinary differential equations (inactive)
 3178:_:sa:::358:::c100:::The Philosophy of the Social Sciences (S):::sa358:::sa358c100:::sa 358 c100 the philosophy of the social sciences (s)
 3179:_:econ:::460:::d100:::Seminar in Environmental Economics:::econ460:::econ460d100:::econ 460 d100 seminar in environmental economics
 3180:_:pub:::355w:::d100:::Online Marketing for Publishers:::pub355w:::pub355wd100:::pub 355w d100 online marketing for publishers
@@ -3409,8 +3409,8 @@
 3409:_:phys:::881:::g100:::Special Topics I:::phys881:::phys881g100:::phys 881 g100 special topics i
 3410:_:phys:::881:::g200:::Special Topics I:::phys881:::phys881g200:::phys 881 g200 special topics i
 3411:_:edpr:::536:::g100:::Special Topics:::edpr536:::edpr536g100:::edpr 536 g100 special topics
-3412:_:fnst:::222:::d100:::Selected Topics in First Nations Studies:::fnst222:::fnst222d100:::fnst 222 d100 selected topics in first nations studies
-3413:_:fnst:::222:::d200:::Selected Topics in First Nations Studies:::fnst222:::fnst222d200:::fnst 222 d200 selected topics in first nations studies
+3412:_:fnst:::222:::d100:::Selected Topics in Indigenous Studies:::fnst222:::fnst222d100:::fnst 222 d100 selected topics in indigenous studies
+3413:_:fnst:::222:::d200:::Selected Topics in Indigenous Studies:::fnst222:::fnst222d200:::fnst 222 d200 selected topics in indigenous studies
 3414:_:pol:::490:::d100:::Honours Seminar:::pol490:::pol490d100:::pol 490 d100 honours seminar
 3415:_:ensc:::494:::d100:::Special Project Laboratory:::ensc494:::ensc494d100:::ensc 494 d100 special project laboratory
 3416:_:cmns:::110:::c100:::Introduction to Communication Studies:::cmns110:::cmns110c100:::cmns 110 c100 introduction to communication studies
@@ -3753,7 +3753,7 @@
 3753:_:ling:::322:::d100:::Syntax:::ling322:::ling322d100:::ling 322 d100 syntax
 3754:_:ling:::323:::d100:::Morphology:::ling323:::ling323d100:::ling 323 d100 morphology
 3755:_:ca:::369:::d100:::Methods and Concepts: Selected Topics:::ca369:::ca369d100:::ca 369 d100 methods and concepts: selected topics
-3756:_:fnst:::447:::d100:::Directed Studies in First Nations Studies:::fnst447:::fnst447d100:::fnst 447 d100 directed studies in first nations studies
+3756:_:fnst:::447:::d100:::Directed Studies in Indigenous Studies:::fnst447:::fnst447d100:::fnst 447 d100 directed studies in indigenous studies
 3757:_:sd:::281:::c100:::Sustainable Communities, Sustainable World:::sd281:::sd281c100:::sd 281 c100 sustainable communities, sustainable world
 3758:_:hsci:::410:::d100:::Exploratory Data Analysis:::hsci410:::hsci410d100:::hsci 410 d100 exploratory data analysis
 3759:_:arch:::895:::g100:::Special Topics:::arch895:::arch895g100:::arch 895 g100 special topics
@@ -4009,7 +4009,7 @@
 4009:_:hum:::101w:::d106:::Introduction to the Humanities:::hum101w:::hum101wd106:::hum 101w d106 introduction to the humanities
 4010:_:bus:::477:::d100:::Startup Experience:::bus477:::bus477d100:::bus 477 d100 startup experience
 4011:_:bus:::639:::g100:::Financial Statement Analysis:::bus639:::bus639g100:::bus 639 g100 financial statement analysis
-4012:_:fnst:::232:::d100:::Introduction to Ethnoecology in First Nations Studies:::fnst232:::fnst232d100:::fnst 232 d100 introduction to ethnoecology in first nations studies
+4012:_:fnst:::232:::d100:::Introduction to Ethnoecology in Indigenous Studies:::fnst232:::fnst232d100:::fnst 232 d100 introduction to ethnoecology in indigenous studies
 4013:_:bus:::478:::d100:::Strategy:::bus478:::bus478d100:::bus 478 d100 strategy
 4014:_:bus:::478:::d200:::Strategy:::bus478:::bus478d200:::bus 478 d200 strategy
 4015:_:bus:::478:::d300:::Strategy:::bus478:::bus478d300:::bus 478 d300 strategy
@@ -4090,8 +4090,8 @@
 4090:_:math:::708:::g100:::Discrete Optimization:::math708:::math708g100:::math 708 g100 discrete optimization
 4091:_:bus:::417:::d100:::Security Analysis:::bus417:::bus417d100:::bus 417 d100 security analysis
 4092:_:bus:::417:::e100:::Security Analysis:::bus417:::bus417e100:::bus 417 e100 security analysis
-4093:_:rem:::207:::d100:::STT - Indigenous Peoples and Resource Management:::rem207:::rem207d100:::rem 207 d100 stt - indigenous peoples and resource management
-4094:_:rem:::207:::d101:::STT - Indigenous Peoples and Resource Management:::rem207:::rem207d101:::rem 207 d101 stt - indigenous peoples and resource management
+4093:_:rem:::207:::d100:::Indigenous Peoples and Resource Management:::rem207:::rem207d100:::rem 207 d100 indigenous peoples and resource management
+4094:_:rem:::207:::d101:::Indigenous Peoples and Resource Management:::rem207:::rem207d101:::rem 207 d101 indigenous peoples and resource management
 4095:_:is:::808:::g100:::Special Topics in Governance and Conflict:::is808:::is808g100:::is 808 g100 special topics in governance and conflict
 4096:_:is:::808:::g200:::Special Topics in Governance and Conflict:::is808:::is808g200:::is 808 g200 special topics in governance and conflict
 4097:_:plan:::200:::d100:::Introduction to Planning:::plan200:::plan200d100:::plan 200 d100 introduction to planning
@@ -4105,7 +4105,7 @@
 4105:_:pol:::232:::d102:::US Politics:::pol232:::pol232d102:::pol 232 d102 us politics
 4106:_:pol:::232:::d103:::US Politics:::pol232:::pol232d103:::pol 232 d103 us politics
 4107:_:pol:::232:::d104:::US Politics:::pol232:::pol232d104:::pol 232 d104 us politics
-4108:_:rem:::388:::d100:::STT - Wildlife Conservation:::rem388:::rem388d100:::rem 388 d100 stt - wildlife conservation
+4108:_:rem:::388:::d100:::Wildlife Conservation:::rem388:::rem388d100:::rem 388 d100 wildlife conservation
 4109:_:bus:::420:::d100:::Advanced Accounting:::bus420:::bus420d100:::bus 420 d100 advanced accounting
 4110:_:bus:::420:::e100:::Advanced Accounting:::bus420:::bus420e100:::bus 420 e100 advanced accounting
 4111:_:arch:::351:::d100:::Practicum II:::arch351:::arch351d100:::arch 351 d100 practicum ii
@@ -4242,10 +4242,10 @@
 4242:_:hist:::460:::d100:::Themes in Byzantine History:::hist460:::hist460d100:::hist 460 d100 themes in byzantine history
 4243:_:hist:::304:::c900:::Alexander the Great and the Quest for World Empire:::hist304:::hist304c900:::hist 304 c900 alexander the great and the quest for world empire
 4244:_:plcy:::800:::g100:::Introduction to Policy Issues and Analysis I:::plcy800:::plcy800g100:::plcy 800 g100 introduction to policy issues and analysis i
-4245:_:sa:::100w:::d100:::Perspectives on Canadian Society (SA):::sa100w:::sa100wd100:::sa 100w d100 perspectives on canadian society (sa)
-4246:_:sa:::100w:::d101:::Perspectives on Canadian Society (SA):::sa100w:::sa100wd101:::sa 100w d101 perspectives on canadian society (sa)
-4247:_:sa:::100w:::d102:::Perspectives on Canadian Society (SA):::sa100w:::sa100wd102:::sa 100w d102 perspectives on canadian society (sa)
-4248:_:sa:::100w:::d103:::Perspectives on Canadian Society (SA):::sa100w:::sa100wd103:::sa 100w d103 perspectives on canadian society (sa)
+4245:_:sa:::100w:::d100:::Perspectives on Canadian Society (SA) (Inactive):::sa100w:::sa100wd100:::sa 100w d100 perspectives on canadian society (sa) (inactive)
+4246:_:sa:::100w:::d101:::Perspectives on Canadian Society (SA) (Inactive):::sa100w:::sa100wd101:::sa 100w d101 perspectives on canadian society (sa) (inactive)
+4247:_:sa:::100w:::d102:::Perspectives on Canadian Society (SA) (Inactive):::sa100w:::sa100wd102:::sa 100w d102 perspectives on canadian society (sa) (inactive)
+4248:_:sa:::100w:::d103:::Perspectives on Canadian Society (SA) (Inactive):::sa100w:::sa100wd103:::sa 100w d103 perspectives on canadian society (sa) (inactive)
 4249:_:econ:::480:::d100:::Seminar in the Economics of Labor Market Policy:::econ480:::econ480d100:::econ 480 d100 seminar in the economics of labor market policy
 4250:_:bpk:::805:::g100:::Directed Studies:::bpk805:::bpk805g100:::bpk 805 g100 directed studies
 4251:_:gsws:::403:::d100:::Directed Readings:::gsws403:::gsws403d100:::gsws 403 d100 directed readings
@@ -4468,8 +4468,8 @@
 4468:_:bus:::992:::g200:::PhD Thesis:::bus992:::bus992g200:::bus 992 g200 phd thesis
 4469:_:bus:::991:::g100:::PhD Comprehensive Exam:::bus991:::bus991g100:::bus 991 g100 phd comprehensive exam
 4470:_:bus:::990:::g100:::Research Project:::bus990:::bus990g100:::bus 990 g100 research project
-4471:_:phys:::233:::d100:::Physics Laboratory IV:::phys233:::phys233d100:::phys 233 d100 physics laboratory iv
-4472:_:phys:::233:::d101:::Physics Laboratory IV:::phys233:::phys233d101:::phys 233 d101 physics laboratory iv
+4471:_:phys:::233:::d100:::Physics Laboratory III:::phys233:::phys233d100:::phys 233 d100 physics laboratory iii
+4472:_:phys:::233:::d101:::Physics Laboratory III:::phys233:::phys233d101:::phys 233 d101 physics laboratory iii
 4473:_:sa:::231:::d100:::Sociology of Families (S):::sa231:::sa231d100:::sa 231 d100 sociology of families (s)
 4474:_:sa:::231:::d101:::Sociology of Families (S):::sa231:::sa231d101:::sa 231 d101 sociology of families (s)
 4475:_:iat:::432:::d100:::Design Evaluation:::iat432:::iat432d100:::iat 432 d100 design evaluation

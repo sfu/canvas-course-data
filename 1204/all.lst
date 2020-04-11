@@ -106,7 +106,7 @@
 106:_:crim:::470:::d200:::Directed Studies:::crim470:::crim470d200:::crim 470 d200 directed studies
 107:_:crim:::470:::d300:::Directed Studies:::crim470:::crim470d300:::crim 470 d300 directed studies
 108:_:iat:::871:::g100:::Directed Readings I:::iat871:::iat871g100:::iat 871 g100 directed readings i
-109:_:math:::461:::d100:::Continuous Mathematical Models:::math461:::math461d100:::math 461 d100 continuous mathematical models
+109:_:math:::461:::d100:::Continuous Mathematical Models (Inactive):::math461:::math461d100:::math 461 d100 continuous mathematical models (inactive)
 110:_:bus:::437:::d100:::Decision Analysis in Business:::bus437:::bus437d100:::bus 437 d100 decision analysis in business
 111:_:ensc:::295:::d100:::Industrial Internship II:::ensc295:::ensc295d100:::ensc 295 d100 industrial internship ii
 112:_:ensc:::295:::d200:::Industrial Internship II:::ensc295:::ensc295d200:::ensc 295 d200 industrial internship ii
@@ -598,20 +598,20 @@
 598:_:geog:::424:::d100:::Cities, Transportation, Infrastructure:::geog424:::geog424d100:::geog 424 d100 cities, transportation, infrastructure
 599:_:geog:::424:::d101:::Cities, Transportation, Infrastructure:::geog424:::geog424d101:::geog 424 d101 cities, transportation, infrastructure
 600:_:psyc:::998:::g100:::Directed Readings:::psyc998:::psyc998g100:::psyc 998 g100 directed readings
-601:_:math:::310:::d100:::Introduction to Ordinary Differential Equations:::math310:::math310d100:::math 310 d100 introduction to ordinary differential equations
-602:_:math:::310:::d101:::Introduction to Ordinary Differential Equations:::math310:::math310d101:::math 310 d101 introduction to ordinary differential equations
-603:_:math:::310:::d102:::Introduction to Ordinary Differential Equations:::math310:::math310d102:::math 310 d102 introduction to ordinary differential equations
-604:_:math:::310:::d103:::Introduction to Ordinary Differential Equations:::math310:::math310d103:::math 310 d103 introduction to ordinary differential equations
-605:_:math:::310:::d104:::Introduction to Ordinary Differential Equations:::math310:::math310d104:::math 310 d104 introduction to ordinary differential equations
-606:_:math:::310:::d105:::Introduction to Ordinary Differential Equations:::math310:::math310d105:::math 310 d105 introduction to ordinary differential equations
-607:_:math:::310:::d106:::Introduction to Ordinary Differential Equations:::math310:::math310d106:::math 310 d106 introduction to ordinary differential equations
-608:_:math:::310:::d107:::Introduction to Ordinary Differential Equations:::math310:::math310d107:::math 310 d107 introduction to ordinary differential equations
-609:_:math:::310:::d108:::Introduction to Ordinary Differential Equations:::math310:::math310d108:::math 310 d108 introduction to ordinary differential equations
-610:_:math:::310:::d109:::Introduction to Ordinary Differential Equations:::math310:::math310d109:::math 310 d109 introduction to ordinary differential equations
-611:_:math:::310:::d200:::Introduction to Ordinary Differential Equations:::math310:::math310d200:::math 310 d200 introduction to ordinary differential equations
-612:_:math:::310:::d201:::Introduction to Ordinary Differential Equations:::math310:::math310d201:::math 310 d201 introduction to ordinary differential equations
-613:_:math:::310:::d202:::Introduction to Ordinary Differential Equations:::math310:::math310d202:::math 310 d202 introduction to ordinary differential equations
-614:_:math:::310:::d203:::Introduction to Ordinary Differential Equations:::math310:::math310d203:::math 310 d203 introduction to ordinary differential equations
+601:_:math:::310:::d100:::Introduction to Ordinary Differential Equations (Inactive):::math310:::math310d100:::math 310 d100 introduction to ordinary differential equations (inactive)
+602:_:math:::310:::d101:::Introduction to Ordinary Differential Equations (Inactive):::math310:::math310d101:::math 310 d101 introduction to ordinary differential equations (inactive)
+603:_:math:::310:::d102:::Introduction to Ordinary Differential Equations (Inactive):::math310:::math310d102:::math 310 d102 introduction to ordinary differential equations (inactive)
+604:_:math:::310:::d103:::Introduction to Ordinary Differential Equations (Inactive):::math310:::math310d103:::math 310 d103 introduction to ordinary differential equations (inactive)
+605:_:math:::310:::d104:::Introduction to Ordinary Differential Equations (Inactive):::math310:::math310d104:::math 310 d104 introduction to ordinary differential equations (inactive)
+606:_:math:::310:::d105:::Introduction to Ordinary Differential Equations (Inactive):::math310:::math310d105:::math 310 d105 introduction to ordinary differential equations (inactive)
+607:_:math:::310:::d106:::Introduction to Ordinary Differential Equations (Inactive):::math310:::math310d106:::math 310 d106 introduction to ordinary differential equations (inactive)
+608:_:math:::310:::d107:::Introduction to Ordinary Differential Equations (Inactive):::math310:::math310d107:::math 310 d107 introduction to ordinary differential equations (inactive)
+609:_:math:::310:::d108:::Introduction to Ordinary Differential Equations (Inactive):::math310:::math310d108:::math 310 d108 introduction to ordinary differential equations (inactive)
+610:_:math:::310:::d109:::Introduction to Ordinary Differential Equations (Inactive):::math310:::math310d109:::math 310 d109 introduction to ordinary differential equations (inactive)
+611:_:math:::310:::d200:::Introduction to Ordinary Differential Equations (Inactive):::math310:::math310d200:::math 310 d200 introduction to ordinary differential equations (inactive)
+612:_:math:::310:::d201:::Introduction to Ordinary Differential Equations (Inactive):::math310:::math310d201:::math 310 d201 introduction to ordinary differential equations (inactive)
+613:_:math:::310:::d202:::Introduction to Ordinary Differential Equations (Inactive):::math310:::math310d202:::math 310 d202 introduction to ordinary differential equations (inactive)
+614:_:math:::310:::d203:::Introduction to Ordinary Differential Equations (Inactive):::math310:::math310d203:::math 310 d203 introduction to ordinary differential equations (inactive)
 615:_:educ:::448:::c100:::Teaching about Justice, Law and Citizenship:::educ448:::educ448c100:::educ 448 c100 teaching about justice, law and citizenship
 616:_:educ:::313:::d100:::Numeracy and Society:::educ313:::educ313d100:::educ 313 d100 numeracy and society
 617:_:ling:::893:::g100:::First Nations Linguistics MA Project:::ling893:::ling893g100:::ling 893 g100 first nations linguistics ma project
@@ -662,10 +662,10 @@
 662:_:math:::890:::g200:::Co-op I:::math890:::math890g200:::math 890 g200 co-op i
 663:_:rem:::899:::g100:::PhD Thesis:::rem899:::rem899g100:::rem 899 g100 phd thesis
 664:_:rem:::899:::g200:::PhD Thesis:::rem899:::rem899g200:::rem 899 g200 phd thesis
-665:_:sa:::100w:::d100:::Perspectives on Canadian Society (SA):::sa100w:::sa100wd100:::sa 100w d100 perspectives on canadian society (sa)
-666:_:sa:::100w:::d101:::Perspectives on Canadian Society (SA):::sa100w:::sa100wd101:::sa 100w d101 perspectives on canadian society (sa)
-667:_:sa:::100w:::d102:::Perspectives on Canadian Society (SA):::sa100w:::sa100wd102:::sa 100w d102 perspectives on canadian society (sa)
-668:_:sa:::100w:::d103:::Perspectives on Canadian Society (SA):::sa100w:::sa100wd103:::sa 100w d103 perspectives on canadian society (sa)
+665:_:sa:::100w:::d100:::Perspectives on Canadian Society (SA) (Inactive):::sa100w:::sa100wd100:::sa 100w d100 perspectives on canadian society (sa) (inactive)
+666:_:sa:::100w:::d101:::Perspectives on Canadian Society (SA) (Inactive):::sa100w:::sa100wd101:::sa 100w d101 perspectives on canadian society (sa) (inactive)
+667:_:sa:::100w:::d102:::Perspectives on Canadian Society (SA) (Inactive):::sa100w:::sa100wd102:::sa 100w d102 perspectives on canadian society (sa) (inactive)
+668:_:sa:::100w:::d103:::Perspectives on Canadian Society (SA) (Inactive):::sa100w:::sa100wd103:::sa 100w d103 perspectives on canadian society (sa) (inactive)
 669:_:bisc:::202:::d100:::Genetics:::bisc202:::bisc202d100:::bisc 202 d100 genetics
 670:_:bisc:::202:::d101:::Genetics:::bisc202:::bisc202d101:::bisc 202 d101 genetics
 671:_:bisc:::202:::d102:::Genetics:::bisc202:::bisc202d102:::bisc 202 d102 genetics
@@ -1493,7 +1493,7 @@
 1493:_:pol:::897:::g100:::Field Exam in Major Areas of MA Concentration:::pol897:::pol897g100:::pol 897 g100 field exam in major areas of ma concentration
 1494:_:pol:::896:::g100:::PhD Comprehensive Exam:::pol896:::pol896g100:::pol 896 g100 phd comprehensive exam
 1495:_:pol:::896:::g200:::PhD Comprehensive Exam:::pol896:::pol896g200:::pol 896 g200 phd comprehensive exam
-1496:_:pol:::895:::g100:::Extended Essays:::pol895:::pol895g100:::pol 895 g100 extended essays
+1496:_:pol:::895:::g100:::Extended Essays (Inactive):::pol895:::pol895g100:::pol 895 g100 extended essays (inactive)
 1497:_:cmns:::202:::d100:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d100:::cmns 202 d100 design and method in qualitative communication research
 1498:_:cmns:::202:::d101:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d101:::cmns 202 d101 design and method in qualitative communication research
 1499:_:cmns:::202:::d102:::Design and Method in Qualitative Communication Research:::cmns202:::cmns202d102:::cmns 202 d102 design and method in qualitative communication research
@@ -1963,7 +1963,7 @@
 1963:_:lbst:::330:::d200:::Selected Topics in Labour Studies:::lbst330:::lbst330d200:::lbst 330 d200 selected topics in labour studies
 1964:_:lbst:::330:::d300:::Selected Topics in Labour Studies:::lbst330:::lbst330d300:::lbst 330 d300 selected topics in labour studies
 1965:_:lbst:::330:::e100:::Selected Topics in Labour Studies:::lbst330:::lbst330e100:::lbst 330 e100 selected topics in labour studies
-1966:_:ital:::390:::d100:::STT - Dante's Inferno:::ital390:::ital390d100:::ital 390 d100 stt - dante's inferno
+1966:_:ital:::390:::d100:::STT - Dante's Inferno (Inactive):::ital390:::ital390d100:::ital 390 d100 stt - dante's inferno (inactive)
 1967:_:chem:::307:::d100:::Practicum II:::chem307:::chem307d100:::chem 307 d100 practicum ii
 1968:_:chem:::307:::d200:::Practicum II:::chem307:::chem307d200:::chem 307 d200 practicum ii
 1969:_:chem:::307:::i100:::Practicum II:::chem307:::chem307i100:::chem 307 i100 practicum ii
