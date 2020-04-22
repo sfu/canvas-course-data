@@ -3190,7 +3190,7 @@
 3190:_:bus:::606:::g400:::Finance:::bus606:::bus606g400:::bus 606 g400 finance
 3191:_:sa:::355:::d100:::Quantitative Methods (S):::sa355:::sa355d100:::sa 355 d100 quantitative methods (s)
 3192:_:sa:::355:::d101:::Quantitative Methods (S):::sa355:::sa355d101:::sa 355 d101 quantitative methods (s)
-3193:_:math:::310:::d100:::Introduction to Ordinary Differential Equations (Inactive):::math310:::math310d100:::math 310 d100 introduction to ordinary differential equations (inactive)
+3193:_:math:::310:::d100:::Introduction to Ordinary Differential Equations:::math310:::math310d100:::math 310 d100 introduction to ordinary differential equations
 3194:_:sa:::358:::c100:::The Philosophy of the Social Sciences (S):::sa358:::sa358c100:::sa 358 c100 the philosophy of the social sciences (s)
 3195:_:math:::308:::d100:::Linear Optimization:::math308:::math308d100:::math 308 d100 linear optimization
 3196:_:math:::308:::d101:::Linear Optimization:::math308:::math308d101:::math 308 d101 linear optimization
@@ -5158,436 +5158,435 @@
 5158:_:plcy:::818:::g100:::Quantitative Methods for Policy Analysts:::plcy818:::plcy818g100:::plcy 818 g100 quantitative methods for policy analysts
 5159:_:psyc:::366:::d100:::Psychology and Environmental Sustainability:::psyc366:::psyc366d100:::psyc 366 d100 psychology and environmental sustainability
 5160:_:cmpt:::726:::g100:::Machine Learning:::cmpt726:::cmpt726g100:::cmpt 726 g100 machine learning
-5161:_:crim:::442:::d100:::Restorative Justice Practice: Advanced Topics:::crim442:::crim442d100:::crim 442 d100 restorative justice practice: advanced topics
-5162:_:is:::319:::d100:::Special Topics in Comparative World Politics, Culture and Society:::is319:::is319d100:::is 319 d100 special topics in comparative world politics, culture and society
-5163:_:is:::319:::d200:::Special Topics in Comparative World Politics, Culture and Society:::is319:::is319d200:::is 319 d200 special topics in comparative world politics, culture and society
-5164:_:is:::329:::d100:::Special Topics in International Development, Economic and Environmental Issues:::is329:::is329d100:::is 329 d100 special topics in international development, economic and environmental issues
-5165:_:phil:::150:::d100:::Great Works in the History of Philosophy:::phil150:::phil150d100:::phil 150 d100 great works in the history of philosophy
-5166:_:phil:::150:::d900:::Great Works in the History of Philosophy:::phil150:::phil150d900:::phil 150 d900 great works in the history of philosophy
-5167:_:bus:::320:::d100:::Financial Accounting:  Assets:::bus320:::bus320d100:::bus 320 d100 financial accounting:  assets
-5168:_:bus:::320:::e100:::Financial Accounting:  Assets:::bus320:::bus320e100:::bus 320 e100 financial accounting:  assets
-5169:_:hsci:::402:::d100:::Substance Use, Addiction and Public Health:::hsci402:::hsci402d100:::hsci 402 d100 substance use, addiction and public health
-5170:_:bus:::321:::d100:::Financial Accounting: Equities:::bus321:::bus321d100:::bus 321 d100 financial accounting: equities
-5171:_:bus:::321:::e100:::Financial Accounting: Equities:::bus321:::bus321e100:::bus 321 e100 financial accounting: equities
-5172:_:hsci:::180:::d100:::Drugs and Society:::hsci180:::hsci180d100:::hsci 180 d100 drugs and society
-5173:_:hsci:::216:::d100:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d100:::hsci 216 d100 ecological determinants of human growth, development and health
-5174:_:hsci:::216:::d101:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d101:::hsci 216 d101 ecological determinants of human growth, development and health
-5175:_:hsci:::216:::d102:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d102:::hsci 216 d102 ecological determinants of human growth, development and health
-5176:_:hsci:::216:::d103:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d103:::hsci 216 d103 ecological determinants of human growth, development and health
-5177:_:hsci:::216:::d104:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d104:::hsci 216 d104 ecological determinants of human growth, development and health
-5178:_:hsci:::216:::d105:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d105:::hsci 216 d105 ecological determinants of human growth, development and health
-5179:_:hsci:::216:::d106:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d106:::hsci 216 d106 ecological determinants of human growth, development and health
-5180:_:hsci:::216:::d107:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d107:::hsci 216 d107 ecological determinants of human growth, development and health
-5181:_:hsci:::216:::d108:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d108:::hsci 216 d108 ecological determinants of human growth, development and health
-5182:_:cmns:::881:::g100:::Research Practicum:::cmns881:::cmns881g100:::cmns 881 g100 research practicum
-5183:_:cmns:::881:::g200:::Research Practicum:::cmns881:::cmns881g200:::cmns 881 g200 research practicum
-5184:_:cmns:::881:::g300:::Research Practicum:::cmns881:::cmns881g300:::cmns 881 g300 research practicum
-5185:_:cmns:::881:::g400:::Research Practicum:::cmns881:::cmns881g400:::cmns 881 g400 research practicum
-5186:_:cmns:::881:::g500:::Research Practicum:::cmns881:::cmns881g500:::cmns 881 g500 research practicum
-5187:_:bus:::325:::d100:::Co-op Practicum II:::bus325:::bus325d100:::bus 325 d100 co-op practicum ii
-5188:_:bus:::325:::d200:::Co-op Practicum II:::bus325:::bus325d200:::bus 325 d200 co-op practicum ii
-5189:_:bus:::325:::i100:::Co-op Practicum II:::bus325:::bus325i100:::bus 325 i100 co-op practicum ii
-5190:_:cmns:::880:::g100:::Directed Readings and Research:::cmns880:::cmns880g100:::cmns 880 g100 directed readings and research
-5191:_:cmns:::880:::g200:::Directed Readings and Research:::cmns880:::cmns880g200:::cmns 880 g200 directed readings and research
-5192:_:cmns:::880:::g300:::Directed Readings and Research:::cmns880:::cmns880g300:::cmns 880 g300 directed readings and research
-5193:_:cmns:::880:::g400:::Directed Readings and Research:::cmns880:::cmns880g400:::cmns 880 g400 directed readings and research
-5194:_:cmns:::880:::g500:::Directed Readings and Research:::cmns880:::cmns880g500:::cmns 880 g500 directed readings and research
-5195:_:engl:::304:::d100:::Studies in Medieval Literature:::engl304:::engl304d100:::engl 304 d100 studies in medieval literature
-5196:_:engl:::313:::c100:::Late Shakespeare:::engl313:::engl313c100:::engl 313 c100 late shakespeare
-5197:_:bus:::326:::d100:::Co-op Practicum III:::bus326:::bus326d100:::bus 326 d100 co-op practicum iii
-5198:_:bus:::326:::d200:::Co-op Practicum III:::bus326:::bus326d200:::bus 326 d200 co-op practicum iii
-5199:_:bus:::326:::i100:::Co-op Practicum III:::bus326:::bus326i100:::bus 326 i100 co-op practicum iii
-5200:_:hsci:::855:::g100:::Health Promotion in Practice:::hsci855:::hsci855g100:::hsci 855 g100 health promotion in practice
-5201:_:cmns:::891:::g100:::Co-op I:::cmns891:::cmns891g100:::cmns 891 g100 co-op i
-5202:_:cmns:::891:::g200:::Co-op I:::cmns891:::cmns891g200:::cmns 891 g200 co-op i
-5203:_:cmns:::891:::i300:::Co-op I:::cmns891:::cmns891i300:::cmns 891 i300 co-op i
-5204:_:hsci:::900:::g100:::Core Concepts and Practice for Public Health I:::hsci900:::hsci900g100:::hsci 900 g100 core concepts and practice for public health i
-5205:_:bus:::327:::d100:::Co-op Practicum IV:::bus327:::bus327d100:::bus 327 d100 co-op practicum iv
-5206:_:bus:::327:::d200:::Co-op Practicum IV:::bus327:::bus327d200:::bus 327 d200 co-op practicum iv
-5207:_:bus:::327:::i100:::Co-op Practicum IV:::bus327:::bus327i100:::bus 327 i100 co-op practicum iv
-5208:_:cmns:::882:::g100:::Research Field Work:::cmns882:::cmns882g100:::cmns 882 g100 research field work
-5209:_:cmns:::882:::g200:::Research Field Work:::cmns882:::cmns882g200:::cmns 882 g200 research field work
-5210:_:cmns:::882:::g300:::Research Field Work:::cmns882:::cmns882g300:::cmns 882 g300 research field work
-5211:_:cmns:::882:::g400:::Research Field Work:::cmns882:::cmns882g400:::cmns 882 g400 research field work
-5212:_:cmns:::882:::g500:::Research Field Work:::cmns882:::cmns882g500:::cmns 882 g500 research field work
-5213:_:cmpt:::789:::g100:::Applied Cryptography:::cmpt789:::cmpt789g100:::cmpt 789 g100 applied cryptography
-5214:_:cmpt:::629:::g100:::Graduate Project:::cmpt629:::cmpt629g100:::cmpt 629 g100 graduate project
-5215:_:cmns:::892:::g100:::Co-op II:::cmns892:::cmns892g100:::cmns 892 g100 co-op ii
-5216:_:cmns:::892:::g200:::Co-op II:::cmns892:::cmns892g200:::cmns 892 g200 co-op ii
-5217:_:cmns:::892:::i100:::Co-op II:::cmns892:::cmns892i100:::cmns 892 i100 co-op ii
-5218:_:cmns:::895:::g100:::Comprehensive Examination:::cmns895:::cmns895g100:::cmns 895 g100 comprehensive examination
-5219:_:cmns:::895:::g200:::Comprehensive Examination:::cmns895:::cmns895g200:::cmns 895 g200 comprehensive examination
-5220:_:cmns:::895:::g300:::Comprehensive Examination:::cmns895:::cmns895g300:::cmns 895 g300 comprehensive examination
-5221:_:cmns:::898:::g100:::MA Thesis:::cmns898:::cmns898g100:::cmns 898 g100 ma thesis
-5222:_:cmns:::898:::g200:::MA Thesis:::cmns898:::cmns898g200:::cmns 898 g200 ma thesis
-5223:_:cmns:::898:::g300:::MA Thesis:::cmns898:::cmns898g300:::cmns 898 g300 ma thesis
-5224:_:bus:::336:::d100:::Data and Decisions II:::bus336:::bus336d100:::bus 336 d100 data and decisions ii
-5225:_:bus:::336:::d200:::Data and Decisions II:::bus336:::bus336d200:::bus 336 d200 data and decisions ii
-5226:_:bus:::336:::d201:::Data and Decisions II:::bus336:::bus336d201:::bus 336 d201 data and decisions ii
-5227:_:bus:::336:::e100:::Data and Decisions II:::bus336:::bus336e100:::bus 336 e100 data and decisions ii
-5228:_:bus:::336:::op01:::Data and Decisions II:::bus336:::bus336op01:::bus 336 op01 data and decisions ii
-5229:_:bus:::336:::op02:::Data and Decisions II:::bus336:::bus336op02:::bus 336 op02 data and decisions ii
-5230:_:bus:::336:::op03:::Data and Decisions II:::bus336:::bus336op03:::bus 336 op03 data and decisions ii
-5231:_:bus:::336:::op04:::Data and Decisions II:::bus336:::bus336op04:::bus 336 op04 data and decisions ii
-5232:_:bus:::336:::op05:::Data and Decisions II:::bus336:::bus336op05:::bus 336 op05 data and decisions ii
-5233:_:bus:::336:::op06:::Data and Decisions II:::bus336:::bus336op06:::bus 336 op06 data and decisions ii
-5234:_:bus:::336:::op07:::Data and Decisions II:::bus336:::bus336op07:::bus 336 op07 data and decisions ii
-5235:_:bus:::336:::op08:::Data and Decisions II:::bus336:::bus336op08:::bus 336 op08 data and decisions ii
-5236:_:hsci:::835:::g100:::Social Determinants of Health:::hsci835:::hsci835g100:::hsci 835 g100 social determinants of health
-5237:_:hsci:::845:::g100:::Environmental and Occupational Health:::hsci845:::hsci845g100:::hsci 845 g100 environmental and occupational health
-5238:_:fren:::307:::d100:::The Right Word: Advanced Vocabulary and Translation:::fren307:::fren307d100:::fren 307 d100 the right word: advanced vocabulary and translation
-5239:_:engl:::311:::d100:::Early Shakespeare:::engl311:::engl311d100:::engl 311 d100 early shakespeare
-5240:_:engl:::311:::d101:::Early Shakespeare:::engl311:::engl311d101:::engl 311 d101 early shakespeare
-5241:_:engl:::311:::d102:::Early Shakespeare:::engl311:::engl311d102:::engl 311 d102 early shakespeare
-5242:_:engl:::311:::d103:::Early Shakespeare:::engl311:::engl311d103:::engl 311 d103 early shakespeare
-5243:_:engl:::322:::d100:::Studies in Eighteenth Century Authors:::engl322:::engl322d100:::engl 322 d100 studies in eighteenth century authors
-5244:_:ensc:::477:::d100:::Biomedical Image Acquisition:::ensc477:::ensc477d100:::ensc 477 d100 biomedical image acquisition
-5245:_:ensc:::477:::d101:::Biomedical Image Acquisition:::ensc477:::ensc477d101:::ensc 477 d101 biomedical image acquisition
-5246:_:ensc:::477:::la02:::Biomedical Image Acquisition:::ensc477:::ensc477la02:::ensc 477 la02 biomedical image acquisition
-5247:_:is:::301:::d100:::Returning from Abroad: Discussion Seminar to Unpack the Experience of Work, Study & Research Abroad:::is301:::is301d100:::is 301 d100 returning from abroad: discussion seminar to unpack the experience of work, study & research abroad
-5248:_:bus:::341:::d100:::Fundamentals of Marketing:::bus341:::bus341d100:::bus 341 d100 fundamentals of marketing
-5249:_:cmns:::899:::g100:::PhD Thesis:::cmns899:::cmns899g100:::cmns 899 g100 phd thesis
-5250:_:cmns:::899:::g200:::PhD Thesis:::cmns899:::cmns899g200:::cmns 899 g200 phd thesis
-5251:_:cmns:::899:::g300:::PhD Thesis:::cmns899:::cmns899g300:::cmns 899 g300 phd thesis
-5252:_:cmpt:::782:::g100:::Cybersecurity Lab I:::cmpt782:::cmpt782g100:::cmpt 782 g100 cybersecurity lab i
-5253:_:bus:::343:::d100:::Introduction to Marketing:::bus343:::bus343d100:::bus 343 d100 introduction to marketing
-5254:_:bus:::343:::d101:::Introduction to Marketing:::bus343:::bus343d101:::bus 343 d101 introduction to marketing
-5255:_:bus:::343:::d102:::Introduction to Marketing:::bus343:::bus343d102:::bus 343 d102 introduction to marketing
-5256:_:bus:::343:::d103:::Introduction to Marketing:::bus343:::bus343d103:::bus 343 d103 introduction to marketing
-5257:_:bus:::343:::d104:::Introduction to Marketing:::bus343:::bus343d104:::bus 343 d104 introduction to marketing
-5258:_:bus:::343:::d105:::Introduction to Marketing:::bus343:::bus343d105:::bus 343 d105 introduction to marketing
-5259:_:bus:::343:::d106:::Introduction to Marketing:::bus343:::bus343d106:::bus 343 d106 introduction to marketing
-5260:_:bus:::343:::d107:::Introduction to Marketing:::bus343:::bus343d107:::bus 343 d107 introduction to marketing
-5261:_:bus:::343:::d108:::Introduction to Marketing:::bus343:::bus343d108:::bus 343 d108 introduction to marketing
-5262:_:bus:::343:::d109:::Introduction to Marketing:::bus343:::bus343d109:::bus 343 d109 introduction to marketing
-5263:_:bus:::343:::d200:::Introduction to Marketing:::bus343:::bus343d200:::bus 343 d200 introduction to marketing
-5264:_:bus:::343:::d201:::Introduction to Marketing:::bus343:::bus343d201:::bus 343 d201 introduction to marketing
-5265:_:bus:::343:::d202:::Introduction to Marketing:::bus343:::bus343d202:::bus 343 d202 introduction to marketing
-5266:_:bus:::343:::d203:::Introduction to Marketing:::bus343:::bus343d203:::bus 343 d203 introduction to marketing
-5267:_:bus:::343:::d204:::Introduction to Marketing:::bus343:::bus343d204:::bus 343 d204 introduction to marketing
-5268:_:bus:::343:::d205:::Introduction to Marketing:::bus343:::bus343d205:::bus 343 d205 introduction to marketing
-5269:_:bus:::343:::d206:::Introduction to Marketing:::bus343:::bus343d206:::bus 343 d206 introduction to marketing
-5270:_:bus:::343:::d207:::Introduction to Marketing:::bus343:::bus343d207:::bus 343 d207 introduction to marketing
-5271:_:bus:::343:::d208:::Introduction to Marketing:::bus343:::bus343d208:::bus 343 d208 introduction to marketing
-5272:_:bus:::343:::d209:::Introduction to Marketing:::bus343:::bus343d209:::bus 343 d209 introduction to marketing
-5273:_:ensc:::324:::d100:::Electronic Devices:::ensc324:::ensc324d100:::ensc 324 d100 electronic devices
-5274:_:ensc:::324:::d101:::Electronic Devices:::ensc324:::ensc324d101:::ensc 324 d101 electronic devices
-5275:_:ensc:::324:::la01:::Electronic Devices:::ensc324:::ensc324la01:::ensc 324 la01 electronic devices
-5276:_:hsci:::897:::g100:::MPH Project:::hsci897:::hsci897g100:::hsci 897 g100 mph project
-5277:_:hsci:::897:::g200:::MPH Project:::hsci897:::hsci897g200:::hsci 897 g200 mph project
-5278:_:hsci:::897:::g300:::MPH Project:::hsci897:::hsci897g300:::hsci 897 g300 mph project
-5279:_:hsci:::897:::g400:::MPH Project:::hsci897:::hsci897g400:::hsci 897 g400 mph project
-5280:_:bus:::346:::d100:::Global Business Environment:::bus346:::bus346d100:::bus 346 d100 global business environment
-5281:_:bus:::346:::d200:::Global Business Environment:::bus346:::bus346d200:::bus 346 d200 global business environment
-5282:_:hsci:::880:::g100:::Practicum:::hsci880:::hsci880g100:::hsci 880 g100 practicum
-5283:_:bus:::347:::d100:::Consumer Behaviour:::bus347:::bus347d100:::bus 347 d100 consumer behaviour
-5284:_:bus:::347:::d200:::Consumer Behaviour:::bus347:::bus347d200:::bus 347 d200 consumer behaviour
-5285:_:hist:::815:::g100:::Prospectus Workshop:::hist815:::hist815g100:::hist 815 g100 prospectus workshop
-5286:_:fep:::224:::d100:::FEP Formal Exchange Program - Not Included in GPA:::fep224:::fep224d100:::fep 224 d100 fep formal exchange program - not included in gpa
-5287:_:hist:::463w:::d100:::Rebellion and Revolution: Topics in the Theory and Practice of Resistance:::hist463w:::hist463wd100:::hist 463w d100 rebellion and revolution: topics in the theory and practice of resistance
-5288:_:mbb:::483:::d100:::Directed Research - Honours Thesis Defense:::mbb483:::mbb483d100:::mbb 483 d100 directed research - honours thesis defense
-5289:_:mbb:::483:::d200:::Directed Research - Honours Thesis Defense:::mbb483:::mbb483d200:::mbb 483 d200 directed research - honours thesis defense
-5290:_:mbb:::483:::d300:::Directed Research - Honours Thesis Defense:::mbb483:::mbb483d300:::mbb 483 d300 directed research - honours thesis defense
-5291:_:mbb:::483:::d400:::Directed Research - Honours Thesis Defense:::mbb483:::mbb483d400:::mbb 483 d400 directed research - honours thesis defense
-5292:_:mbb:::483:::d500:::Directed Research - Honours Thesis Defense:::mbb483:::mbb483d500:::mbb 483 d500 directed research - honours thesis defense
-5293:_:evsc:::490w:::d100:::Environmental Science Thesis:::evsc490w:::evsc490wd100:::evsc 490w d100 environmental science thesis
-5294:_:bus:::362:::d100:::Business Process Analysis:::bus362:::bus362d100:::bus 362 d100 business process analysis
-5295:_:bus:::362:::d101:::Business Process Analysis:::bus362:::bus362d101:::bus 362 d101 business process analysis
-5296:_:bus:::362:::d102:::Business Process Analysis:::bus362:::bus362d102:::bus 362 d102 business process analysis
-5297:_:bus:::362:::d103:::Business Process Analysis:::bus362:::bus362d103:::bus 362 d103 business process analysis
-5298:_:bus:::362:::d200:::Business Process Analysis:::bus362:::bus362d200:::bus 362 d200 business process analysis
-5299:_:bus:::362:::d201:::Business Process Analysis:::bus362:::bus362d201:::bus 362 d201 business process analysis
-5300:_:bus:::362:::d202:::Business Process Analysis:::bus362:::bus362d202:::bus 362 d202 business process analysis
-5301:_:bus:::362:::d203:::Business Process Analysis:::bus362:::bus362d203:::bus 362 d203 business process analysis
-5302:_:psyc:::715:::g100:::Proseminar in Measurement:::psyc715:::psyc715g100:::psyc 715 g100 proseminar in measurement
-5303:_:math:::100:::d100:::Precalculus:::math100:::math100d100:::math 100 d100 precalculus
-5304:_:math:::100:::d101:::Precalculus:::math100:::math100d101:::math 100 d101 precalculus
-5305:_:math:::100:::d102:::Precalculus:::math100:::math100d102:::math 100 d102 precalculus
-5306:_:math:::100:::d103:::Precalculus:::math100:::math100d103:::math 100 d103 precalculus
-5307:_:math:::100:::d104:::Precalculus:::math100:::math100d104:::math 100 d104 precalculus
-5308:_:math:::100:::d105:::Precalculus:::math100:::math100d105:::math 100 d105 precalculus
-5309:_:math:::100:::d106:::Precalculus:::math100:::math100d106:::math 100 d106 precalculus
-5310:_:math:::100:::d107:::Precalculus:::math100:::math100d107:::math 100 d107 precalculus
-5311:_:math:::100:::d108:::Precalculus:::math100:::math100d108:::math 100 d108 precalculus
-5312:_:math:::100:::d200:::Precalculus:::math100:::math100d200:::math 100 d200 precalculus
-5313:_:math:::100:::opo1:::Precalculus:::math100:::math100opo1:::math 100 opo1 precalculus
-5314:_:math:::100:::opo2:::Precalculus:::math100:::math100opo2:::math 100 opo2 precalculus
-5315:_:engl:::327:::c100:::Studies in Romantic Literature:::engl327:::engl327c100:::engl 327 c100 studies in romantic literature
-5316:_:bus:::618:::g400:::Indigenous Business Management:::bus618:::bus618g400:::bus 618 g400 indigenous business management
-5317:_:bus:::207:::d100:::Managerial Economics:::bus207:::bus207d100:::bus 207 d100 managerial economics
-5318:_:bus:::207:::d200:::Managerial Economics:::bus207:::bus207d200:::bus 207 d200 managerial economics
-5319:_:bus:::207:::e100:::Managerial Economics:::bus207:::bus207e100:::bus 207 e100 managerial economics
-5320:_:phys:::810:::g100:::Advanced Quantum Mechanics:::phys810:::phys810g100:::phys 810 g100 advanced quantum mechanics
-5321:_:phys:::801:::g100:::Student Seminar:::phys801:::phys801g100:::phys 801 g100 student seminar
-5322:_:phys:::801:::g200:::Student Seminar:::phys801:::phys801g200:::phys 801 g200 student seminar
-5323:_:fren:::122:::d100:::Introductory French II:::fren122:::fren122d100:::fren 122 d100 introductory french ii
-5324:_:fren:::122:::e100:::Introductory French II:::fren122:::fren122e100:::fren 122 e100 introductory french ii
-5325:_:fren:::121:::d100:::Introductory French I:::fren121:::fren121d100:::fren 121 d100 introductory french i
-5326:_:fren:::121:::d200:::Introductory French I:::fren121:::fren121d200:::fren 121 d200 introductory french i
-5327:_:fren:::120:::c900:::French for Beginners:::fren120:::fren120c900:::fren 120 c900 french for beginners
-5328:_:fren:::120:::d100:::French for Beginners:::fren120:::fren120d100:::fren 120 d100 french for beginners
-5329:_:fren:::120:::d200:::French for Beginners:::fren120:::fren120d200:::fren 120 d200 french for beginners
-5330:_:fren:::120:::d300:::French for Beginners:::fren120:::fren120d300:::fren 120 d300 french for beginners
-5331:_:fren:::120:::d400:::French for Beginners:::fren120:::fren120d400:::fren 120 d400 french for beginners
-5332:_:fren:::120:::d500:::French for Beginners:::fren120:::fren120d500:::fren 120 d500 french for beginners
-5333:_:fren:::120:::e100:::French for Beginners:::fren120:::fren120e100:::fren 120 e100 french for beginners
-5334:_:bus:::272:::d100:::Behaviour in Organizations:::bus272:::bus272d100:::bus 272 d100 behaviour in organizations
-5335:_:bus:::272:::d101:::Behaviour in Organizations:::bus272:::bus272d101:::bus 272 d101 behaviour in organizations
-5336:_:bus:::272:::d102:::Behaviour in Organizations:::bus272:::bus272d102:::bus 272 d102 behaviour in organizations
-5337:_:bus:::272:::d103:::Behaviour in Organizations:::bus272:::bus272d103:::bus 272 d103 behaviour in organizations
-5338:_:bus:::272:::d104:::Behaviour in Organizations:::bus272:::bus272d104:::bus 272 d104 behaviour in organizations
-5339:_:bus:::272:::d105:::Behaviour in Organizations:::bus272:::bus272d105:::bus 272 d105 behaviour in organizations
-5340:_:bus:::272:::d106:::Behaviour in Organizations:::bus272:::bus272d106:::bus 272 d106 behaviour in organizations
-5341:_:bus:::272:::d107:::Behaviour in Organizations:::bus272:::bus272d107:::bus 272 d107 behaviour in organizations
-5342:_:bus:::272:::d200:::Behaviour in Organizations:::bus272:::bus272d200:::bus 272 d200 behaviour in organizations
-5343:_:bus:::272:::d201:::Behaviour in Organizations:::bus272:::bus272d201:::bus 272 d201 behaviour in organizations
-5344:_:bus:::272:::d202:::Behaviour in Organizations:::bus272:::bus272d202:::bus 272 d202 behaviour in organizations
-5345:_:bus:::272:::d203:::Behaviour in Organizations:::bus272:::bus272d203:::bus 272 d203 behaviour in organizations
-5346:_:bus:::272:::d204:::Behaviour in Organizations:::bus272:::bus272d204:::bus 272 d204 behaviour in organizations
-5347:_:bus:::272:::d205:::Behaviour in Organizations:::bus272:::bus272d205:::bus 272 d205 behaviour in organizations
-5348:_:bus:::272:::d300:::Behaviour in Organizations:::bus272:::bus272d300:::bus 272 d300 behaviour in organizations
-5349:_:bus:::272:::d301:::Behaviour in Organizations:::bus272:::bus272d301:::bus 272 d301 behaviour in organizations
-5350:_:bus:::272:::d302:::Behaviour in Organizations:::bus272:::bus272d302:::bus 272 d302 behaviour in organizations
-5351:_:bus:::272:::d303:::Behaviour in Organizations:::bus272:::bus272d303:::bus 272 d303 behaviour in organizations
-5352:_:bus:::272:::d304:::Behaviour in Organizations:::bus272:::bus272d304:::bus 272 d304 behaviour in organizations
-5353:_:bus:::272:::d305:::Behaviour in Organizations:::bus272:::bus272d305:::bus 272 d305 behaviour in organizations
-5354:_:bus:::272:::d306:::Behaviour in Organizations:::bus272:::bus272d306:::bus 272 d306 behaviour in organizations
-5355:_:bus:::272:::d307:::Behaviour in Organizations:::bus272:::bus272d307:::bus 272 d307 behaviour in organizations
-5356:_:bus:::272:::e100:::Behaviour in Organizations:::bus272:::bus272e100:::bus 272 e100 behaviour in organizations
-5357:_:bus:::272:::e101:::Behaviour in Organizations:::bus272:::bus272e101:::bus 272 e101 behaviour in organizations
-5358:_:bus:::272:::e102:::Behaviour in Organizations:::bus272:::bus272e102:::bus 272 e102 behaviour in organizations
-5359:_:bus:::272:::e103:::Behaviour in Organizations:::bus272:::bus272e103:::bus 272 e103 behaviour in organizations
-5360:_:bus:::272:::e104:::Behaviour in Organizations:::bus272:::bus272e104:::bus 272 e104 behaviour in organizations
-5361:_:bus:::272:::e105:::Behaviour in Organizations:::bus272:::bus272e105:::bus 272 e105 behaviour in organizations
-5362:_:bus:::272:::e106:::Behaviour in Organizations:::bus272:::bus272e106:::bus 272 e106 behaviour in organizations
-5363:_:bus:::272:::e107:::Behaviour in Organizations:::bus272:::bus272e107:::bus 272 e107 behaviour in organizations
-5364:_:fren:::211:::d100:::Intermediate French II:::fren211:::fren211d100:::fren 211 d100 intermediate french ii
-5365:_:fren:::211:::d101:::Intermediate French II:::fren211:::fren211d101:::fren 211 d101 intermediate french ii
-5366:_:fren:::211:::d200:::Intermediate French II:::fren211:::fren211d200:::fren 211 d200 intermediate french ii
-5367:_:fren:::210:::d100:::Intermediate French I:::fren210:::fren210d100:::fren 210 d100 intermediate french i
-5368:_:fren:::210:::d200:::Intermediate French I:::fren210:::fren210d200:::fren 210 d200 intermediate french i
-5369:_:fren:::210:::d201:::Intermediate French I:::fren210:::fren210d201:::fren 210 d201 intermediate french i
-5370:_:bus:::237:::d100:::Introduction to Business Technology Management:::bus237:::bus237d100:::bus 237 d100 introduction to business technology management
-5371:_:bus:::237:::d101:::Introduction to Business Technology Management:::bus237:::bus237d101:::bus 237 d101 introduction to business technology management
-5372:_:bus:::237:::d102:::Introduction to Business Technology Management:::bus237:::bus237d102:::bus 237 d102 introduction to business technology management
-5373:_:bus:::237:::d103:::Introduction to Business Technology Management:::bus237:::bus237d103:::bus 237 d103 introduction to business technology management
-5374:_:bus:::237:::d104:::Introduction to Business Technology Management:::bus237:::bus237d104:::bus 237 d104 introduction to business technology management
-5375:_:bus:::237:::d105:::Introduction to Business Technology Management:::bus237:::bus237d105:::bus 237 d105 introduction to business technology management
-5376:_:bus:::237:::d106:::Introduction to Business Technology Management:::bus237:::bus237d106:::bus 237 d106 introduction to business technology management
-5377:_:bus:::237:::d107:::Introduction to Business Technology Management:::bus237:::bus237d107:::bus 237 d107 introduction to business technology management
-5378:_:bus:::237:::d108:::Introduction to Business Technology Management:::bus237:::bus237d108:::bus 237 d108 introduction to business technology management
-5379:_:bus:::237:::d109:::Introduction to Business Technology Management:::bus237:::bus237d109:::bus 237 d109 introduction to business technology management
-5380:_:bus:::237:::d200:::Introduction to Business Technology Management:::bus237:::bus237d200:::bus 237 d200 introduction to business technology management
-5381:_:bus:::237:::d201:::Introduction to Business Technology Management:::bus237:::bus237d201:::bus 237 d201 introduction to business technology management
-5382:_:bus:::237:::d202:::Introduction to Business Technology Management:::bus237:::bus237d202:::bus 237 d202 introduction to business technology management
-5383:_:bus:::237:::d203:::Introduction to Business Technology Management:::bus237:::bus237d203:::bus 237 d203 introduction to business technology management
-5384:_:bus:::237:::d204:::Introduction to Business Technology Management:::bus237:::bus237d204:::bus 237 d204 introduction to business technology management
-5385:_:bus:::237:::e100:::Introduction to Business Technology Management:::bus237:::bus237e100:::bus 237 e100 introduction to business technology management
-5386:_:bus:::237:::e101:::Introduction to Business Technology Management:::bus237:::bus237e101:::bus 237 e101 introduction to business technology management
-5387:_:bus:::237:::e102:::Introduction to Business Technology Management:::bus237:::bus237e102:::bus 237 e102 introduction to business technology management
-5388:_:bus:::237:::e103:::Introduction to Business Technology Management:::bus237:::bus237e103:::bus 237 e103 introduction to business technology management
-5389:_:bus:::237:::e104:::Introduction to Business Technology Management:::bus237:::bus237e104:::bus 237 e104 introduction to business technology management
-5390:_:bus:::237:::e105:::Introduction to Business Technology Management:::bus237:::bus237e105:::bus 237 e105 introduction to business technology management
-5391:_:bus:::237:::e106:::Introduction to Business Technology Management:::bus237:::bus237e106:::bus 237 e106 introduction to business technology management
-5392:_:bus:::237:::e107:::Introduction to Business Technology Management:::bus237:::bus237e107:::bus 237 e107 introduction to business technology management
-5393:_:bus:::225:::d100:::Co-op Practicum I:::bus225:::bus225d100:::bus 225 d100 co-op practicum i
-5394:_:bus:::225:::d200:::Co-op Practicum I:::bus225:::bus225d200:::bus 225 d200 co-op practicum i
-5395:_:bus:::225:::i100:::Co-op Practicum I:::bus225:::bus225i100:::bus 225 i100 co-op practicum i
-5396:_:bus:::251:::d100:::Financial Accounting I:::bus251:::bus251d100:::bus 251 d100 financial accounting i
-5397:_:bus:::251:::d101:::Financial Accounting I:::bus251:::bus251d101:::bus 251 d101 financial accounting i
-5398:_:bus:::251:::d102:::Financial Accounting I:::bus251:::bus251d102:::bus 251 d102 financial accounting i
-5399:_:bus:::251:::d103:::Financial Accounting I:::bus251:::bus251d103:::bus 251 d103 financial accounting i
-5400:_:bus:::251:::d104:::Financial Accounting I:::bus251:::bus251d104:::bus 251 d104 financial accounting i
-5401:_:bus:::251:::d105:::Financial Accounting I:::bus251:::bus251d105:::bus 251 d105 financial accounting i
-5402:_:bus:::251:::d106:::Financial Accounting I:::bus251:::bus251d106:::bus 251 d106 financial accounting i
-5403:_:bus:::251:::d107:::Financial Accounting I:::bus251:::bus251d107:::bus 251 d107 financial accounting i
-5404:_:bus:::251:::d108:::Financial Accounting I:::bus251:::bus251d108:::bus 251 d108 financial accounting i
-5405:_:bus:::251:::d200:::Financial Accounting I:::bus251:::bus251d200:::bus 251 d200 financial accounting i
-5406:_:bus:::251:::d201:::Financial Accounting I:::bus251:::bus251d201:::bus 251 d201 financial accounting i
-5407:_:bus:::251:::d202:::Financial Accounting I:::bus251:::bus251d202:::bus 251 d202 financial accounting i
-5408:_:bus:::251:::d203:::Financial Accounting I:::bus251:::bus251d203:::bus 251 d203 financial accounting i
-5409:_:bus:::251:::d204:::Financial Accounting I:::bus251:::bus251d204:::bus 251 d204 financial accounting i
-5410:_:bus:::251:::e100:::Financial Accounting I:::bus251:::bus251e100:::bus 251 e100 financial accounting i
-5411:_:bus:::251:::e101:::Financial Accounting I:::bus251:::bus251e101:::bus 251 e101 financial accounting i
-5412:_:bus:::251:::e102:::Financial Accounting I:::bus251:::bus251e102:::bus 251 e102 financial accounting i
-5413:_:bus:::251:::e103:::Financial Accounting I:::bus251:::bus251e103:::bus 251 e103 financial accounting i
-5414:_:bus:::251:::e104:::Financial Accounting I:::bus251:::bus251e104:::bus 251 e104 financial accounting i
-5415:_:bus:::251:::e105:::Financial Accounting I:::bus251:::bus251e105:::bus 251 e105 financial accounting i
-5416:_:bus:::251:::e106:::Financial Accounting I:::bus251:::bus251e106:::bus 251 e106 financial accounting i
-5417:_:bus:::251:::e107:::Financial Accounting I:::bus251:::bus251e107:::bus 251 e107 financial accounting i
-5418:_:bus:::251:::e108:::Financial Accounting I:::bus251:::bus251e108:::bus 251 e108 financial accounting i
-5419:_:bus:::254:::d100:::Managerial Accounting I:::bus254:::bus254d100:::bus 254 d100 managerial accounting i
-5420:_:bus:::254:::d101:::Managerial Accounting I:::bus254:::bus254d101:::bus 254 d101 managerial accounting i
-5421:_:bus:::254:::d102:::Managerial Accounting I:::bus254:::bus254d102:::bus 254 d102 managerial accounting i
-5422:_:bus:::254:::d103:::Managerial Accounting I:::bus254:::bus254d103:::bus 254 d103 managerial accounting i
-5423:_:bus:::254:::d104:::Managerial Accounting I:::bus254:::bus254d104:::bus 254 d104 managerial accounting i
-5424:_:bus:::254:::d105:::Managerial Accounting I:::bus254:::bus254d105:::bus 254 d105 managerial accounting i
-5425:_:bus:::254:::d106:::Managerial Accounting I:::bus254:::bus254d106:::bus 254 d106 managerial accounting i
-5426:_:bus:::254:::d107:::Managerial Accounting I:::bus254:::bus254d107:::bus 254 d107 managerial accounting i
-5427:_:bus:::254:::d200:::Managerial Accounting I:::bus254:::bus254d200:::bus 254 d200 managerial accounting i
-5428:_:bus:::254:::d201:::Managerial Accounting I:::bus254:::bus254d201:::bus 254 d201 managerial accounting i
-5429:_:bus:::254:::d202:::Managerial Accounting I:::bus254:::bus254d202:::bus 254 d202 managerial accounting i
-5430:_:bus:::254:::d203:::Managerial Accounting I:::bus254:::bus254d203:::bus 254 d203 managerial accounting i
-5431:_:bus:::254:::d204:::Managerial Accounting I:::bus254:::bus254d204:::bus 254 d204 managerial accounting i
-5432:_:bus:::254:::e100:::Managerial Accounting I:::bus254:::bus254e100:::bus 254 e100 managerial accounting i
-5433:_:bus:::254:::e101:::Managerial Accounting I:::bus254:::bus254e101:::bus 254 e101 managerial accounting i
-5434:_:bus:::254:::e102:::Managerial Accounting I:::bus254:::bus254e102:::bus 254 e102 managerial accounting i
-5435:_:bus:::254:::e103:::Managerial Accounting I:::bus254:::bus254e103:::bus 254 e103 managerial accounting i
-5436:_:bus:::254:::e104:::Managerial Accounting I:::bus254:::bus254e104:::bus 254 e104 managerial accounting i
-5437:_:bus:::254:::e105:::Managerial Accounting I:::bus254:::bus254e105:::bus 254 e105 managerial accounting i
-5438:_:bus:::254:::e106:::Managerial Accounting I:::bus254:::bus254e106:::bus 254 e106 managerial accounting i
-5439:_:econ:::392:::d100:::Public Economics: Role of Government:::econ392:::econ392d100:::econ 392 d100 public economics: role of government
-5440:_:econ:::392:::d101:::Public Economics: Role of Government:::econ392:::econ392d101:::econ 392 d101 public economics: role of government
-5441:_:econ:::392:::d102:::Public Economics: Role of Government:::econ392:::econ392d102:::econ 392 d102 public economics: role of government
-5442:_:econ:::392:::d103:::Public Economics: Role of Government:::econ392:::econ392d103:::econ 392 d103 public economics: role of government
-5443:_:econ:::392:::d104:::Public Economics: Role of Government:::econ392:::econ392d104:::econ 392 d104 public economics: role of government
-5444:_:econ:::392:::d105:::Public Economics: Role of Government:::econ392:::econ392d105:::econ 392 d105 public economics: role of government
-5445:_:econ:::392:::d106:::Public Economics: Role of Government:::econ392:::econ392d106:::econ 392 d106 public economics: role of government
-5446:_:econ:::392:::d107:::Public Economics: Role of Government:::econ392:::econ392d107:::econ 392 d107 public economics: role of government
-5447:_:econ:::392:::d108:::Public Economics: Role of Government:::econ392:::econ392d108:::econ 392 d108 public economics: role of government
-5448:_:phys:::821:::g100:::Advanced Electromagnetism I:::phys821:::phys821g100:::phys 821 g100 advanced electromagnetism i
-5449:_:engl:::205:::d100:::Restoration and Eighteenth Century Literature:::engl205:::engl205d100:::engl 205 d100 restoration and eighteenth century literature
-5450:_:engl:::205:::d101:::Restoration and Eighteenth Century Literature:::engl205:::engl205d101:::engl 205 d101 restoration and eighteenth century literature
-5451:_:engl:::205:::d102:::Restoration and Eighteenth Century Literature:::engl205:::engl205d102:::engl 205 d102 restoration and eighteenth century literature
-5452:_:engl:::205:::d103:::Restoration and Eighteenth Century Literature:::engl205:::engl205d103:::engl 205 d103 restoration and eighteenth century literature
-5453:_:engl:::205:::d104:::Restoration and Eighteenth Century Literature:::engl205:::engl205d104:::engl 205 d104 restoration and eighteenth century literature
-5454:_:engl:::205:::d105:::Restoration and Eighteenth Century Literature:::engl205:::engl205d105:::engl 205 d105 restoration and eighteenth century literature
-5455:_:engl:::205:::d106:::Restoration and Eighteenth Century Literature:::engl205:::engl205d106:::engl 205 d106 restoration and eighteenth century literature
-5456:_:engl:::205:::d107:::Restoration and Eighteenth Century Literature:::engl205:::engl205d107:::engl 205 d107 restoration and eighteenth century literature
-5457:_:psyc:::490:::d100:::Honours  Project:::psyc490:::psyc490d100:::psyc 490 d100 honours  project
-5458:_:fren:::222:::d100:::French Writing II:::fren222:::fren222d100:::fren 222 d100 french writing ii
-5459:_:als:::602:::g100:::Legal Research and Writing:::als602:::als602g100:::als 602 g100 legal research and writing
-5460:_:econ:::402:::d100:::Advanced Microeconomic Theory:::econ402:::econ402d100:::econ 402 d100 advanced microeconomic theory
-5461:_:bus:::303:::d100:::Business, Society and Ethics:::bus303:::bus303d100:::bus 303 d100 business, society and ethics
-5462:_:bus:::303:::d200:::Business, Society and Ethics:::bus303:::bus303d200:::bus 303 d200 business, society and ethics
-5463:_:bus:::303:::d300:::Business, Society and Ethics:::bus303:::bus303d300:::bus 303 d300 business, society and ethics
-5464:_:bus:::303:::d400:::Business, Society and Ethics:::bus303:::bus303d400:::bus 303 d400 business, society and ethics
-5465:_:bus:::303:::d500:::Business, Society and Ethics:::bus303:::bus303d500:::bus 303 d500 business, society and ethics
-5466:_:bus:::303:::e100:::Business, Society and Ethics:::bus303:::bus303e100:::bus 303 e100 business, society and ethics
-5467:_:bus:::315:::d100:::Investments:::bus315:::bus315d100:::bus 315 d100 investments
-5468:_:bus:::315:::e100:::Investments:::bus315:::bus315e100:::bus 315 e100 investments
-5469:_:bus:::312:::d100:::Introduction to Finance:::bus312:::bus312d100:::bus 312 d100 introduction to finance
-5470:_:bus:::312:::d200:::Introduction to Finance:::bus312:::bus312d200:::bus 312 d200 introduction to finance
-5471:_:bus:::312:::e100:::Introduction to Finance:::bus312:::bus312e100:::bus 312 e100 introduction to finance
-5472:_:hsci:::484:::d100:::Senior Seminar in Population Health Research:::hsci484:::hsci484d100:::hsci 484 d100 senior seminar in population health research
-5473:_:bus:::316:::d100:::Derivative Securities:::bus316:::bus316d100:::bus 316 d100 derivative securities
-5474:_:bus:::316:::d200:::Derivative Securities:::bus316:::bus316d200:::bus 316 d200 derivative securities
-5475:_:bus:::316:::e100:::Derivative Securities:::bus316:::bus316e100:::bus 316 e100 derivative securities
-5476:_:hsci:::485:::d100:::Senior Seminar in Mental Health and Addictions:::hsci485:::hsci485d100:::hsci 485 d100 senior seminar in mental health and addictions
-5477:_:hsci:::486:::d100:::Senior Seminar in Global Health:::hsci486:::hsci486d100:::hsci 486 d100 senior seminar in global health
-5478:_:als:::601:::g100:::Canadian Legal System:::als601:::als601g100:::als 601 g100 canadian legal system
-5479:_:engl:::214:::d100:::History and Principles of Rhetoric:::engl214:::engl214d100:::engl 214 d100 history and principles of rhetoric
-5480:_:engl:::216:::d100:::History and Principles of Literary Criticism:::engl216:::engl216d100:::engl 216 d100 history and principles of literary criticism
-5481:_:engl:::216:::d101:::History and Principles of Literary Criticism:::engl216:::engl216d101:::engl 216 d101 history and principles of literary criticism
-5482:_:fren:::221:::d100:::French Writing I:::fren221:::fren221d100:::fren 221 d100 french writing i
-5483:_:fren:::221:::f100:::French Writing I:::fren221:::fren221f100:::fren 221 f100 french writing i
-5484:_:fren:::212:::d100:::French for Immersion Program Students:::fren212:::fren212d100:::fren 212 d100 french for immersion program students
-5485:_:fren:::212:::f100:::French for Immersion Program Students:::fren212:::fren212f100:::fren 212 f100 french for immersion program students
-5486:_:fren:::215:::d100:::Intermediate French: Oral Practice:::fren215:::fren215d100:::fren 215 d100 intermediate french: oral practice
-5487:_:arch:::272w:::d100:::Archaeology of the Old World:::arch272w:::arch272wd100:::arch 272w d100 archaeology of the old world
-5488:_:arch:::272w:::d101:::Archaeology of the Old World:::arch272w:::arch272wd101:::arch 272w d101 archaeology of the old world
-5489:_:arch:::272w:::d102:::Archaeology of the Old World:::arch272w:::arch272wd102:::arch 272w d102 archaeology of the old world
-5490:_:arch:::226:::c100:::The Prehistory of Religion: Shamans, Sorcerers and Saints:::arch226:::arch226c100:::arch 226 c100 the prehistory of religion: shamans, sorcerers and saints
-5491:_:arch:::226:::d100:::The Prehistory of Religion: Shamans, Sorcerers and Saints:::arch226:::arch226d100:::arch 226 d100 the prehistory of religion: shamans, sorcerers and saints
-5492:_:arch:::226:::j100:::The Prehistory of Religion: Shamans, Sorcerers and Saints:::arch226:::arch226j100:::arch 226 j100 the prehistory of religion: shamans, sorcerers and saints
-5493:_:educ:::355:::e100:::Theatre in an Educational Context:::educ355:::educ355e100:::educ 355 e100 theatre in an educational context
-5494:_:ensc:::424:::d100:::Multimedia Communications Engineering:::ensc424:::ensc424d100:::ensc 424 d100 multimedia communications engineering
-5495:_:ensc:::424:::d101:::Multimedia Communications Engineering:::ensc424:::ensc424d101:::ensc 424 d101 multimedia communications engineering
-5496:_:ca:::406:::d100:::Internship in Contemporary Arts II:::ca406:::ca406d100:::ca 406 d100 internship in contemporary arts ii
-5497:_:ca:::406:::d200:::Internship in Contemporary Arts II:::ca406:::ca406d200:::ca 406 d200 internship in contemporary arts ii
-5498:_:cmns:::844:::g100:::Communication and Global Power Shifts:::cmns844:::cmns844g100:::cmns 844 g100 communication and global power shifts
-5499:_:bisc:::455:::d100:::Endocrinology:::bisc455:::bisc455d100:::bisc 455 d100 endocrinology
-5500:_:bisc:::455:::d101:::Endocrinology:::bisc455:::bisc455d101:::bisc 455 d101 endocrinology
-5501:_:bisc:::455:::d102:::Endocrinology:::bisc455:::bisc455d102:::bisc 455 d102 endocrinology
-5502:_:psyc:::268:::d100:::Introduction to Law and Psychology:::psyc268:::psyc268d100:::psyc 268 d100 introduction to law and psychology
-5503:_:hum:::216:::d100:::The Ancient World:::hum216:::hum216d100:::hum 216 d100 the ancient world
-5504:_:arch:::201:::c100:::Reconstructing the Human Past:::arch201:::arch201c100:::arch 201 c100 reconstructing the human past
-5505:_:arch:::201:::d100:::Reconstructing the Human Past:::arch201:::arch201d100:::arch 201 d100 reconstructing the human past
-5506:_:mbb:::351:::d100:::Practicum III:::mbb351:::mbb351d100:::mbb 351 d100 practicum iii
-5507:_:mbb:::351:::d200:::Practicum III:::mbb351:::mbb351d200:::mbb 351 d200 practicum iii
-5508:_:mbb:::351:::i100:::Practicum III:::mbb351:::mbb351i100:::mbb 351 i100 practicum iii
-5509:_:mbb:::331:::d100:::Molecular Biology:::mbb331:::mbb331d100:::mbb 331 d100 molecular biology
-5510:_:mbb:::331:::d101:::Molecular Biology:::mbb331:::mbb331d101:::mbb 331 d101 molecular biology
-5511:_:mbb:::331:::d102:::Molecular Biology:::mbb331:::mbb331d102:::mbb 331 d102 molecular biology
-5512:_:mbb:::331:::d103:::Molecular Biology:::mbb331:::mbb331d103:::mbb 331 d103 molecular biology
-5513:_:mbb:::331:::d104:::Molecular Biology:::mbb331:::mbb331d104:::mbb 331 d104 molecular biology
-5514:_:mbb:::331:::d105:::Molecular Biology:::mbb331:::mbb331d105:::mbb 331 d105 molecular biology
-5515:_:mbb:::322:::d100:::Molecular Physiology:::mbb322:::mbb322d100:::mbb 322 d100 molecular physiology
-5516:_:mbb:::322:::d101:::Molecular Physiology:::mbb322:::mbb322d101:::mbb 322 d101 molecular physiology
-5517:_:mbb:::322:::d102:::Molecular Physiology:::mbb322:::mbb322d102:::mbb 322 d102 molecular physiology
-5518:_:mbb:::322:::d103:::Molecular Physiology:::mbb322:::mbb322d103:::mbb 322 d103 molecular physiology
-5519:_:mbb:::322:::d104:::Molecular Physiology:::mbb322:::mbb322d104:::mbb 322 d104 molecular physiology
-5520:_:mbb:::322:::d105:::Molecular Physiology:::mbb322:::mbb322d105:::mbb 322 d105 molecular physiology
-5521:_:wda:::806:::g100:::Western Dean's Agreement:::wda806:::wda806g100:::wda 806 g100 western dean's agreement
-5522:_:wda:::806:::g200:::Western Dean's Agreement:::wda806:::wda806g200:::wda 806 g200 western dean's agreement
-5523:_:educ:::341:::c100:::Literacy, Education and Culture:::educ341:::educ341c100:::educ 341 c100 literacy, education and culture
-5524:_:educ:::341:::c200:::Literacy, Education and Culture:::educ341:::educ341c200:::educ 341 c200 literacy, education and culture
-5525:_:phys:::385:::d100:::Quantum Mechanics I:::phys385:::phys385d100:::phys 385 d100 quantum mechanics i
-5526:_:phys:::385:::d101:::Quantum Mechanics I:::phys385:::phys385d101:::phys 385 d101 quantum mechanics i
-5527:_:phys:::384:::d100:::Methods of Theoretical Physics I:::phys384:::phys384d100:::phys 384 d100 methods of theoretical physics i
-5528:_:phys:::384:::d101:::Methods of Theoretical Physics I:::phys384:::phys384d101:::phys 384 d101 methods of theoretical physics i
-5529:_:wda:::804:::g100:::Western Dean's Agreement:::wda804:::wda804g100:::wda 804 g100 western dean's agreement
-5530:_:wda:::804:::g200:::Western Dean's Agreement:::wda804:::wda804g200:::wda 804 g200 western dean's agreement
-5531:_:wda:::803:::g100:::Western Dean's Agreement:::wda803:::wda803g100:::wda 803 g100 western dean's agreement
-5532:_:wda:::803:::g200:::Western Dean's Agreement:::wda803:::wda803g200:::wda 803 g200 western dean's agreement
-5533:_:arch:::301:::c100:::Ancient Visual Art:::arch301:::arch301c100:::arch 301 c100 ancient visual art
-5534:_:hist:::401:::d100:::Problems in Modern German History:::hist401:::hist401d100:::hist 401 d100 problems in modern german history
-5535:_:engl:::372:::e100:::Creative Writing I: Poetry:::engl372:::engl372e100:::engl 372 e100 creative writing i: poetry
-5536:_:phys:::413:::d100:::Advanced Mechanics:::phys413:::phys413d100:::phys 413 d100 advanced mechanics
-5537:_:phys:::413:::d101:::Advanced Mechanics:::phys413:::phys413d101:::phys 413 d101 advanced mechanics
-5538:_:mbb:::423:::d100:::Protein Structure and Function:::mbb423:::mbb423d100:::mbb 423 d100 protein structure and function
-5539:_:mbb:::421:::d100:::Nucleic Acids:::mbb421:::mbb421d100:::mbb 421 d100 nucleic acids
-5540:_:educ:::358:::e100:::Foundations of Educational Technology:::educ358:::educ358e100:::educ 358 e100 foundations of educational technology
-5541:_:ca:::811:::g100:::Interdisciplinary Graduate Seminar I:::ca811:::ca811g100:::ca 811 g100 interdisciplinary graduate seminar i
-5542:_:phys:::855:::g100:::Modern Optics:::phys855:::phys855g100:::phys 855 g100 modern optics
-5543:_:ca:::813:::g100:::Interdisciplinary Graduate Studio:::ca813:::ca813g100:::ca 813 g100 interdisciplinary graduate studio
-5544:_:ling:::894:::g100:::Qualifying Paper I:::ling894:::ling894g100:::ling 894 g100 qualifying paper i
-5545:_:ca:::812:::g100:::Interdisciplinary Graduate Seminar II:::ca812:::ca812g100:::ca 812 g100 interdisciplinary graduate seminar ii
-5546:_:wda:::805:::g100:::Western Dean's Agreement:::wda805:::wda805g100:::wda 805 g100 western dean's agreement
-5547:_:wda:::805:::g200:::Western Dean's Agreement:::wda805:::wda805g200:::wda 805 g200 western dean's agreement
-5548:_:phys:::455:::d100:::Modern Optics:::phys455:::phys455d100:::phys 455 d100 modern optics
-5549:_:phys:::455:::d101:::Modern Optics:::phys455:::phys455d101:::phys 455 d101 modern optics
-5550:_:econ:::302:::d100:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d100:::econ 302 d100 microeconomic theory ii: strategic behavior
-5551:_:econ:::302:::d101:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d101:::econ 302 d101 microeconomic theory ii: strategic behavior
-5552:_:econ:::302:::d102:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d102:::econ 302 d102 microeconomic theory ii: strategic behavior
-5553:_:econ:::302:::d103:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d103:::econ 302 d103 microeconomic theory ii: strategic behavior
-5554:_:econ:::302:::d104:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d104:::econ 302 d104 microeconomic theory ii: strategic behavior
-5555:_:econ:::302:::d105:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d105:::econ 302 d105 microeconomic theory ii: strategic behavior
-5556:_:econ:::302:::d106:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d106:::econ 302 d106 microeconomic theory ii: strategic behavior
-5557:_:econ:::302:::d200:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d200:::econ 302 d200 microeconomic theory ii: strategic behavior
-5558:_:econ:::302:::d201:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d201:::econ 302 d201 microeconomic theory ii: strategic behavior
-5559:_:econ:::302:::d202:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d202:::econ 302 d202 microeconomic theory ii: strategic behavior
-5560:_:econ:::302:::d203:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d203:::econ 302 d203 microeconomic theory ii: strategic behavior
-5561:_:econ:::302:::d204:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d204:::econ 302 d204 microeconomic theory ii: strategic behavior
-5562:_:econ:::302:::d205:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d205:::econ 302 d205 microeconomic theory ii: strategic behavior
-5563:_:econ:::302:::d206:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d206:::econ 302 d206 microeconomic theory ii: strategic behavior
-5564:_:phys:::437:::d100:::Practicum V:::phys437:::phys437d100:::phys 437 d100 practicum v
-5565:_:phys:::437:::d200:::Practicum V:::phys437:::phys437d200:::phys 437 d200 practicum v
-5566:_:phys:::437:::i100:::Practicum V:::phys437:::phys437i100:::phys 437 i100 practicum v
-5567:_:phys:::436:::d100:::Practicum IV:::phys436:::phys436d100:::phys 436 d100 practicum iv
-5568:_:phys:::436:::d200:::Practicum IV:::phys436:::phys436d200:::phys 436 d200 practicum iv
-5569:_:phys:::436:::i100:::Practicum IV:::phys436:::phys436i100:::phys 436 i100 practicum iv
-5570:_:phys:::435:::d100:::Practicum III:::phys435:::phys435d100:::phys 435 d100 practicum iii
-5571:_:phys:::435:::d200:::Practicum III:::phys435:::phys435d200:::phys 435 d200 practicum iii
-5572:_:phys:::435:::i100:::Practicum III:::phys435:::phys435i100:::phys 435 i100 practicum iii
-5573:_:phys:::432:::d100:::Undergraduate Honours Thesis:::phys432:::phys432d100:::phys 432 d100 undergraduate honours thesis
-5574:_:ca:::135:::e100:::Introduction to Cinema:::ca135:::ca135e100:::ca 135 e100 introduction to cinema
-5575:_:phys:::431:::la01:::Advanced Physics Laboratory II:::phys431:::phys431la01:::phys 431 la01 advanced physics laboratory ii
-5576:_:psyc:::450:::d100:::Advanced Topics in Developmental Psychology:::psyc450:::psyc450d100:::psyc 450 d100 advanced topics in developmental psychology
-5577:_:ca:::889:::g100:::Directed Study in Fine and Performing Arts:::ca889:::ca889g100:::ca 889 g100 directed study in fine and performing arts
-5578:_:ca:::889:::g200:::Directed Study in Fine and Performing Arts:::ca889:::ca889g200:::ca 889 g200 directed study in fine and performing arts
-5579:_:ca:::898:::g100:::Master of Fine Arts Graduating Project:::ca898:::ca898g100:::ca 898 g100 master of fine arts graduating project
-5580:_:cmns:::851:::g100:::Directed Studies:::cmns851:::cmns851g100:::cmns 851 g100 directed studies
-5581:_:cmns:::851:::g200:::Directed Studies:::cmns851:::cmns851g200:::cmns 851 g200 directed studies
-5582:_:cmns:::851:::g300:::Directed Studies:::cmns851:::cmns851g300:::cmns 851 g300 directed studies
-5583:_:cmns:::851:::g400:::Directed Studies:::cmns851:::cmns851g400:::cmns 851 g400 directed studies
-5584:_:cmns:::851:::g500:::Directed Studies:::cmns851:::cmns851g500:::cmns 851 g500 directed studies
-5585:_:bus:::985:::g100:::Directed Studies III:::bus985:::bus985g100:::bus 985 g100 directed studies iii
-5586:_:cmns:::850:::g100:::Directed Readings and Research:::cmns850:::cmns850g100:::cmns 850 g100 directed readings and research
-5587:_:cmns:::850:::g200:::Directed Readings and Research:::cmns850:::cmns850g200:::cmns 850 g200 directed readings and research
-5588:_:cmns:::850:::g300:::Directed Readings and Research:::cmns850:::cmns850g300:::cmns 850 g300 directed readings and research
-5589:_:cmns:::850:::g400:::Directed Readings and Research:::cmns850:::cmns850g400:::cmns 850 g400 directed readings and research
-5590:_:cmns:::850:::g500:::Directed Readings and Research:::cmns850:::cmns850g500:::cmns 850 g500 directed readings and research
-5591:_:phys:::465:::d100:::Solid State Physics:::phys465:::phys465d100:::phys 465 d100 solid state physics
-5592:_:phys:::465:::d101:::Solid State Physics:::phys465:::phys465d101:::phys 465 d101 solid state physics
-5593:_:ensc:::440:::d100:::Capstone B: Engineering Design Project:::ensc440:::ensc440d100:::ensc 440 d100 capstone b: engineering design project
+5161:_:is:::319:::d100:::Special Topics in Comparative World Politics, Culture and Society:::is319:::is319d100:::is 319 d100 special topics in comparative world politics, culture and society
+5162:_:is:::319:::d200:::Special Topics in Comparative World Politics, Culture and Society:::is319:::is319d200:::is 319 d200 special topics in comparative world politics, culture and society
+5163:_:is:::329:::d100:::Special Topics in International Development, Economic and Environmental Issues:::is329:::is329d100:::is 329 d100 special topics in international development, economic and environmental issues
+5164:_:phil:::150:::d100:::Great Works in the History of Philosophy:::phil150:::phil150d100:::phil 150 d100 great works in the history of philosophy
+5165:_:phil:::150:::d900:::Great Works in the History of Philosophy:::phil150:::phil150d900:::phil 150 d900 great works in the history of philosophy
+5166:_:bus:::320:::d100:::Financial Accounting:  Assets:::bus320:::bus320d100:::bus 320 d100 financial accounting:  assets
+5167:_:bus:::320:::e100:::Financial Accounting:  Assets:::bus320:::bus320e100:::bus 320 e100 financial accounting:  assets
+5168:_:hsci:::402:::d100:::Substance Use, Addiction and Public Health:::hsci402:::hsci402d100:::hsci 402 d100 substance use, addiction and public health
+5169:_:bus:::321:::d100:::Financial Accounting: Equities:::bus321:::bus321d100:::bus 321 d100 financial accounting: equities
+5170:_:bus:::321:::e100:::Financial Accounting: Equities:::bus321:::bus321e100:::bus 321 e100 financial accounting: equities
+5171:_:hsci:::180:::d100:::Drugs and Society:::hsci180:::hsci180d100:::hsci 180 d100 drugs and society
+5172:_:hsci:::216:::d100:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d100:::hsci 216 d100 ecological determinants of human growth, development and health
+5173:_:hsci:::216:::d101:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d101:::hsci 216 d101 ecological determinants of human growth, development and health
+5174:_:hsci:::216:::d102:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d102:::hsci 216 d102 ecological determinants of human growth, development and health
+5175:_:hsci:::216:::d103:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d103:::hsci 216 d103 ecological determinants of human growth, development and health
+5176:_:hsci:::216:::d104:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d104:::hsci 216 d104 ecological determinants of human growth, development and health
+5177:_:hsci:::216:::d105:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d105:::hsci 216 d105 ecological determinants of human growth, development and health
+5178:_:hsci:::216:::d106:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d106:::hsci 216 d106 ecological determinants of human growth, development and health
+5179:_:hsci:::216:::d107:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d107:::hsci 216 d107 ecological determinants of human growth, development and health
+5180:_:hsci:::216:::d108:::Ecological Determinants of Human Growth, Development and Health:::hsci216:::hsci216d108:::hsci 216 d108 ecological determinants of human growth, development and health
+5181:_:cmns:::881:::g100:::Research Practicum:::cmns881:::cmns881g100:::cmns 881 g100 research practicum
+5182:_:cmns:::881:::g200:::Research Practicum:::cmns881:::cmns881g200:::cmns 881 g200 research practicum
+5183:_:cmns:::881:::g300:::Research Practicum:::cmns881:::cmns881g300:::cmns 881 g300 research practicum
+5184:_:cmns:::881:::g400:::Research Practicum:::cmns881:::cmns881g400:::cmns 881 g400 research practicum
+5185:_:cmns:::881:::g500:::Research Practicum:::cmns881:::cmns881g500:::cmns 881 g500 research practicum
+5186:_:bus:::325:::d100:::Co-op Practicum II:::bus325:::bus325d100:::bus 325 d100 co-op practicum ii
+5187:_:bus:::325:::d200:::Co-op Practicum II:::bus325:::bus325d200:::bus 325 d200 co-op practicum ii
+5188:_:bus:::325:::i100:::Co-op Practicum II:::bus325:::bus325i100:::bus 325 i100 co-op practicum ii
+5189:_:cmns:::880:::g100:::Directed Readings and Research:::cmns880:::cmns880g100:::cmns 880 g100 directed readings and research
+5190:_:cmns:::880:::g200:::Directed Readings and Research:::cmns880:::cmns880g200:::cmns 880 g200 directed readings and research
+5191:_:cmns:::880:::g300:::Directed Readings and Research:::cmns880:::cmns880g300:::cmns 880 g300 directed readings and research
+5192:_:cmns:::880:::g400:::Directed Readings and Research:::cmns880:::cmns880g400:::cmns 880 g400 directed readings and research
+5193:_:cmns:::880:::g500:::Directed Readings and Research:::cmns880:::cmns880g500:::cmns 880 g500 directed readings and research
+5194:_:engl:::304:::d100:::Studies in Medieval Literature:::engl304:::engl304d100:::engl 304 d100 studies in medieval literature
+5195:_:engl:::313:::c100:::Late Shakespeare:::engl313:::engl313c100:::engl 313 c100 late shakespeare
+5196:_:bus:::326:::d100:::Co-op Practicum III:::bus326:::bus326d100:::bus 326 d100 co-op practicum iii
+5197:_:bus:::326:::d200:::Co-op Practicum III:::bus326:::bus326d200:::bus 326 d200 co-op practicum iii
+5198:_:bus:::326:::i100:::Co-op Practicum III:::bus326:::bus326i100:::bus 326 i100 co-op practicum iii
+5199:_:hsci:::855:::g100:::Health Promotion in Practice:::hsci855:::hsci855g100:::hsci 855 g100 health promotion in practice
+5200:_:cmns:::891:::g100:::Co-op I:::cmns891:::cmns891g100:::cmns 891 g100 co-op i
+5201:_:cmns:::891:::g200:::Co-op I:::cmns891:::cmns891g200:::cmns 891 g200 co-op i
+5202:_:cmns:::891:::i300:::Co-op I:::cmns891:::cmns891i300:::cmns 891 i300 co-op i
+5203:_:hsci:::900:::g100:::Core Concepts and Practice for Public Health I:::hsci900:::hsci900g100:::hsci 900 g100 core concepts and practice for public health i
+5204:_:bus:::327:::d100:::Co-op Practicum IV:::bus327:::bus327d100:::bus 327 d100 co-op practicum iv
+5205:_:bus:::327:::d200:::Co-op Practicum IV:::bus327:::bus327d200:::bus 327 d200 co-op practicum iv
+5206:_:bus:::327:::i100:::Co-op Practicum IV:::bus327:::bus327i100:::bus 327 i100 co-op practicum iv
+5207:_:cmns:::882:::g100:::Research Field Work:::cmns882:::cmns882g100:::cmns 882 g100 research field work
+5208:_:cmns:::882:::g200:::Research Field Work:::cmns882:::cmns882g200:::cmns 882 g200 research field work
+5209:_:cmns:::882:::g300:::Research Field Work:::cmns882:::cmns882g300:::cmns 882 g300 research field work
+5210:_:cmns:::882:::g400:::Research Field Work:::cmns882:::cmns882g400:::cmns 882 g400 research field work
+5211:_:cmns:::882:::g500:::Research Field Work:::cmns882:::cmns882g500:::cmns 882 g500 research field work
+5212:_:cmpt:::789:::g100:::Applied Cryptography:::cmpt789:::cmpt789g100:::cmpt 789 g100 applied cryptography
+5213:_:cmpt:::629:::g100:::Graduate Project:::cmpt629:::cmpt629g100:::cmpt 629 g100 graduate project
+5214:_:cmns:::892:::g100:::Co-op II:::cmns892:::cmns892g100:::cmns 892 g100 co-op ii
+5215:_:cmns:::892:::g200:::Co-op II:::cmns892:::cmns892g200:::cmns 892 g200 co-op ii
+5216:_:cmns:::892:::i100:::Co-op II:::cmns892:::cmns892i100:::cmns 892 i100 co-op ii
+5217:_:cmns:::895:::g100:::Comprehensive Examination:::cmns895:::cmns895g100:::cmns 895 g100 comprehensive examination
+5218:_:cmns:::895:::g200:::Comprehensive Examination:::cmns895:::cmns895g200:::cmns 895 g200 comprehensive examination
+5219:_:cmns:::895:::g300:::Comprehensive Examination:::cmns895:::cmns895g300:::cmns 895 g300 comprehensive examination
+5220:_:cmns:::898:::g100:::MA Thesis:::cmns898:::cmns898g100:::cmns 898 g100 ma thesis
+5221:_:cmns:::898:::g200:::MA Thesis:::cmns898:::cmns898g200:::cmns 898 g200 ma thesis
+5222:_:cmns:::898:::g300:::MA Thesis:::cmns898:::cmns898g300:::cmns 898 g300 ma thesis
+5223:_:bus:::336:::d100:::Data and Decisions II:::bus336:::bus336d100:::bus 336 d100 data and decisions ii
+5224:_:bus:::336:::d200:::Data and Decisions II:::bus336:::bus336d200:::bus 336 d200 data and decisions ii
+5225:_:bus:::336:::d201:::Data and Decisions II:::bus336:::bus336d201:::bus 336 d201 data and decisions ii
+5226:_:bus:::336:::e100:::Data and Decisions II:::bus336:::bus336e100:::bus 336 e100 data and decisions ii
+5227:_:bus:::336:::op01:::Data and Decisions II:::bus336:::bus336op01:::bus 336 op01 data and decisions ii
+5228:_:bus:::336:::op02:::Data and Decisions II:::bus336:::bus336op02:::bus 336 op02 data and decisions ii
+5229:_:bus:::336:::op03:::Data and Decisions II:::bus336:::bus336op03:::bus 336 op03 data and decisions ii
+5230:_:bus:::336:::op04:::Data and Decisions II:::bus336:::bus336op04:::bus 336 op04 data and decisions ii
+5231:_:bus:::336:::op05:::Data and Decisions II:::bus336:::bus336op05:::bus 336 op05 data and decisions ii
+5232:_:bus:::336:::op06:::Data and Decisions II:::bus336:::bus336op06:::bus 336 op06 data and decisions ii
+5233:_:bus:::336:::op07:::Data and Decisions II:::bus336:::bus336op07:::bus 336 op07 data and decisions ii
+5234:_:bus:::336:::op08:::Data and Decisions II:::bus336:::bus336op08:::bus 336 op08 data and decisions ii
+5235:_:hsci:::835:::g100:::Social Determinants of Health:::hsci835:::hsci835g100:::hsci 835 g100 social determinants of health
+5236:_:hsci:::845:::g100:::Environmental and Occupational Health:::hsci845:::hsci845g100:::hsci 845 g100 environmental and occupational health
+5237:_:fren:::307:::d100:::The Right Word: Advanced Vocabulary and Translation:::fren307:::fren307d100:::fren 307 d100 the right word: advanced vocabulary and translation
+5238:_:engl:::311:::d100:::Early Shakespeare:::engl311:::engl311d100:::engl 311 d100 early shakespeare
+5239:_:engl:::311:::d101:::Early Shakespeare:::engl311:::engl311d101:::engl 311 d101 early shakespeare
+5240:_:engl:::311:::d102:::Early Shakespeare:::engl311:::engl311d102:::engl 311 d102 early shakespeare
+5241:_:engl:::311:::d103:::Early Shakespeare:::engl311:::engl311d103:::engl 311 d103 early shakespeare
+5242:_:engl:::322:::d100:::Studies in Eighteenth Century Authors:::engl322:::engl322d100:::engl 322 d100 studies in eighteenth century authors
+5243:_:ensc:::477:::d100:::Biomedical Image Acquisition:::ensc477:::ensc477d100:::ensc 477 d100 biomedical image acquisition
+5244:_:ensc:::477:::d101:::Biomedical Image Acquisition:::ensc477:::ensc477d101:::ensc 477 d101 biomedical image acquisition
+5245:_:ensc:::477:::la02:::Biomedical Image Acquisition:::ensc477:::ensc477la02:::ensc 477 la02 biomedical image acquisition
+5246:_:is:::301:::d100:::Returning from Abroad: Discussion Seminar to Unpack the Experience of Work, Study & Research Abroad:::is301:::is301d100:::is 301 d100 returning from abroad: discussion seminar to unpack the experience of work, study & research abroad
+5247:_:bus:::341:::d100:::Fundamentals of Marketing:::bus341:::bus341d100:::bus 341 d100 fundamentals of marketing
+5248:_:cmns:::899:::g100:::PhD Thesis:::cmns899:::cmns899g100:::cmns 899 g100 phd thesis
+5249:_:cmns:::899:::g200:::PhD Thesis:::cmns899:::cmns899g200:::cmns 899 g200 phd thesis
+5250:_:cmns:::899:::g300:::PhD Thesis:::cmns899:::cmns899g300:::cmns 899 g300 phd thesis
+5251:_:cmpt:::782:::g100:::Cybersecurity Lab I:::cmpt782:::cmpt782g100:::cmpt 782 g100 cybersecurity lab i
+5252:_:bus:::343:::d100:::Introduction to Marketing:::bus343:::bus343d100:::bus 343 d100 introduction to marketing
+5253:_:bus:::343:::d101:::Introduction to Marketing:::bus343:::bus343d101:::bus 343 d101 introduction to marketing
+5254:_:bus:::343:::d102:::Introduction to Marketing:::bus343:::bus343d102:::bus 343 d102 introduction to marketing
+5255:_:bus:::343:::d103:::Introduction to Marketing:::bus343:::bus343d103:::bus 343 d103 introduction to marketing
+5256:_:bus:::343:::d104:::Introduction to Marketing:::bus343:::bus343d104:::bus 343 d104 introduction to marketing
+5257:_:bus:::343:::d105:::Introduction to Marketing:::bus343:::bus343d105:::bus 343 d105 introduction to marketing
+5258:_:bus:::343:::d106:::Introduction to Marketing:::bus343:::bus343d106:::bus 343 d106 introduction to marketing
+5259:_:bus:::343:::d107:::Introduction to Marketing:::bus343:::bus343d107:::bus 343 d107 introduction to marketing
+5260:_:bus:::343:::d108:::Introduction to Marketing:::bus343:::bus343d108:::bus 343 d108 introduction to marketing
+5261:_:bus:::343:::d109:::Introduction to Marketing:::bus343:::bus343d109:::bus 343 d109 introduction to marketing
+5262:_:bus:::343:::d200:::Introduction to Marketing:::bus343:::bus343d200:::bus 343 d200 introduction to marketing
+5263:_:bus:::343:::d201:::Introduction to Marketing:::bus343:::bus343d201:::bus 343 d201 introduction to marketing
+5264:_:bus:::343:::d202:::Introduction to Marketing:::bus343:::bus343d202:::bus 343 d202 introduction to marketing
+5265:_:bus:::343:::d203:::Introduction to Marketing:::bus343:::bus343d203:::bus 343 d203 introduction to marketing
+5266:_:bus:::343:::d204:::Introduction to Marketing:::bus343:::bus343d204:::bus 343 d204 introduction to marketing
+5267:_:bus:::343:::d205:::Introduction to Marketing:::bus343:::bus343d205:::bus 343 d205 introduction to marketing
+5268:_:bus:::343:::d206:::Introduction to Marketing:::bus343:::bus343d206:::bus 343 d206 introduction to marketing
+5269:_:bus:::343:::d207:::Introduction to Marketing:::bus343:::bus343d207:::bus 343 d207 introduction to marketing
+5270:_:bus:::343:::d208:::Introduction to Marketing:::bus343:::bus343d208:::bus 343 d208 introduction to marketing
+5271:_:bus:::343:::d209:::Introduction to Marketing:::bus343:::bus343d209:::bus 343 d209 introduction to marketing
+5272:_:ensc:::324:::d100:::Electronic Devices:::ensc324:::ensc324d100:::ensc 324 d100 electronic devices
+5273:_:ensc:::324:::d101:::Electronic Devices:::ensc324:::ensc324d101:::ensc 324 d101 electronic devices
+5274:_:ensc:::324:::la01:::Electronic Devices:::ensc324:::ensc324la01:::ensc 324 la01 electronic devices
+5275:_:hsci:::897:::g100:::MPH Project:::hsci897:::hsci897g100:::hsci 897 g100 mph project
+5276:_:hsci:::897:::g200:::MPH Project:::hsci897:::hsci897g200:::hsci 897 g200 mph project
+5277:_:hsci:::897:::g300:::MPH Project:::hsci897:::hsci897g300:::hsci 897 g300 mph project
+5278:_:hsci:::897:::g400:::MPH Project:::hsci897:::hsci897g400:::hsci 897 g400 mph project
+5279:_:bus:::346:::d100:::Global Business Environment:::bus346:::bus346d100:::bus 346 d100 global business environment
+5280:_:bus:::346:::d200:::Global Business Environment:::bus346:::bus346d200:::bus 346 d200 global business environment
+5281:_:hsci:::880:::g100:::Practicum:::hsci880:::hsci880g100:::hsci 880 g100 practicum
+5282:_:bus:::347:::d100:::Consumer Behaviour:::bus347:::bus347d100:::bus 347 d100 consumer behaviour
+5283:_:bus:::347:::d200:::Consumer Behaviour:::bus347:::bus347d200:::bus 347 d200 consumer behaviour
+5284:_:hist:::815:::g100:::Prospectus Workshop:::hist815:::hist815g100:::hist 815 g100 prospectus workshop
+5285:_:fep:::224:::d100:::FEP Formal Exchange Program - Not Included in GPA:::fep224:::fep224d100:::fep 224 d100 fep formal exchange program - not included in gpa
+5286:_:hist:::463w:::d100:::Rebellion and Revolution: Topics in the Theory and Practice of Resistance:::hist463w:::hist463wd100:::hist 463w d100 rebellion and revolution: topics in the theory and practice of resistance
+5287:_:mbb:::483:::d100:::Directed Research - Honours Thesis Defense:::mbb483:::mbb483d100:::mbb 483 d100 directed research - honours thesis defense
+5288:_:mbb:::483:::d200:::Directed Research - Honours Thesis Defense:::mbb483:::mbb483d200:::mbb 483 d200 directed research - honours thesis defense
+5289:_:mbb:::483:::d300:::Directed Research - Honours Thesis Defense:::mbb483:::mbb483d300:::mbb 483 d300 directed research - honours thesis defense
+5290:_:mbb:::483:::d400:::Directed Research - Honours Thesis Defense:::mbb483:::mbb483d400:::mbb 483 d400 directed research - honours thesis defense
+5291:_:mbb:::483:::d500:::Directed Research - Honours Thesis Defense:::mbb483:::mbb483d500:::mbb 483 d500 directed research - honours thesis defense
+5292:_:evsc:::490w:::d100:::Environmental Science Thesis:::evsc490w:::evsc490wd100:::evsc 490w d100 environmental science thesis
+5293:_:bus:::362:::d100:::Business Process Analysis:::bus362:::bus362d100:::bus 362 d100 business process analysis
+5294:_:bus:::362:::d101:::Business Process Analysis:::bus362:::bus362d101:::bus 362 d101 business process analysis
+5295:_:bus:::362:::d102:::Business Process Analysis:::bus362:::bus362d102:::bus 362 d102 business process analysis
+5296:_:bus:::362:::d103:::Business Process Analysis:::bus362:::bus362d103:::bus 362 d103 business process analysis
+5297:_:bus:::362:::d200:::Business Process Analysis:::bus362:::bus362d200:::bus 362 d200 business process analysis
+5298:_:bus:::362:::d201:::Business Process Analysis:::bus362:::bus362d201:::bus 362 d201 business process analysis
+5299:_:bus:::362:::d202:::Business Process Analysis:::bus362:::bus362d202:::bus 362 d202 business process analysis
+5300:_:bus:::362:::d203:::Business Process Analysis:::bus362:::bus362d203:::bus 362 d203 business process analysis
+5301:_:psyc:::715:::g100:::Proseminar in Measurement:::psyc715:::psyc715g100:::psyc 715 g100 proseminar in measurement
+5302:_:math:::100:::d100:::Precalculus:::math100:::math100d100:::math 100 d100 precalculus
+5303:_:math:::100:::d101:::Precalculus:::math100:::math100d101:::math 100 d101 precalculus
+5304:_:math:::100:::d102:::Precalculus:::math100:::math100d102:::math 100 d102 precalculus
+5305:_:math:::100:::d103:::Precalculus:::math100:::math100d103:::math 100 d103 precalculus
+5306:_:math:::100:::d104:::Precalculus:::math100:::math100d104:::math 100 d104 precalculus
+5307:_:math:::100:::d105:::Precalculus:::math100:::math100d105:::math 100 d105 precalculus
+5308:_:math:::100:::d106:::Precalculus:::math100:::math100d106:::math 100 d106 precalculus
+5309:_:math:::100:::d107:::Precalculus:::math100:::math100d107:::math 100 d107 precalculus
+5310:_:math:::100:::d108:::Precalculus:::math100:::math100d108:::math 100 d108 precalculus
+5311:_:math:::100:::d200:::Precalculus:::math100:::math100d200:::math 100 d200 precalculus
+5312:_:math:::100:::opo1:::Precalculus:::math100:::math100opo1:::math 100 opo1 precalculus
+5313:_:math:::100:::opo2:::Precalculus:::math100:::math100opo2:::math 100 opo2 precalculus
+5314:_:engl:::327:::c100:::Studies in Romantic Literature:::engl327:::engl327c100:::engl 327 c100 studies in romantic literature
+5315:_:bus:::618:::g400:::Indigenous Business Management:::bus618:::bus618g400:::bus 618 g400 indigenous business management
+5316:_:bus:::207:::d100:::Managerial Economics:::bus207:::bus207d100:::bus 207 d100 managerial economics
+5317:_:bus:::207:::d200:::Managerial Economics:::bus207:::bus207d200:::bus 207 d200 managerial economics
+5318:_:bus:::207:::e100:::Managerial Economics:::bus207:::bus207e100:::bus 207 e100 managerial economics
+5319:_:phys:::810:::g100:::Advanced Quantum Mechanics:::phys810:::phys810g100:::phys 810 g100 advanced quantum mechanics
+5320:_:phys:::801:::g100:::Student Seminar:::phys801:::phys801g100:::phys 801 g100 student seminar
+5321:_:phys:::801:::g200:::Student Seminar:::phys801:::phys801g200:::phys 801 g200 student seminar
+5322:_:fren:::122:::d100:::Introductory French II:::fren122:::fren122d100:::fren 122 d100 introductory french ii
+5323:_:fren:::122:::e100:::Introductory French II:::fren122:::fren122e100:::fren 122 e100 introductory french ii
+5324:_:fren:::121:::d100:::Introductory French I:::fren121:::fren121d100:::fren 121 d100 introductory french i
+5325:_:fren:::121:::d200:::Introductory French I:::fren121:::fren121d200:::fren 121 d200 introductory french i
+5326:_:fren:::120:::c900:::French for Beginners:::fren120:::fren120c900:::fren 120 c900 french for beginners
+5327:_:fren:::120:::d100:::French for Beginners:::fren120:::fren120d100:::fren 120 d100 french for beginners
+5328:_:fren:::120:::d200:::French for Beginners:::fren120:::fren120d200:::fren 120 d200 french for beginners
+5329:_:fren:::120:::d300:::French for Beginners:::fren120:::fren120d300:::fren 120 d300 french for beginners
+5330:_:fren:::120:::d400:::French for Beginners:::fren120:::fren120d400:::fren 120 d400 french for beginners
+5331:_:fren:::120:::d500:::French for Beginners:::fren120:::fren120d500:::fren 120 d500 french for beginners
+5332:_:fren:::120:::e100:::French for Beginners:::fren120:::fren120e100:::fren 120 e100 french for beginners
+5333:_:bus:::272:::d100:::Behaviour in Organizations:::bus272:::bus272d100:::bus 272 d100 behaviour in organizations
+5334:_:bus:::272:::d101:::Behaviour in Organizations:::bus272:::bus272d101:::bus 272 d101 behaviour in organizations
+5335:_:bus:::272:::d102:::Behaviour in Organizations:::bus272:::bus272d102:::bus 272 d102 behaviour in organizations
+5336:_:bus:::272:::d103:::Behaviour in Organizations:::bus272:::bus272d103:::bus 272 d103 behaviour in organizations
+5337:_:bus:::272:::d104:::Behaviour in Organizations:::bus272:::bus272d104:::bus 272 d104 behaviour in organizations
+5338:_:bus:::272:::d105:::Behaviour in Organizations:::bus272:::bus272d105:::bus 272 d105 behaviour in organizations
+5339:_:bus:::272:::d106:::Behaviour in Organizations:::bus272:::bus272d106:::bus 272 d106 behaviour in organizations
+5340:_:bus:::272:::d107:::Behaviour in Organizations:::bus272:::bus272d107:::bus 272 d107 behaviour in organizations
+5341:_:bus:::272:::d200:::Behaviour in Organizations:::bus272:::bus272d200:::bus 272 d200 behaviour in organizations
+5342:_:bus:::272:::d201:::Behaviour in Organizations:::bus272:::bus272d201:::bus 272 d201 behaviour in organizations
+5343:_:bus:::272:::d202:::Behaviour in Organizations:::bus272:::bus272d202:::bus 272 d202 behaviour in organizations
+5344:_:bus:::272:::d203:::Behaviour in Organizations:::bus272:::bus272d203:::bus 272 d203 behaviour in organizations
+5345:_:bus:::272:::d204:::Behaviour in Organizations:::bus272:::bus272d204:::bus 272 d204 behaviour in organizations
+5346:_:bus:::272:::d205:::Behaviour in Organizations:::bus272:::bus272d205:::bus 272 d205 behaviour in organizations
+5347:_:bus:::272:::d300:::Behaviour in Organizations:::bus272:::bus272d300:::bus 272 d300 behaviour in organizations
+5348:_:bus:::272:::d301:::Behaviour in Organizations:::bus272:::bus272d301:::bus 272 d301 behaviour in organizations
+5349:_:bus:::272:::d302:::Behaviour in Organizations:::bus272:::bus272d302:::bus 272 d302 behaviour in organizations
+5350:_:bus:::272:::d303:::Behaviour in Organizations:::bus272:::bus272d303:::bus 272 d303 behaviour in organizations
+5351:_:bus:::272:::d304:::Behaviour in Organizations:::bus272:::bus272d304:::bus 272 d304 behaviour in organizations
+5352:_:bus:::272:::d305:::Behaviour in Organizations:::bus272:::bus272d305:::bus 272 d305 behaviour in organizations
+5353:_:bus:::272:::d306:::Behaviour in Organizations:::bus272:::bus272d306:::bus 272 d306 behaviour in organizations
+5354:_:bus:::272:::d307:::Behaviour in Organizations:::bus272:::bus272d307:::bus 272 d307 behaviour in organizations
+5355:_:bus:::272:::e100:::Behaviour in Organizations:::bus272:::bus272e100:::bus 272 e100 behaviour in organizations
+5356:_:bus:::272:::e101:::Behaviour in Organizations:::bus272:::bus272e101:::bus 272 e101 behaviour in organizations
+5357:_:bus:::272:::e102:::Behaviour in Organizations:::bus272:::bus272e102:::bus 272 e102 behaviour in organizations
+5358:_:bus:::272:::e103:::Behaviour in Organizations:::bus272:::bus272e103:::bus 272 e103 behaviour in organizations
+5359:_:bus:::272:::e104:::Behaviour in Organizations:::bus272:::bus272e104:::bus 272 e104 behaviour in organizations
+5360:_:bus:::272:::e105:::Behaviour in Organizations:::bus272:::bus272e105:::bus 272 e105 behaviour in organizations
+5361:_:bus:::272:::e106:::Behaviour in Organizations:::bus272:::bus272e106:::bus 272 e106 behaviour in organizations
+5362:_:bus:::272:::e107:::Behaviour in Organizations:::bus272:::bus272e107:::bus 272 e107 behaviour in organizations
+5363:_:fren:::211:::d100:::Intermediate French II:::fren211:::fren211d100:::fren 211 d100 intermediate french ii
+5364:_:fren:::211:::d101:::Intermediate French II:::fren211:::fren211d101:::fren 211 d101 intermediate french ii
+5365:_:fren:::211:::d200:::Intermediate French II:::fren211:::fren211d200:::fren 211 d200 intermediate french ii
+5366:_:fren:::210:::d100:::Intermediate French I:::fren210:::fren210d100:::fren 210 d100 intermediate french i
+5367:_:fren:::210:::d200:::Intermediate French I:::fren210:::fren210d200:::fren 210 d200 intermediate french i
+5368:_:fren:::210:::d201:::Intermediate French I:::fren210:::fren210d201:::fren 210 d201 intermediate french i
+5369:_:bus:::237:::d100:::Introduction to Business Technology Management:::bus237:::bus237d100:::bus 237 d100 introduction to business technology management
+5370:_:bus:::237:::d101:::Introduction to Business Technology Management:::bus237:::bus237d101:::bus 237 d101 introduction to business technology management
+5371:_:bus:::237:::d102:::Introduction to Business Technology Management:::bus237:::bus237d102:::bus 237 d102 introduction to business technology management
+5372:_:bus:::237:::d103:::Introduction to Business Technology Management:::bus237:::bus237d103:::bus 237 d103 introduction to business technology management
+5373:_:bus:::237:::d104:::Introduction to Business Technology Management:::bus237:::bus237d104:::bus 237 d104 introduction to business technology management
+5374:_:bus:::237:::d105:::Introduction to Business Technology Management:::bus237:::bus237d105:::bus 237 d105 introduction to business technology management
+5375:_:bus:::237:::d106:::Introduction to Business Technology Management:::bus237:::bus237d106:::bus 237 d106 introduction to business technology management
+5376:_:bus:::237:::d107:::Introduction to Business Technology Management:::bus237:::bus237d107:::bus 237 d107 introduction to business technology management
+5377:_:bus:::237:::d108:::Introduction to Business Technology Management:::bus237:::bus237d108:::bus 237 d108 introduction to business technology management
+5378:_:bus:::237:::d109:::Introduction to Business Technology Management:::bus237:::bus237d109:::bus 237 d109 introduction to business technology management
+5379:_:bus:::237:::d200:::Introduction to Business Technology Management:::bus237:::bus237d200:::bus 237 d200 introduction to business technology management
+5380:_:bus:::237:::d201:::Introduction to Business Technology Management:::bus237:::bus237d201:::bus 237 d201 introduction to business technology management
+5381:_:bus:::237:::d202:::Introduction to Business Technology Management:::bus237:::bus237d202:::bus 237 d202 introduction to business technology management
+5382:_:bus:::237:::d203:::Introduction to Business Technology Management:::bus237:::bus237d203:::bus 237 d203 introduction to business technology management
+5383:_:bus:::237:::d204:::Introduction to Business Technology Management:::bus237:::bus237d204:::bus 237 d204 introduction to business technology management
+5384:_:bus:::237:::e100:::Introduction to Business Technology Management:::bus237:::bus237e100:::bus 237 e100 introduction to business technology management
+5385:_:bus:::237:::e101:::Introduction to Business Technology Management:::bus237:::bus237e101:::bus 237 e101 introduction to business technology management
+5386:_:bus:::237:::e102:::Introduction to Business Technology Management:::bus237:::bus237e102:::bus 237 e102 introduction to business technology management
+5387:_:bus:::237:::e103:::Introduction to Business Technology Management:::bus237:::bus237e103:::bus 237 e103 introduction to business technology management
+5388:_:bus:::237:::e104:::Introduction to Business Technology Management:::bus237:::bus237e104:::bus 237 e104 introduction to business technology management
+5389:_:bus:::237:::e105:::Introduction to Business Technology Management:::bus237:::bus237e105:::bus 237 e105 introduction to business technology management
+5390:_:bus:::237:::e106:::Introduction to Business Technology Management:::bus237:::bus237e106:::bus 237 e106 introduction to business technology management
+5391:_:bus:::237:::e107:::Introduction to Business Technology Management:::bus237:::bus237e107:::bus 237 e107 introduction to business technology management
+5392:_:bus:::225:::d100:::Co-op Practicum I:::bus225:::bus225d100:::bus 225 d100 co-op practicum i
+5393:_:bus:::225:::d200:::Co-op Practicum I:::bus225:::bus225d200:::bus 225 d200 co-op practicum i
+5394:_:bus:::225:::i100:::Co-op Practicum I:::bus225:::bus225i100:::bus 225 i100 co-op practicum i
+5395:_:bus:::251:::d100:::Financial Accounting I:::bus251:::bus251d100:::bus 251 d100 financial accounting i
+5396:_:bus:::251:::d101:::Financial Accounting I:::bus251:::bus251d101:::bus 251 d101 financial accounting i
+5397:_:bus:::251:::d102:::Financial Accounting I:::bus251:::bus251d102:::bus 251 d102 financial accounting i
+5398:_:bus:::251:::d103:::Financial Accounting I:::bus251:::bus251d103:::bus 251 d103 financial accounting i
+5399:_:bus:::251:::d104:::Financial Accounting I:::bus251:::bus251d104:::bus 251 d104 financial accounting i
+5400:_:bus:::251:::d105:::Financial Accounting I:::bus251:::bus251d105:::bus 251 d105 financial accounting i
+5401:_:bus:::251:::d106:::Financial Accounting I:::bus251:::bus251d106:::bus 251 d106 financial accounting i
+5402:_:bus:::251:::d107:::Financial Accounting I:::bus251:::bus251d107:::bus 251 d107 financial accounting i
+5403:_:bus:::251:::d108:::Financial Accounting I:::bus251:::bus251d108:::bus 251 d108 financial accounting i
+5404:_:bus:::251:::d200:::Financial Accounting I:::bus251:::bus251d200:::bus 251 d200 financial accounting i
+5405:_:bus:::251:::d201:::Financial Accounting I:::bus251:::bus251d201:::bus 251 d201 financial accounting i
+5406:_:bus:::251:::d202:::Financial Accounting I:::bus251:::bus251d202:::bus 251 d202 financial accounting i
+5407:_:bus:::251:::d203:::Financial Accounting I:::bus251:::bus251d203:::bus 251 d203 financial accounting i
+5408:_:bus:::251:::d204:::Financial Accounting I:::bus251:::bus251d204:::bus 251 d204 financial accounting i
+5409:_:bus:::251:::e100:::Financial Accounting I:::bus251:::bus251e100:::bus 251 e100 financial accounting i
+5410:_:bus:::251:::e101:::Financial Accounting I:::bus251:::bus251e101:::bus 251 e101 financial accounting i
+5411:_:bus:::251:::e102:::Financial Accounting I:::bus251:::bus251e102:::bus 251 e102 financial accounting i
+5412:_:bus:::251:::e103:::Financial Accounting I:::bus251:::bus251e103:::bus 251 e103 financial accounting i
+5413:_:bus:::251:::e104:::Financial Accounting I:::bus251:::bus251e104:::bus 251 e104 financial accounting i
+5414:_:bus:::251:::e105:::Financial Accounting I:::bus251:::bus251e105:::bus 251 e105 financial accounting i
+5415:_:bus:::251:::e106:::Financial Accounting I:::bus251:::bus251e106:::bus 251 e106 financial accounting i
+5416:_:bus:::251:::e107:::Financial Accounting I:::bus251:::bus251e107:::bus 251 e107 financial accounting i
+5417:_:bus:::251:::e108:::Financial Accounting I:::bus251:::bus251e108:::bus 251 e108 financial accounting i
+5418:_:bus:::254:::d100:::Managerial Accounting I:::bus254:::bus254d100:::bus 254 d100 managerial accounting i
+5419:_:bus:::254:::d101:::Managerial Accounting I:::bus254:::bus254d101:::bus 254 d101 managerial accounting i
+5420:_:bus:::254:::d102:::Managerial Accounting I:::bus254:::bus254d102:::bus 254 d102 managerial accounting i
+5421:_:bus:::254:::d103:::Managerial Accounting I:::bus254:::bus254d103:::bus 254 d103 managerial accounting i
+5422:_:bus:::254:::d104:::Managerial Accounting I:::bus254:::bus254d104:::bus 254 d104 managerial accounting i
+5423:_:bus:::254:::d105:::Managerial Accounting I:::bus254:::bus254d105:::bus 254 d105 managerial accounting i
+5424:_:bus:::254:::d106:::Managerial Accounting I:::bus254:::bus254d106:::bus 254 d106 managerial accounting i
+5425:_:bus:::254:::d107:::Managerial Accounting I:::bus254:::bus254d107:::bus 254 d107 managerial accounting i
+5426:_:bus:::254:::d200:::Managerial Accounting I:::bus254:::bus254d200:::bus 254 d200 managerial accounting i
+5427:_:bus:::254:::d201:::Managerial Accounting I:::bus254:::bus254d201:::bus 254 d201 managerial accounting i
+5428:_:bus:::254:::d202:::Managerial Accounting I:::bus254:::bus254d202:::bus 254 d202 managerial accounting i
+5429:_:bus:::254:::d203:::Managerial Accounting I:::bus254:::bus254d203:::bus 254 d203 managerial accounting i
+5430:_:bus:::254:::d204:::Managerial Accounting I:::bus254:::bus254d204:::bus 254 d204 managerial accounting i
+5431:_:bus:::254:::e100:::Managerial Accounting I:::bus254:::bus254e100:::bus 254 e100 managerial accounting i
+5432:_:bus:::254:::e101:::Managerial Accounting I:::bus254:::bus254e101:::bus 254 e101 managerial accounting i
+5433:_:bus:::254:::e102:::Managerial Accounting I:::bus254:::bus254e102:::bus 254 e102 managerial accounting i
+5434:_:bus:::254:::e103:::Managerial Accounting I:::bus254:::bus254e103:::bus 254 e103 managerial accounting i
+5435:_:bus:::254:::e104:::Managerial Accounting I:::bus254:::bus254e104:::bus 254 e104 managerial accounting i
+5436:_:bus:::254:::e105:::Managerial Accounting I:::bus254:::bus254e105:::bus 254 e105 managerial accounting i
+5437:_:bus:::254:::e106:::Managerial Accounting I:::bus254:::bus254e106:::bus 254 e106 managerial accounting i
+5438:_:econ:::392:::d100:::Public Economics: Role of Government:::econ392:::econ392d100:::econ 392 d100 public economics: role of government
+5439:_:econ:::392:::d101:::Public Economics: Role of Government:::econ392:::econ392d101:::econ 392 d101 public economics: role of government
+5440:_:econ:::392:::d102:::Public Economics: Role of Government:::econ392:::econ392d102:::econ 392 d102 public economics: role of government
+5441:_:econ:::392:::d103:::Public Economics: Role of Government:::econ392:::econ392d103:::econ 392 d103 public economics: role of government
+5442:_:econ:::392:::d104:::Public Economics: Role of Government:::econ392:::econ392d104:::econ 392 d104 public economics: role of government
+5443:_:econ:::392:::d105:::Public Economics: Role of Government:::econ392:::econ392d105:::econ 392 d105 public economics: role of government
+5444:_:econ:::392:::d106:::Public Economics: Role of Government:::econ392:::econ392d106:::econ 392 d106 public economics: role of government
+5445:_:econ:::392:::d107:::Public Economics: Role of Government:::econ392:::econ392d107:::econ 392 d107 public economics: role of government
+5446:_:econ:::392:::d108:::Public Economics: Role of Government:::econ392:::econ392d108:::econ 392 d108 public economics: role of government
+5447:_:phys:::821:::g100:::Advanced Electromagnetism I:::phys821:::phys821g100:::phys 821 g100 advanced electromagnetism i
+5448:_:engl:::205:::d100:::Restoration and Eighteenth Century Literature:::engl205:::engl205d100:::engl 205 d100 restoration and eighteenth century literature
+5449:_:engl:::205:::d101:::Restoration and Eighteenth Century Literature:::engl205:::engl205d101:::engl 205 d101 restoration and eighteenth century literature
+5450:_:engl:::205:::d102:::Restoration and Eighteenth Century Literature:::engl205:::engl205d102:::engl 205 d102 restoration and eighteenth century literature
+5451:_:engl:::205:::d103:::Restoration and Eighteenth Century Literature:::engl205:::engl205d103:::engl 205 d103 restoration and eighteenth century literature
+5452:_:engl:::205:::d104:::Restoration and Eighteenth Century Literature:::engl205:::engl205d104:::engl 205 d104 restoration and eighteenth century literature
+5453:_:engl:::205:::d105:::Restoration and Eighteenth Century Literature:::engl205:::engl205d105:::engl 205 d105 restoration and eighteenth century literature
+5454:_:engl:::205:::d106:::Restoration and Eighteenth Century Literature:::engl205:::engl205d106:::engl 205 d106 restoration and eighteenth century literature
+5455:_:engl:::205:::d107:::Restoration and Eighteenth Century Literature:::engl205:::engl205d107:::engl 205 d107 restoration and eighteenth century literature
+5456:_:psyc:::490:::d100:::Honours  Project:::psyc490:::psyc490d100:::psyc 490 d100 honours  project
+5457:_:fren:::222:::d100:::French Writing II:::fren222:::fren222d100:::fren 222 d100 french writing ii
+5458:_:als:::602:::g100:::Legal Research and Writing:::als602:::als602g100:::als 602 g100 legal research and writing
+5459:_:econ:::402:::d100:::Advanced Microeconomic Theory:::econ402:::econ402d100:::econ 402 d100 advanced microeconomic theory
+5460:_:bus:::303:::d100:::Business, Society and Ethics:::bus303:::bus303d100:::bus 303 d100 business, society and ethics
+5461:_:bus:::303:::d200:::Business, Society and Ethics:::bus303:::bus303d200:::bus 303 d200 business, society and ethics
+5462:_:bus:::303:::d300:::Business, Society and Ethics:::bus303:::bus303d300:::bus 303 d300 business, society and ethics
+5463:_:bus:::303:::d400:::Business, Society and Ethics:::bus303:::bus303d400:::bus 303 d400 business, society and ethics
+5464:_:bus:::303:::d500:::Business, Society and Ethics:::bus303:::bus303d500:::bus 303 d500 business, society and ethics
+5465:_:bus:::303:::e100:::Business, Society and Ethics:::bus303:::bus303e100:::bus 303 e100 business, society and ethics
+5466:_:bus:::315:::d100:::Investments:::bus315:::bus315d100:::bus 315 d100 investments
+5467:_:bus:::315:::e100:::Investments:::bus315:::bus315e100:::bus 315 e100 investments
+5468:_:bus:::312:::d100:::Introduction to Finance:::bus312:::bus312d100:::bus 312 d100 introduction to finance
+5469:_:bus:::312:::d200:::Introduction to Finance:::bus312:::bus312d200:::bus 312 d200 introduction to finance
+5470:_:bus:::312:::e100:::Introduction to Finance:::bus312:::bus312e100:::bus 312 e100 introduction to finance
+5471:_:hsci:::484:::d100:::Senior Seminar in Population Health Research:::hsci484:::hsci484d100:::hsci 484 d100 senior seminar in population health research
+5472:_:bus:::316:::d100:::Derivative Securities:::bus316:::bus316d100:::bus 316 d100 derivative securities
+5473:_:bus:::316:::d200:::Derivative Securities:::bus316:::bus316d200:::bus 316 d200 derivative securities
+5474:_:bus:::316:::e100:::Derivative Securities:::bus316:::bus316e100:::bus 316 e100 derivative securities
+5475:_:hsci:::485:::d100:::Senior Seminar in Mental Health and Addictions:::hsci485:::hsci485d100:::hsci 485 d100 senior seminar in mental health and addictions
+5476:_:hsci:::486:::d100:::Senior Seminar in Global Health:::hsci486:::hsci486d100:::hsci 486 d100 senior seminar in global health
+5477:_:als:::601:::g100:::Canadian Legal System:::als601:::als601g100:::als 601 g100 canadian legal system
+5478:_:engl:::214:::d100:::History and Principles of Rhetoric:::engl214:::engl214d100:::engl 214 d100 history and principles of rhetoric
+5479:_:engl:::216:::d100:::History and Principles of Literary Criticism:::engl216:::engl216d100:::engl 216 d100 history and principles of literary criticism
+5480:_:engl:::216:::d101:::History and Principles of Literary Criticism:::engl216:::engl216d101:::engl 216 d101 history and principles of literary criticism
+5481:_:fren:::221:::d100:::French Writing I:::fren221:::fren221d100:::fren 221 d100 french writing i
+5482:_:fren:::221:::f100:::French Writing I:::fren221:::fren221f100:::fren 221 f100 french writing i
+5483:_:fren:::212:::d100:::French for Immersion Program Students:::fren212:::fren212d100:::fren 212 d100 french for immersion program students
+5484:_:fren:::212:::f100:::French for Immersion Program Students:::fren212:::fren212f100:::fren 212 f100 french for immersion program students
+5485:_:fren:::215:::d100:::Intermediate French: Oral Practice:::fren215:::fren215d100:::fren 215 d100 intermediate french: oral practice
+5486:_:arch:::272w:::d100:::Archaeology of the Old World:::arch272w:::arch272wd100:::arch 272w d100 archaeology of the old world
+5487:_:arch:::272w:::d101:::Archaeology of the Old World:::arch272w:::arch272wd101:::arch 272w d101 archaeology of the old world
+5488:_:arch:::272w:::d102:::Archaeology of the Old World:::arch272w:::arch272wd102:::arch 272w d102 archaeology of the old world
+5489:_:arch:::226:::c100:::The Prehistory of Religion: Shamans, Sorcerers and Saints:::arch226:::arch226c100:::arch 226 c100 the prehistory of religion: shamans, sorcerers and saints
+5490:_:arch:::226:::d100:::The Prehistory of Religion: Shamans, Sorcerers and Saints:::arch226:::arch226d100:::arch 226 d100 the prehistory of religion: shamans, sorcerers and saints
+5491:_:arch:::226:::j100:::The Prehistory of Religion: Shamans, Sorcerers and Saints:::arch226:::arch226j100:::arch 226 j100 the prehistory of religion: shamans, sorcerers and saints
+5492:_:educ:::355:::e100:::Theatre in an Educational Context:::educ355:::educ355e100:::educ 355 e100 theatre in an educational context
+5493:_:ensc:::424:::d100:::Multimedia Communications Engineering:::ensc424:::ensc424d100:::ensc 424 d100 multimedia communications engineering
+5494:_:ensc:::424:::d101:::Multimedia Communications Engineering:::ensc424:::ensc424d101:::ensc 424 d101 multimedia communications engineering
+5495:_:ca:::406:::d100:::Internship in Contemporary Arts II:::ca406:::ca406d100:::ca 406 d100 internship in contemporary arts ii
+5496:_:ca:::406:::d200:::Internship in Contemporary Arts II:::ca406:::ca406d200:::ca 406 d200 internship in contemporary arts ii
+5497:_:cmns:::844:::g100:::Communication and Global Power Shifts:::cmns844:::cmns844g100:::cmns 844 g100 communication and global power shifts
+5498:_:bisc:::455:::d100:::Endocrinology:::bisc455:::bisc455d100:::bisc 455 d100 endocrinology
+5499:_:bisc:::455:::d101:::Endocrinology:::bisc455:::bisc455d101:::bisc 455 d101 endocrinology
+5500:_:bisc:::455:::d102:::Endocrinology:::bisc455:::bisc455d102:::bisc 455 d102 endocrinology
+5501:_:psyc:::268:::d100:::Introduction to Law and Psychology:::psyc268:::psyc268d100:::psyc 268 d100 introduction to law and psychology
+5502:_:hum:::216:::d100:::The Ancient World:::hum216:::hum216d100:::hum 216 d100 the ancient world
+5503:_:arch:::201:::c100:::Reconstructing the Human Past:::arch201:::arch201c100:::arch 201 c100 reconstructing the human past
+5504:_:arch:::201:::d100:::Reconstructing the Human Past:::arch201:::arch201d100:::arch 201 d100 reconstructing the human past
+5505:_:mbb:::351:::d100:::Practicum III:::mbb351:::mbb351d100:::mbb 351 d100 practicum iii
+5506:_:mbb:::351:::d200:::Practicum III:::mbb351:::mbb351d200:::mbb 351 d200 practicum iii
+5507:_:mbb:::351:::i100:::Practicum III:::mbb351:::mbb351i100:::mbb 351 i100 practicum iii
+5508:_:mbb:::331:::d100:::Molecular Biology:::mbb331:::mbb331d100:::mbb 331 d100 molecular biology
+5509:_:mbb:::331:::d101:::Molecular Biology:::mbb331:::mbb331d101:::mbb 331 d101 molecular biology
+5510:_:mbb:::331:::d102:::Molecular Biology:::mbb331:::mbb331d102:::mbb 331 d102 molecular biology
+5511:_:mbb:::331:::d103:::Molecular Biology:::mbb331:::mbb331d103:::mbb 331 d103 molecular biology
+5512:_:mbb:::331:::d104:::Molecular Biology:::mbb331:::mbb331d104:::mbb 331 d104 molecular biology
+5513:_:mbb:::331:::d105:::Molecular Biology:::mbb331:::mbb331d105:::mbb 331 d105 molecular biology
+5514:_:mbb:::322:::d100:::Molecular Physiology:::mbb322:::mbb322d100:::mbb 322 d100 molecular physiology
+5515:_:mbb:::322:::d101:::Molecular Physiology:::mbb322:::mbb322d101:::mbb 322 d101 molecular physiology
+5516:_:mbb:::322:::d102:::Molecular Physiology:::mbb322:::mbb322d102:::mbb 322 d102 molecular physiology
+5517:_:mbb:::322:::d103:::Molecular Physiology:::mbb322:::mbb322d103:::mbb 322 d103 molecular physiology
+5518:_:mbb:::322:::d104:::Molecular Physiology:::mbb322:::mbb322d104:::mbb 322 d104 molecular physiology
+5519:_:mbb:::322:::d105:::Molecular Physiology:::mbb322:::mbb322d105:::mbb 322 d105 molecular physiology
+5520:_:wda:::806:::g100:::Western Dean's Agreement:::wda806:::wda806g100:::wda 806 g100 western dean's agreement
+5521:_:wda:::806:::g200:::Western Dean's Agreement:::wda806:::wda806g200:::wda 806 g200 western dean's agreement
+5522:_:educ:::341:::c100:::Literacy, Education and Culture:::educ341:::educ341c100:::educ 341 c100 literacy, education and culture
+5523:_:educ:::341:::c200:::Literacy, Education and Culture:::educ341:::educ341c200:::educ 341 c200 literacy, education and culture
+5524:_:phys:::385:::d100:::Quantum Mechanics I:::phys385:::phys385d100:::phys 385 d100 quantum mechanics i
+5525:_:phys:::385:::d101:::Quantum Mechanics I:::phys385:::phys385d101:::phys 385 d101 quantum mechanics i
+5526:_:phys:::384:::d100:::Methods of Theoretical Physics I:::phys384:::phys384d100:::phys 384 d100 methods of theoretical physics i
+5527:_:phys:::384:::d101:::Methods of Theoretical Physics I:::phys384:::phys384d101:::phys 384 d101 methods of theoretical physics i
+5528:_:wda:::804:::g100:::Western Dean's Agreement:::wda804:::wda804g100:::wda 804 g100 western dean's agreement
+5529:_:wda:::804:::g200:::Western Dean's Agreement:::wda804:::wda804g200:::wda 804 g200 western dean's agreement
+5530:_:wda:::803:::g100:::Western Dean's Agreement:::wda803:::wda803g100:::wda 803 g100 western dean's agreement
+5531:_:wda:::803:::g200:::Western Dean's Agreement:::wda803:::wda803g200:::wda 803 g200 western dean's agreement
+5532:_:arch:::301:::c100:::Ancient Visual Art:::arch301:::arch301c100:::arch 301 c100 ancient visual art
+5533:_:hist:::401:::d100:::Problems in Modern German History:::hist401:::hist401d100:::hist 401 d100 problems in modern german history
+5534:_:engl:::372:::e100:::Creative Writing I: Poetry:::engl372:::engl372e100:::engl 372 e100 creative writing i: poetry
+5535:_:phys:::413:::d100:::Advanced Mechanics:::phys413:::phys413d100:::phys 413 d100 advanced mechanics
+5536:_:phys:::413:::d101:::Advanced Mechanics:::phys413:::phys413d101:::phys 413 d101 advanced mechanics
+5537:_:mbb:::423:::d100:::Protein Structure and Function:::mbb423:::mbb423d100:::mbb 423 d100 protein structure and function
+5538:_:mbb:::421:::d100:::Nucleic Acids:::mbb421:::mbb421d100:::mbb 421 d100 nucleic acids
+5539:_:educ:::358:::e100:::Foundations of Educational Technology:::educ358:::educ358e100:::educ 358 e100 foundations of educational technology
+5540:_:ca:::811:::g100:::Interdisciplinary Graduate Seminar I:::ca811:::ca811g100:::ca 811 g100 interdisciplinary graduate seminar i
+5541:_:phys:::855:::g100:::Modern Optics:::phys855:::phys855g100:::phys 855 g100 modern optics
+5542:_:ca:::813:::g100:::Interdisciplinary Graduate Studio:::ca813:::ca813g100:::ca 813 g100 interdisciplinary graduate studio
+5543:_:ling:::894:::g100:::Qualifying Paper I:::ling894:::ling894g100:::ling 894 g100 qualifying paper i
+5544:_:ca:::812:::g100:::Interdisciplinary Graduate Seminar II:::ca812:::ca812g100:::ca 812 g100 interdisciplinary graduate seminar ii
+5545:_:wda:::805:::g100:::Western Dean's Agreement:::wda805:::wda805g100:::wda 805 g100 western dean's agreement
+5546:_:wda:::805:::g200:::Western Dean's Agreement:::wda805:::wda805g200:::wda 805 g200 western dean's agreement
+5547:_:phys:::455:::d100:::Modern Optics:::phys455:::phys455d100:::phys 455 d100 modern optics
+5548:_:phys:::455:::d101:::Modern Optics:::phys455:::phys455d101:::phys 455 d101 modern optics
+5549:_:econ:::302:::d100:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d100:::econ 302 d100 microeconomic theory ii: strategic behavior
+5550:_:econ:::302:::d101:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d101:::econ 302 d101 microeconomic theory ii: strategic behavior
+5551:_:econ:::302:::d102:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d102:::econ 302 d102 microeconomic theory ii: strategic behavior
+5552:_:econ:::302:::d103:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d103:::econ 302 d103 microeconomic theory ii: strategic behavior
+5553:_:econ:::302:::d104:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d104:::econ 302 d104 microeconomic theory ii: strategic behavior
+5554:_:econ:::302:::d105:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d105:::econ 302 d105 microeconomic theory ii: strategic behavior
+5555:_:econ:::302:::d106:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d106:::econ 302 d106 microeconomic theory ii: strategic behavior
+5556:_:econ:::302:::d200:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d200:::econ 302 d200 microeconomic theory ii: strategic behavior
+5557:_:econ:::302:::d201:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d201:::econ 302 d201 microeconomic theory ii: strategic behavior
+5558:_:econ:::302:::d202:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d202:::econ 302 d202 microeconomic theory ii: strategic behavior
+5559:_:econ:::302:::d203:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d203:::econ 302 d203 microeconomic theory ii: strategic behavior
+5560:_:econ:::302:::d204:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d204:::econ 302 d204 microeconomic theory ii: strategic behavior
+5561:_:econ:::302:::d205:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d205:::econ 302 d205 microeconomic theory ii: strategic behavior
+5562:_:econ:::302:::d206:::Microeconomic Theory II: Strategic Behavior:::econ302:::econ302d206:::econ 302 d206 microeconomic theory ii: strategic behavior
+5563:_:phys:::437:::d100:::Practicum V:::phys437:::phys437d100:::phys 437 d100 practicum v
+5564:_:phys:::437:::d200:::Practicum V:::phys437:::phys437d200:::phys 437 d200 practicum v
+5565:_:phys:::437:::i100:::Practicum V:::phys437:::phys437i100:::phys 437 i100 practicum v
+5566:_:phys:::436:::d100:::Practicum IV:::phys436:::phys436d100:::phys 436 d100 practicum iv
+5567:_:phys:::436:::d200:::Practicum IV:::phys436:::phys436d200:::phys 436 d200 practicum iv
+5568:_:phys:::436:::i100:::Practicum IV:::phys436:::phys436i100:::phys 436 i100 practicum iv
+5569:_:phys:::435:::d100:::Practicum III:::phys435:::phys435d100:::phys 435 d100 practicum iii
+5570:_:phys:::435:::d200:::Practicum III:::phys435:::phys435d200:::phys 435 d200 practicum iii
+5571:_:phys:::435:::i100:::Practicum III:::phys435:::phys435i100:::phys 435 i100 practicum iii
+5572:_:phys:::432:::d100:::Undergraduate Honours Thesis:::phys432:::phys432d100:::phys 432 d100 undergraduate honours thesis
+5573:_:ca:::135:::e100:::Introduction to Cinema:::ca135:::ca135e100:::ca 135 e100 introduction to cinema
+5574:_:phys:::431:::la01:::Advanced Physics Laboratory II:::phys431:::phys431la01:::phys 431 la01 advanced physics laboratory ii
+5575:_:psyc:::450:::d100:::Advanced Topics in Developmental Psychology:::psyc450:::psyc450d100:::psyc 450 d100 advanced topics in developmental psychology
+5576:_:ca:::889:::g100:::Directed Study in Fine and Performing Arts:::ca889:::ca889g100:::ca 889 g100 directed study in fine and performing arts
+5577:_:ca:::889:::g200:::Directed Study in Fine and Performing Arts:::ca889:::ca889g200:::ca 889 g200 directed study in fine and performing arts
+5578:_:ca:::898:::g100:::Master of Fine Arts Graduating Project:::ca898:::ca898g100:::ca 898 g100 master of fine arts graduating project
+5579:_:cmns:::851:::g100:::Directed Studies:::cmns851:::cmns851g100:::cmns 851 g100 directed studies
+5580:_:cmns:::851:::g200:::Directed Studies:::cmns851:::cmns851g200:::cmns 851 g200 directed studies
+5581:_:cmns:::851:::g300:::Directed Studies:::cmns851:::cmns851g300:::cmns 851 g300 directed studies
+5582:_:cmns:::851:::g400:::Directed Studies:::cmns851:::cmns851g400:::cmns 851 g400 directed studies
+5583:_:cmns:::851:::g500:::Directed Studies:::cmns851:::cmns851g500:::cmns 851 g500 directed studies
+5584:_:bus:::985:::g100:::Directed Studies III:::bus985:::bus985g100:::bus 985 g100 directed studies iii
+5585:_:cmns:::850:::g100:::Directed Readings and Research:::cmns850:::cmns850g100:::cmns 850 g100 directed readings and research
+5586:_:cmns:::850:::g200:::Directed Readings and Research:::cmns850:::cmns850g200:::cmns 850 g200 directed readings and research
+5587:_:cmns:::850:::g300:::Directed Readings and Research:::cmns850:::cmns850g300:::cmns 850 g300 directed readings and research
+5588:_:cmns:::850:::g400:::Directed Readings and Research:::cmns850:::cmns850g400:::cmns 850 g400 directed readings and research
+5589:_:cmns:::850:::g500:::Directed Readings and Research:::cmns850:::cmns850g500:::cmns 850 g500 directed readings and research
+5590:_:phys:::465:::d100:::Solid State Physics:::phys465:::phys465d100:::phys 465 d100 solid state physics
+5591:_:phys:::465:::d101:::Solid State Physics:::phys465:::phys465d101:::phys 465 d101 solid state physics
+5592:_:ensc:::440:::d100:::Capstone B: Engineering Design Project:::ensc440:::ensc440d100:::ensc 440 d100 capstone b: engineering design project
